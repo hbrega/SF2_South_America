@@ -1,0 +1,228 @@
+	Pit (32 polys, 96 verts) 'mat3'
+		NoseInside (148 polys, 444 verts) 'mat4'
+			FrontFrame01 (50 polys, 150 verts) 'mat4'
+				Plane01 (28 polys, 84 verts) 'mat4'
+					Tube01 (120 polys, 360 verts) 'mat4'
+						Plane02 (212 polys, 636 verts) 'mat4'
+						WindShield (50 polys, 150 verts) 'reflection'
+				CanopyLever (180 polys, 540 verts) 'mat2'
+				Plane03 (44 polys, 132 verts) 'mat2'
+				LandingCheck (8 polys, 24 verts) 'mat2'
+			CanopyMain (152 polys, 456 verts) 'mat4'
+				Tube02 (180 polys, 540 verts) 'mat4'
+				GlassMain (308 polys, 924 verts) 'reflection'
+		Seat (92 polys, 276 verts) 'mat3'
+			FootrestR (4 polys, 12 verts) 'mat3'
+			FootrestL (4 polys, 12 verts) 'mat3'
+		Dash (56 polys, 168 verts) 'mat3'
+			GunSightbase (87 polys, 261 verts) 'mat2'
+				GunsightDial (40 polys, 120 verts) 'mat2'
+				HUD (36 polys, 108 verts) 'HUD'
+				GunSightPad (116 polys, 348 verts) 'mat2'
+				GunsightDial (209 polys, 627 verts) 'mat2'
+				GunsightSupport (115 polys, 345 verts) 'mat2'
+					Bolt01 (20 polys, 60 verts) 'mat2'
+					Bolt02 (20 polys, 60 verts) 'mat2'
+					Bolt03 (20 polys, 60 verts) 'mat2'
+			Screw (60 polys, 180 verts) 'mat2'
+			GunSafeBox (16 polys, 48 verts) 'mat2'
+				SafeGuard (44 polys, 132 verts) 'mat2'
+				SafeGuard01 (44 polys, 132 verts) 'mat2'
+				SwitchSM (100 polys, 300 verts) 'mat2'
+				SwitchM (100 polys, 300 verts) 'mat2'
+				SwitchSM05 (100 polys, 300 verts) 'mat2'
+			CompassBox (6 polys, 18 verts) 'pedal'
+				compass (76 polys, 228 verts) 'num neri'
+				Object01 (10 polys, 30 verts) 'mat2'
+			DashOver (156 polys, 468 verts) 'mat2'
+				OILPress (2 polys, 6 verts) 'GAUGE'
+					PSIoilNeedle (4 polys, 12 verts) 'gauge'
+					PSIFuelNeedle (4 polys, 12 verts) 'gauge'
+				RPM (2 polys, 6 verts) 'GAUGE'
+					RPMNeedle (4 polys, 12 verts) 'gauge'
+					RPMNeedlesm (4 polys, 12 verts) 'gauge'
+				EXHT (2 polys, 6 verts) 'GAUGE'
+					EXHTNeedle (4 polys, 12 verts) 'gauge'
+				RADIOALTI (2 polys, 6 verts) 'GAUGE'
+					RADIOALTINeedle (4 polys, 12 verts) 'gauge'
+				IAS (2 polys, 6 verts) 'GAUGE'
+					IASNeedle (4 polys, 12 verts) 'gauge'
+				ALTI (2 polys, 6 verts) 'GAUGE'
+					Alti1000 (4 polys, 12 verts) 'gauge'
+					ALTI100 (4 polys, 12 verts) 'gauge'
+				GYRO (2 polys, 6 verts) 'GAUGE'
+				COMP (2 polys, 6 verts) 'GAUGE'
+					COMPWheel (30 polys, 90 verts) 'Material #1'
+				ROC (2 polys, 6 verts) 'GAUGE'
+					ROCNeedle (4 polys, 12 verts) 'gauge'
+				TURNSLIP (2 polys, 6 verts) 'GAUGE'
+					SlipNeedle (4 polys, 12 verts) 'gauge'
+				FUELQty (2 polys, 6 verts) 'GAUGE'
+					FUELNeedle (4 polys, 12 verts) 'gauge'
+				BEACON (2 polys, 6 verts) 'GAUGE'
+					BEACONNeedle (10 polys, 30 verts) 'gauge'
+				CLOCK (2 polys, 6 verts) 'GAUGE'
+					HRSNeedle (4 polys, 12 verts) 'gauge'
+					MINNeedle (4 polys, 12 verts) 'gauge'
+					SECNeedle (4 polys, 12 verts) 'gauge'
+				ACC (2 polys, 6 verts) 'GAUGE'
+					ACCNeedle (4 polys, 12 verts) 'gauge'
+				Screw01 (60 polys, 180 verts) 'mat2'
+				Screw04 (60 polys, 180 verts) 'mat2'
+				Screw02 (60 polys, 180 verts) 'mat2'
+				Screw03 (60 polys, 180 verts) 'mat2'
+				LIGHT-temp (16 polys, 48 verts) 'lights'
+				Cylinder11 (48 polys, 144 verts) 'mat2'
+				Cylinder12 (48 polys, 144 verts) 'mat2'
+				Cylinder13 (48 polys, 144 verts) 'mat2'
+				Cylinder18 (48 polys, 144 verts) 'mat2'
+				dashknob (124 polys, 372 verts) 'mat2'
+				dashknob01 (124 polys, 372 verts) 'mat2'
+				dashknob02 (124 polys, 372 verts) 'mat2'
+				dashknob03 (124 polys, 372 verts) 'mat2'
+				dashknob04 (124 polys, 372 verts) 'mat2'
+				dashknob05 (124 polys, 372 verts) 'mat2'
+				dashknob06 (124 polys, 372 verts) 'mat2'
+				dashknob07 (124 polys, 372 verts) 'mat2'
+				dashknob08 (124 polys, 372 verts) 'mat2'
+				dashknob09 (124 polys, 372 verts) 'mat2'
+				dashknob10 (124 polys, 372 verts) 'mat2'
+				dashknob11 (124 polys, 372 verts) 'mat2'
+				dashknob12 (124 polys, 372 verts) 'mat2'
+				Cylinder19 (68 polys, 204 verts) 'mat2'
+				Cylinder20 (68 polys, 204 verts) 'mat2'
+				Cylinder21 (68 polys, 204 verts) 'mat2'
+				Cylinder22 (68 polys, 204 verts) 'mat2'
+				Cylinder23 (68 polys, 204 verts) 'mat2'
+			ATT_ball (1224 polys, 3672 verts) '10 - Default'
+			EmergencyLever (256 polys, 768 verts) 'mat2'
+			LIGHT-geartrans (16 polys, 48 verts) 'lights'
+			LIGHT-fire (16 polys, 48 verts) 'lights'
+			LIGHT-bingo (16 polys, 48 verts) 'lights'
+			Cylinder14 (48 polys, 144 verts) 'mat2'
+			Cylinder15 (48 polys, 144 verts) 'mat2'
+			Cylinder16 (48 polys, 144 verts) 'mat2'
+			CompassBox01 (6 polys, 18 verts) 'mat2'
+		ConsoleLeft (52 polys, 156 verts) 'mat1'
+			GearLever (256 polys, 768 verts) 'mat2'
+			Box01 (6 polys, 18 verts) 'mat1'
+				SwitchSM02 (100 polys, 300 verts) 'mat2'
+			Cylinder01 (86 polys, 258 verts) 'mat1'
+				Throttle (12 polys, 36 verts) 'mat2'
+					ThrottleHandle (104 polys, 312 verts) 'mat2'
+						ThrottleButton (40 polys, 120 verts) 'mat2'
+			GearEmergency (200 polys, 600 verts) 'mat2'
+			AFCS1 (102 polys, 306 verts) 'mat1'
+			Flap (104 polys, 312 verts) 'mat1'
+			RudderTrim (46 polys, 138 verts) 'mat1'
+			SpeedBrakes (36 polys, 108 verts) 'mat1'
+			Cylinder02 (92 polys, 276 verts) 'mat1'
+			PedalL (42 polys, 126 verts) 'pedal'
+				Cylinder04 (40 polys, 120 verts) 'mat2'
+				Cylinder05 (40 polys, 120 verts) 'mat2'
+					Cylinder06 (40 polys, 120 verts) 'mat2'
+				Cylinder03 (40 polys, 120 verts) 'mat2'
+				Torus01 (120 polys, 360 verts) 'mat1'
+			GEARFLAPS (2 polys, 6 verts) 'GAUGE'
+				FlapNeedle (1 polys, 3 verts) '07 - Default'
+			BrakeEmergency (200 polys, 600 verts) 'mat2'
+			AFCS02 (102 polys, 306 verts) 'mat1'
+			AileronTrim01 (46 polys, 138 verts) 'mat1'
+			SafeGuard02 (44 polys, 132 verts) 'mat2'
+			SafeGuard03 (44 polys, 132 verts) 'mat2'
+			Trimtab (120 polys, 360 verts) 'mat2'
+			LIGHT-geardown (6 polys, 18 verts) 'lights'
+			PedalR (42 polys, 126 verts) 'pedal'
+				Cylinder07 (40 polys, 120 verts) 'mat2'
+					Cylinder08 (40 polys, 120 verts) 'mat2'
+				Torus02 (120 polys, 360 verts) 'mat1'
+				Cylinder09 (40 polys, 120 verts) 'mat2'
+				Cylinder10 (40 polys, 120 verts) 'mat2'
+		ConsoleRight (61 polys, 183 verts) 'mat1'
+			WingFold (104 polys, 312 verts) 'mat1'
+			WingFold01 (104 polys, 312 verts) 'mat1'
+			Hook (264 polys, 792 verts) 'mat2'
+			CABINALTI (2 polys, 6 verts) 'GAUGE'
+				CabinALTI100 (4 polys, 12 verts) 'gauge'
+				Cylinder17 (48 polys, 144 verts) 'mat2'
+				CabinAlti1000 (4 polys, 12 verts) 'gauge'
+			AFCS03 (102 polys, 306 verts) 'mat1'
+			AFCS04 (102 polys, 306 verts) 'mat1'
+			AFCS05 (102 polys, 306 verts) 'mat1'
+			AFCS06 (102 polys, 306 verts) 'mat1'
+			SafeGuard07 (44 polys, 132 verts) 'mat2'
+			SafeGuard06 (44 polys, 132 verts) 'mat2'
+			SafeGuard04 (44 polys, 132 verts) 'mat2'
+			SafeGuard05 (44 polys, 132 verts) 'mat2'
+			SwitchSM04 (100 polys, 300 verts) 'mat2'
+			SwitchSM03 (100 polys, 300 verts) 'mat2'
+			AFCS07 (102 polys, 306 verts) 'mat1'
+			AFCS08 (102 polys, 306 verts) 'mat1'
+			AFCS09 (102 polys, 306 verts) 'mat1'
+			AFCS10 (102 polys, 306 verts) 'mat1'
+			AFCS11 (102 polys, 306 verts) 'mat1'
+			WingFold02 (104 polys, 312 verts) 'mat1'
+			LIGHT-hook (16 polys, 48 verts) 'lights'
+			Pic (2 polys, 6 verts) '21 - Default'
+		StickRoll (12 polys, 36 verts) '07 - Default'
+			StickColumn (140 polys, 420 verts) 'mat3'
+				StickGrip (312 polys, 936 verts) 'mat2'
+					StickBtn1 (36 polys, 108 verts) 'mat2'
+					StickBtn2 (48 polys, 144 verts) 'mat2'
+
+
+Num Nodes: 171
+Total:    (12253 polys, 36759 verts)
+Mesh Max: (1224 polys, 3672 verts)
+
+15 Materials:
+ (  1) mat3:
+       f9f-3.bmp
+ (  2) mat4:
+       f9f-4.bmp
+ (  3) reflection:
+       Transparency enabled
+       canopy-reflection.tga
+ (  4) mat2:
+       f9f-2.bmp
+ (  5) HUD:
+       Transparency enabled
+       F9_hudglass.tga
+ (  6) pedal:
+       Transparency enabled
+       pedal.tga
+ (  7) num neri:
+       num_k.bmp
+ (  8) GAUGE:
+       Transparency enabled
+       gauges.tga
+ (  9) gauge:
+       <No Texture>
+ ( 10) Material #1:
+       compass.bmp
+ ( 11) lights:
+       Self-illumination enabled
+       lights.bmp
+ ( 12) 10 - Default:
+       ATT_BALL.BMP
+ ( 13) mat1:
+       F9F-1.bmp
+ ( 14) 07 - Default:
+       <No Texture>
+ ( 15) 21 - Default:
+       LB.tga
+
+13 Textures:
+f9f-3.bmp
+f9f-4.bmp
+canopy-reflection.tga
+f9f-2.bmp
+F9_hudglass.tga
+pedal.tga
+num_k.bmp
+gauges.tga
+compass.bmp
+lights.bmp
+ATT_BALL.BMP
+F9F-1.bmp
+LB.tga
