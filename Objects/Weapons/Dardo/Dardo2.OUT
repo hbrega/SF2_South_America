@@ -1,0 +1,15 @@
+	objdefault (1032 polys, 3096 verts) '01 - Default'
+		Object02 (80 polys, 240 verts) '01 - Default'
+		Object01 (80 polys, 240 verts) '01 - Default'
+
+
+Num Nodes: 3
+Total:    (1192 polys, 3576 verts)
+Mesh Max: (1032 polys, 3096 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       dardo2.bmp
+
+1 Textures:
+dardo2.bmp
