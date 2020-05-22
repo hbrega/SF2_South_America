@@ -1,0 +1,269 @@
+	objdefault01 [5534 polys, 7050 verts] 'Material_2'
+		ADIBall [252 polys, 152 verts] 'Material_3'
+		Cylinder02 [16 polys, 18 verts] 'Material_4'
+		Horizon [2 polys, 4 verts] 'Standard_120'
+		Horizon01 [2 polys, 4 verts] 'Standard_11'
+		Plane01 [2 polys, 4 verts] 'Material_3'
+		AltNeedleLarge [12 polys, 24 verts] 'Material_3'
+		AltNeedleSmall [12 polys, 24 verts] 'Material_3'
+		hyd_needle02 [12 polys, 24 verts] 'Material_3'
+		hyd_needle01 [12 polys, 24 verts] 'Material_3'
+		VSI [22 polys, 21 verts] 'Material_3'
+		VSINeedle [88 polys, 106 verts] 'Material_6'
+		HSI_Screen [2 polys, 4 verts] 'Material_3'
+		PHI_Bearing [12 polys, 24 verts] 'Material_3'
+		FuelNeedle [88 polys, 106 verts] 'Material_6'
+		needle_oilpress1 [12 polys, 24 verts] 'Material_3'
+		needle_oilpress2 [12 polys, 24 verts] 'Material_3'
+		Luces [4 polys, 8 verts] 'Material_3'
+		Luces2 [6 polys, 12 verts] 'Material_3'
+		hsi range dig3 [2 polys, 4 verts] 'Material_7'
+		hsi range dig2 [2 polys, 4 verts] 'Material_7'
+		hsi range dig1 [2 polys, 4 verts] 'Material_7'
+		PHI [2 polys, 4 verts] 'Standard_20'
+		hsi bearing dig3 [2 polys, 4 verts] 'Material_7'
+		hsi bearing dig2 [2 polys, 4 verts] 'Material_7'
+		hsi bearing dig1 [2 polys, 4 verts] 'Material_7'
+		master_caution_light [2 polys, 4 verts] 'Material_3'
+		engine fire light [2 polys, 4 verts] 'Material_3'
+		VVI_Scale [2 polys, 4 verts] 'Material_9'
+		VVI_Needle [12 polys, 24 verts] 'Material_3'
+		Aguja_RRPM [88 polys, 106 verts] 'Material_6'
+		Map [2 polys, 4 verts] 'Material_17'
+		mach_case [128 polys, 192 verts] 'Material_2'
+		machmeter_dial [22 polys, 21 verts] 'Material_3'
+		needle_speed [12 polys, 24 verts] 'Material_3'
+		mach_wheel_cover [16 polys, 18 verts] 'Material_3'
+		machmeter_dial2 [22 polys, 21 verts] 'Material_3'
+		HUDGlass [56 polys, 112 verts] 'Material_11'
+		objdefault08 [8 polys, 10 verts] 'Material_1'
+		StickBase [36 polys, 54 verts] 'Material_13'
+		SideStickBase [960 polys, 559 verts] 'Material__1'
+		SideStick [1352 polys, 1338 verts] 'Material_13'
+		WheelBrakeLight [2 polys, 4 verts] 'Material_3'
+		UCLight [20 polys, 28 verts] 'Material_3'
+		RudderLight [2 polys, 4 verts] 'Material_3'
+		Aguja_LRPM [88 polys, 106 verts] 'Material_6'
+		compass_upper_dial [224 polys, 123 verts] 'Material_3'
+		objdefault15 [398 polys, 602 verts] 'Material_3'
+		clock_sec [20 polys, 32 verts] 'Material_3'
+		clock_min [20 polys, 32 verts] 'Material_3'
+		clock_hour [20 polys, 32 verts] 'Material_3'
+		TV [2 polys, 4 verts] 'Material_16'
+		alt_dig1 [36 polys, 60 verts] 'Material_9'
+		alt_dig2 [36 polys, 60 verts] 'Material_9'
+		alt_dig3 [36 polys, 60 verts] 'Material_9'
+		default [36 polys, 60 verts] 'Material_9'
+		cowling_cowling_Material_1 [132 polys, 118 verts] 'Standard_23'
+			frame_forward_frame_forward_Material_4 [212 polys, 236 verts] 'Standard_180'
+			tub_tub_Material_15 [92 polys, 107 verts] 'Standard_220'
+			instrument_panel_base_instrument_panel_base_Material_15 [2 polys, 4 verts] 'Standard_220'
+			pedal_L_pedal_L_Material_3 [20 polys, 19 verts] 'Standard_13'
+			frame_rear_R_frame_rear_R_Material_4 [15 polys, 15 verts] 'Standard_8'
+			canopy_frame_rear_base_canopy_frame_rear_base_Material_1 [96 polys, 103 verts] 'Standard_8'
+			frame_rear_L_frame_rear_L_Material_4 [15 polys, 15 verts] 'Standard_8'
+			stick_base_stick_base_Material_16 [2 polys, 4 verts] 'Material_16'
+			pedal_R_pedal_R_Material_3 [20 polys, 19 verts] 'Standard_13'
+			screws_screws_Material_4 [870 polys, 1015 verts] 'Standard_300'
+			Rectangle43_Rectangle43_Material_1 [23 polys, 23 verts] 'Standard_8'
+				objdefault12_001 [44 polys, 72 verts] 'Material_1_002'
+				Object08_001 [92 polys, 188 verts] 'Material_1_002'
+			canopy_glass_rear_canopy_glass_rear_Material_9 [290 polys, 204 verts] 'Standard_15'
+			frame_arc_rear_frame_arc_rear_Material_4 [206 polys, 226 verts] 'Material_4'
+			cockpit_P_cockpit_P_Material_0 [119 polys, 81 verts] 'Standard_220'
+			side_panels_side_panels_Material_2 [38 polys, 56 verts] 'Standard_19'
+			instrument_panel_instrument_panel_Material_01 [331 polys, 307 verts] 'Standard_14'
+				frame_arc_frame_arc_Material_4_000_frame_arc_frame_arc_Material [436 polys, 338 verts] 'Standard_2_001'
+					mirror_frames_mirror_frames_Material_11 [28 polys, 30 verts] 'Material_11'
+						Mirror1 [28 polys, 30 verts] 'Material_14'
+					Object01 [28 polys, 30 verts] 'Material_11'
+						Mirror2 [28 polys, 30 verts] 'Material_14'
+					default04 [120 polys, 300 verts] 'Standard_170'
+					default10 [201 polys, 229 verts] 'Standard_230'
+				Plane02 [2 polys, 4 verts] 'Standard_13'
+				Hidraulico [2 polys, 4 verts] 'Standard_40'
+				ITT [2 polys, 4 verts] 'Standard_1'
+					Temp dig5 [2 polys, 4 verts] 'Standard_9'
+					Temp dig4 [2 polys, 4 verts] 'Standard_9'
+					Temp dig3 [2 polys, 4 verts] 'Standard_9'
+					Temp dig2 [2 polys, 4 verts] 'Standard_9'
+					Temp dig1 [2 polys, 4 verts] 'Standard_9'
+				RPM [2 polys, 4 verts] 'Standard_700'
+				N2_1 [2 polys, 4 verts] 'Standard_16'
+					LRPM dig3 [2 polys, 4 verts] 'Standard_9'
+					LRPM dig2 [2 polys, 4 verts] 'Standard_9'
+					LRPM dig1 [2 polys, 4 verts] 'Standard_9'
+					default02 [70 polys, 74 verts] 'Standard_170'
+					default06 [70 polys, 74 verts] 'Standard_170'
+					default07 [70 polys, 74 verts] 'Standard_170'
+						RPMNeedle [88 polys, 106 verts] 'Material_6'
+						temp_needle [88 polys, 106 verts] 'Material_6'
+					default08 [70 polys, 74 verts] 'Standard_170'
+					default09 [70 polys, 74 verts] 'Standard_170'
+				N2_2 [2 polys, 4 verts] 'Standard_16'
+					RRPM dig3 [2 polys, 4 verts] 'Standard_9'
+					RRPM dig2 [2 polys, 4 verts] 'Standard_9'
+					RRPM dig1 [2 polys, 4 verts] 'Standard_9'
+				Fuel [2 polys, 4 verts] 'Standard_22'
+				Plane03 [2 polys, 4 verts] 'Standard_5'
+					Lights [830 polys, 610 verts] 'Standard_230'
+					Fuel_fuse [118 polys, 72 verts] 'Standard_24'
+				master_arm [2 polys, 4 verts] 'Standard_7'
+				Gears [2 polys, 4 verts] 'Standard_2'
+				Gauge [104 polys, 86 verts] 'Standard_160'
+				Fuel_tk [236 polys, 144 verts] 'Standard_24'
+				Fuel_wings [236 polys, 144 verts] 'Standard_24'
+				default11 [166 polys, 162 verts] 'Standard_160'
+			objdefault05_001 [946 polys, 2162 verts] 'Material_1_002'
+			Object02 [17 polys, 19 verts] 'Standard_8'
+		total fuel dig3 [2 polys, 4 verts] 'Standard_9'
+		total fuel dig2 [2 polys, 4 verts] 'Standard_9'
+		total fuel dig1 [2 polys, 4 verts] 'Standard_9'
+		total fuel dig4 [2 polys, 4 verts] 'Standard_9'
+		background [2 polys, 4 verts] 'Standard_4'
+	default05 [62 polys, 110 verts] 'Standard_23'
+	default03 [62 polys, 110 verts] 'Standard_23'
+	default01 [31 polys, 55 verts] 'Standard_23'
+
+
+Num Nodes: 126
+Total:    (16650 polys, 19546 verts)
+Mesh Max: (5534 polys, 7050 verts)
+
+41 Materials:
+ (  1) Material_2:
+       computadora.bmp
+ (  2) Material_3:
+       instrumentos.bmp
+ (  3) Material_4:
+       Transparency enabled
+       pitch.tga
+ (  4) Standard_120:
+       Instrumentos.bmp
+ (  5) Standard_11:
+       Transparency enabled
+       horizonte01.tga
+ (  6) Material_6:
+       <No Texture>
+ (  7) Material_7:
+       Transparency enabled
+       typhoon green digits.tga
+ (  8) Standard_20:
+       Transparency enabled
+       HSI.tga
+ (  9) Material_9:
+       F-16C_ADI.jpg
+ ( 10) Material_17:
+       Map.bmp
+ ( 11) Material_11:
+       Transparency enabled
+       F-16C_Reflection1.tga
+ ( 12) Material_1:
+       MainPanel.bmp
+ ( 13) Material_13:
+       Stick.bmp
+ ( 14) Material__1:
+       <No Texture>
+ ( 15) Material_16:
+       TV.bmp
+ ( 16) Standard_23:
+       cubierta.bmp
+ ( 17) Standard_180:
+       NESHER_CP_3.BMP
+ ( 18) Standard_220:
+       NESHER_FLOOR.BMP
+ ( 19) Standard_13:
+       Transparency enabled
+       PAMPA_OIL.tga
+ ( 20) Standard_8:
+       NESHER_CP_4.BMP
+ ( 21) Standard_300:
+       NESHER_CP_3.BMP
+ ( 22) Material_1_002:
+       MainPanel.bmp
+ ( 23) Standard_15:
+       Transparency enabled
+       NESHER_REFLEC1.TGA
+ ( 24) Standard_19:
+       <No Texture>
+ ( 25) Standard_14:
+       NESHER_CP_2.BMP
+ ( 26) Standard_2_001:
+       NESHER_CP_3.BMP
+ ( 27) Material_14:
+       Mirror.bmp
+ ( 28) Standard_170:
+       cubierta.bmp
+ ( 29) Standard_230:
+       cubierta.bmp
+ ( 30) Standard_40:
+       Transparency enabled
+       PAMPA_HPZ.tga
+ ( 31) Standard_1:
+       Transparency enabled
+       PAMPA_ITT.tga
+ ( 32) Standard_9:
+       typhoon green digits.tga
+ ( 33) Standard_700:
+       Transparency enabled
+       PAMPA_RPM.tga
+ ( 34) Standard_16:
+       Transparency enabled
+       PAMPA_N2.tga
+ ( 35) Standard_22:
+       Transparency enabled
+       PAMPA_FUEL.tga
+ ( 36) Standard_5:
+       Transparency enabled
+       PAMPA_BOMB.tga
+ ( 37) Standard_24:
+       Transparency enabled
+       NESHER_LIGHTS.TGA
+ ( 38) Standard_7:
+       Transparency enabled
+       PAMPA_ARM.tga
+ ( 39) Standard_2:
+       Transparency enabled
+       PAMPA_GEARS.tga
+ ( 40) Standard_160:
+       Transparency enabled
+       PAMPA_GAUGE1.tga
+ ( 41) Standard_4:
+       <No Texture>
+
+31 Textures:
+computadora.bmp
+instrumentos.bmp
+pitch.tga
+Instrumentos.bmp
+horizonte01.tga
+typhoon green digits.tga
+HSI.tga
+F-16C_ADI.jpg
+Map.bmp
+F-16C_Reflection1.tga
+MainPanel.bmp
+Stick.bmp
+TV.bmp
+cubierta.bmp
+NESHER_CP_3.BMP
+NESHER_FLOOR.BMP
+PAMPA_OIL.tga
+NESHER_CP_4.BMP
+NESHER_REFLEC1.TGA
+NESHER_CP_2.BMP
+Mirror.bmp
+PAMPA_HPZ.tga
+PAMPA_ITT.tga
+PAMPA_RPM.tga
+PAMPA_N2.tga
+PAMPA_FUEL.tga
+PAMPA_BOMB.tga
+NESHER_LIGHTS.TGA
+PAMPA_ARM.tga
+PAMPA_GEARS.tga
+PAMPA_GAUGE1.tga
+
+Points
+
+Extents

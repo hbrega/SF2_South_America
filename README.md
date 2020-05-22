@@ -1,6 +1,6 @@
 # SF2_South_America
 
-F-16 Block 30
+F-16 Block 30 FAA
 
 Lear Jet
 
@@ -21,3 +21,5 @@ Puma SA-330
 UH-1H Huey
 
 IA-58h Pucara Fenix
+
+IA-63 Pampa II

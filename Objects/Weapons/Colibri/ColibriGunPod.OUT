@@ -1,0 +1,19 @@
+	default [2512 polys, 7536 verts (decal)] '02 - Default'
+
+
+Num Nodes: 1
+Total:    (2512 polys, 7536 verts)
+Mesh Max: (2512 polys, 7536 verts)
+
+1 Materials:
+ (  1) 02 - Default:
+       colibri.bmp
+
+1 Textures:
+colibri.bmp
+
+Points
+Muzzle=0.00,1.19,-0.15
+eject=0.00,0.42,-0.55
+
+Extents
