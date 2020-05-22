@@ -1,0 +1,452 @@
+	Box02 [12 polys, 36 verts (decal)] 'transparente'
+		Group1 [202 polys, 606 verts (decal)] 'Material #431'
+		Gear_L [32 polys, 96 verts (decal)] 'mat35', AnimationID: 2 
+			Mesh21 [14 polys, 42 verts (decal)] 'mat34'
+			Mesh22 [6 polys, 18 verts (decal)] 'mat34'
+			Mesh23 [6 polys, 18 verts (decal)] 'mat34'
+			Mesh24 [8 polys, 24 verts (decal)] 'mat34'
+			BR_LOD_101 [14 polys, 42 verts (decal)] 'mat34'
+			Mesh39 [24 polys, 72 verts (decal)] 'Material #398'
+			Mesh28 [2 polys, 6 verts (decal)] 'mat35'
+			Mesh29 [2 polys, 6 verts (decal)] 'mat35'
+			BM_LOD_101 [108 polys, 324 verts (decal)] 'mat39'
+			BN_LOD_101 [12 polys, 36 verts (decal)] 'mat35'
+			Mesh32 [14 polys, 42 verts (decal)] 'mat39'
+			Gear_L [46 polys, 138 verts (decal)] 'mat35'
+			Mesh35 [60 polys, 180 verts (decal)] 'mat35'
+			Mesh36 [60 polys, 180 verts (decal)] 'mat35'
+			Mesh37 [60 polys, 180 verts (decal)] 'mat35'
+			Mesh38 [46 polys, 138 verts (decal)] 'mat35'
+			Mesh40 [46 polys, 138 verts (decal)] 'mat35'
+			Mesh25 [32 polys, 96 verts (decal)] 'mat35'
+				Tire_L [1788 polys, 5364 verts (decal)] 'mat35'
+					RUEDA ADENTRO IZQ [1788 polys, 5364 verts (decal)] 'mat35'
+					Mesh27 [124 polys, 372 verts (decal)] 'mat35'
+						Mesh30 [124 polys, 372 verts (decal)] 'mat35'
+					Mesh26 [16 polys, 48 verts (decal)] 'mat35'
+			AMORTIGUADOR IZQ [128 polys, 384 verts (decal)] 'mat35', AnimationID: 2 
+			Mesh02 [14 polys, 42 verts (decal)] 'mat34'
+			Mesh229 [6 polys, 18 verts (decal)] 'mat34'
+			Mesh230 [6 polys, 18 verts (decal)] 'mat34'
+			BR_LOD_103 [14 polys, 42 verts (decal)] 'mat34'
+			Mesh233 [60 polys, 180 verts (decal)] 'mat35'
+			Mesh234 [60 polys, 180 verts (decal)] 'mat35'
+			BN_LOD_103 [12 polys, 36 verts (decal)] 'mat35'
+			Mesh235 [60 polys, 180 verts (decal)] 'mat35'
+			Mesh237 [14 polys, 42 verts (decal)] 'mat39'
+			BM_LOD_103 [108 polys, 324 verts (decal)] 'mat39'
+			Mesh238 [2 polys, 6 verts (decal)] 'mat35'
+			Mesh239 [46 polys, 138 verts (decal)] 'mat35'
+			Mesh240 [32 polys, 96 verts (decal)] 'mat35'
+				Tire_L02 [1788 polys, 5364 verts (decal)] 'mat35'
+					Mesh232 [124 polys, 372 verts (decal)] 'mat35'
+						Mesh231 [124 polys, 372 verts (decal)] 'mat35'
+					Mesh236 [16 polys, 48 verts (decal)] 'mat35'
+					RUEDA ADENTRO IZQ02 [1788 polys, 5364 verts (decal)] 'mat35'
+			Mesh241 [2 polys, 6 verts (decal)] 'mat35'
+			Mesh242 [24 polys, 72 verts (decal)] 'Material #398'
+			Mesh243 [8 polys, 24 verts (decal)] 'mat34'
+			Gear_L02 [46 polys, 138 verts (decal)] 'mat35'
+			AMORTIGUADOR IZQ02 [128 polys, 384 verts (decal)] 'mat35', AnimationID: 2 
+		tapa afeurai [7 polys, 21 verts (decal)] 'mat27', AnimationID: 2 
+			DG_LOD_100 [25 polys, 75 verts (decal)] 'mat36'
+		tapa afuera der [7 polys, 21 verts (decal)] 'mat27', AnimationID: 2 
+			tapa adentro de [25 polys, 75 verts (decal)] 'mat36'
+		Mesh41 [16 polys, 48 verts (decal)] 'mat23'
+		Mesh42 [20 polys, 60 verts (decal)] 'mat23'
+		Mesh45 [58 polys, 174 verts (decal)] 'mat23'
+		Mesh46 [58 polys, 174 verts (decal)] 'mat23'
+		Mesh47 [58 polys, 174 verts (decal)] 'mat23'
+		Mesh48 [58 polys, 174 verts (decal)] 'mat23'
+		Mesh49 [32 polys, 96 verts (decal)] 'mat2'
+		Mesh50 [14 polys, 42 verts (decal)] 'mat2'
+		Mesh51 [14 polys, 42 verts (decal)] 'mat2'
+		Mesh52 [32 polys, 96 verts (decal)] 'mat2'
+		Mesh53 [90 polys, 270 verts (decal)] 'Material'
+		Mesh54 [6 polys, 18 verts (decal)] 'mat2'
+		Mesh55 [320 polys, 960 verts (decal)] '10 - Default'
+		Mesh56 [320 polys, 960 verts (decal)] '10 - Default'
+		Mesh57 [46 polys, 138 verts (decal)] 'mat19'
+		Mesh58 [46 polys, 138 verts (decal)] 'mat19'
+		Mesh59 [1325 polys, 3975 verts (decal)] 'Materi01'
+		Mesh60 [33 polys, 99 verts (decal)] 'mat19'
+		Mesh61 [33 polys, 99 verts (decal)] 'mat19'
+		Mesh62 [22 polys, 66 verts (decal)] 'mat19'
+		Mesh63 [22 polys, 66 verts (decal)] 'mat19'
+		Mesh64 [305 polys, 915 verts (decal)] 'Material #387'
+		Mesh65 [18 polys, 54 verts (decal)] 'Material #376'
+		Mesh66 [12 polys, 36 verts (decal)] 'Material #365'
+		Mesh67 [36 polys, 108 verts (decal)] 'mat31'
+		Mesh68 [36 polys, 108 verts (decal)] 'mat1'
+		Mesh69 [32 polys, 96 verts (decal)] 'mat1'
+		Mesh70 [24 polys, 72 verts (decal)] 'mat1'
+		Mesh71 [24 polys, 72 verts (decal)] 'mat1'
+		Mesh72 [24 polys, 72 verts (decal)] 'mat1'
+		Mesh73 [24 polys, 72 verts (decal)] 'mat1'
+		Mesh74 [24 polys, 72 verts (decal)] 'mat1'
+		Mesh75 [24 polys, 72 verts (decal)] 'mat1'
+		Mesh76 [24 polys, 72 verts (decal)] 'mat1'
+		Mesh77 [24 polys, 72 verts (decal)] 'mat1'
+		Mesh78 [24 polys, 72 verts (decal)] 'mat1'
+		Mesh79 [24 polys, 72 verts (decal)] 'mat1'
+		Mesh80 [77 polys, 231 verts (decal)] 'mat1'
+		Mesh81 [77 polys, 231 verts (decal)] 'mat1'
+		Mesh82 [32 polys, 96 verts (decal)] 'mat1'
+		AJ_LOD_100 [82 polys, 246 verts (decal)] 'mat11'
+		Mesh83 [8 polys, 24 verts (decal)] '08 - Default'
+		Mesh84 [8 polys, 24 verts (decal)] 'Material #343'
+		Mesh85 [64 polys, 192 verts (decal)] 'Material #332'
+		Group7 [12 polys, 36 verts (decal)] 'mat1'
+		Mesh86 [2 polys, 6 verts (decal)] 'FrontCol'
+		Mesh87 [2 polys, 6 verts (decal)] 'FrontCol'
+		Mesh88 [2 polys, 6 verts (decal)] 'FrontCol'
+		Mesh89 [2 polys, 6 verts (decal)] 'FrontCol'
+		Mesh90 [28 polys, 84 verts (decal)] 'mat26'
+		Mesh91 [40 polys, 120 verts (decal)] '08 - Default'
+		Mesh92 [40 polys, 120 verts (decal)] '08 - Default'
+		Mesh93 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh94 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh95 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh97 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh98 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh99 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh100 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh101 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh102 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh103 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh104 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh105 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh106 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh107 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh108 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh109 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh110 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh111 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh112 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh113 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh114 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh115 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh116 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh117 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh118 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh119 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh120 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh121 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh122 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh123 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh124 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh125 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh126 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh127 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh128 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh129 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh130 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh131 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh132 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh133 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh134 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh135 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh136 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh137 [2 polys, 6 verts (decal)] 'mat26'
+		Mesh138 [80 polys, 240 verts (decal)] 'Material #310'
+		Mesh139 [137 polys, 411 verts (decal)] 'Material #299'
+		Mesh140 [20 polys, 60 verts (decal)] 'Material #288'
+		Mesh141 [20 polys, 60 verts (decal)] 'Material #277'
+		Mesh142 [58 polys, 174 verts (decal)] 'Material #266'
+		Mesh143 [137 polys, 411 verts (decal)] 'Material #255'
+		Mesh144 [20 polys, 60 verts (decal)] 'Material #244'
+		Mesh145 [20 polys, 60 verts (decal)] 'Material #233'
+		Mesh146 [60 polys, 180 verts (decal)] 'Materi01'
+		Mesh147 [60 polys, 180 verts (decal)] 'Materi01'
+		Mesh148 [54 polys, 162 verts (decal)] 'Materi01'
+		Mesh149 [30 polys, 90 verts (decal)] 'Materi01'
+		Mesh150 [20 polys, 60 verts (decal)] 'mat28'
+		Mesh151 [20 polys, 60 verts (decal)] 'mat28'
+		Mesh152 [33 polys, 99 verts (decal)] 'mat3'
+		Mesh153 [33 polys, 99 verts (decal)] 'mat3'
+		Mesh154 [12 polys, 36 verts (decal)] 'mat17'
+		Mesh155 [12 polys, 36 verts (decal)] 'mat17'
+		Mesh156 [12 polys, 36 verts (decal)] 'mat17'
+		Mesh157 [12 polys, 36 verts (decal)] 'mat17'
+		Mesh158 [12 polys, 36 verts (decal)] 'mat17'
+		AT_LOD_100 [158 polys, 474 verts (decal)] 'Material #222'
+		Mesh159 [412 polys, 1236 verts (decal)] 'Material #211'
+		Mesh160 [52 polys, 156 verts (decal)] 'mat32'
+		Mesh161 [412 polys, 1236 verts (decal)] 'Material #200'
+		Mesh162 [52 polys, 156 verts (decal)] 'mat32'
+		BU_LOD_100 [64 polys, 192 verts (decal)] '10 - Default'
+		BV_LOD_100 [46 polys, 138 verts (decal)] 'mat2'
+		BX_LOD_100 [64 polys, 192 verts (decal)] '10 - Default'
+		BY_LOD_100 [46 polys, 138 verts (decal)] 'mat2'
+		CG_LOD_100 [20 polys, 60 verts (decal)] 'mat14'
+		CH_LOD_100 [10 polys, 30 verts (decal)] 'mat26'
+		CI_LOD_100 [34 polys, 102 verts (decal)] 'Materi01'
+		CP_LOD_100 [12 polys, 36 verts (decal)] 'mat3'
+		CQ_LOD_100 [81 polys, 243 verts (decal)] 'Material #189'
+		Mesh163 [8 polys, 24 verts (decal)] 'mat15'
+		Mesh164 [8 polys, 24 verts (decal)] 'mat15'
+		CS_LOD_100 [12 polys, 36 verts (decal)] 'mat3'
+		CT_LOD_100 [81 polys, 243 verts (decal)] 'Material #178'
+		Mesh165 [8 polys, 24 verts (decal)] 'mat15'
+		Mesh166 [8 polys, 24 verts (decal)] 'mat15'
+		CV_LOD_100 [20 polys, 60 verts (decal)] 'mat14'
+		CW_LOD_100 [10 polys, 30 verts (decal)] 'mat26'
+		CX_LOD_100 [34 polys, 102 verts (decal)] 'Materi01'
+		tapa adelanta afuera derecha [6 polys, 18 verts (decal)] 'mat26', AnimationID: 2 
+			tapa adelante adentro derecha [22 polys, 66 verts (decal)] 'mat36'
+		DQ_LOD_100 [12 polys, 36 verts (decal)] 'mat12'
+		DR_LOD_100 [2 polys, 6 verts (decal)] 'mat29'
+		DS_LOD_100 [6 polys, 18 verts (decal)] 'mat19'
+		DT_LOD_100 [12 polys, 36 verts (decal)] 'mat12'
+		DU_LOD_100 [2 polys, 6 verts (decal)] 'mat27'
+		DV_LOD_100 [6 polys, 18 verts (decal)] 'mat19'
+		DW_LOD_100 [12 polys, 36 verts (decal)] 'mat6'
+		DX_LOD_100 [85 polys, 255 verts (decal)] 'Material #167'
+		DY_LOD_100 [12 polys, 36 verts (decal)] 'mat6'
+		DZ_LOD_100 [85 polys, 255 verts (decal)] 'Material #156'
+		EA_LOD_100 [12 polys, 36 verts (decal)] 'mat13'
+		Mesh167 [88 polys, 264 verts (decal)] 'Material #145'
+		Mesh168 [16 polys, 48 verts (decal)] 'Material #134'
+		Mesh169 [24 polys, 72 verts (decal)] 'Material #123'
+		EC_LOD_100 [12 polys, 36 verts (decal)] 'mat13'
+		Mesh170 [68 polys, 204 verts (decal)] 'Material #112'
+		Mesh171 [16 polys, 48 verts (decal)] 'Material #101'
+		EE_LOD_100 [20 polys, 60 verts (decal)] 'mat13'
+		Mesh172 [159 polys, 477 verts (decal)] 'Material #90'
+		Mesh173 [26 polys, 78 verts (decal)] 'mat31'
+		Mesh174 [24 polys, 72 verts (decal)] 'Material #79'
+		Mesh175 [64 polys, 192 verts (decal)] 'mat15'
+		Mesh176 [20 polys, 60 verts (decal)] 'Materi01'
+		Mesh177 [20 polys, 60 verts (decal)] 'Materi01'
+		Mesh178 [32 polys, 96 verts (decal)] 'mat36'
+		Mesh179 [49 polys, 147 verts (decal)] 'mat36'
+		Mesh180 [57 polys, 171 verts (decal)] 'mat36'
+		Mesh181 [64 polys, 192 verts (decal)] '10 - Default'
+		Mesh182 [20 polys, 60 verts (decal)] 'mat15'
+		Mesh183 [1 polys, 3 verts (decal)] 'mat15'
+		Mesh184 [1 polys, 3 verts (decal)] 'mat15'
+		tapa abajo afduera [16 polys, 48 verts (decal)] 'mat26', AnimationID: 2 
+			tapa adentroabajo [40 polys, 120 verts (decal)] 'mat36'
+		tapaabajoafuerai [16 polys, 48 verts (decal)] 'mat26', AnimationID: 2 
+			tapaabajo adntrp [40 polys, 120 verts (decal)] 'mat36'
+		tapa delantera izq afuera [6 polys, 18 verts (decal)] 'mat26', AnimationID: 2 
+			tapa delantera adentrol izq [22 polys, 66 verts (decal)] 'mat36'
+		tren deadelante [12 polys, 36 verts (decal)] 'ERROR: No material is assigned!'
+		Mesh190 [14 polys, 42 verts (decal)] 'mat34'
+		Mesh187 [14 polys, 42 verts (decal)] 'mat34'
+		Gear_F [16 polys, 48 verts (decal)] 'mat35', AnimationID: 2 
+			Mesh199 [46 polys, 138 verts (decal)] 'Material #46'
+				Mesh194 [32 polys, 96 verts (decal)] 'mat35'
+					Tire_F [1408 polys, 4224 verts (decal)] 'mat35'
+					Mesh197 [110 polys, 330 verts (decal)] 'mat35'
+					Mesh195 [46 polys, 138 verts (decal)] 'mat35'
+					Mesh196 [56 polys, 168 verts (decal)] 'Material #57'
+					Mesh209 [14 polys, 42 verts (decal)] 'mat34'
+					FU_LOD_100 [60 polys, 180 verts (decal)] 'mat34'
+				Mesh200 [46 polys, 138 verts (decal)] 'mat35'
+				Mesh203 [60 polys, 180 verts (decal)] 'mat35'
+				Mesh206 [46 polys, 138 verts (decal)] 'mat35'
+				Mesh204 [46 polys, 138 verts (decal)] 'mat35'
+				Mesh205 [60 polys, 180 verts (decal)] 'mat35'
+				Mesh188 [14 polys, 42 verts (decal)] 'mat34'
+				Mesh202 [32 polys, 96 verts (decal)] 'mat35'
+				FT_LOD_100 [160 polys, 480 verts (decal)] 'Material #35', AnimationID: 2 
+		Mesh96 [1849 polys, 5547 verts (decal)] '09 - Default'
+			Group2 [202 polys, 606 verts (decal)] 'Material #420'
+			Mesh43 [16 polys, 48 verts (decal)] 'mat23'
+			Turbine_L [240 polys, 720 verts (decal)] '07 - Default'
+				2 [2 polys, 6 verts (decal)] '04 - Default'
+				1 [2 polys, 6 verts (decal)] '05 - Default'
+		Gear_R [32 polys, 96 verts (decal)] 'mat35', AnimationID: 2 
+			Mesh211 [14 polys, 42 verts (decal)] 'mat34'
+			Mesh212 [6 polys, 18 verts (decal)] 'mat34'
+			Mesh213 [6 polys, 18 verts (decal)] 'mat34'
+			BR_LOD_102 [14 polys, 42 verts (decal)] 'mat34'
+			Mesh216 [46 polys, 138 verts (decal)] 'mat35'
+			Mesh217 [60 polys, 180 verts (decal)] 'mat35'
+			Mesh218 [60 polys, 180 verts (decal)] 'mat35'
+			BN_LOD_102 [12 polys, 36 verts (decal)] 'mat35'
+			Mesh219 [60 polys, 180 verts (decal)] 'mat35'
+			Mesh221 [14 polys, 42 verts (decal)] 'mat39'
+			BM_LOD_102 [108 polys, 324 verts (decal)] 'mat39'
+			Mesh222 [2 polys, 6 verts (decal)] 'mat35'
+			Mesh223 [2 polys, 6 verts (decal)] 'mat35'
+			Mesh224 [32 polys, 96 verts (decal)] 'mat35'
+				Tire_R [1788 polys, 5364 verts (decal)] 'mat35'
+					Mesh215 [124 polys, 372 verts (decal)] 'mat35'
+						Mesh214 [124 polys, 372 verts (decal)] 'mat35'
+					Mesh220 [16 polys, 48 verts (decal)] 'mat35'
+					RUEDA ADENTRO IZQ01 [1788 polys, 5364 verts (decal)] 'mat35'
+			Mesh225 [24 polys, 72 verts (decal)] 'Material #398'
+			Mesh226 [8 polys, 24 verts (decal)] 'mat34'
+			AMORTIGUADOR IZQ01 [128 polys, 384 verts (decal)] 'mat35', AnimationID: 2 
+			Mesh227 [46 polys, 138 verts (decal)] 'mat35'
+			Gear_L01 [46 polys, 138 verts (decal)] 'mat35'
+		Turbine_R [240 polys, 720 verts (decal)] '07 - Default'
+			a [2 polys, 6 verts (decal)] '05 - Default'
+			b [2 polys, 6 verts (decal)] '04 - Default'
+
+
+Num Nodes: 287
+Total:    (26302 polys, 78906 verts)
+Mesh Max: (1849 polys, 5547 verts)
+
+65 Materials:
+ (  1) transparente:
+       Transparency enabled
+       cero.tga
+ (  2) Material #431:
+       <No Texture>
+ (  3) mat35:
+       mat35.BMP
+ (  4) mat34:
+       <No Texture>
+ (  5) Material #398:
+       <No Texture>
+ (  6) mat39:
+       <No Texture>
+ (  7) mat27:
+       mat27.bmp
+ (  8) mat36:
+       mat36.BMP
+ (  9) mat23:
+       <No Texture>
+ ( 10) mat2:
+       <No Texture>
+ ( 11) Material:
+       Material.bmp
+ ( 12) 10 - Default:
+       mat24.bmp
+ ( 13) mat19:
+       <No Texture>
+ ( 14) Materi01:
+       Materi01.bmp
+ ( 15) Material #387:
+       <No Texture>
+ ( 16) Material #376:
+       <No Texture>
+ ( 17) Material #365:
+       <No Texture>
+ ( 18) mat31:
+       mat31.bmp
+ ( 19) mat1:
+       Transparency enabled
+       <No Texture>
+ ( 20) mat11:
+       <No Texture>
+ ( 21) 08 - Default:
+       mat26.bmp
+ ( 22) Material #343:
+       <No Texture>
+ ( 23) Material #332:
+       <No Texture>
+ ( 24) FrontCol:
+       <No Texture>
+ ( 25) mat26:
+       mat26.bmp
+ ( 26) Material #310:
+       <No Texture>
+ ( 27) Material #299:
+       <No Texture>
+ ( 28) Material #288:
+       <No Texture>
+ ( 29) Material #277:
+       <No Texture>
+ ( 30) Material #266:
+       <No Texture>
+ ( 31) Material #255:
+       <No Texture>
+ ( 32) Material #244:
+       <No Texture>
+ ( 33) Material #233:
+       <No Texture>
+ ( 34) mat28:
+       mat28.bmp
+ ( 35) mat3:
+       <No Texture>
+ ( 36) mat17:
+       <No Texture>
+ ( 37) Material #222:
+       <No Texture>
+ ( 38) Material #211:
+       <No Texture>
+ ( 39) mat32:
+       mat32.bmp
+ ( 40) Material #200:
+       <No Texture>
+ ( 41) mat14:
+       <No Texture>
+ ( 42) Material #189:
+       <No Texture>
+ ( 43) mat15:
+       <No Texture>
+ ( 44) Material #178:
+       <No Texture>
+ ( 45) mat12:
+       <No Texture>
+ ( 46) mat29:
+       mat29.bmp
+ ( 47) mat6:
+       <No Texture>
+ ( 48) Material #167:
+       <No Texture>
+ ( 49) Material #156:
+       <No Texture>
+ ( 50) mat13:
+       <No Texture>
+ ( 51) Material #145:
+       <No Texture>
+ ( 52) Material #134:
+       <No Texture>
+ ( 53) Material #123:
+       <No Texture>
+ ( 54) Material #112:
+       <No Texture>
+ ( 55) Material #101:
+       <No Texture>
+ ( 56) Material #90:
+       <No Texture>
+ ( 57) Material #79:
+       <No Texture>
+ ( 58) Material #46:
+       <No Texture>
+ ( 59) Material #57:
+       <No Texture>
+ ( 60) Material #35:
+       <No Texture>
+ ( 61) 09 - Default:
+       mat26.bmp
+ ( 62) Material #420:
+       <No Texture>
+ ( 63) 07 - Default:
+       mat38.BMP
+ ( 64) 04 - Default:
+       Transparency enabled
+       ENG_FAN1_BLURRED.tga
+ ( 65) 05 - Default:
+       Transparency enabled
+       ENG_FAN1.tga
+
+15 Textures:
+cero.tga
+mat35.BMP
+mat27.bmp
+mat36.BMP
+Material.bmp
+mat24.bmp
+Materi01.bmp
+mat31.bmp
+mat26.bmp
+mat28.bmp
+mat32.bmp
+mat29.bmp
+mat38.BMP
+ENG_FAN1_BLURRED.tga
+ENG_FAN1.tga
+
+Points
+
+Extents
+Box02
+MinExtentPosition=-0.44,7.73,-0.21
+MaxExtentPosition=0.01,8.22,0.23
