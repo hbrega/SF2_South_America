@@ -1,0 +1,183 @@
+	Fuselage [1432 polys, 1431 verts] '02 - Default'
+		Spinner [256 polys, 160 verts] '07 - Default'
+			Prop [1304 polys, 1018 verts] 'mat15'
+			Plane01 [32 polys, 25 verts] '04 - Default'
+				Plane02 [32 polys, 25 verts] '04 - Default'
+			Plane03 [32 polys, 25 verts] '10 - Default'
+				Plane04 [32 polys, 25 verts] '10 - Default'
+		elevator_L [376 polys, 261 verts] '03 - Default'
+		elevator_R [372 polys, 249 verts] '03 - Default'
+		CN_LOD_100 [8 polys, 18 verts] '03 - Default'
+		CL_LOD_100 [26 polys, 27 verts] '03 - Default', AnimationID: 1 
+			CM_LOD_100 [26 polys, 24 verts] '08 - Default'
+		CI_LOD_100 [26 polys, 24 verts] '02 - Default', AnimationID: 1 
+			CJ_LOD_100 [26 polys, 27 verts] 'mat09'
+		Radflap [54 polys, 106 verts] '02 - Default'
+			radflappiv [6 polys, 12 verts] 'mat06'
+			radflappiv1 [31 polys, 53 verts] 'mat02'
+		CA_LOD_100 [64 polys, 60 verts] 'mat13'
+		BZ_LOD_100 [1584 polys, 1208 verts] 'mat02'
+		LeftFlap [4 polys, 8 verts] '03 - Default'
+			BX_LOD_100 [8 polys, 16 verts] 'mat02'
+		RightFlap [4 polys, 8 verts] '03 - Default'
+			BV_LOD_100 [8 polys, 16 verts] 'mat02'
+		BE_LOD_100 [1 polys, 3 verts] 'mat02'
+		AZ_LOD_100 [1 polys, 3 verts] 'mat02'
+		AX_LOD_100 [1 polys, 3 verts] 'mat02'
+		AS_LOD_100 [2 polys, 4 verts] 'mat02'
+		AQ_LOD_100 [5 polys, 7 verts] 'mat02'
+		AO_LOD_100 [5 polys, 7 verts] 'mat02'
+		AN_LOD_100 [1 polys, 3 verts] 'mat00'
+		AM_LOD_100 [70 polys, 100 verts] '01 - Default'
+		AL_LOD_100 [20 polys, 25 verts] 'mat11'
+		AK_LOD_100 [2 polys, 4 verts] 'mat06'
+		AJ_LOD_100 [46 polys, 92 verts] 'mat05'
+		AI_LOD_100 [16 polys, 17 verts] 'mat08'
+		AH_LOD_100 [93 polys, 151 verts] 'mat16'
+		AG_LOD_100 [405 polys, 1142 verts] '02 - Default'
+		AF_LOD_100 [218 polys, 274 verts] 'mat03'
+		AC_LOD_100 [314 polys, 540 verts] 'mat04'
+		AB_LOD_100 [698 polys, 651 verts] 'mat02'
+		AA_LOD_100 [48 polys, 35 verts] 'mat01'
+		Leftwing [1959 polys, 1237 verts] '03 - Default'
+			LeftOuterWing [580 polys, 394 verts] '03 - Default'
+				Aileron_L [28 polys, 56 verts] '03 - Default'
+			LOFLAP [8 polys, 18 verts] '03 - Default'
+			gear_strut_L [128 polys, 140 verts] 'mat07', AnimationID: 1 
+				lg1 [1222 polys, 1370 verts] 'mat07'
+					Wheel_L [504 polys, 357 verts] 'mat16'
+					lg3 [56 polys, 70 verts] 'mat02'
+				lg2 [92 polys, 123 verts] 'mat07'
+					lg5 [28 polys, 32 verts] 'mat02'
+				lg4 [112 polys, 134 verts] 'mat02'
+				tl1 [48 polys, 43 verts] '03 - Default'
+					tl2 [46 polys, 35 verts] 'mat09'
+			B1 [222 polys, 556 verts] 'MultiMat_0'
+		RightWing [1960 polys, 1241 verts] '03 - Default'
+			RightOuterWing [583 polys, 397 verts] '03 - Default'
+				Aileron_R [28 polys, 56 verts] '03 - Default'
+			gear_strut_R [240 polys, 270 verts] 'mat07', AnimationID: 1 
+				rg1 [1222 polys, 1367 verts] 'mat07'
+					Wheel_R [504 polys, 391 verts] 'mat16'
+					rg3 [56 polys, 68 verts] 'mat02'
+				rg2 [91 polys, 123 verts] 'mat07'
+					rg4 [28 polys, 32 verts] 'mat02'
+				tr1 [46 polys, 35 verts] '03 - Default'
+					tr2 [47 polys, 42 verts] 'mat09'
+			B2 [222 polys, 558 verts] 'MultiMat_0'
+		Tail [128 polys, 102 verts] '02 - Default'
+			LeftStab [444 polys, 278 verts] '03 - Default'
+			RightStab [444 polys, 276 verts] '03 - Default'
+			VertTail [822 polys, 563 verts] '02 - Default'
+				Rudder [317 polys, 241 verts] '02 - Default'
+			tail1 [146 polys, 194 verts] 'mat02'
+			tail_gear_strut [1138 polys, 1526 verts] '02 - Default'
+				tail_wheel [502 polys, 320 verts] 'mat16'
+			TC [64 polys, 71 verts] '02 - Default'
+		Nose [2052 polys, 1833 verts] '02 - Default'
+		Rad [166 polys, 178 verts] '02 - Default'
+		Canopy [217 polys, 236 verts] '02 - Default', AnimationID: 3 
+			BubbleCanopy [182 polys, 153 verts] '01 - Default'
+			MICanopy [217 polys, 236 verts] '02 - Default'
+
+
+Num Nodes: 81
+Total:    (24588 polys, 23239 verts)
+Mesh Max: (2052 polys, 1833 verts)
+
+22 Materials:
+ (  1) 02 - Default:
+       G59-Fuse.jpg
+ (  2) 07 - Default:
+       ogiva.jpg
+ (  3) mat15:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       PALAEL~1.BMP
+ (  4) 04 - Default:
+       Transparency enabled
+       FASTPROP.TGA
+ (  5) 10 - Default:
+       Transparency enabled
+       SLOWPROP.TGA
+ (  6) 03 - Default:
+       G59-Superf.jpg
+ (  7) 08 - Default:
+       interni fuses ecc.jpg
+ (  8) mat09:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       G59-SU~1.BMP
+ (  9) mat06:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       G59_PA~1.BMP
+ ( 10) mat02:
+       <No Texture>
+ ( 11) mat13:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       motori.bmp
+ ( 12) mat00:
+       Transparency enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 13) 01 - Default:
+       Transparency enabled
+       clearcanopyGlass.tga
+ ( 14) mat11:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       INTERN~1.BMP
+ ( 15) mat05:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       G59PIL~1.BMP
+ ( 16) mat08:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       G59-PA~1.BMP
+ ( 17) mat16:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       RUOTA_~1.BMP
+ ( 18) mat03:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 19) mat04:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       G59COL~1.BMP
+ ( 20) mat01:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 21) mat07:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       g59-fuse.bmp
+ ( 22) MultiMat_0:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+
+17 Textures:
+G59-Fuse.jpg
+ogiva.jpg
+PALAEL~1.BMP
+FASTPROP.TGA
+SLOWPROP.TGA
+G59-Superf.jpg
+interni fuses ecc.jpg
+G59-SU~1.BMP
+G59_PA~1.BMP
+motori.bmp
+clearcanopyGlass.tga
+INTERN~1.BMP
+G59PIL~1.BMP
+G59-PA~1.BMP
+RUOTA_~1.BMP
+G59COL~1.BMP
+g59-fuse.bmp
+
+Points
+
+Extents
