@@ -1,0 +1,111 @@
+	Fuselage (2662 polys, 7986 verts) '01 - Default'
+		objdefault01 (1812 polys, 5436 verts) '02 - Default'
+			Object10 (32 polys, 96 verts) '02 - Default'
+			Object09 (32 polys, 96 verts) '02 - Default'
+			RightSpinner (240 polys, 720 verts) '02 - Default'
+				RightSlowProp (880 polys, 2640 verts) '02 - Default'
+				RightFastProp (16 polys, 48 verts) '13 - Default'
+		LeftWing (239 polys, 717 verts) '03 - Default'
+			Object01 (456 polys, 1368 verts) '02 - Default'
+				Object04 (116 polys, 348 verts) '09 - Default'
+				Object03 (116 polys, 348 verts) '09 - Default'
+				Center_Tank (1846 polys, 5538 verts) '21 - Default'
+			Object14 (534 polys, 1602 verts) '02 - Default'
+				objdefault08 (10 polys, 30 verts) '08 - Default'
+				Right_Rail (424 polys, 1272 verts) '02 - Default'
+				Right_Tank (1846 polys, 5538 verts) '21 - Default'
+			Object13 (534 polys, 1602 verts) '02 - Default'
+				objdefault07 (10 polys, 30 verts) '08 - Default'
+				Left_Rail (424 polys, 1272 verts) '02 - Default'
+				Left_Tank (1846 polys, 5538 verts) '21 - Default'
+			RightAileron (8 polys, 24 verts) '03 - Default'
+			LeftAileron (8 polys, 24 verts) '03 - Default'
+			RightInnerFlap (16 polys, 48 verts) '03 - Default'
+			LeftInnerFlap (16 polys, 48 verts) '03 - Default'
+			Object16 (6 polys, 18 verts) '15 - Default'
+			Object15 (6 polys, 18 verts) '15 - Default'
+		objdefault03 (470 polys, 1410 verts) '07 - Default'
+			Rudder (76 polys, 228 verts) '07 - Default'
+			LeftElevator (64 polys, 192 verts) '07 - Default'
+			RightElevator (66 polys, 198 verts) '07 - Default'
+			Object18 (82 polys, 246 verts) '07 - Default'
+		objdefault (26 polys, 78 verts) '08 - Default'
+		Object02 (1812 polys, 5436 verts) '02 - Default'
+			objdefault05 (212 polys, 636 verts) '09 - Default'
+				Object11 (12 polys, 36 verts) '09 - Default'
+				LeftTire (280 polys, 840 verts) '09 - Default'
+			objdefault06 (212 polys, 636 verts) '09 - Default'
+				Object12 (12 polys, 36 verts) '09 - Default'
+				RightTire (280 polys, 840 verts) '09 - Default'
+			Object08 (32 polys, 96 verts) '02 - Default'
+			Object07 (32 polys, 96 verts) '02 - Default'
+			LeftSpinner (240 polys, 720 verts) '02 - Default'
+				LeftFastProp (16 polys, 48 verts) '13 - Default'
+				LeftSlowProp (880 polys, 2640 verts) '02 - Default'
+		objdefault04 (500 polys, 1500 verts) '09 - Default'
+			NoseTire (140 polys, 420 verts) '09 - Default'
+		RightFrontDoor (16 polys, 48 verts) '01 - Default'
+		LeftFrontDoor (16 polys, 48 verts) '01 - Default'
+		Tube01 (144 polys, 432 verts) '14 - Default'
+		Tube02 (144 polys, 432 verts) '14 - Default'
+		Tube06 (144 polys, 432 verts) '14 - Default'
+		Tube05 (144 polys, 432 verts) '14 - Default'
+		Tube07 (144 polys, 432 verts) '14 - Default'
+		Tube08 (144 polys, 432 verts) '14 - Default'
+		cockpit (586 polys, 1758 verts) '14 - Default'
+			Object20 (20 polys, 60 verts) '08 - Default'
+		Box01 (28 polys, 84 verts) '19 - Default'
+		objdefault10 (240 polys, 720 verts) '20 - Default'
+		Object19 (24 polys, 72 verts) '19 - Default'
+		objdefault11 (84 polys, 252 verts) '01 - Default'
+			Object17 (58 polys, 174 verts) '15 - Default'
+		objdefault12 (142 polys, 426 verts) '01 - Default'
+			GlassCanopy (82 polys, 246 verts) '08 - Default'
+		MG_Holes (943 polys, 2829 verts) '01 - Default'
+		Object21 (92 polys, 276 verts) '01 - Default'
+		RightWing (239 polys, 717 verts) '03 - Default'
+
+
+Num Nodes: 66
+Total:    (23013 polys, 69039 verts)
+Mesh Max: (2662 polys, 7986 verts)
+
+12 Materials:
+ (  1) 01 - Default:
+       Fuselage.bmp
+ (  2) 02 - Default:
+       Engine_Pylons.bmp
+ (  3) 13 - Default:
+       Transparency enabled
+       FastProop.tga
+ (  4) 03 - Default:
+       Wings.bmp
+ (  5) 09 - Default:
+       Tren.bmp
+ (  6) 21 - Default:
+       PucaTank.bmp
+ (  7) 08 - Default:
+       Transparency enabled
+       CanopyGlass.TGA
+ (  8) 15 - Default:
+       LIGHTS.tga
+ (  9) 07 - Default:
+       Tail.bmp
+ ( 10) 14 - Default:
+       Cokcpit.bmp
+ ( 11) 19 - Default:
+       <No Texture>
+ ( 12) 20 - Default:
+       <No Texture>
+
+10 Textures:
+Fuselage.bmp
+Engine_Pylons.bmp
+FastProop.tga
+Wings.bmp
+Tren.bmp
+PucaTank.bmp
+CanopyGlass.TGA
+LIGHTS.tga
+Tail.bmp
+Cokcpit.bmp
