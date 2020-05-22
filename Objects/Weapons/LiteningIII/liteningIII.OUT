@@ -1,0 +1,19 @@
+	Cylinder01 (313 polys, 939 verts) '01 - Default'
+	Cylinder02 (20 polys, 60 verts) '02 - Default'
+	Cylinder03 (24 polys, 72 verts) '02 - Default'
+	SeekerHead (218 polys, 654 verts) '01 - Default'
+
+
+Num Nodes: 4
+Total:    (575 polys, 1725 verts)
+Mesh Max: (313 polys, 939 verts)
+
+2 Materials:
+ (  1) 01 - Default:
+       liteningIII.bmp
+ (  2) 02 - Default:
+       Reflection=1.00
+       liteningIII.bmp
+
+1 Textures:
+liteningIII.bmp

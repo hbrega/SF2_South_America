@@ -1,0 +1,192 @@
+	fuselage_P [358 polys, 1074 verts (decal)] 'FA50_2'
+		AU_LOD_400 [16 polys, 48 verts (decal)] 'FA50_2', AnimationID: 4 
+		AM_LOD_400 [14 polys, 42 verts (decal)] 'FA50_2', AnimationID: 1 
+			Box42 [26 polys, 78 verts (decal)] '15 - Default'
+				LDoorArm06 [96 polys, 288 verts (decal)] '15 - Default'
+					LDoorArm05 [360 polys, 1080 verts (decal)] '15 - Default'
+		AL_LOD_400 [14 polys, 42 verts (decal)] 'FA50_2', AnimationID: 1 
+			Box29 [26 polys, 78 verts (decal)] '15 - Default'
+				LDoorArm02 [96 polys, 288 verts (decal)] '15 - Default'
+					LDoorArm01 [360 polys, 1080 verts (decal)] '15 - Default'
+		AK_LOD_400 [8 polys, 24 verts (decal)] 'FA50_1', AnimationID: 1 
+			Box28 [22 polys, 66 verts (decal)] '15 - Default'
+			FrontLight02 [12 polys, 36 verts (decal)] '15 - Default'
+			FrontLight03 [12 polys, 36 verts (decal)] '15 - Default'
+		AF_LOD_400 [16 polys, 48 verts (decal)] 'FA50_2', AnimationID: 4 
+		Nozzle42_01 [60 polys, 180 verts (decal)] '15 - Default', AnimationID: 10 
+			NozzleInside12 [72 polys, 216 verts (decal)] '15 - Default'
+		Nozzle42_12 [60 polys, 180 verts (decal)] '15 - Default', AnimationID: 10 
+		Nozzle42_11 [60 polys, 180 verts (decal)] '15 - Default', AnimationID: 10 
+			NozzleInside11 [72 polys, 216 verts (decal)] '15 - Default'
+		Nozzle42_10 [60 polys, 180 verts (decal)] '15 - Default', AnimationID: 10 
+			NozzleInside10 [72 polys, 216 verts (decal)] '15 - Default'
+		Nozzle42_09 [60 polys, 180 verts (decal)] '15 - Default', AnimationID: 10 
+			NozzleInside09 [72 polys, 216 verts (decal)] '15 - Default'
+		Nozzle42_08 [60 polys, 180 verts (decal)] '15 - Default', AnimationID: 10 
+			NozzleInside08 [72 polys, 216 verts (decal)] '15 - Default'
+		Nozzle42_07 [60 polys, 180 verts (decal)] '15 - Default', AnimationID: 10 
+			NozzleInside07 [72 polys, 216 verts (decal)] '15 - Default'
+		Nozzle42_06 [60 polys, 180 verts (decal)] '15 - Default', AnimationID: 10 
+			NozzleInside05 [72 polys, 216 verts (decal)] '15 - Default'
+			NozzleInside06 [72 polys, 216 verts (decal)] '15 - Default'
+		Nozzle42_05 [60 polys, 180 verts (decal)] '15 - Default', AnimationID: 10 
+			NozzleInside04 [72 polys, 216 verts (decal)] '15 - Default'
+		Nozzle42_04 [60 polys, 180 verts (decal)] '15 - Default', AnimationID: 10 
+			NozzleInside03 [72 polys, 216 verts (decal)] '15 - Default'
+		Nozzle42_03 [60 polys, 180 verts (decal)] '15 - Default', AnimationID: 10 
+			NozzleInside02 [72 polys, 216 verts (decal)] '15 - Default'
+		Nozzle42_02 [60 polys, 180 verts (decal)] '15 - Default', AnimationID: 10 
+			NozzleInside01 [72 polys, 216 verts (decal)] '15 - Default'
+		Afterburner [54 polys, 162 verts (decal)] 'Standard_8'
+		BurnerRing [334 polys, 1002 verts (decal)] '_F-16D_B52+_GKmaterial_00'
+		Burner [606 polys, 1818 verts (decal)] '15 - Default'
+		tailhook [208 polys, 624 verts (decal)] 'FA50_2', AnimationID: 5 
+		TailLightGlass [96 polys, 288 verts (decal)] '03___Default'
+		NavLightGlassL01 [80 polys, 240 verts (decal)] '03___Default'
+		NavLightGlassL [80 polys, 240 verts (decal)] '03___Default'
+		DummyGearR1 [12 polys, 36 verts (decal)] '_F-16D_B52+_GKmaterial_04'
+		DummyGearL1 [12 polys, 36 verts (decal)] '_F-16D_B52+_GKmaterial_04'
+		DummyGearR2 [12 polys, 36 verts (decal)] '_F-16D_B52+_GKmaterial_04'
+		NoseGear [470 polys, 1410 verts (decal)] '15 - Default', AnimationID: 1 
+			Box01 [292 polys, 876 verts (decal)] '15 - Default', AnimationID: 1 
+			Box04 [124 polys, 372 verts (decal)] '15 - Default'
+				SteerPivot [932 polys, 2796 verts (decal)] '15 - Default'
+					Cylinder04 [608 polys, 1824 verts (decal)] '15 - Default', AnimationID: 2 
+						wheel_nose [1632 polys, 4896 verts (decal)] '15 - Default'
+						FGearScissor2 [156 polys, 468 verts (decal)] '15 - Default', AnimationID: 2 
+							FGearScissor1 [156 polys, 468 verts (decal)] '15 - Default', AnimationID: 2 
+		TailLightGlass01 [96 polys, 288 verts (decal)] '03___Default'
+		TailLightGlass02 [96 polys, 288 verts (decal)] '03___Default'
+		fuselage_nose [238 polys, 714 verts (decal)] 'FA50_1'
+			Antenas2 [354 polys, 1062 verts (decal)] '21 - Default'
+			FrontGlass [38 polys, 114 verts (decal)] '03___Default'
+			default [481 polys, 1443 verts (decal)] '19___Default'
+		Canopy [346 polys, 1038 verts (decal)] 'FA50_1', AnimationID: 3 
+			Glass [81 polys, 243 verts (decal)] '03___Default'
+		GearIK [2 polys, 6 verts (decal)] '04 - Default'
+			LeftGear [1812 polys, 5436 verts (decal)] '15 - Default', AnimationID: 1 8 
+				AbsL [312 polys, 936 verts (decal)] '_F-16D_B52+_GKmaterial_01', AnimationID: 1 8 
+					wheel_left [1488 polys, 4464 verts (decal)] '15 - Default'
+				Box09 [424 polys, 1272 verts (decal)] '15 - Default', AnimationID: 1 
+					Box11 [360 polys, 1080 verts (decal)] '15 - Default', AnimationID: 1 
+				LgearOleo [412 polys, 1236 verts (decal)] '15 - Default', AnimationID: 1 
+					LGearLeg2 [760 polys, 2280 verts (decal)] '15 - Default', AnimationID: 1 
+			RightGear [1812 polys, 5436 verts (decal)] '15 - Default', AnimationID: 1 6 
+				AbsR [312 polys, 936 verts (decal)] '_F-16D_B52+_GKmaterial_01', AnimationID: 1 6 
+					wheel_right [1488 polys, 4464 verts (decal)] '15 - Default'
+				Box32 [424 polys, 1272 verts (decal)] '15 - Default', AnimationID: 1 
+					Box31 [360 polys, 1080 verts (decal)] '15 - Default', AnimationID: 1 
+				RgearOleo [412 polys, 1236 verts (decal)] '15 - Default', AnimationID: 1 
+					RGearLeg2 [760 polys, 2280 verts (decal)] '15 - Default'
+		VertTail [120 polys, 360 verts (decal)] 'FA50_5'
+			rudder [81 polys, 243 verts (decal)] 'FA50_5'
+				Object02 [72 polys, 216 verts (decal)] '21 - Default'
+		wing_right [68 polys, 204 verts (decal)] 'FA50_3'
+			flap_control_R [1 polys, 3 verts (decal)] 'Material_4'
+				flaperon_right [11 polys, 33 verts (decal)] 'FA50_3'
+			pylon_inner_R [44 polys, 132 verts (decal)] 'Material_16'
+				sway_brace_innner_R [104 polys, 312 verts (decal)] 'Standard_14'
+				droptank_wing_R [360 polys, 1080 verts (decal)] 'Material_19'
+			pylon_middle_R [52 polys, 156 verts (decal)] 'Material_16'
+				sway_brace_outer_R [104 polys, 312 verts (decal)] 'Standard_14'
+			pylon_AIM9_R01 [60 polys, 180 verts (decal)] 'Material_16'
+		wing_left [68 polys, 204 verts (decal)] 'FA50_4'
+			flap_control_L [1 polys, 3 verts (decal)] 'Material_1'
+				flaperon_left [11 polys, 33 verts (decal)] 'FA50_4'
+			pylon_middle_L [52 polys, 156 verts (decal)] 'Material_16'
+				sway_brace_outer_L [104 polys, 312 verts (decal)] 'Standard_14'
+			pylon_inner_L [44 polys, 132 verts (decal)] 'Material_16'
+				sway_brace_innner_L [104 polys, 312 verts (decal)] 'Standard_14'
+				droptank_wing_L [360 polys, 1080 verts (decal)] 'Material_19'
+			pylon_AIM9_L01 [60 polys, 180 verts (decal)] 'Material_16'
+		ElevatorR [10 polys, 30 verts (decal)] '21 - Default'
+		ElevatorL [10 polys, 30 verts (decal)] '21 - Default'
+			elevator_left [20 polys, 60 verts (decal)] 'FA50_5'
+				Object03 [108 polys, 324 verts (decal)] '21 - Default'
+		FrontDoorArm1 [360 polys, 1080 verts (decal)] '15 - Default', AnimationID: 1 
+			FrontDoorArm2 [96 polys, 288 verts (decal)] '15 - Default', AnimationID: 1 
+		pylon_centerline [44 polys, 132 verts (decal)] 'Material_16'
+			sway_brace_center [104 polys, 312 verts (decal)] 'Standard_14'
+			droptank_centerline [352 polys, 1056 verts (decal)] 'Material_23'
+		fuselage_front [414 polys, 1242 verts (decal)] 'FA50_1'
+			default01 [12 polys, 36 verts (decal)] 'FA50_2'
+			default05 [744 polys, 2232 verts (decal)] 'FA50_1_001'
+			gun [1612 polys, 4836 verts (decal)] 'FA50_1'
+		default02 [50 polys, 150 verts (decal)] 'FA50_2'
+		default03 [6 polys, 18 verts (decal)] 'FA50_2'
+		default04 [92 polys, 276 verts (decal)] 'FA50_2'
+		elevator_right [20 polys, 60 verts (decal)] 'FA50_5'
+			Antenas [108 polys, 324 verts (decal)] '21 - Default'
+
+
+Num Nodes: 119
+Total:    (27795 polys, 83385 verts)
+Mesh Max: (1812 polys, 5436 verts)
+
+21 Materials:
+ (  1) FA50_2:
+       FA50_2.bmp
+ (  2) 15 - Default:
+       T50_3.bmp
+ (  3) FA50_1:
+       FA50_1.bmp
+ (  4) Standard_8:
+       AFTERBURNER.TGA
+ (  5) _F-16D_B52+_GKmaterial_00:
+       F16I-1.bmp
+ (  6) 03___Default:
+       Transparency enabled
+       ClrGlass.TGA
+ (  7) _F-16D_B52+_GKmaterial_04:
+       <No Texture>
+ (  8) 21 - Default:
+       <No Texture>
+ (  9) 19___Default:
+       T50_4.bmp
+ ( 10) 04 - Default:
+       F16-pyl.bmp
+ ( 11) _F-16D_B52+_GKmaterial_01:
+       F16I-2.bmp
+ ( 12) FA50_5:
+       FA50_5.bmp
+ ( 13) FA50_3:
+       FA50_3.bmp
+ ( 14) Material_4:
+       F-16A_Netz_4.bmp
+ ( 15) Material_16:
+       FA50_PYLONS.bmp
+ ( 16) Standard_14:
+       <No Texture>
+ ( 17) Material_19:
+       FUEL_TANK_F-16A_1400L.BMP
+ ( 18) FA50_4:
+       FA50_4.bmp
+ ( 19) Material_1:
+       F-16A_Netz_3.bmp
+ ( 20) Material_23:
+       FUEL_TANK_F-16A_1135L.BMP
+ ( 21) FA50_1_001:
+       FA50_1.bmp
+
+17 Textures:
+FA50_2.bmp
+T50_3.bmp
+FA50_1.bmp
+AFTERBURNER.TGA
+F16I-1.bmp
+ClrGlass.TGA
+T50_4.bmp
+F16-pyl.bmp
+F16I-2.bmp
+FA50_5.bmp
+FA50_3.bmp
+F-16A_Netz_4.bmp
+FA50_PYLONS.bmp
+FUEL_TANK_F-16A_1400L.BMP
+FA50_4.bmp
+F-16A_Netz_3.bmp
+FUEL_TANK_F-16A_1135L.BMP
+
+Points
+
+Extents

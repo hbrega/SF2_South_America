@@ -23,3 +23,7 @@ UH-1H Huey
 IA-58h Pucara Fenix
 
 IA-63 Pampa II
+
+IA-63 Pampa III
+
+FA-50 AR Fighting Eagle
