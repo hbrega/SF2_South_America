@@ -1,0 +1,93 @@
+	Python-4_Body [1152 polys, 700 verts] 'Python-3 Paint'
+		Guide_Bracket01 [1424 polys, 1596 verts] 'Python-3 Paint'
+			Braket_Bolt [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Guide_Block02 [96 polys, 116 verts] 'Python-3 Paint'
+			Braket_Bolt01 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt02 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt03 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt04 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt05 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt06 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt07 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt08 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt09 [250 polys, 222 verts] 'Python-3 Semi-Close'
+		Fin_01 [92 polys, 74 verts] 'Python-3_1 Paint'
+		Guide_Block03 [98 polys, 178 verts] 'Python-3 Paint'
+		Tail_Assemnly [96 polys, 100 verts] 'Python-3 Paint'
+			Rocket_Bay [144 polys, 123 verts] 'Python-3 Paint'
+				Nozzle_Outer [96 polys, 96 verts] 'Python-3 Semi-Close'
+					Nozzle_Inner [262 polys, 168 verts] 'Python-3 Matt'
+		Spoiler_Right [91 polys, 96 verts] 'Python-3_1 Paint'
+			Spoiler_Bolt01 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Spoiler_Bolt02 [82 polys, 72 verts] 'Python-3 Semi-Close'
+		Spoiler_Right01 [91 polys, 96 verts] 'Python-3_1 Paint'
+			Spoiler_Bolt03 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Spoiler_Bolt04 [82 polys, 72 verts] 'Python-3 Semi-Close'
+		Cover [302 polys, 246 verts] 'Python-3_1 Paint', AnimationID: 1 
+			Cover_Clamp [212 polys, 232 verts] 'Python-3_1 Metal'
+		Arming_Pin [52 polys, 54 verts] 'Python-3 Semi-Close'
+		Guide_Block01 [84 polys, 138 verts] 'Python-3 Paint'
+		Fin_02 [92 polys, 74 verts] 'Python-3_1 Paint'
+		Fin_03 [92 polys, 74 verts] 'Python-3_1 Paint'
+		Fin_04 [92 polys, 74 verts] 'Python-3_1 Paint'
+		Wing01 [700 polys, 737 verts] 'Python-3_1 Paint'
+			Wing_Bolt01 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Wing_Bolt02 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Wing_Bolt03 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Wing_Bolt04 [82 polys, 72 verts] 'Python-3 Semi-Close'
+		Wing02 [700 polys, 737 verts] 'Python-3_1 Paint'
+			Wing_Bolt05 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Wing_Bolt06 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Wing_Bolt07 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Wing_Bolt08 [82 polys, 72 verts] 'Python-3 Semi-Close'
+		Wing03 [700 polys, 737 verts] 'Python-3_1 Paint'
+			Wing_Bolt09 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Wing_Bolt10 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Wing_Bolt11 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Wing_Bolt12 [82 polys, 72 verts] 'Python-3 Semi-Close'
+		Wing04 [700 polys, 737 verts] 'Python-3_1 Paint'
+			Wing_Bolt13 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Wing_Bolt14 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Wing_Bolt15 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Wing_Bolt16 [82 polys, 72 verts] 'Python-3 Semi-Close'
+		Nose_Tip [120 polys, 73 verts] 'Python-3 Metal'
+		FinBase_01 [89 polys, 94 verts] 'Python-3_1 Metal'
+		FinBase_02 [89 polys, 94 verts] 'Python-3_1 Metal'
+		FinBase_03 [89 polys, 94 verts] 'Python-3_1 Metal'
+		FinBase_04 [89 polys, 94 verts] 'Python-3_1 Metal'
+	Conector [76 polys, 86 verts] 'Python-3 Paint'
+
+
+Num Nodes: 58
+Total:    (12060 polys, 11378 verts)
+Mesh Max: (1424 polys, 1596 verts)
+
+6 Materials:
+ (  1) Python-3 Paint:
+       Specular=0.25, Glossiness=0.10, Color:<229,229,229>
+       Derby.jpg
+ (  2) Python-3 Semi-Close:
+       Specular=0.40, Glossiness=0.30, Color:<229,229,229>
+       Derby.jpg
+ (  3) Python-3_1 Paint:
+       Specular=0.25, Glossiness=0.10, Color:<229,229,229>
+       Derby_1.jpg
+ (  4) Python-3 Matt:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       Derby.jpg
+ (  5) Python-3_1 Metal:
+       Specular=0.60, Glossiness=0.40, Color:<229,229,229>
+       Reflection=0.10
+       Derby_1.jpg
+ (  6) Python-3 Metal:
+       Specular=0.60, Glossiness=0.40, Color:<229,229,229>
+       Reflection=0.60
+       Derby.jpg
+
+2 Textures:
+Derby.jpg
+Derby_1.jpg
+
+Points
+
+Extents
