@@ -1,0 +1,311 @@
+	DY_LOD_100 [60 polys, 103 verts] 'mat16'
+	DX_LOD_100 [60 polys, 109 verts] 'mat16'
+	DS_LOD_100 [70 polys, 136 verts] 'mat16'
+	DR_LOD_100 [70 polys, 102 verts] 'mat16'
+	DQ_LOD_100 [70 polys, 102 verts] 'mat16'
+	DP_LOD_100 [70 polys, 136 verts] 'mat16'
+	BL_LOD_100 [8 polys, 16 verts] 'mat33'
+	BI_LOD_100 [160 polys, 145 verts] 'mat20'
+	BH_LOD_100 [14 polys, 16 verts] 'mat02'
+	BF_LOD_100 [10 polys, 20 verts] 'mat42'
+	BA_LOD_100 [6 polys, 12 verts] 'mat04'
+	AZ_LOD_100 [24 polys, 36 verts] 'mat07'
+	AW_LOD_100 [5 polys, 7 verts] 'mat15'
+	AV_LOD_100 [1167 polys, 1153 verts] 'mat41'
+		AA_LOD_100 [816 polys, 616 verts] 'mat40'
+		AB_LOD_100 [174 polys, 205 verts] 'mat43'
+		AO_LOD_100 [130 polys, 109 verts] 'mat09'
+		AC_LOD_100 [36 polys, 42 verts] 'mat08'
+		BJ_LOD_100 [517 polys, 289 verts] 'mat31'
+		BB_LOD_100 [14 polys, 34 verts] 'mat25'
+		AR_LOD_100 [18 polys, 32 verts] 'mat38'
+		AK_LOD_100 [342 polys, 384 verts] 'mat24'
+		AI_LOD_100 [33 polys, 49 verts] 'mat34'
+		DV_LOD_100 [76 polys, 150 verts] 'mat06'
+		BU_LOD_100 [4 polys, 6 verts] 'mat16'
+		DT_LOD_100 [76 polys, 150 verts] 'mat06'
+		BM_LOD_100 [14 polys, 24 verts] 'mat44'
+		BT_LOD_100 [40 polys, 86 verts] 'mat13'
+		DU_LOD_100 [148 polys, 178 verts] 'mat16'
+		DW_LOD_100 [148 polys, 178 verts] 'mat16'
+		BG_LOD_100 [10 polys, 16 verts] 'mat19'
+		BE_LOD_100 [4 polys, 8 verts] 'mat39'
+		BC_LOD_100 [34 polys, 50 verts] 'mat26'
+		CF_LOD_100 [291 polys, 293 verts] 'mat10', AnimationID: 1 
+			CI_LOD_100 [299 polys, 325 verts] 'mat10'
+			CO_LOD_100 [20 polys, 38 verts] 'mat10'
+			CN_LOD_100 [20 polys, 38 verts] 'mat10'
+			CH_LOD_100 [16 polys, 32 verts] 'mat33'
+			CJ_LOD_100 [240 polys, 260 verts] 'mat33'
+			CK_LOD_100 [44 polys, 48 verts] 'mat45'
+			CL_LOD_100 [240 polys, 260 verts] 'mat33'
+			CM_LOD_100 [44 polys, 48 verts] 'mat45', AnimationID: 1 
+		CP_LOD_100 [291 polys, 293 verts] 'mat10', AnimationID: 1 
+			CR_LOD_100 [16 polys, 32 verts] 'mat33'
+			CS_LOD_100 [299 polys, 325 verts] 'mat10'
+			CV_LOD_100 [240 polys, 260 verts] 'mat33'
+			CT_LOD_100 [240 polys, 260 verts] 'mat33'
+			CU_LOD_100 [44 polys, 48 verts] 'mat45'
+			CW_LOD_100 [44 polys, 48 verts] 'mat45'
+			CX_LOD_100 [20 polys, 38 verts] 'mat10'
+			CY_LOD_100 [20 polys, 38 verts] 'mat10'
+		BV_LOD_100 [291 polys, 293 verts] 'mat10', AnimationID: 1 
+			BZ_LOD_100 [240 polys, 260 verts] 'mat33'
+			CB_LOD_100 [240 polys, 260 verts] 'mat33'
+			CC_LOD_100 [44 polys, 48 verts] 'mat45'
+			CE_LOD_100 [20 polys, 38 verts] 'mat10'
+			CA_LOD_100 [44 polys, 48 verts] 'mat45'
+			BY_LOD_100 [299 polys, 325 verts] 'mat10'
+			BX_LOD_100 [16 polys, 32 verts] 'mat33'
+			CD_LOD_100 [20 polys, 38 verts] 'mat10'
+		BQ_LOD_100 [210 polys, 191 verts] 'mat21', AnimationID: 2 
+			marcos [512 polys, 576 verts] 'mat10'
+			BR_LOD_100 [210 polys, 191 verts] 'mat22'
+				BS_LOD_100 [224 polys, 312 verts] 'mat17'
+			AE_LOD_101 [128 polys, 132 verts] '01 - Default'
+		AP_LOD_100 [80 polys, 160 verts] 'mat36'
+		AG_LOD_100 [546 polys, 446 verts] 'mat27'
+			AN_LOD_100 [216 polys, 235 verts] 'mat32'
+		AM_LOD_100 [1240 polys, 1445 verts] 'mat00'
+		AL_LOD_100 [346 polys, 468 verts] 'mat13'
+		DM_LOD_100 [2 polys, 6 verts] 'mat28'
+		DB_LOD_100 [28 polys, 38 verts] 'mat00'
+		DE_LOD_100 [44 polys, 96 verts] 'mat00'
+		DH_LOD_100 [8 polys, 16 verts] 'mat00'
+		DI_LOD_100 [2 polys, 4 verts] 'mat28'
+		DL_LOD_100 [8 polys, 20 verts] 'mat00'
+		CZ_LOD_100 [44 polys, 96 verts] 'mat00'
+		AJ_LOD_100 [52 polys, 94 verts] 'mat37'
+		DO_LOD_100 [120 polys, 148 verts] 'mat37'
+		DN_LOD_100 [104 polys, 109 verts] 'mat35'
+		DF_LOD_100 [6 polys, 18 verts] 'mat35'
+		AF_LOD_100 [1807 polys, 2413 verts] 'mat10'
+		DK_LOD_100 [122 polys, 127 verts] 'mat37'
+		DJ_LOD_100 [104 polys, 123 verts] 'mat35'
+		BK_LOD_100 [646 polys, 708 verts] 'mat12'
+		BO_LOD_100 [428 polys, 336 verts] 'mat11'
+		DG_LOD_100 [264 polys, 231 verts] 'mat37'
+		DC_LOD_100 [24 polys, 36 verts] 'mat10'
+		DD_LOD_100 [10 polys, 12 verts] 'mat32'
+		DA_LOD_100 [270 polys, 255 verts] 'mat35'
+		AX_LOD_100 [32 polys, 32 verts] 'mat29'
+			EK_LOD_100 [128 polys, 256 verts] 'mat10'
+			EH_LOD_100 [112 polys, 192 verts] 'mat16'
+			EL_LOD_100 [128 polys, 256 verts] 'mat10'
+			EI_LOD_100 [136 polys, 208 verts] 'mat14'
+			EJ_LOD_100 [1134 polys, 1130 verts] 'mat29'
+			EG_LOD_100 [112 polys, 224 verts] 'mat46'
+			EF_LOD_100 [224 polys, 448 verts] 'mat01'
+			ED_LOD_100 [64 polys, 97 verts] 'mat14'
+			EE_LOD_100 [496 polys, 436 verts] 'mat00'
+		AD_LOD_100 [588 polys, 591 verts] 'mat35'
+		AQ_LOD_100 [414 polys, 582 verts] 'mat01'
+		BN_LOD_100 [158 polys, 208 verts] 'mat18'
+		AH_LOD_100 [1609 polys, 2535 verts] 'mat06'
+		BP_LOD_100 [448 polys, 502 verts] 'mat23'
+		AY_LOD_100 [475 polys, 503 verts] 'mat16'
+		AT_LOD_100 [6 polys, 10 verts] 'mat14'
+		AU_LOD_100 [25 polys, 33 verts] 'mat03'
+		AS_LOD_100 [9 polys, 11 verts] 'mat30'
+			AE_LOD_100 [397 polys, 381 verts] '01 - Default'
+			BD_LOD_100 [26 polys, 52 verts] 'mat28'
+		rotor2 [16 polys, 32 verts] 'mat00'
+			DZ_LOD_100 [610 polys, 919 verts] 'mat00'
+			EA_LOD_100 [40 polys, 70 verts] 'mat13'
+			EC_LOD_100 [70 polys, 120 verts] 'mat08'
+			EB_LOD_100 [500 polys, 776 verts] 'mat00'
+		Object01 [9 polys, 13 verts] 'mat29'
+
+
+Num Nodes: 117
+Total:    (23841 polys, 28384 verts)
+Mesh Max: (1807 polys, 2535 verts)
+
+47 Materials:
+ (  1) mat16:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ (  2) mat33:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       other2.bmp
+ (  3) mat20:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       dome.bmp
+ (  4) mat02:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       c_floor.bmp
+ (  5) mat42:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       SPONSO~1.BMP
+ (  6) mat04:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       cabinf~1.bmp
+ (  7) mat07:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ (  8) mat15:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ (  9) mat41:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       side2.bmp
+ ( 10) mat40:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       REAR-F~1.BMP
+ ( 11) mat43:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       tail.bmp
+ ( 12) mat09:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 13) mat08:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 14) mat31:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       nose.bmp
+ ( 15) mat25:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       igrey.bmp
+ ( 16) mat38:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       other6a.bmp
+ ( 17) mat24:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       floor.bmp
+ ( 18) mat34:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       other3.bmp
+ ( 19) mat06:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 20) mat44:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       VC1.bmp
+ ( 21) mat13:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 22) mat19:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       crestl.bmp
+ ( 23) mat39:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       OVERHE~1.BMP
+ ( 24) mat26:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       igrey2.bmp
+ ( 25) mat10:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 26) mat45:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       wheel.bmp
+ ( 27) mat21:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       door.bmp
+ ( 28) mat22:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       DOOR_I~1.BMP
+ ( 29) mat17:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 30) 01 - Default:
+       Transparency enabled
+       CanopyGlass.tga
+ ( 31) mat36:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       other5.bmp
+ ( 32) mat27:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       inside.bmp
+ ( 33) mat32:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       other1.bmp
+ ( 34) mat00:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       basic.bmp
+ ( 35) mat28:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       lightgrn.bmp
+ ( 36) mat37:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       other6.bmp
+ ( 37) mat35:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       other4.bmp
+ ( 38) mat12:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 39) mat11:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 40) mat29:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       lowdeck.bmp
+ ( 41) mat14:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 42) mat46:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       yellow.bmp
+ ( 43) mat01:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       black.bmp
+ ( 44) mat18:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 45) mat23:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       engine.bmp
+ ( 46) mat03:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       c_floor.bmp
+ ( 47) mat30:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       lowdeck2.bmp
+
+33 Textures:
+other2.bmp
+dome.bmp
+c_floor.bmp
+SPONSO~1.BMP
+cabinf~1.bmp
+side2.bmp
+REAR-F~1.BMP
+tail.bmp
+nose.bmp
+igrey.bmp
+other6a.bmp
+floor.bmp
+other3.bmp
+VC1.bmp
+crestl.bmp
+OVERHE~1.BMP
+igrey2.bmp
+wheel.bmp
+door.bmp
+DOOR_I~1.BMP
+CanopyGlass.tga
+other5.bmp
+inside.bmp
+other1.bmp
+basic.bmp
+lightgrn.bmp
+other6.bmp
+other4.bmp
+lowdeck.bmp
+yellow.bmp
+black.bmp
+engine.bmp
+lowdeck2.bmp
+
+Points
+
+Extents

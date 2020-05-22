@@ -1,0 +1,6 @@
+Bueno, ahi va una pruebita de comandos para el tremendo Puma de Angel Liguori, que esta en la página. Por las dudas hagan copia del .ini del Puma. El resto instalen en cada carpeta que corresponde. Es para SF2. voy a ver como anda en el 1 y modificar lo que se deba. Sería interesante poner unos comandos con FAL (estos tienen otro fierro y cara de maracas), Uniforme adecuado y que arranquen sentados. Si puse todo bien, cuando los largan alto, abren paracaidas. Sino saltan nomas. No los bajen con el Helo parado porque son bombas y pueden dañar tu propia máquina. Tambien hay que ver un factor que va en el wreckobject.ini que permite que varíen las posisiones que toman al caer (rodila a tierra, cuerpo a tierra, de pie), pero no me acuerdo como era la joda ni si tengo el modelo de las posiciones. Voy a buscar. Ah, y eso de que esten parados como agarrados del caño del bondi tampoco va. Sentaditos se verían más bonitos. Prueben a ver que onda.
+
+Walter.
+
+PD: esto es solo toqueteo de inis, los lods, texturas y autoría de esto es de los modeladores originales, a los cuales les corresponde todo el credito.
+ 
