@@ -1,0 +1,91 @@
+NOTE: This is the second release of my canard pack, the names of the canards should be correct now.
+
+
+
+This is a pack containing the 3D models for the Canards from my F-16XF Gyrfalcon.
+There are individual models and skins for the left and right canard canted at positve 15 degrees, 
+0 degrees horizontal and negative 15 degrees. 
+
+To get you started here are the relavent lines from the data.ini of the example F-4C
+
+//Add the following to the relavent system, e.g. nose, fusilage, canopy, etc, replacing the numbers
+with suitable ones
+
+SystemName[005]=Canardleftup
+SystemName[006]=Canardleft
+SystemName[007]=Canardleftdown
+SystemName[008]=Canardrightup
+SystemName[009]=Canardright
+SystemName[010]=Canardrightdown
+
+//Add the following below the pilot entry.
+
+[Canardleftup]
+SystemType=PILOT_COCKPIT 
+Position=-0.5,7,-0.7
+PilotModelName=canardleftup15
+SeatModelName= 
+SeatPosition=
+MinExtentPosition=-0.5,7,-0.7
+MaxExtentPosition=-0.5,7,-0.7
+CanopyNodeName= 
+SeatID=2
+
+[Canardleft]
+SystemType=PILOT_COCKPIT 
+Position=-0.5,7,-0.4
+PilotModelName=canardleft
+SeatModelName= 
+SeatPosition=
+MinExtentPosition=-0.5,7,-0.4
+MaxExtentPosition=-0.5,7,-0.4
+CanopyNodeName= 
+SeatID=2
+
+[Canardleftdown]
+SystemType=PILOT_COCKPIT 
+Position=-0.5,7,0.2
+PilotModelName=canardleftdown15
+SeatModelName= 
+SeatPosition=
+MinExtentPosition=-0.5,7,0.2
+MaxExtentPosition=-0.5,7,0.2
+CanopyNodeName= 
+SeatID=2
+
+[Canardrightup]
+SystemType=PILOT_COCKPIT 
+Position=0.5,7,-0.7
+PilotModelName=canardrightup15
+SeatModelName= 
+SeatPosition=
+MinExtentPosition=0.5,7,-0.7
+MaxExtentPosition=0.5,7,-0.7
+CanopyNodeName= 
+SeatID=2
+
+[Canardright]
+SystemType=PILOT_COCKPIT 
+Position=0.5,7,-0.4
+PilotModelName=canardright
+SeatModelName= 
+SeatPosition=
+MinExtentPosition=0.5,7,-0.4
+MaxExtentPosition=0.5,7,-0.4
+CanopyNodeName= 
+SeatID=2
+
+[Canardrightdown]
+SystemType=PILOT_COCKPIT 
+Position=0.5,7,0.2
+PilotModelName=canardrightdown15
+SeatModelName= 
+SeatPosition=
+MinExtentPosition=0.5,7,0.2
+MaxExtentPosition=0.5,7,0.2
+CanopyNodeName= 
+SeatID=2
+
+
+
+Note: the relavent models and skins must be placed in your AIRCRAFT DIRECTORY

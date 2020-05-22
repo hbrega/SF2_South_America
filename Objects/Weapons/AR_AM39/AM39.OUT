@@ -1,0 +1,17 @@
+	Main (192 polys, 576 verts) '1 - Default'
+		Back_Wing01 (20 polys, 60 verts) '1 - Default'
+		Back_Wing02 (20 polys, 60 verts) '1 - Default'
+		Back_Wing03 (20 polys, 60 verts) '1 - Default'
+		Back_Wing04 (20 polys, 60 verts) '1 - Default'
+		Det_Wing01 (12 polys, 36 verts) '1 - Default'
+		Det_Wing02 (12 polys, 36 verts) '1 - Default'
+		Det_Wing03 (12 polys, 36 verts) '1 - Default'
+		Det_Wing04 (12 polys, 36 verts) '1 - Default'
+		Wing01 (20 polys, 60 verts) '1 - Default'
+		Wing02 (20 polys, 60 verts) '1 - Default'
+		Wing03 (20 polys, 60 verts) '1 - Default'
+		Wing04 (20 polys, 60 verts) '1 - Default'
+
+
+Total:    (400 polys, 1200 verts)
+Mesh Max: (192 polys, 576 verts)
