@@ -1,0 +1,44 @@
+**************************************************************************
+* EMB-326GC FORÇA AÉREA BRASILEIRA Setup Instructions
+*
+* Texture skins, Cockpit textures, Seat textures by Gilby Sweet
+* Loading & Hangar screens by Gilby Sweet
+* New lights by Gilby Sweet
+* All Copyrights Reserved Gilby Sweet Art & Design (c) 2018
+* Visit: facebook.com/StrikeFightersBrasil
+*
+**************************************************************************
+* Contact Information: Fox Monter. E-mail: foxmonter@gmail.com
+* Brought to you by Fox Monter, Charles and Capun
+* Airplane Model by Fox Monter
+* Release 12/24/06
+* 
+* Do not distribute, repackage or post without previous consent.
+* All Copyrights Reserved FoxMonter 3d Design (c) 2003-2006
+* No Modifications without previous consent is allowed
+* Models are done solely for the purpose of enjoyment by Fox Monter.
+* Fox Monter reserves the right to use poetic license in the design.
+* Model released to the SFP1/WoV/WoE community for their enjoyment
+* with no implicit warranties, Caveat Emptor. 
+*
+* By downloading this file you acknowledge that is provided on an
+* "as is" basis, constructive feedback can be sent to the contact
+* information.
+* 
+* Contributors list
+*
+* Original 3D Model by Fox Monter
+* Cockpit 3d Model by Fox Monter
+* Mapping by Fox Monter
+* Testing by Capun
+* FM and Testing by Charles
+* Loading & Hangar screens by Fox Monter
+*************************************************************************
+
+
+1- Unzip the EMB-326GC to   ...\ThirdWire\StrikeFighters2\
+
+2- Happy Hunting.
+
+
+=========================================================================
