@@ -33,3 +33,13 @@ IAe.27 Pulqui I
 IAe.33 Pulqui II
 
 IAe.33B Pulqui II B
+
+Atlas Cheetah C
+
+Atlas Cheetah D 
+
+Kfir C7 Colombia
+
+A4-C
+
+A4-B

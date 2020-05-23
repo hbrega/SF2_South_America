@@ -1,0 +1,110 @@
+// Station 1 = Avionics Hump
+// Station 2 = Left Wing Station Outboard
+// Station 3 = Right Wing Station Outboard
+// Station 4 = Left Wing Station Inboard
+// Station 5 = Right Wing Station Inboard
+// Station 6 = Centerline Fueslage Station
+
+[AirToAir]
+Loadout[01].WeaponType=A4CA
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Shafrir1
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=Shafrir1
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=Shafrir1
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=Shafrir1
+Loadout[05].Quantity=1
+
+[AirToAirLongRange]
+Loadout[01].WeaponType=A4CA
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Shafrir1
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=Shafrir1
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=Tank300_A4Ccamo
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=Tank300_A4Ccamo
+Loadout[05].Quantity=1
+
+[Attack]
+Loadout[01].WeaponType=A4CA
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=HAL LAU-3A
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=HAL LAU-3A
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=HAL LAU-3A
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=HAL LAU-3A
+Loadout[05].Quantity=1
+Loadout[06].WeaponType=Tank300_A4nf
+Loadout[06].Quantity=1
+
+[Strike]
+Loadout[01].WeaponType=A4CA
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=HAL MK83
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=HAL MK83
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=Tank300_A4Ccamo
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=Tank300_A4Ccamo
+Loadout[05].Quantity=1
+Loadout[06].WeaponType=HAL MK82
+Loadout[06].Quantity=6
+Loadout[06].RackType=MER
+
+[SEAD]
+Loadout[01].WeaponType=A4CA
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=HAL LAU-3A
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=HAL LAU-3A
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=HAL MK82SE
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=HAL MK82SE
+Loadout[05].Quantity=1
+Loadout[06].WeaponType=Tank300_A4nf
+Loadout[06].Quantity=1
+
+[Anti-Ship]
+Loadout[01].WeaponType=A4CA
+Loadout[01].Quantity=1
+Loadout[04].WeaponType=Tank300_A4C
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=Tank300_A4C
+Loadout[05].Quantity=1
+Loadout[06].WeaponType=HAL MK82SE
+Loadout[06].Quantity=6
+Loadout[06].RackType=MER
+
+[FAC]
+Loadout[01].WeaponType=A4CA
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=HAL LAU-3A
+Loadout[02].Quantity=1
+Loadout[02].WeaponType=HAL LAU-3A
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=Tank300_A4Ccamo
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=Tank300_A4Ccamo
+Loadout[05].Quantity=1
+Loadout[06].WeaponType=Tank300_A4nf
+Loadout[06].Quantity=1
+
+[Recon]
+Loadout[01].WeaponType=A4CA
+Loadout[01].Quantity=1
+Loadout[04].WeaponType=Tank300_A4Ccamo
+Loadout[04].Quantity=1
+Loadout[05].WeaponType=Tank300_A4Ccamo
+Loadout[05].Quantity=1
+Loadout[06].WeaponType=Tank300_A4nf
+Loadout[06].Quantity=1
+
+

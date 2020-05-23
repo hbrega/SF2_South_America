@@ -1,0 +1,48 @@
+	Cylinder01 [476 polys, 386 verts] '17 - Default'
+		Cylinder04 [212 polys, 229 verts] '17 - Default'
+		Cylinder06 [156 polys, 129 verts] '17 - Default'
+		Cylinder05 [216 polys, 184 verts] '20 - Default', AnimationID: 1 
+			Line07 [44 polys, 51 verts] '12 - Default', AnimationID: 1 
+				Sphere01 [960 polys, 574 verts] '12 - Default', AnimationID: 1 
+			Box03 [96 polys, 118 verts] '17 - Default', AnimationID: 1 
+			Box06 [96 polys, 124 verts] '17 - Default', AnimationID: 1 
+			Box07 [96 polys, 112 verts] '17 - Default', AnimationID: 1 
+			Box08 [96 polys, 111 verts] '17 - Default', AnimationID: 1 
+			Box04 [96 polys, 116 verts] '17 - Default', AnimationID: 1 
+			Box09 [96 polys, 118 verts] '17 - Default', AnimationID: 1 
+			Box10 [96 polys, 117 verts] '17 - Default', AnimationID: 1 
+			Box11 [96 polys, 110 verts] '17 - Default', AnimationID: 1 
+			Line01 [44 polys, 73 verts] '12 - Default', AnimationID: 1 
+			Line02 [44 polys, 69 verts] '12 - Default', AnimationID: 1 
+			Line03 [44 polys, 74 verts] '12 - Default', AnimationID: 1 
+			Line09 [44 polys, 64 verts] '12 - Default', AnimationID: 1 
+			Line04 [44 polys, 61 verts] '12 - Default', AnimationID: 1 
+			Line11 [44 polys, 71 verts] '12 - Default', AnimationID: 1 
+			Line12 [44 polys, 71 verts] '12 - Default', AnimationID: 1 
+			Line13 [44 polys, 64 verts] '12 - Default', AnimationID: 1 
+		Cylinder07 [240 polys, 209 verts] '17 - Default', AnimationID: 1 
+			Box02 [20 polys, 40 verts] '17 - Default'
+			Box01 [20 polys, 40 verts] '17 - Default'
+
+
+Num Nodes: 25
+Total:    (3464 polys, 3315 verts)
+Mesh Max: (960 polys, 574 verts)
+
+3 Materials:
+ (  1) 17 - Default:
+       MK_17_Paracaidas.bmp
+ (  2) 20 - Default:
+       <No Texture>
+ (  3) 12 - Default:
+       <No Texture>
+
+1 Textures:
+MK_17_Paracaidas.bmp
+
+Points
+
+Extents
+Box05
+MinExtentPosition=-0.00,-0.92,-0.21
+MaxExtentPosition=0.04,0.95,0.21

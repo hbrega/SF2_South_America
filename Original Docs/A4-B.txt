@@ -1,0 +1,33 @@
+A4-P Argentine modified version of A4B, these aircraft had a large
+participation in the Malvinas war with many victories,
+Here these conflicts are represented skins.
+
+This mod includes a fake pilot adds antennas
+6 different skins
+armament, pilot, sound effect and ejection seat.
+to use this plane is necessary SFP2 A4-B, WOV,
+for the complete installation of the updated series.
+how to install copy the contents of each aircraft folder, sound, pilot,
+etc... inside your mod folder corresponding simulator.
+thank you very much to the people who created weapons and effects using this mod
+
+THE BANIDOS-TEAM
+--------------------------------------------------------------------------------------------------------------------
+
+
+A4-P Argentina version del A4B modificada  , estas aeronaves tuvieron una gran 
+participacion en el conflicto de malvinas con muchas victorias, 
+aqui se representan esas pieles del conflictos.
+
+este mod incluye un piloto falso que agrega las antenas
+6 pieles distintas 
+armamneto, piloto, sonido, efecto y asiento eyectable.
+para poder usar este avion es necesario el A4-B de SFP2, WOV, 
+o la instalacion completa de la serie actualizada.
+como instalarlo copie el contenido de cada carpeta aircraft, sound, pilot, 
+etc dentro de su carpeta de simulador mod correspondiente.
+muchas  gracias a las personas 
+que crearon armamento y efectos que utiliza este mod
+
+THE BANIDOS-TEAM
+ 

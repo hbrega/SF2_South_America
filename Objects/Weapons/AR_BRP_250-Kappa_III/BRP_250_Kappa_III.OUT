@@ -1,0 +1,53 @@
+	Layer:0 [430 polys, 313 verts] '16 - Default'
+		Cylinder05 [216 polys, 148 verts] '07 - Default', AnimationID: 1 
+			Line07 [44 polys, 50 verts] '12 - Default', AnimationID: 1 
+				Sphere01 [960 polys, 559 verts] '12 - Default'
+			Box01 [96 polys, 90 verts] '16 - Default', AnimationID: 1 
+			Box06 [96 polys, 90 verts] '16 - Default', AnimationID: 1 
+			Box07 [96 polys, 90 verts] '16 - Default', AnimationID: 1 
+			Box08 [96 polys, 90 verts] '16 - Default', AnimationID: 1 
+			Box02 [96 polys, 90 verts] '16 - Default', AnimationID: 1 
+			Box09 [96 polys, 90 verts] '16 - Default', AnimationID: 1 
+			Box10 [96 polys, 90 verts] '16 - Default', AnimationID: 1 
+			Box11 [96 polys, 90 verts] '16 - Default', AnimationID: 1 
+			Line01 [44 polys, 50 verts] '12 - Default', AnimationID: 1 
+			Line02 [44 polys, 50 verts] '12 - Default', AnimationID: 1 
+			Line03 [44 polys, 50 verts] '12 - Default', AnimationID: 1 
+			Line09 [44 polys, 50 verts] '12 - Default', AnimationID: 1 
+			Line04 [44 polys, 50 verts] '12 - Default', AnimationID: 1 
+			Line11 [44 polys, 50 verts] '12 - Default', AnimationID: 1 
+			Line12 [44 polys, 50 verts] '12 - Default', AnimationID: 1 
+			Line13 [44 polys, 50 verts] '12 - Default', AnimationID: 1 
+			Cylinder02 [216 polys, 206 verts] '16 - Default', AnimationID: 1 
+				Box03 [40 polys, 64 verts] '16 - Default'
+				Box05 [40 polys, 64 verts] '16 - Default'
+			Layer:0 [44 polys, 50 verts] '16 - Default'
+		Layer:0 [156 polys, 167 verts] '16 - Default', AnimationID: 1 
+			Layer:0 [440 polys, 504 verts] '16 - Default'
+			Layer:0 [64 polys, 76 verts] '16 - Default'
+			Layer:0 [116 polys, 128 verts] '16 - Default'
+			Layer:0 [672 polys, 728 verts] '16 - Default'
+			Layer:0 [68 polys, 80 verts] '16 - Default'
+		Cylinder04 [204 polys, 222 verts] '17 - Default'
+
+
+Num Nodes: 31
+Total:    (4830 polys, 4479 verts)
+Mesh Max: (960 polys, 728 verts)
+
+4 Materials:
+ (  1) 16 - Default:
+       BRP_250_KAPA_III.bmp
+ (  2) 07 - Default:
+       <No Texture>
+ (  3) 12 - Default:
+       <No Texture>
+ (  4) 17 - Default:
+       <No Texture>
+
+1 Textures:
+BRP_250_KAPA_III.bmp
+
+Points
+
+Extents

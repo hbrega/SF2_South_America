@@ -1,0 +1,44 @@
+A4-C Argentina A4C modified version of the model F external media to carry 
+bombs and missiles Shafrir 2 
+these aircraft had many missions Gerra was not durantre the conflict 
+between Argentina and Chile, and a large stake in the Falklands conflict 
+with heavy losses, skins here these two conflicts are represented.
+This mod includes a dummy pilot adding antennas and weapons mounts
+10 different skins
+armamneto, pilot, sound effect and ejection seat.
+to use this plane is necessary SFP2 A4-C, WOV, or the complete installation 
+of the current series.
+how to install copy the folder contents of each aircraft, sound, pilot, etc. 
+inside your mod folder corresponding simulator.
+bugs had problems installing the bracket Shafrir missile (pod Atlas)
+when changing weapons, but if the air mission is air missiles loaded the plane smoothly
+I hope you like and thank you very much to the people who 
+created weapons and effects using this mod
+
+THE BANIDOS-TEAM
+
+-------------------------------------------------------------------------------------------
+
+
+A4-C Argentina version del A4C modificada con soportes externos del modelo F 
+para portar bombas y misiles shafrir 2 , estas aeronaves tuvieron muchas misiones 
+en la gerra que no fue durantre el conflicto entre Argentina y Chile y una gran 
+participacion en el conflicto de malvinas con fuertes perdidas, 
+aqui se representan esas pieles de ambos conflictos.
+
+este mod incluye un piloto falso que agrega las antenas y los soportes de armas 
+10 pieles distintas 
+armamneto, piloto, sonido, efecto y asiento eyectable.
+para poder usar este avion es necesario el A4-C de SFP2, WOV, 
+o la instalacion completa de la serie actualizada.
+como instalarlo copie el contenido de cada carpeta aircraft, sound, pilot, 
+etc dentro de su carpeta de simulador mod correspondiente.
+bugs tuve problemas al instalar el soporte del misil shafrir (pod Atlas)
+al momento de cambiar armamento, pero si la mision es de aire aire el avion 
+cargara los misiles sin complicaciones 
+espero que les guste
+y muchas  gracias a las personas 
+que crearon armamento y efectos que utiliza este mod
+
+THE BANIDOS-TEAM
+ 

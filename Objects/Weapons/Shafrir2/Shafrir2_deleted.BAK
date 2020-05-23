@@ -1,0 +1,12 @@
+[WeaponData]
+ObjectFullName=Shafrir-2
+ObjectDataFile=Shafrir2_data.INI
+
+[LOD001]
+Filename=Shafrir2.lod
+Distance=850
+
+[Shadow]
+CastShadow=TRUE
+ShadowCastDist=2000
+MaxVisibleDistance=400
