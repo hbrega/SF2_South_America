@@ -43,3 +43,15 @@ Kfir C7 Colombia
 A4-C
 
 A4-B
+
+EADS Mako
+
+EADS Mako T
+
+Fantrainer 600P
+
+Mirage 4000
+
+MD-500D Avispa
+
+KAI KT-1P Torito

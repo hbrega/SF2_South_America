@@ -1,0 +1,72 @@
+	Fuselage (506 polys, 1518 verts) '01 - Default'
+		RightWing (98 polys, 294 verts) '01 - Default'
+			RI_Pylon (35 polys, 105 verts) '01 - Default'
+			RightOuterWing (79 polys, 237 verts) '01 - Default'
+				RO_Pylon (35 polys, 105 verts) '01 - Default'
+				Aileron_R (13 polys, 39 verts) '01 - Default'
+			TPD_OP (8 polys, 24 verts) '01 - Default'
+			RightMainStrut (38 polys, 114 verts) '01 - Default'
+				Tire_Right (68 polys, 204 verts) '01 - Default'
+				AMR (51 polys, 153 verts) '01 - Default'
+			Flap_R (6 polys, 18 verts) '01 - Default'
+		LeftWing (85 polys, 255 verts) '01 - Default'
+			LI_Pylon (35 polys, 105 verts) '01 - Default'
+			LeftOuterWing (104 polys, 312 verts) '01 - Default'
+				LO_Pylon (35 polys, 105 verts) '01 - Default'
+				Aileron_L (10 polys, 30 verts) '01 - Default'
+			TPI_OP (8 polys, 24 verts) '01 - Default'
+			Flap_L (6 polys, 18 verts) '01 - Default'
+			LeftMainStrut (38 polys, 114 verts) '01 - Default'
+				Tire_Left (68 polys, 204 verts) '01 - Default'
+				AML (51 polys, 153 verts) '01 - Default'
+		LandingLights (92 polys, 276 verts) '01 - Default'
+		tapa (6 polys, 18 verts) '01 - Default'
+		NoseMainStrut (16 polys, 48 verts) '01 - Default'
+			NoseMainSusp (82 polys, 246 verts) '01 - Default'
+				Tire_Front (68 polys, 204 verts) '01 - Default'
+				sh1 (8 polys, 24 verts) '01 - Default'
+			SH2 (10 polys, 30 verts) '01 - Default'
+		Nose (406 polys, 1218 verts) '01 - Default'
+			Cono (100 polys, 300 verts) '01 - Default'
+				Helice (136 polys, 408 verts) '01 - Default'
+				ffp (32 polys, 96 verts) '08 - Default'
+					Plane02 (32 polys, 96 verts) '08 - Default'
+				sfp (32 polys, 96 verts) '09 - Default'
+					Plane01 (32 polys, 96 verts) '09 - Default'
+			TF_D (6 polys, 18 verts) '01 - Default'
+			TF_I (5 polys, 15 verts) '01 - Default'
+		RightStab (25 polys, 75 verts) '01 - Default'
+			Elevator_R (26 polys, 78 verts) '01 - Default'
+		LeftStab (26 polys, 78 verts) '01 - Default'
+			Elevator_L (24 polys, 72 verts) '01 - Default'
+		VertTail (19 polys, 57 verts) '01 - Default'
+			Rudder (42 polys, 126 verts) '01 - Default'
+			TailLight (8 polys, 24 verts) '01 - Default'
+		Canopy_Frame (125 polys, 375 verts) '01 - Default'
+			cristal (120 polys, 360 verts) '07 - Default'
+		TPI_IP (8 polys, 24 verts) '01 - Default'
+		TPD_IP (8 polys, 24 verts) '01 - Default'
+
+
+Num Nodes: 48
+Total:    (2871 polys, 8613 verts)
+Mesh Max: (506 polys, 1518 verts)
+
+4 Materials:
+ (  1) 01 - Default:
+       KT1_T.jpg
+ (  2) 08 - Default:
+       Transparency enabled
+       fastkt.tga
+ (  3) 09 - Default:
+       Transparency enabled
+       slowkt.tga
+ (  4) 07 - Default:
+       Transparency enabled
+       ClrGlass.TGA
+
+4 Textures:
+KT1_T.jpg
+fastkt.tga
+slowkt.tga
+ClrGlass.TGA
