@@ -1,0 +1,623 @@
+	Nose [340 polys, 315 verts] 'Skin'
+		Pitot_02 [136 polys, 118 verts] 'Bronce_Viejo'
+		Pitot_01 [136 polys, 118 verts] 'Bronce_Viejo'
+		Pitot_03 [136 polys, 118 verts] 'Bronce_Viejo'
+		Canopy [58 polys, 68 verts] 'Skin', AnimationID: 9 
+			Canopy_Glass [134 polys, 94 verts] 'Canopy_Glass'
+			Canopy01 [58 polys, 68 verts] 'Skin'
+			Canopy_Inside [226 polys, 295 verts] 'Black'
+				Object02 [12 polys, 24 verts] 'Black'
+					Cylinder37 [40 polys, 46 verts] 'Metal', AnimationID: 9 
+				Esp_Izq_Base01 [70 polys, 90 verts] 'CasiNegro'
+					Espejos01 [70 polys, 97 verts] 'Mirror'
+				Esp_Izq_Base [70 polys, 90 verts] 'CasiNegro'
+					Espejos [70 polys, 97 verts] 'Mirror'
+				Esp_Izq_Base02 [70 polys, 90 verts] 'CasiNegro'
+					Espejos02 [70 polys, 97 verts] 'Mirror'
+			Canopy_Inside01 [226 polys, 296 verts] 'Black'
+			Canopy_Chord [7552 polys, 3840 verts] 'Skin_Grey'
+			Canopy_Chord [1976 polys, 1024 verts] 'Skin_Grey'
+		Windshield [42 polys, 44 verts] 'Canopy_Glass'
+		Windshield_Frame_Int [44 polys, 46 verts] 'Skin_Grey'
+			Windshield_Seal [136 polys, 138 verts] 'Black'
+		Box53 [8 polys, 9 verts] 'Skin_Grey'
+		Cockpit [88 polys, 139 verts] 'Black'
+			Box_Support [60 polys, 104 verts] 'Skin_Grey'
+				Boxes [68 polys, 112 verts] 'Black'
+					Pipe_10 [322 polys, 331 verts] 'Skin_Grey'
+					Pipe_11 [322 polys, 331 verts] 'Bronce'
+					Pipe_12 [322 polys, 331 verts] 'Skin_Grey'
+					Pipe_09 [322 polys, 331 verts] 'Skin_Grey'
+				Cylinder36 [40 polys, 46 verts] 'Black', AnimationID: 9 
+			Panel [150 polys, 286 verts] 'Skin'
+				Box52 [102 polys, 112 verts] 'Black'
+					HUD_Lamp [80 polys, 49 verts] 'Green'
+				HUD_Proyector [1026 polys, 808 verts] 'ICP_Panel'
+					HUD_Frame [500 polys, 764 verts] 'Black'
+						HUD [6 polys, 8 verts] 'HUD'
+						HUD_Outer_Glass [64 polys, 96 verts] 'Canopy_Glass'
+					Cylinder35 [294 polys, 303 verts] 'Black'
+						Object03 [54 polys, 55 verts] 'Metal'
+					Cylinder09 [240 polys, 217 verts] 'Black'
+					Cylinder34 [294 polys, 303 verts] 'Black'
+						Object01 [54 polys, 55 verts] 'Metal'
+				Click_05 [368 polys, 235 verts] 'Espejos'
+				Click_06 [368 polys, 235 verts] 'Espejos'
+				Click_07 [368 polys, 235 verts] 'Espejos'
+				Click_08 [368 polys, 235 verts] 'Espejos'
+				ALMCD [112 polys, 176 verts] 'CasiNegro'
+					Box109 [12 polys, 24 verts] 'Blanco'
+					Box110 [12 polys, 24 verts] 'Blanco'
+					Box111 [12 polys, 24 verts] 'Blanco'
+					Box112 [12 polys, 24 verts] 'Blanco'
+					Box113 [12 polys, 24 verts] 'Blanco'
+					Box114 [12 polys, 24 verts] 'Blanco'
+					Box115 [12 polys, 24 verts] 'Blanco'
+					Box116 [12 polys, 24 verts] 'Blanco'
+					Box117 [12 polys, 24 verts] 'Blanco'
+					Box118 [12 polys, 24 verts] 'Blanco'
+					Box119 [12 polys, 24 verts] 'Blanco'
+					Box120 [12 polys, 24 verts] 'Blanco'
+					Box121 [12 polys, 24 verts] 'Blanco'
+					Box122 [12 polys, 24 verts] 'Blanco'
+					Box123 [12 polys, 24 verts] 'Blanco'
+					Box124 [12 polys, 24 verts] 'Blanco'
+					Box125 [12 polys, 24 verts] 'Blanco'
+					Box126 [12 polys, 24 verts] 'Blanco'
+					Box127 [12 polys, 24 verts] 'Blanco'
+					Box128 [12 polys, 24 verts] 'Blanco'
+					Box129 [12 polys, 24 verts] 'Blanco'
+					Box130 [12 polys, 24 verts] 'Blanco'
+					Box131 [12 polys, 24 verts] 'Blanco'
+					Box132 [12 polys, 24 verts] 'Blanco'
+					Box133 [12 polys, 24 verts] 'Blanco'
+					Box134 [12 polys, 24 verts] 'Blanco'
+					Box135 [12 polys, 24 verts] 'Blanco'
+					Box136 [12 polys, 24 verts] 'Blanco'
+					Sis_MFD [2 polys, 4 verts] 'Screen_Black'
+						Sis_Avion [172 polys, 180 verts] 'MFD_Green'
+							Gun_dig1 [2 polys, 4 verts] 'Num_Verdes'
+							Gun_dig2 [2 polys, 4 verts] 'Num_Verdes'
+							Gun_dig3 [2 polys, 4 verts] 'Num_Verdes'
+							IRM_Light [2 polys, 4 verts] 'MFD_IRM'
+							SAHM_Light [2 polys, 4 verts] 'MFD_SAHM'
+							BOMB_Light [2 polys, 4 verts] 'MFD_BOMB'
+							Rocket_Light [2 polys, 4 verts] 'MFD_RCKT'
+							ARM_Light [2 polys, 4 verts] 'MFD_ARM'
+							Guns_Light [2 polys, 4 verts] 'MFD_GUNS'
+							Estacion_04 [8 polys, 10 verts] 'MFD_Green'
+							Chaff_Light [2 polys, 4 verts] 'MFD_CHAFF'
+								Chaff_dig1 [2 polys, 4 verts] 'Num_Verdes'
+								Chaff_dig2 [2 polys, 4 verts] 'Num_Verdes'
+							Flare_Light [2 polys, 4 verts] 'MFD_FLARE'
+								Flare_dig2 [2 polys, 4 verts] 'Num_Verdes'
+								Flare_dig1 [2 polys, 4 verts] 'Num_Verdes'
+							ECM_Light [2 polys, 4 verts] 'MFD_ECM'
+							ECM_Light_Off [2 polys, 4 verts] 'MFD_ECM_Off'
+							Estacion_07 [8 polys, 10 verts] 'MFD_Green'
+							Estacion_06 [8 polys, 10 verts] 'MFD_Green'
+							Estacion_05 [8 polys, 10 verts] 'MFD_Green'
+							Estacion_03 [8 polys, 10 verts] 'MFD_Green'
+							Estacion_02 [8 polys, 10 verts] 'MFD_Green'
+							Estacion_01 [8 polys, 10 verts] 'MFD_Green'
+					MFD_Screen [2 polys, 4 verts] 'Ins_Reflection'
+					Radar_MFD [2 polys, 4 verts] 'Radar_Screen'
+					Centert_MFD [2 polys, 4 verts] 'Screen_Black'
+				ALMCD02 [112 polys, 176 verts] 'CasiNegro'
+					Box330 [12 polys, 24 verts] 'Blanco'
+					Box331 [12 polys, 24 verts] 'Blanco'
+					Box332 [12 polys, 24 verts] 'Blanco'
+					Box333 [12 polys, 24 verts] 'Blanco'
+					Box334 [12 polys, 24 verts] 'Blanco'
+					Box335 [12 polys, 24 verts] 'Blanco'
+					Box336 [12 polys, 24 verts] 'Blanco'
+					Box337 [12 polys, 24 verts] 'Blanco'
+					Box338 [12 polys, 24 verts] 'Blanco'
+					Box339 [12 polys, 24 verts] 'Blanco'
+					Box340 [12 polys, 24 verts] 'Blanco'
+					Box341 [12 polys, 24 verts] 'Blanco'
+					Box342 [12 polys, 24 verts] 'Blanco'
+					Box343 [12 polys, 24 verts] 'Blanco'
+					Box344 [12 polys, 24 verts] 'Blanco'
+					Box345 [12 polys, 24 verts] 'Blanco'
+					Box346 [12 polys, 24 verts] 'Blanco'
+					Box347 [12 polys, 24 verts] 'Blanco'
+					Box348 [12 polys, 24 verts] 'Blanco'
+					Box349 [12 polys, 24 verts] 'Blanco'
+					Box350 [12 polys, 24 verts] 'Blanco'
+					Box351 [12 polys, 24 verts] 'Blanco'
+					Box352 [12 polys, 24 verts] 'Blanco'
+					Box353 [12 polys, 24 verts] 'Blanco'
+					Box354 [12 polys, 24 verts] 'Blanco'
+					Box355 [12 polys, 24 verts] 'Blanco'
+					Box356 [12 polys, 24 verts] 'Blanco'
+					Box357 [12 polys, 24 verts] 'Blanco'
+					Sis_MFD02 [2 polys, 4 verts] 'DWN_SIS'
+					MFD_Screen02 [2 polys, 4 verts] 'Ins_Reflection'
+					Right_MFD [2 polys, 4 verts] 'Screen_Black'
+					Map_MFD [2 polys, 4 verts] 'Material #6'
+						Map_Plane [6 polys, 12 verts] 'Blanco_Br'
+					HSI_Frame [52 polys, 53 verts] 'Screen_Black'
+						HSI [22 polys, 24 verts] 'INS_HSI'
+							HSI_3 [2 polys, 4 verts] 'HSI_Numeros'
+							HSI_North [2 polys, 4 verts] 'HSI_Letras'
+							HSI_South [2 polys, 4 verts] 'HSI_Letras'
+							HSI_West [2 polys, 4 verts] 'HSI_Letras'
+							HSI_East [2 polys, 4 verts] 'HSI_Letras'
+							HSI_33 [2 polys, 4 verts] 'HSI_Numeros'
+							HSI_30 [2 polys, 4 verts] 'HSI_Numeros'
+							HSI_24 [2 polys, 4 verts] 'HSI_Numeros'
+							HSI_21 [2 polys, 4 verts] 'HSI_Numeros'
+							HSI_15 [2 polys, 4 verts] 'HSI_Numeros'
+							HSI_12 [2 polys, 4 verts] 'HSI_Numeros'
+							HSI_6 [2 polys, 4 verts] 'HSI_Numeros'
+							HSI_0 [2 polys, 4 verts] 'HSI_Numeros_plus'
+							HSI_9 [2 polys, 4 verts] 'HSI_Numeros_plus'
+							HSI_27 [2 polys, 4 verts] 'HSI_Numeros_plus'
+							HSI_18 [2 polys, 4 verts] 'HSI_Numeros_plus'
+						Course_HSI_dig2 [2 polys, 4 verts] 'Num_Verdes'
+						Course_HSI_dig3 [2 polys, 4 verts] 'Num_Verdes'
+						Course_HSI_dig1 [2 polys, 4 verts] 'Num_Verdes'
+						Range_HSI_dig3 [2 polys, 4 verts] 'Num_Violetas'
+						Range_HSI_dig2 [2 polys, 4 verts] 'Num_Violetas'
+						Range_HSI_dig1 [2 polys, 4 verts] 'Num_Violetas'
+						HSI_Heading02 [8 polys, 12 verts] 'MFD_Green'
+						HSI_Lock [2 polys, 4 verts] 'MFD_Green'
+						HSI_Plane [6 polys, 12 verts] 'Blanco_Br'
+						RWR_HSI [2 polys, 4 verts] 'RWR_Glass'
+				ALMCD01 [112 polys, 176 verts] 'CasiNegro'
+					Box302 [12 polys, 24 verts] 'Blanco'
+					Box303 [12 polys, 24 verts] 'Blanco'
+					Box304 [12 polys, 24 verts] 'Blanco'
+					Box305 [12 polys, 24 verts] 'Blanco'
+					Box306 [12 polys, 24 verts] 'Blanco'
+					Box307 [12 polys, 24 verts] 'Blanco'
+					Box308 [12 polys, 24 verts] 'Blanco'
+					Box309 [12 polys, 24 verts] 'Blanco'
+					Box310 [12 polys, 24 verts] 'Blanco'
+					Box311 [12 polys, 24 verts] 'Blanco'
+					Box312 [12 polys, 24 verts] 'Blanco'
+					Box313 [12 polys, 24 verts] 'Blanco'
+					Box314 [12 polys, 24 verts] 'Blanco'
+					Box315 [12 polys, 24 verts] 'Blanco'
+					Box316 [12 polys, 24 verts] 'Blanco'
+					Box317 [12 polys, 24 verts] 'Blanco'
+					Box318 [12 polys, 24 verts] 'Blanco'
+					Box319 [12 polys, 24 verts] 'Blanco'
+					Box320 [12 polys, 24 verts] 'Blanco'
+					Box321 [12 polys, 24 verts] 'Blanco'
+					Box322 [12 polys, 24 verts] 'Blanco'
+					Box323 [12 polys, 24 verts] 'Blanco'
+					Box324 [12 polys, 24 verts] 'Blanco'
+					Box325 [12 polys, 24 verts] 'Blanco'
+					Box326 [12 polys, 24 verts] 'Blanco'
+					Box327 [12 polys, 24 verts] 'Blanco'
+					Box328 [12 polys, 24 verts] 'Blanco'
+					Box329 [12 polys, 24 verts] 'Blanco'
+					Left_MFD [2 polys, 4 verts] 'Screen_Black'
+						Cylinder302 [48 polys, 48 verts] 'ADI_Marco'
+							Sideslip_Ball [6 polys, 8 verts] 'MFD_Green'
+							Marca_02 [12 polys, 16 verts] 'MFD_Green'
+							ADI [22 polys, 24 verts] 'ADI'
+							Alpha_Mark [6 polys, 8 verts] 'MFD_Green'
+						MFD_Speed [2 polys, 4 verts] 'MFD_Speed'
+						MFD_Height [2 polys, 4 verts] 'MFD_Height'
+						MFD_Alpha [2 polys, 4 verts] 'MFD_Alpha'
+						MFD_Compass [2 polys, 4 verts] 'MFD_Compass'
+						MFD_Height01 [2 polys, 4 verts] 'Screen_Black'
+						MFD_Speed01 [2 polys, 4 verts] 'Screen_Black'
+						MFD_Compass01 [2 polys, 4 verts] 'Screen_Black'
+						Height_dig02 [2 polys, 4 verts] 'Num_Verdes'
+						Height_dig03 [2 polys, 4 verts] 'Num_Verdes'
+						Height_dig01 [2 polys, 4 verts] 'Num_Verdes'
+						Height_dig05 [2 polys, 4 verts] 'Num_Verdes'
+						Height_dig04 [2 polys, 4 verts] 'Num_Verdes'
+						Speed_dig04 [2 polys, 4 verts] 'Num_Verdes'
+						Speed_dig03 [2 polys, 4 verts] 'Num_Verdes'
+						Speed_dig02 [2 polys, 4 verts] 'Num_Verdes'
+						Speed_dig01 [2 polys, 4 verts] 'Num_Verdes'
+						Compass_dig03 [2 polys, 4 verts] 'Num_Verdes'
+						Compass_dig02 [2 polys, 4 verts] 'Num_Verdes'
+						Compass_dig01 [2 polys, 4 verts] 'Num_Verdes'
+						MFD_Height02 [8 polys, 8 verts] 'MFD_Green'
+						MFD_Speed02 [8 polys, 8 verts] 'MFD_Green'
+						MFD_Compass02 [8 polys, 8 verts] 'MFD_Green'
+					MFD_Screen01 [2 polys, 4 verts] 'Ins_Reflection'
+					Sis_MFD03 [2 polys, 4 verts] 'DWN_SIS'
+						TOTAL [2 polys, 4 verts] 'DSP'
+						LOAD [2 polys, 4 verts] 'DSP'
+						TANK2 [2 polys, 4 verts] 'DSP'
+						TANK1 [2 polys, 4 verts] 'DSP'
+				Ml.16 [2422 polys, 3157 verts] 'Mk.10'
+					Legs [189 polys, 228 verts] '09 - Default'
+				Cylinder03 [142 polys, 144 verts] 'CasiNegro'
+					Palanca_Tren [8 polys, 14 verts] 'Gris'
+						Palanca_Tren_Manija [80 polys, 64 verts] 'Standard_16'
+			Windshield_Chord [2336 polys, 1190 verts] 'MAWS'
+			Cockpit01 [88 polys, 139 verts] 'Black'
+			Left_Pedal [214 polys, 208 verts] 'Pedal'
+				Left_Boot [138 polys, 124 verts] '09 - Default'
+					Left_Leg [24 polys, 27 verts] '09 - Default'
+			Right_Pedal [214 polys, 208 verts] 'Pedal'
+				Right_Boot [138 polys, 124 verts] '09 - Default'
+					Right_Leg [24 polys, 27 verts] '09 - Default'
+			Stick_Pitch [36 polys, 38 verts] 'Blanco'
+				Stick_Roll [108 polys, 114 verts] 'Blanco'
+					Stick_Base [36 polys, 38 verts] 'Blanco'
+						Stick [444 polys, 417 verts] 'CasiNegro'
+							Cylinder299 [110 polys, 101 verts] 'Canopy_Interior'
+							Cylinder298 [174 polys, 186 verts] 'Oscuro'
+							Master_Arm_Stick [332 polys, 271 verts] 'Material #0'
+							Cylinder301 [46 polys, 50 verts] 'Otro_Rojo'
+							Cylinder300 [110 polys, 101 verts] 'Canopy_Interior'
+							Object04 [64 polys, 51 verts] 'Canopy_Interior'
+							Right_Hand [258 polys, 134 verts] '09 - Default'
+								Right_Arm [72 polys, 54 verts] '09 - Default'
+			Cylinder218 [112 polys, 124 verts] 'Material #0'
+				Throttle [94 polys, 148 verts] 'CasiNegro'
+					Left_Hand [258 polys, 134 verts] '09 - Default'
+						Left_Arm [72 polys, 69 verts] '09 - Default'
+					Throttle_Buttons [108 polys, 170 verts] 'Blanco'
+			Right_Console [10 polys, 18 verts] 'Skin'
+			Left_Console [10 polys, 18 verts] 'Skin'
+
+
+Num Nodes: 262
+Total:    (27965 polys, 24168 verts)
+Mesh Max: (7552 polys, 3840 verts)
+
+55 Materials:
+ (  1) Skin:
+       Skin.bmp
+ (  2) Bronce_Viejo:
+       <No Texture>
+ (  3) Canopy_Glass:
+       Transparency enabled
+       Specular=0.92, Glossiness=0.12, Color:<229,229,229>
+       Reflection=1.00
+       Canopy_Glass.tga
+ (  4) Black:
+       <No Texture>
+ (  5) Metal:
+       <No Texture>
+ (  6) CasiNegro:
+       <No Texture>
+ (  7) Mirror:
+       Mirrors.bmp
+ (  8) Skin_Grey:
+       <No Texture>
+ (  9) Bronce:
+       <No Texture>
+ ( 10) Green:
+       <No Texture>
+ ( 11) ICP_Panel:
+       ICP_Panel.bmp
+ ( 12) HUD:
+       Transparency enabled
+       HUD_Glass.tga
+ ( 13) Espejos:
+       Metal.bmp
+ ( 14) Blanco:
+       <No Texture>
+ ( 15) Screen_Black:
+       <No Texture>
+ ( 16) MFD_Green:
+       <No Texture>
+ ( 17) Num_Verdes:
+       Num_Verdes.bmp
+ ( 18) MFD_IRM:
+       MFD_IRM.bmp
+ ( 19) MFD_SAHM:
+       MFD_SAHM.bmp
+ ( 20) MFD_BOMB:
+       MFD_BOMB.bmp
+ ( 21) MFD_RCKT:
+       MFD_RCKT.bmp
+ ( 22) MFD_ARM:
+       MFD_ARM.bmp
+ ( 23) MFD_GUNS:
+       MFD_GUNS.bmp
+ ( 24) MFD_CHAFF:
+       MFD_Chaff.bmp
+ ( 25) MFD_FLARE:
+       MFD_Flare.bmp
+ ( 26) MFD_ECM:
+       MFD_ECM.bmp
+ ( 27) MFD_ECM_Off:
+       MFD_ECM_Off.bmp
+ ( 28) Ins_Reflection:
+       Transparency enabled
+       Ins_Reflect.tga
+ ( 29) Radar_Screen:
+       F16_radar.bmp
+ ( 30) DWN_SIS:
+       Sis.bmp
+ ( 31) Material #6:
+       moving_map.bmp
+ ( 32) Blanco_Br:
+       <No Texture>
+ ( 33) INS_HSI:
+       HSI.bmp
+ ( 34) HSI_Numeros:
+       HSI_Numeros.bmp
+ ( 35) HSI_Letras:
+       HSI_Letras.bmp
+ ( 36) HSI_Numeros_plus:
+       HSI_Numeros2.bmp
+ ( 37) Num_Violetas:
+       Num_Violetas.bmp
+ ( 38) RWR_Glass:
+       RWR.bmp
+ ( 39) ADI_Marco:
+       ADI_Frame.bmp
+ ( 40) ADI:
+       ADI.bmp
+ ( 41) MFD_Speed:
+       MFD_Speed.bmp
+ ( 42) MFD_Height:
+       MFD_Height.bmp
+ ( 43) MFD_Alpha:
+       MFD_Alpha.bmp
+ ( 44) MFD_Compass:
+       MFD_Compass.bmp
+ ( 45) DSP:
+       DSP.bmp
+ ( 46) Mk.10:
+       Ml16.bmp
+ ( 47) 09 - Default:
+       Piloto.bmp
+ ( 48) Gris:
+       <No Texture>
+ ( 49) Standard_16:
+       <No Texture>
+ ( 50) MAWS:
+       <No Texture>
+ ( 51) Pedal:
+       Pedal.bmp
+ ( 52) Canopy_Interior:
+       canopy_interior.bmp
+ ( 53) Oscuro:
+       <No Texture>
+ ( 54) Material #0:
+       <No Texture>
+ ( 55) Otro_Rojo:
+       <No Texture>
+
+38 Textures:
+Skin.bmp
+Canopy_Glass.tga
+Mirrors.bmp
+ICP_Panel.bmp
+HUD_Glass.tga
+Metal.bmp
+Num_Verdes.bmp
+MFD_IRM.bmp
+MFD_SAHM.bmp
+MFD_BOMB.bmp
+MFD_RCKT.bmp
+MFD_ARM.bmp
+MFD_GUNS.bmp
+MFD_Chaff.bmp
+MFD_Flare.bmp
+MFD_ECM.bmp
+MFD_ECM_Off.bmp
+Ins_Reflect.tga
+F16_radar.bmp
+Sis.bmp
+moving_map.bmp
+HSI.bmp
+HSI_Numeros.bmp
+HSI_Letras.bmp
+HSI_Numeros2.bmp
+Num_Violetas.bmp
+RWR.bmp
+ADI_Frame.bmp
+ADI.bmp
+MFD_Speed.bmp
+MFD_Height.bmp
+MFD_Alpha.bmp
+MFD_Compass.bmp
+DSP.bmp
+Ml16.bmp
+Piloto.bmp
+Pedal.bmp
+canopy_interior.bmp
+
+Points
+
+Extents
+Box109
+MinExtentPosition=-0.00,5.23,0.57
+MaxExtentPosition=0.01,5.24,0.58
+Box110
+MinExtentPosition=0.02,5.23,0.57
+MaxExtentPosition=0.03,5.24,0.58
+Box111
+MinExtentPosition=0.05,5.23,0.57
+MaxExtentPosition=0.06,5.24,0.58
+Box112
+MinExtentPosition=-0.03,5.23,0.57
+MaxExtentPosition=-0.02,5.24,0.58
+Box113
+MinExtentPosition=-0.06,5.23,0.57
+MaxExtentPosition=-0.05,5.24,0.58
+Box119
+MinExtentPosition=-0.08,5.19,0.48
+MaxExtentPosition=-0.07,5.21,0.49
+Box120
+MinExtentPosition=-0.08,5.20,0.50
+MaxExtentPosition=-0.07,5.21,0.51
+Box121
+MinExtentPosition=-0.08,5.21,0.52
+MaxExtentPosition=-0.07,5.22,0.54
+Box122
+MinExtentPosition=-0.08,5.22,0.54
+MaxExtentPosition=-0.07,5.23,0.56
+Box123
+MinExtentPosition=-0.08,5.22,0.56
+MaxExtentPosition=-0.07,5.24,0.58
+Box128
+MinExtentPosition=0.07,5.19,0.48
+MaxExtentPosition=0.08,5.21,0.49
+Box129
+MinExtentPosition=0.07,5.20,0.50
+MaxExtentPosition=0.08,5.21,0.51
+Box130
+MinExtentPosition=0.07,5.21,0.52
+MaxExtentPosition=0.08,5.22,0.54
+Box131
+MinExtentPosition=0.07,5.22,0.54
+MaxExtentPosition=0.08,5.23,0.56
+Box132
+MinExtentPosition=0.07,5.22,0.56
+MaxExtentPosition=0.08,5.24,0.58
+Box133
+MinExtentPosition=0.07,5.19,0.46
+MaxExtentPosition=0.08,5.20,0.47
+Box330
+MinExtentPosition=0.16,5.24,0.67
+MaxExtentPosition=0.17,5.26,0.68
+Box331
+MinExtentPosition=0.19,5.24,0.67
+MaxExtentPosition=0.20,5.26,0.68
+Box332
+MinExtentPosition=0.21,5.24,0.67
+MaxExtentPosition=0.22,5.26,0.68
+Box333
+MinExtentPosition=0.14,5.24,0.67
+MaxExtentPosition=0.15,5.26,0.68
+Box334
+MinExtentPosition=0.11,5.24,0.67
+MaxExtentPosition=0.12,5.26,0.68
+Box340
+MinExtentPosition=0.09,5.23,0.57
+MaxExtentPosition=0.10,5.24,0.59
+Box341
+MinExtentPosition=0.09,5.23,0.60
+MaxExtentPosition=0.10,5.24,0.61
+Box342
+MinExtentPosition=0.09,5.24,0.62
+MaxExtentPosition=0.10,5.25,0.63
+Box343
+MinExtentPosition=0.09,5.24,0.64
+MaxExtentPosition=0.10,5.25,0.65
+Box344
+MinExtentPosition=0.09,5.24,0.66
+MaxExtentPosition=0.10,5.26,0.68
+Box349
+MinExtentPosition=0.23,5.23,0.57
+MaxExtentPosition=0.24,5.24,0.59
+Box350
+MinExtentPosition=0.23,5.23,0.60
+MaxExtentPosition=0.24,5.24,0.61
+Box351
+MinExtentPosition=0.23,5.24,0.62
+MaxExtentPosition=0.24,5.25,0.63
+Box352
+MinExtentPosition=0.23,5.24,0.64
+MaxExtentPosition=0.24,5.25,0.65
+Box353
+MinExtentPosition=0.24,5.24,0.66
+MaxExtentPosition=0.25,5.26,0.68
+Box354
+MinExtentPosition=0.23,5.22,0.55
+MaxExtentPosition=0.24,5.24,0.56
+Box302
+MinExtentPosition=-0.17,5.24,0.67
+MaxExtentPosition=-0.16,5.26,0.68
+Box303
+MinExtentPosition=-0.15,5.24,0.67
+MaxExtentPosition=-0.14,5.26,0.68
+Box304
+MinExtentPosition=-0.12,5.24,0.67
+MaxExtentPosition=-0.11,5.26,0.68
+Box305
+MinExtentPosition=-0.20,5.24,0.67
+MaxExtentPosition=-0.19,5.26,0.68
+Box306
+MinExtentPosition=-0.22,5.24,0.67
+MaxExtentPosition=-0.21,5.26,0.68
+Box312
+MinExtentPosition=-0.24,5.23,0.57
+MaxExtentPosition=-0.23,5.24,0.59
+Box313
+MinExtentPosition=-0.24,5.23,0.60
+MaxExtentPosition=-0.23,5.24,0.61
+Box314
+MinExtentPosition=-0.24,5.24,0.62
+MaxExtentPosition=-0.23,5.25,0.63
+Box315
+MinExtentPosition=-0.24,5.24,0.64
+MaxExtentPosition=-0.23,5.25,0.65
+Box316
+MinExtentPosition=-0.24,5.24,0.66
+MaxExtentPosition=-0.23,5.26,0.68
+Box321
+MinExtentPosition=-0.10,5.23,0.57
+MaxExtentPosition=-0.09,5.24,0.59
+Box322
+MinExtentPosition=-0.10,5.23,0.60
+MaxExtentPosition=-0.09,5.24,0.61
+Box323
+MinExtentPosition=-0.10,5.24,0.62
+MaxExtentPosition=-0.09,5.25,0.63
+Box324
+MinExtentPosition=-0.10,5.24,0.64
+MaxExtentPosition=-0.09,5.25,0.65
+Box325
+MinExtentPosition=-0.10,5.24,0.66
+MaxExtentPosition=-0.09,5.26,0.68
+Box326
+MinExtentPosition=-0.10,5.22,0.55
+MaxExtentPosition=-0.09,5.24,0.56
+Box272
+MinExtentPosition=-0.21,5.25,0.61
+MaxExtentPosition=-0.13,5.26,0.67
+Box283
+MinExtentPosition=-0.04,5.08,0.67
+MaxExtentPosition=-0.02,5.08,0.68
+Box284
+MinExtentPosition=-0.02,5.08,0.67
+MaxExtentPosition=-0.00,5.08,0.68
+Box285
+MinExtentPosition=0.00,5.08,0.67
+MaxExtentPosition=0.02,5.08,0.68
+Box286
+MinExtentPosition=0.02,5.08,0.67
+MaxExtentPosition=0.04,5.08,0.68
+Box289
+MinExtentPosition=-0.04,5.08,0.65
+MaxExtentPosition=-0.02,5.08,0.67
+Box290
+MinExtentPosition=-0.02,5.08,0.65
+MaxExtentPosition=-0.00,5.08,0.67
+Box291
+MinExtentPosition=0.00,5.08,0.65
+MaxExtentPosition=0.02,5.08,0.67
+Box292
+MinExtentPosition=0.02,5.08,0.65
+MaxExtentPosition=0.04,5.08,0.67
+Box295
+MinExtentPosition=-0.04,5.08,0.63
+MaxExtentPosition=-0.02,5.08,0.65
+Box296
+MinExtentPosition=-0.02,5.08,0.63
+MaxExtentPosition=-0.00,5.08,0.65
+Box297
+MinExtentPosition=0.00,5.08,0.63
+MaxExtentPosition=0.02,5.08,0.65
+Box298
+MinExtentPosition=0.02,5.08,0.63
+MaxExtentPosition=0.04,5.08,0.65
+Box254
+MinExtentPosition=0.43,4.30,0.24
+MaxExtentPosition=0.50,4.75,0.56
+Box252
+MinExtentPosition=0.42,4.70,0.17
+MaxExtentPosition=0.49,5.07,0.47
+Box44
+MinExtentPosition=0.11,5.20,0.64
+MaxExtentPosition=0.12,5.57,0.91
+Box108
+MinExtentPosition=0.71,4.41,0.83
+MaxExtentPosition=0.81,4.59,0.89

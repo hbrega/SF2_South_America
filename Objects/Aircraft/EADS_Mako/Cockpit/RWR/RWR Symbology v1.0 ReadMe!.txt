@@ -1,0 +1,13 @@
+RWR Symbology
+---------------------------
+v1.0
+02 Aug 2008
+for: SFP1/WOV/WOE/WOI
+by: fractalnoise
+---------------------------
+
+
+RWR symbology I made for my F-14 avionics update, made available separately (someone might find it useful...)
+
+Just the .tga files, no instructions, if you need some check the original RWR Symbology post by Fubar512 (all credit to him, I just redid the graphic thingies):
+http://forum.combatace.com/index.php?autocom=downloads&showfile=6838
