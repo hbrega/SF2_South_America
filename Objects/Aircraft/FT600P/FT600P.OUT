@@ -1,0 +1,298 @@
+	Fuselage [1209 polys, 1011 verts] '03 - Default'
+		tail [472 polys, 335 verts] '02 - Default'
+			Timon [312 polys, 218 verts] '16 - Default'
+		GL_LOD_100 [176 polys, 216 verts] '16 - Default'
+		GK_LOD_100 [176 polys, 200 verts] 'mat30'
+		GJ_LOD_100 [1261 polys, 1413 verts] 'mat34'
+		GI_LOD_100 [1795 polys, 2417 verts] 'mat34'
+		GH_LOD_100 [12 polys, 24 verts] 'mat15'
+		GG_LOD_100 [37 polys, 63 verts] 'mat11'
+		GF_LOD_100 [46 polys, 53 verts] 'mat12'
+		GD_LOD_100 [12 polys, 24 verts] 'mat15'
+		GC_LOD_100 [37 polys, 59 verts] 'mat11'
+		GB_LOD_100 [12 polys, 24 verts] 'mat32'
+		GA_LOD_100 [12 polys, 24 verts] 'mat32'
+		FZ_LOD_100 [12 polys, 24 verts] 'mat32'
+		FY_LOD_100 [12 polys, 24 verts] 'mat32'
+		FX_LOD_100 [12 polys, 24 verts] 'mat32'
+		FW_LOD_100 [12 polys, 24 verts] 'mat32'
+		FV_LOD_100 [236 polys, 227 verts] '10 - Default'
+		FU_LOD_100 [104 polys, 118 verts] 'mat31'
+		FT_LOD_100 [104 polys, 148 verts] 'mat31'
+		FS_LOD_100 [4 polys, 8 verts] 'mat22'
+		tdd [75 polys, 97 verts] 'mat26', AnimationID: 1 
+			tdd1 [24 polys, 20 verts] '04 - Default'
+		TDI [75 polys, 97 verts] 'mat26', AnimationID: 1 
+			TDI1 [24 polys, 20 verts] '04 - Default'
+		FI_LOD_100 [2516 polys, 1579 verts] 'mat03'
+		Raler [72 polys, 64 verts] '08 - Default'
+			ral [44 polys, 52 verts] 'mat23'
+		EY_LOD_100 [31 polys, 57 verts] 'mat28'
+		td1 [22 polys, 36 verts] '10 - Default', AnimationID: 1 
+			td2 [84 polys, 106 verts] 'mat12'
+			td3 [92 polys, 159 verts] 'mat16'
+			td4 [26 polys, 51 verts] 'mat22'
+				td5 [276 polys, 348 verts] 'mat16'
+					tdr [156 polys, 124 verts] '10 - Default'
+		EI_LOD_100 [48 polys, 42 verts] 'mat32'
+		EH_LOD_100 [16 polys, 38 verts] 'mat10'
+		EE_LOD_100 [26 polys, 53 verts] 'mat10'
+		ED_LOD_100 [2 polys, 4 verts] 'mat24'
+		RBrake [110 polys, 174 verts] '09 - Default', AnimationID: 6 
+		EB_LOD_100 [152 polys, 160 verts] 'mat17'
+		EA_LOD_100 [24 polys, 43 verts] 'mat10'
+		DZ_LOD_100 [2 polys, 4 verts] 'mat24'
+		LBrake [110 polys, 168 verts] '09 - Default', AnimationID: 6 
+		DX_LOD_100 [152 polys, 162 verts] 'mat17'
+		DV_LOD_100 [12 polys, 30 verts] 'mat21'
+		DU_LOD_100 [12 polys, 34 verts] 'mat21'
+		DT_LOD_100 [12 polys, 33 verts] 'mat21'
+		DS_LOD_100 [12 polys, 33 verts] 'mat21'
+		DR_LOD_100 [12 polys, 32 verts] 'mat21'
+		DQ_LOD_100 [18 polys, 46 verts] 'mat21'
+		DP_LOD_100 [176 polys, 203 verts] 'mat31'
+		DO_LOD_100 [176 polys, 184 verts] 'mat31'
+		DN_LOD_100 [166 polys, 267 verts] 'mat30'
+		DM_LOD_100 [165 polys, 260 verts] 'mat30'
+		DH_LOD_100 [336 polys, 380 verts] 'mat16'
+		DG_LOD_100 [102 polys, 143 verts] 'mat10'
+		DF_LOD_100 [212 polys, 217 verts] 'mat31'
+		DD_LOD_100 [101 polys, 127 verts] 'mat16'
+		CZ_LOD_100 [335 polys, 392 verts] 'mat16'
+		CY_LOD_100 [106 polys, 152 verts] 'mat10'
+		CX_LOD_100 [211 polys, 222 verts] 'mat31'
+		CV_LOD_100 [100 polys, 122 verts] 'mat16'
+		CU_LOD_100 [306 polys, 480 verts] '14 - Default'
+		CT_LOD_100 [468 polys, 509 verts] 'mat10'
+		CS_LOD_100 [12 polys, 24 verts] 'mat15'
+		CR_LOD_100 [16 polys, 26 verts] 'mat10'
+		CQ_LOD_100 [16 polys, 42 verts] 'mat19'
+		CP_LOD_100 [78 polys, 99 verts] 'mat17'
+		CO_LOD_100 [306 polys, 505 verts] 'mat31'
+		CN_LOD_100 [478 polys, 481 verts] 'mat10'
+		CM_LOD_100 [12 polys, 24 verts] 'mat15'
+		CL_LOD_100 [16 polys, 30 verts] 'mat10'
+		CK_LOD_100 [16 polys, 32 verts] 'mat10'
+		CJ_LOD_100 [16 polys, 32 verts] 'mat10'
+		CI_LOD_100 [16 polys, 26 verts] 'mat10'
+		CH_LOD_100 [14 polys, 29 verts] 'mat10'
+		CG_LOD_100 [36 polys, 52 verts] 'mat10'
+		CF_LOD_100 [36 polys, 52 verts] 'mat10'
+		CD_LOD_100 [48 polys, 46 verts] 'mat32'
+		CC_LOD_100 [16 polys, 35 verts] 'mat19'
+		HTail [332 polys, 362 verts] 'mat23'
+			HT1 [332 polys, 362 verts] 'mat23'
+			tprof [492 polys, 484 verts] 'mat23'
+				tprof1 [492 polys, 484 verts] 'mat23'
+				tp4 [12 polys, 28 verts] 'mat22'
+				tp1 [36 polys, 96 verts] 'mat10'
+				tp2 [12 polys, 28 verts] 'mat22'
+				tp3 [36 polys, 96 verts] 'mat10'
+		tpd1 [134 polys, 149 verts] '10 - Default', AnimationID: 1 
+			tpd4 [28 polys, 56 verts] 'mat25'
+			tpd2 [392 polys, 252 verts] '04 - Default'
+			tpd3 [2034 polys, 1142 verts] '10 - Default'
+				tpdr [156 polys, 124 verts] '10 - Default'
+		tpd4 [38 polys, 65 verts] '04 - Default'
+		tpd5 [72 polys, 139 verts] 'mat03'
+		tpi1 [134 polys, 152 verts] '10 - Default', AnimationID: 1 
+			tpi4 [112 polys, 223 verts] '04 - Default'
+			tpi2 [394 polys, 247 verts] '04 - Default'
+			tpi3 [2088 polys, 1183 verts] '10 - Default'
+				tpir [156 polys, 124 verts] '10 - Default'
+			tpi5 [28 polys, 56 verts] 'mat25'
+		AY_LOD_100 [12 polys, 24 verts] 'mat01'
+		AV_LOD_100 [56 polys, 93 verts] '15 - Default'
+		AU_LOD_100 [56 polys, 93 verts] 'mat33'
+		AT_LOD_100 [32 polys, 38 verts] 'mat14'
+		AS_LOD_100 [40 polys, 64 verts] 'mat22'
+		AR_LOD_100 [119 polys, 210 verts] 'mat32'
+		AQ_LOD_100 [919 polys, 987 verts] '14 - Default'
+		AP_LOD_100 [1695 polys, 1816 verts] '14 - Default'
+		AN_LOD_100 [80 polys, 136 verts] 'mat27'
+		AL_LOD_100 [3928 polys, 3249 verts] 'mat26'
+		rlight [344 polys, 420 verts] '10 - Default'
+		AG_LOD_100 [152 polys, 193 verts] 'mat20'
+		AF_LOD_100 [3952 polys, 3152 verts] '13 - Default'
+		AE_LOD_100 [132 polys, 214 verts] 'mat16'
+		AD_LOD_100 [317 polys, 376 verts] 'mat17'
+		AB_LOD_100 [52 polys, 44 verts] 'mat12'
+		inte1 [430 polys, 394 verts] 'mat10'
+		Rwing [2016 polys, 1020 verts] '08 - Default'
+			AX_LOD_100 [72 polys, 50 verts] '01 - Default'
+			ralw [94 polys, 83 verts] 'mat23'
+			RFlap [64 polys, 78 verts] 'mat23'
+				RF1 [112 polys, 116 verts] 'mat25'
+			Rslot [20 polys, 34 verts] 'mat29'
+				Rriel [64 polys, 96 verts] 'mat29'
+			Rslot01 [20 polys, 34 verts] 'mat29'
+				Rriel01 [64 polys, 96 verts] 'mat29'
+		LWing [2007 polys, 1151 verts] '08 - Default'
+			Laler [96 polys, 101 verts] '08 - Default'
+				FH_LOD_100 [102 polys, 160 verts] 'mat23'
+			llight [72 polys, 50 verts] '01 - Default'
+			LFlap [64 polys, 78 verts] 'mat23'
+				Lf1 [106 polys, 108 verts] 'mat25'
+			LSlot [20 polys, 34 verts] 'mat29'
+				Lriel [64 polys, 96 verts] 'mat29'
+			LSlot01 [20 polys, 34 verts] 'mat29'
+				Lriel01 [64 polys, 96 verts] 'mat29'
+		escape [360 polys, 363 verts] 'mat23'
+		Rotor [216 polys, 154 verts] 'ERROR: No material is assigned!'
+			Palas [100 polys, 230 verts] 'mat08'
+			sfp [32 polys, 25 verts] '12 - Default'
+				sfpb [32 polys, 25 verts] '12 - Default'
+			ffp [32 polys, 25 verts] '18 - Default'
+				ffpb [32 polys, 25 verts] '18 - Default'
+		mar2i [216 polys, 286 verts] '03 - Default', AnimationID: 4 
+			MAR22 [112 polys, 120 verts] '17 - Default'
+			V22 [195 polys, 177 verts] '01 - Default'
+		MAR1I [280 polys, 360 verts] '03 - Default', AnimationID: 4 
+			V1E [266 polys, 224 verts] '01 - Default'
+			V1I [266 polys, 224 verts] '01 - Default'
+		GI_LOD_01 [1795 polys, 2417 verts] 'mat34'
+			GJ_LOD_01 [1261 polys, 1413 verts] 'mat34'
+	Tlight [224 polys, 164 verts] '01 - Default'
+
+
+Num Nodes: 155
+Total:    (44780 polys, 42839 verts)
+Mesh Max: (3952 polys, 3249 verts)
+
+40 Materials:
+ (  1) 03 - Default:
+       fuselage.bmp
+ (  2) 02 - Default:
+       FIN.bmp
+ (  3) 16 - Default:
+       TIMON.jpg
+ (  4) mat30:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       INTERI~1.BMP
+ (  5) mat34:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       pilots_t.bmp
+ (  6) mat15:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ (  7) mat11:
+       <No Texture>
+ (  8) mat12:
+       <No Texture>
+ (  9) mat32:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       INTERI~3.BMP
+ ( 10) 10 - Default:
+       elevator.bmp
+ ( 11) mat31:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       INTERI~2.BMP
+ ( 12) mat22:
+       <No Texture>
+ ( 13) mat26:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       FUSELA~1.BMP
+ ( 14) 04 - Default:
+       gear_door.bmp
+ ( 15) mat03:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       2_wing.bmp
+ ( 16) 08 - Default:
+       2_wing.bmp
+ ( 17) mat23:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       elevator.bmp
+ ( 18) mat28:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       g-suit.bmp
+ ( 19) mat16:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 20) mat10:
+       <No Texture>
+ ( 21) mat24:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       fin.bmp
+ ( 22) 09 - Default:
+       2_fuselage-tail.bmp
+ ( 23) mat17:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 24) mat21:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 25) 14 - Default:
+       interior_cockpit1.bmp
+ ( 26) mat19:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 27) mat25:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       fuselage.bmp
+ ( 28) mat01:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       $p2.TGA
+ ( 29) 15 - Default:
+       panel_HAWK.bmp
+ ( 30) mat33:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       PANEL_~1.BMP
+ ( 31) mat14:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 32) mat27:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       GEAR_D~1.BMP
+ ( 33) mat20:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 34) 13 - Default:
+       interior_cockpit2.bmp
+ ( 35) 01 - Default:
+       Transparency enabled
+       ClrGlass.TGA
+ ( 36) mat29:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       HODST3~1.BMP
+ ( 37) mat08:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 38) 12 - Default:
+       Transparency enabled
+       slowkt.tga
+ ( 39) 18 - Default:
+       Transparency enabled
+       fastkt.tga
+ ( 40) 17 - Default:
+       MARCUS.jpg
+
+25 Textures:
+fuselage.bmp
+FIN.bmp
+TIMON.jpg
+INTERI~1.BMP
+pilots_t.bmp
+INTERI~3.BMP
+elevator.bmp
+INTERI~2.BMP
+FUSELA~1.BMP
+gear_door.bmp
+2_wing.bmp
+g-suit.bmp
+fin.bmp
+2_fuselage-tail.bmp
+interior_cockpit1.bmp
+$p2.TGA
+panel_HAWK.bmp
+PANEL_~1.BMP
+GEAR_D~1.BMP
+interior_cockpit2.bmp
+ClrGlass.TGA
+HODST3~1.BMP
+slowkt.tga
+fastkt.tga
+MARCUS.jpg
+
+Points
+
+Extents
