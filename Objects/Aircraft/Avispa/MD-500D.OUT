@@ -1,0 +1,123 @@
+	Fuselage (4112 polys, 12336 verts) 'mat00'
+		AH_LOD_100 (1254 polys, 3762 verts) 'mat07'
+		AL_LOD_100 (12 polys, 36 verts) 'mat11'
+		AN_LOD_100 (12 polys, 36 verts) 'mat11'
+		BPD (8 polys, 24 verts) 'mat04'
+		BPI (8 polys, 24 verts) 'mat04'
+		BURBUJA (1436 polys, 4308 verts) '01 - Default'
+		BY_LOD_100 (16 polys, 48 verts) 'mat03'
+		BZ_LOD_100 (16 polys, 48 verts) 'mat03'
+		CA_LOD_100 (16 polys, 48 verts) 'mat03'
+		CB_LOD_100 (16 polys, 48 verts) 'mat03'
+		CF_LOD_100 (32 polys, 96 verts) 'mat03'
+		CH_LOD_100 (32 polys, 96 verts) 'mat03'
+		CIC_L (1010 polys, 3030 verts) 'mat03'
+		CIC_R (164 polys, 492 verts) 'mat03'
+		CIC_R (1008 polys, 3024 verts) 'mat03'
+		COL_L (368 polys, 1104 verts) 'mat03'
+		COL_LB (96 polys, 288 verts) 'mat03'
+		int01 (2874 polys, 8622 verts) 'mat06'
+		INT02 (5794 polys, 17382 verts) 'mat03'
+		INT03 (314 polys, 942 verts) 'mat08'
+		INT04 (1012 polys, 3036 verts) 'mat04'
+		Low (5464 polys, 16392 verts) 'mat01'
+			Cylinder01 (216 polys, 648 verts) '07 - Default'
+				ALA_I (225 polys, 675 verts) '07 - Default'
+					Sop_L (253 polys, 759 verts) '07 - Default'
+						Pil_I (446 polys, 1338 verts) '07 - Default'
+						M2_L (488 polys, 1464 verts) '07 - Default'
+							Cylinder03 (216 polys, 648 verts) '07 - Default'
+							Cylinder04 (216 polys, 648 verts) '07 - Default'
+							Cylinder05 (216 polys, 648 verts) '07 - Default'
+			Cylinder02 (216 polys, 648 verts) '07 - Default'
+				ALA_D (190 polys, 570 verts) '07 - Default'
+					Sop_D (253 polys, 759 verts) '07 - Default'
+						Pil_D (446 polys, 1338 verts) '07 - Default'
+						M2_D (488 polys, 1464 verts) '07 - Default'
+							Cylinder06 (216 polys, 648 verts) '07 - Default'
+			EJE2 (216 polys, 648 verts) '07 - Default'
+				TROTOR (450 polys, 1350 verts) 'mat01'
+				Tpalas (296 polys, 888 verts) 'mat01'
+		MDD (84 polys, 252 verts) 'mat03'
+		MDI (84 polys, 252 verts) 'mat03'
+		MTD (84 polys, 252 verts) 'mat03'
+		MTI (84 polys, 252 verts) 'mat03'
+		PDD (184 polys, 552 verts) 'mat03'
+		PDD (234 polys, 702 verts) 'mat00'
+		PDD_I (610 polys, 1830 verts) 'mat06'
+		PDI (184 polys, 552 verts) 'mat03'
+		PDI (234 polys, 702 verts) 'mat00'
+		PDI_I (610 polys, 1830 verts) 'mat06'
+		PID (184 polys, 552 verts) 'mat03'
+		PII (184 polys, 552 verts) 'mat03'
+		PTD (232 polys, 696 verts) 'mat00'
+		PTD_I (564 polys, 1692 verts) 'mat06'
+		PTI (232 polys, 696 verts) 'mat00'
+		PTI_I (564 polys, 1692 verts) 'mat06'
+		ROTOR (5982 polys, 17946 verts) 'mat01'
+			Palas (250 polys, 750 verts) 'mat01'
+		SITS (560 polys, 1680 verts) 'mat05'
+		Tail (848 polys, 2544 verts) 'mat02'
+		VPDD (234 polys, 702 verts) '01 - Default'
+		VPDI (234 polys, 702 verts) '01 - Default'
+		VPTD (170 polys, 510 verts) '01 - Default'
+		VPTI (170 polys, 510 verts) '01 - Default'
+		VTOP (572 polys, 1716 verts) '01 - Default'
+		Box03 (164 polys, 492 verts) '07 - Default'
+			Box01 (138 polys, 414 verts) '07 - Default'
+			Box02 (138 polys, 414 verts) '07 - Default'
+
+
+Num Nodes: 68
+Total:    (43933 polys, 131799 verts)
+Mesh Max: (5982 polys, 17946 verts)
+
+12 Materials:
+ (  1) mat00:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       EXT01_T.BMP
+ (  2) mat07:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       INT05_T.BMP
+ (  3) mat11:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ (  4) mat04:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       INT02_T.BMP
+ (  5) 01 - Default:
+       Transparency enabled
+       ClrGlass.TGA
+ (  6) mat03:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       INT01_T.BMP
+ (  7) mat06:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       INT04_T.BMP
+ (  8) mat08:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       INT06_T.BMP
+ (  9) mat01:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       EXT02_T.BMP
+ ( 10) 07 - Default:
+       gun.jpg
+ ( 11) mat05:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       INT03_T.BMP
+ ( 12) mat02:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       EXT03_T.BMP
+
+11 Textures:
+EXT01_T.BMP
+INT05_T.BMP
+INT02_T.BMP
+ClrGlass.TGA
+INT01_T.BMP
+INT04_T.BMP
+INT06_T.BMP
+EXT02_T.BMP
+gun.jpg
+INT03_T.BMP
+EXT03_T.BMP
