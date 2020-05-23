@@ -1,0 +1,19 @@
+	Cylinder02 [816 polys, 446 verts] '01 - Default'
+		Box01 [56 polys, 72 verts] '01 - Default'
+		Box02 [56 polys, 72 verts] '01 - Default'
+
+
+Num Nodes: 3
+Total:    (928 polys, 590 verts)
+Mesh Max: (816 polys, 446 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       napalm220.bmp
+
+1 Textures:
+napalm220.bmp
+
+Points
+
+Extents

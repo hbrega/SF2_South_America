@@ -27,3 +27,9 @@ IA-63 Pampa II
 IA-63 Pampa III
 
 FA-50 AR Fighting Eagle
+
+IAe.27 Pulqui I
+
+IAe.33 Pulqui II
+
+IAe.33B Pulqui II B

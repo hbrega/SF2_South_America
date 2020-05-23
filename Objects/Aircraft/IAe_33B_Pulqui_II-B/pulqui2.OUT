@@ -1,0 +1,90 @@
+	Fuselage [2167 polys, 1583 verts] '02 - Default'
+		canopy [126 polys, 122 verts] '02 - Default', AnimationID: 4 
+			Object01 [54 polys, 40 verts] '08 - Default'
+		R-wing [835 polys, 1621 verts] '03 - Default'
+			RightOutPylon [232 polys, 157 verts] '03 - Default'
+				R_I_Launcher [128 polys, 110 verts] '19 - Default'
+			RightInPylon [232 polys, 157 verts] '03 - Default'
+			RightAileron [33 polys, 60 verts] '03 - Default'
+			RightFlap [22 polys, 35 verts] '03 - Default'
+			RO_Pyl02 [542 polys, 593 verts] '19 - Default'
+				RRail [128 polys, 110 verts] '19 - Default'
+		Tail [693 polys, 570 verts] '07 - Default'
+			Rudder [135 polys, 157 verts] '07 - Default'
+			RightElevator [47 polys, 49 verts] '07 - Default'
+			LeftElevator [46 polys, 49 verts] '07 - Default'
+			Cylinder_004 [188 polys, 370 verts] '07 - Default'
+				Cylinder_003 [286 polys, 638 verts] '08 - Default'
+		L_gear_door_fuse_2 [14 polys, 18 verts] '02 - Default', AnimationID: 1 
+		L_gear_door_fuse_1 [10 polys, 14 verts] '02 - Default', AnimationID: 1 
+		L_gear_door_fuse_3 [6 polys, 10 verts] '02 - Default', AnimationID: 1 
+		R_gear_door_fuse_3 [8 polys, 12 verts] '02 - Default', AnimationID: 1 
+		R_gear_door_fuse_1 [8 polys, 12 verts] '02 - Default', AnimationID: 1 
+		R_gear_door_fuse_2 [14 polys, 18 verts] '02 - Default', AnimationID: 1 
+		R_airbrake_1 [12 polys, 14 verts] '02 - Default', AnimationID: 3 
+			IAe_33_Pulqui_II_260_IAe_33_Pulqui_II_278 [40 polys, 42 verts] 'SF_fuselage'
+		R_airbrake_2 [12 polys, 14 verts] '02 - Default', AnimationID: 3 
+			IAe_33_Pulqui_II_211_IAe_33_Pulqui_II_215 [40 polys, 42 verts] 'SF_fuselage'
+		L_airbrake_2 [12 polys, 14 verts] '02 - Default', AnimationID: 3 
+			IAe_33_Pulqui_II_263_IAe_33_Pulqui_II_287 [40 polys, 42 verts] 'SF_fuselage'
+		L_airbrake_1 [12 polys, 14 verts] '02 - Default', AnimationID: 3 
+			IAe_33_Pulqui_II_262_IAe_33_Pulqui_II_286 [40 polys, 42 verts] 'SF_fuselage'
+		R_gear_door [16 polys, 18 verts] '02 - Default', AnimationID: 1 
+		L_gear_door [16 polys, 18 verts] '02 - Default', AnimationID: 1 
+		IAe_33_Pulqui_II_173_IAe_33_Pulqui_II_177 [20 polys, 26 verts] '08 - Default'
+		IAe_33_Pulqui_II_179_IAe_33_Pulqui_II_183 [298 polys, 286 verts] '02 - Default'
+		IAe_33_Pulqui_II_185_IAe_33_Pulqui_II_189 [328 polys, 737 verts] '02 - Default', AnimationID: 1 
+			NoseTire [144 polys, 254 verts] 'SF_fuselage'
+			Cylinder_005 [188 polys, 438 verts] 'SF_tail'
+		IAe_33_Pulqui_II_240_IAe_33_Pulqui_II_254 [340 polys, 946 verts] '02 - Default', AnimationID: 1 
+			RightTire [144 polys, 256 verts] 'SF_fuselage'
+		IAe_33_Pulqui_II_186_IAe_33_Pulqui_II_190 [340 polys, 946 verts] '02 - Default', AnimationID: 1 
+			LeftTire [144 polys, 256 verts] 'SF_fuselage'
+		L_wing [835 polys, 1622 verts] '03 - Default'
+			LeftInPylon [232 polys, 157 verts] '03 - Default'
+			LeftOutPylon [232 polys, 157 verts] '03 - Default'
+				L_I_Launcher [130 polys, 114 verts] '19 - Default'
+			LeftAileron [33 polys, 61 verts] '03 - Default'
+			LeftFlap [22 polys, 35 verts] '03 - Default'
+			LO_Pyl02 [542 polys, 593 verts] '19 - Default'
+				LRail [128 polys, 110 verts] '19 - Default'
+		IAe_33_Pulqui_II_179_IAe_33_Pulqui_II_01 [236 polys, 421 verts] '02 - Default'
+		parante [128 polys, 110 verts] '02 - Default'
+		IAe_33_Pulqui_II_259_IAe_33_Pulqui_II_277 [56 polys, 92 verts] '02 - Default'
+		IAe_33_Pulqui_II_184_IAe_33_Pulqui_II_188 [34 polys, 70 verts] '02 - Default'
+		Cube_011_Cube_007 [128 polys, 308 verts] 'SF_fuselage'
+		lux [102 polys, 135 verts] '08 - Default'
+		tap [47 polys, 55 verts] '02 - Default'
+
+
+Num Nodes: 57
+Total:    (11025 polys, 14950 verts)
+Mesh Max: (2167 polys, 1622 verts)
+
+7 Materials:
+ (  1) 02 - Default:
+       Fuselage_basecolor.bmp
+ (  2) 08 - Default:
+       Transparency enabled
+       Glass_T.tga
+ (  3) 03 - Default:
+       Up_wing_basecolor.bmp
+ (  4) 19 - Default:
+       Fuselage01.bmp
+ (  5) 07 - Default:
+       tail_basecolor.bmp
+ (  6) SF_fuselage:
+       Fuselage_basecolor.bmp
+ (  7) SF_tail:
+       Fuselage_basecolor.bmp
+
+5 Textures:
+Fuselage_basecolor.bmp
+Glass_T.tga
+Up_wing_basecolor.bmp
+Fuselage01.bmp
+tail_basecolor.bmp
+
+Points
+
+Extents

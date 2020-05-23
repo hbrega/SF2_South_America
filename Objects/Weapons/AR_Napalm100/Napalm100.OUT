@@ -1,0 +1,24 @@
+	Cylinder02 [672 polys, 644 verts] '02 - Default'
+		Tube01 [192 polys, 200 verts] '01 - Default'
+		Tube02 [192 polys, 200 verts] '01 - Default'
+
+
+Num Nodes: 3
+Total:    (1056 polys, 1044 verts)
+Mesh Max: (672 polys, 644 verts)
+
+2 Materials:
+ (  1) 02 - Default:
+       Napalm100.bmp
+ (  2) 01 - Default:
+       <No Texture>
+
+1 Textures:
+Napalm100.bmp
+
+Points
+
+Extents
+Box01
+MinExtentPosition=1.25,-0.70,-0.16
+MaxExtentPosition=1.65,0.70,0.15

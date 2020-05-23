@@ -1,0 +1,21 @@
+	Cylinder01 [538 polys, 366 verts] '17 - Default'
+		Cylinder05 [198 polys, 126 verts] '17 - Default'
+		Box05 [40 polys, 64 verts] '17 - Default'
+		Box02 [40 polys, 64 verts] '17 - Default'
+		Cylinder02 [152 polys, 120 verts] '17 - Default'
+
+
+Num Nodes: 5
+Total:    (968 polys, 740 verts)
+Mesh Max: (538 polys, 366 verts)
+
+1 Materials:
+ (  1) 17 - Default:
+       br_250_ssq.bmp
+
+1 Textures:
+br_250_ssq.bmp
+
+Points
+
+Extents
