@@ -1,0 +1,185 @@
+	Fuselage (710 polys, 2130 verts) 'mat12'
+		Nose (640 polys, 1920 verts) 'mat13'
+		R_Wing (247 polys, 741 verts) 'mat18'
+			Pyl4 (547 polys, 1641 verts) '09 - Default'
+				Rail4 (280 polys, 840 verts) '09 - Default'
+			Pyl5 (547 polys, 1641 verts) '09 - Default'
+				Rail5 (280 polys, 840 verts) '09 - Default'
+			Pyl6 (556 polys, 1668 verts) '09 - Default'
+				Rail6 (280 polys, 840 verts) '09 - Default'
+			RAL (100 polys, 300 verts) 'mat18'
+			RFLAP (100 polys, 300 verts) 'mat18'
+			RSL1 (8 polys, 24 verts) 'mat18'
+			RSL2 (8 polys, 24 verts) 'mat18'
+		L_Wing (247 polys, 741 verts) 'mat18'
+			Pyl1 (547 polys, 1641 verts) '09 - Default'
+				Rail1 (280 polys, 840 verts) '09 - Default'
+			Pyl2 (547 polys, 1641 verts) '09 - Default'
+				Rail2 (280 polys, 840 verts) '09 - Default'
+			Pyl3 (556 polys, 1668 verts) '09 - Default'
+				Rail3 (280 polys, 840 verts) '09 - Default'
+			LAL (100 polys, 300 verts) 'mat18'
+			LFLAP (100 polys, 300 verts) 'mat18'
+			LSL2 (8 polys, 24 verts) 'mat18'
+			LSL1 (8 polys, 24 verts) 'mat18'
+		LBC (38 polys, 114 verts) 'mat18'
+			LCAN (43 polys, 129 verts) 'mat18'
+		RBC (38 polys, 114 verts) 'mat18'
+			RCAN (44 polys, 132 verts) 'mat18'
+		Pyl7 (446 polys, 1338 verts) '09 - Default'
+		Pyl8 (547 polys, 1641 verts) '09 - Default'
+		Pyl9 (547 polys, 1641 verts) '09 - Default'
+		Pyl10 (547 polys, 1641 verts) '09 - Default'
+		Pyl11 (547 polys, 1641 verts) '09 - Default'
+		VTail (370 polys, 1110 verts) '01 - Default'
+			Rudder (12 polys, 36 verts) 'mat16'
+		Marco (520 polys, 1560 verts) 'mat13'
+			Canopy (228 polys, 684 verts) '07 - Default'
+			CA_LOD_100 (89 polys, 267 verts) '01 - Default'
+		AA_LOD_100 (56 polys, 168 verts) 'mat00'
+		AB_LOD_100 (166 polys, 498 verts) 'mat01'
+		AC_LOD_100 (16 polys, 48 verts) 'mat02'
+		AD_LOD_100 (80 polys, 240 verts) 'mat03'
+		AE_LOD_100 (94 polys, 282 verts) '02 - Default'
+		AF_LOD_100 (12 polys, 36 verts) 'mat05'
+		AG_LOD_100 (128 polys, 384 verts) 'mat06'
+		AH_LOD_100 (10 polys, 30 verts) 'mat07'
+		AI_LOD_100 (20 polys, 60 verts) 'mat08'
+		AJ_LOD_100 (92 polys, 276 verts) 'mat09'
+		AK_LOD_100 (10 polys, 30 verts) 'mat10'
+		AU_LOD_100 (8 polys, 24 verts) '03 - Default'
+		AV_LOD_100 (4 polys, 12 verts) 'mat21'
+		AW_LOD_100 (4 polys, 12 verts) 'mat21'
+		AX_LOD_100 (2 polys, 6 verts) 'mat22'
+		BB_LOD_100 (12 polys, 36 verts) 'mat23'
+		TD2 (76 polys, 228 verts) 'mat18'
+			TD1 (219 polys, 657 verts) 'mat18'
+				TD3 (88 polys, 264 verts) 'mat18'
+					DRuedas (234 polys, 702 verts) 'mat17'
+		Cajas (384 polys, 1152 verts) '08 - Default'
+		TL1 (142 polys, 426 verts) 'mat18'
+			TL2 (88 polys, 264 verts) 'mat18'
+			TL3 (48 polys, 144 verts) 'mat18'
+			LRUEDA (136 polys, 408 verts) 'mat17'
+			LTP2 (3 polys, 9 verts) 'mat12'
+				LTP2i (13 polys, 39 verts) 'mat11'
+		TR1 (142 polys, 426 verts) 'mat18'
+			TR2 (88 polys, 264 verts) 'mat18'
+			TR3 (48 polys, 144 verts) 'mat18'
+			RRUEDA (136 polys, 408 verts) 'mat17'
+			RTP2 (3 polys, 9 verts) 'mat12'
+				RTP2i (13 polys, 39 verts) 'mat11'
+		LTP1 (7 polys, 21 verts) 'mat12'
+			LTP1i (25 polys, 75 verts) 'mat11'
+		LTP3 (2 polys, 6 verts) 'mat18'
+			LTP3i (10 polys, 30 verts) 'mat11'
+		RTP1 (7 polys, 21 verts) 'mat12'
+			RTP1i (25 polys, 75 verts) 'mat11'
+		RTP3 (2 polys, 6 verts) 'mat18'
+			RTP3i (10 polys, 30 verts) 'mat11'
+		TDT1 (6 polys, 18 verts) 'mat13'
+			TDT1i (14 polys, 42 verts) 'mat11'
+		TDT2 (11 polys, 33 verts) 'mat13'
+			TDT2i (3 polys, 9 verts) 'mat11'
+		TDT3 (12 polys, 36 verts) 'mat13'
+			TDT3i (4 polys, 12 verts) 'mat11'
+		Wshield (55 polys, 165 verts) '07 - Default'
+		lbkf (86 polys, 258 verts) 'mat17'
+			Lbk (13 polys, 39 verts) 'mat12'
+				LBKi (63 polys, 189 verts) 'mat17'
+					lbka (48 polys, 144 verts) 'mat17'
+			rbk (13 polys, 39 verts) 'mat12'
+				rbki (63 polys, 189 verts) 'mat17'
+					rbka (48 polys, 144 verts) 'mat17'
+
+
+Num Nodes: 93
+Total:    (14374 polys, 43122 verts)
+Mesh Max: (710 polys, 2130 verts)
+
+25 Materials:
+ (  1) mat12:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       FUSE_T.BMP
+ (  2) mat13:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       NOSE_T.BMP
+ (  3) mat18:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       WING_T.BMP
+ (  4) 09 - Default:
+       fuse_T.bmp
+ (  5) 01 - Default:
+       tail.bmp
+ (  6) mat16:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       TAIL.BMP
+ (  7) 07 - Default:
+       Transparency enabled
+       ClrGlass.TGA
+ (  8) mat00:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ (  9) mat01:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 10) mat02:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 11) mat03:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 12) 02 - Default:
+       canopy_T.bmp
+ ( 13) mat05:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 14) mat06:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 15) mat07:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 16) mat08:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 17) mat09:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 18) mat10:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 19) 03 - Default:
+       Transparency enabled
+       HUDGlass.tga
+ ( 20) mat21:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 21) mat22:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 22) mat23:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 23) mat17:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       WHEEL_~1.BMP
+ ( 24) 08 - Default:
+       Details.bmp
+ ( 25) mat11:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       DETAILS.BMP
+
+12 Textures:
+FUSE_T.BMP
+NOSE_T.BMP
+WING_T.BMP
+fuse_T.bmp
+tail.bmp
+TAIL.BMP
+ClrGlass.TGA
+canopy_T.bmp
+HUDGlass.tga
+WHEEL_~1.BMP
+Details.bmp
+DETAILS.BMP
