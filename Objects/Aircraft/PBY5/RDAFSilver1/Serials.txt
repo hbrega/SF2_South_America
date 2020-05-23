@@ -1,0 +1,23 @@
+CONVAIR PBY-5A CATALINA
+QUANTITY: -8- SERVICE PERIOD: 1947 - 1969
+USER UNITS:
+1) Catalina-Gruppen (10fe47-05ju47)
+2) Cat.-SAR Gruppen (06ju47-14oc47)
+3) 1.LF (15oc47-07ja51)
+4) ESK 721 (08ja51-31ap61 and 01fe66-11de69)
+5) ESK 722 (01my61-01fe66)
+
+
+
+SERIAL: SER.NO: DEL.DATE: UNIT/DATE 				WFU DATE		 REMARKS
+82-851 274/9840 06ju47 1LF/721                        				29oc53 wfu, scrapped
+ -852 347/11049 06ju47 1LF/721                             57 			"PAPOOSE" wfu, scrapped(08de60)
+ -853 316/11034 29ju47 1LF/721/722/721                 11de69	 		"PLUTO" crash Gilleleje
+ -854 321/11039 22jl47 1LF/721                             59 			"TATTERAT" wfu, scrapped.(08de60)
+ -855 443/11097 22ju47 1LF/721                         12au58 			"MALLEMUK" Tech.Tr. scrashed (08de60)
+ -856 265/9831 06ju47  1LF/721                         09fe55/6? 		"NAUJA" wfu, scrapped
+ -857 USN 8109 19se51      721/722/721                 14oc67 			"MUNIN" wfu, cannibalised
+ -858 USN46603 13se51      721                         03oc55 			"HUGIN" wfu, scrapped
+
+
+851-856 were numbered FM51-56 until September 1947 (pre-war Navy system)

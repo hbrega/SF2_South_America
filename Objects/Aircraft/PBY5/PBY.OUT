@@ -1,0 +1,136 @@
+	fuselage [6408 polys, 5302 verts] '01 - Default'
+		LGstand [212 polys, 156 verts] '01 - Default'
+			LGun [3484 polys, 4997 verts] '01 - Default'
+		VTAIL [480 polys, 515 verts] '01 - Default'
+			Stab_r [278 polys, 217 verts] '01 - Default'
+				Elevator_R [96 polys, 86 verts] '01 - Default'
+			Stab_L [278 polys, 225 verts] '01 - Default'
+				Elevator_L [96 polys, 86 verts] '01 - Default'
+			Rudder [312 polys, 399 verts] '01 - Default'
+		Wing_L [260 polys, 371 verts] '01 - Default'
+			Aileron_L [36 polys, 52 verts] '01 - Default'
+			lpbrace [52 polys, 74 verts] '01 - Default', AnimationID: 8 
+				LWpontoon [116 polys, 103 verts] '01 - Default'
+					pivot01 [636 polys, 473 verts] '01 - Default', AnimationID: 8 
+			Engine1 [380 polys, 328 verts] '01 - Default'
+				Cowl_L [1260 polys, 1760 verts] '01 - Default'
+					lecov [212 polys, 162 verts] '01 - Default'
+						Spinner_L [212 polys, 156 verts] '01 - Default'
+							FastProp_1 [32 polys, 25 verts] 'Material #11'
+							SlowProp_1 [32 polys, 25 verts] 'Material #6'
+							PHUB_L [844 polys, 1216 verts] '01 - Default'
+								Prop_L [306 polys, 238 verts] '01 - Default'
+				lrecov [212 polys, 156 verts] '01 - Default'
+				exaust1 [432 polys, 321 verts] '01 - Default'
+				exaust2 [432 polys, 323 verts] '01 - Default'
+			tant2 [12 polys, 24 verts] '01 - Default'
+			LWlight [44 polys, 65 verts] '01 - Default'
+			pivot [636 polys, 480 verts] '01 - Default', AnimationID: 8 
+			Pylon1 [212 polys, 156 verts] '01 - Default'
+			pylon2 [212 polys, 156 verts] '01 - Default'
+		Wing_R [260 polys, 371 verts] '01 - Default'
+			Aileron_R [36 polys, 50 verts] '01 - Default'
+			Rpbrace [52 polys, 74 verts] '01 - Default', AnimationID: 8 
+				RWpontoon [116 polys, 103 verts] '01 - Default'
+					pivot03 [636 polys, 476 verts] '01 - Default', AnimationID: 8 
+			Engine2 [380 polys, 329 verts] '01 - Default'
+				Cowl_R [1260 polys, 1759 verts] '01 - Default'
+					RECOV [212 polys, 156 verts] '01 - Default'
+						Spinner_R [212 polys, 156 verts] '01 - Default'
+							FastProp_2 [32 polys, 25 verts] 'Material #11'
+							SlowProp_2 [32 polys, 25 verts] 'Material #6'
+							PHUB_R [844 polys, 1191 verts] '01 - Default'
+								Prop_R [306 polys, 239 verts] '01 - Default'
+				rrecov [212 polys, 162 verts] '01 - Default'
+				exaust4 [432 polys, 319 verts] '01 - Default'
+				exaust3 [432 polys, 324 verts] '01 - Default'
+			tant1 [12 polys, 24 verts] '01 - Default'
+			RWlight [44 polys, 77 verts] '01 - Default'
+			cTant [788 polys, 492 verts] '01 - Default'
+			pivot02 [636 polys, 475 verts] '01 - Default', AnimationID: 8 
+			pylon3 [212 polys, 156 verts] '01 - Default'
+			Pylon4 [212 polys, 156 verts] '01 - Default'
+		Cfloor [12 polys, 24 verts] '01 - Default'
+			controlpanel  [272 polys, 332 verts] '01 - Default'
+			stbar [278 polys, 380 verts] '01 - Default'
+				stwr [934 polys, 812 verts] '01 - Default'
+			stbasel [278 polys, 382 verts] '01 - Default'
+				stwl [934 polys, 807 verts] '01 - Default'
+			pseat [566 polys, 686 verts] '01 - Default'
+			Cpseat [566 polys, 686 verts] '01 - Default'
+		Head04 [342 polys, 519 verts] '15 - Default'
+		nturret [376 polys, 335 verts] '01 - Default'
+			ftglass [12 polys, 22 verts] 'Material #62'
+			fgun [3484 polys, 5004 verts] '01 - Default'
+		cwing [400 polys, 407 verts] '01 - Default'
+		leftblister [1700 polys, 2406 verts] '01 - Default'
+			lblissglass [264 polys, 249 verts] 'Material #62'
+		cglass [58 polys, 102 verts] 'Material #62'
+		glass1 [18 polys, 22 verts] 'Material #62'
+		glass2 [24 polys, 72 verts (animated)] '06 - Default', AnimationID: 9 
+		glass3 [12 polys, 16 verts] 'Material #62'
+		Gear_Nose [246 polys, 702 verts] '01 - Default', AnimationID: 1 
+			Tire_Nose [576 polys, 336 verts] '01 - Default'
+				nhub [212 polys, 144 verts] '01 - Default'
+		GSTRUT_L [1244 polys, 1092 verts] '01 - Default', AnimationID: 1 
+			gl1 [212 polys, 156 verts] '01 - Default', AnimationID: 1 
+			lgshock [444 polys, 344 verts] '01 - Default'
+				Tire_L [576 polys, 336 verts] '01 - Default'
+					Hub_L [212 polys, 144 verts] '01 - Default'
+		GSTRUT_R [1244 polys, 1096 verts] '01 - Default', AnimationID: 1 
+			rg1 [212 polys, 156 verts] '01 - Default', AnimationID: 1 
+			Rgshock [444 polys, 344 verts] '01 - Default'
+				Tire_R [576 polys, 336 verts] '01 - Default'
+					Hub_R [212 polys, 144 verts] '01 - Default'
+		gearwell [212 polys, 156 verts] '01 - Default'
+		Head05 [342 polys, 519 verts] '15 - Default'
+		Head06 [342 polys, 519 verts] '15 - Default'
+		Rightblister [1700 polys, 2403 verts] '01 - Default'
+			rbisglass [264 polys, 249 verts] 'Material #62'
+		lwstrut2 [212 polys, 158 verts] '01 - Default'
+		lwstrut1 [212 polys, 156 verts] '01 - Default'
+		rwstrut1 [212 polys, 158 verts] '01 - Default'
+		rwstrut2 [212 polys, 158 verts] '01 - Default'
+		RNGDoor [32 polys, 42 verts] '01 - Default', AnimationID: 1 
+		LNGDoor [32 polys, 42 verts] '01 - Default', AnimationID: 1 
+		RGstand [212 polys, 156 verts] '01 - Default'
+			RGun [3484 polys, 5001 verts] '01 - Default'
+		Inside_L [350 polys, 337 verts] 'Material #54'
+		InsideRight [369 polys, 381 verts] 'Material #54'
+
+
+Num Nodes: 99
+Total:    (50699 polys, 54814 verts)
+Mesh Max: (6408 polys, 5302 verts)
+
+7 Materials:
+ (  1) 01 - Default:
+       pby2.bmp
+ (  2) Material #11:
+       Transparency enabled
+       rotor01.tga
+ (  3) Material #6:
+       Transparency enabled
+       rotor02.tga
+ (  4) 15 - Default:
+       gunnWW2Italy.bmp
+ (  5) Material #62:
+       Transparency enabled
+       ClearCANOPYGLASS.TGA
+ (  6) 06 - Default:
+       Transparency enabled
+       ClearCANOPYGLASS.TGA
+ (  7) Material #54:
+       PBYinside.bmp
+
+6 Textures:
+pby2.bmp
+rotor01.tga
+rotor02.tga
+gunnWW2Italy.bmp
+ClearCANOPYGLASS.TGA
+PBYinside.bmp
+
+Points
+
+Extents
