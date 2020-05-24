@@ -1,0 +1,55 @@
+Vought F4U-5/-5N/5NL  12-3-12 Corsair   * Retired *
+ Used by various units. 
+
+Serial 
+
+Code 
+
+c/no. 
+
+Prev. Identity 
+
+Delivered 
+
+Fate/Notes 
+
+0374 3-C-1 n/a BuNo 124705 2.7.1956 became 2-A-201 on 5.3.1959, (5NL) 
+0375 3-C-2 n/a BuNo 124699 2.7.1956 crashed near Quilmes on 16.12.1958, (5NL) 
+0376 3-C-3 n/a BuNo 124514 2.7.1956 became 2-A-203 on 5.3.1959, (5NL) 
+0377 3-C-4 n/a BuNo 122206 2.7.1956 became 2-A-204 on 5.3.1959, (5NL) 
+0378 3-C-5 n/a BuNo 122192 2.7.1956 became 2-A-205 on 5.3.1959, (5NL) 
+0379 3-C-6 n/a BuNo 124703 2.7.1956 became 2-A-206 on 5.3.1959, (5NL) 
+0380 3-C-7 n/a BuNo 122038 2.7.1956 became 2-A-207 on 5.3.1959, (5NL) 
+0381 3-C-8(1) n/a BuNo 123203 2.7.1956 crashed at BAN Com. Espora on 10.10.1957, (5N) 
+0382 3-C-9 n/a BuNo 124559 2.7.1956 became 2-A-209 on 5.3.1959, (5NL) 
+0383 3-C-10 n/a BuNo 122183 2.7.1956 became 2-A-210 on 5.3.1959, (5N) 
+0395 3-C-8(2) n/a BuNo 124685 3.1958 became 2-A-208 on 5.3.1959, (5NL) 
+0374 2-A-201 n/a BuNo 124705 5.3.1959 became 3-A-201 in 8.1960, (5NL) 
+0433 2-A-202 n/a BuNo 124541 23.12.1958 became 3-A-204 in 8.1960, (5NL) 
+0376 2-A-203 n/a BuNo 124514 5.3.1959 crashed at BAN Puerto Madryn on 13.2.1960, later repaired and became 3-A-206 in 8.1961, (5NL) 
+0377 2-A-204 n/a BuNo 122206 5.3.1959 became 3-A-204 in 8.1960, (5NL) 
+0378 2-A-205 n/a BuNo 122192 5.3.1959 became 3-A-205 in 8.1960, (5NL) 
+0379 2-A-206 n/a BuNo 124703 5.3.1959 crashed in 2.1960, later repaired and became 3-A-203 in 1961, (5NL) 
+0380 2-A-207 n/a BuNo 122038 5.3.1959 crashed at BAN Punata Indio on 25.11.1959, (5NL) 
+0395 2-A-208 n/a BuNo 124685 5.3.1959 became 3-A-208 in 8.1960, (5NL) 
+0382 2-A-209 n/a BuNo 124559 5.3.1959 became 3-A-209 in 8.1960, (5NL) 
+0383 2-A-210 n/a BuNo 122183 5.3.1959 became 3-A-210 in 8.1960, (5N) 
+0435 2-A-213 n/a BuNo 124707 1959 became 3-A-213 in 8.1960, (5NL) 
+0432 2-A-215 n/a BuNo 124701 23.12.1958 became 3-A-215 in 8.1960, (5N) 
+0434 2-A-223 n/a BuNo 124678 23.12.1958 became 3-A-202 in 8.1960, (5NL) 
+0435 2-A-224 n/a BuNo 124707 23.12.1958 became 2-A-213 in 1959, (5NL) 
+0374 3-A-201 n/a BuNo 124705 8.1960 wfu in 1966, (5NL) 
+0434 3-A-202(1) n/a BuNo 124678 8.1960 crashed at BAN Punta Indio on 23.11.1960, (5NL) 
+0379 3-A-203 n/a BuNo 124703 1961 wfu in 1965, (5NL) 
+0377 3-A-204(1) n/a BuNo 122206 8.1960 damaged on 17.8.1960 and wfu, (5NL) 
+0433 2-A-204(2) n/a BuNo 124541 8.1960 wfu in 1966, (5NL) 
+0378 3-A-205 n/a BuNo 122192 8.1960 wfu in 1966, (5NL) 
+0376 3-A-206 n/a BuNo 124514 8.1960 wfu in 1966, (5NL) 
+0395 3-A-208 n/a BuNo 124685 8.1960 wfu in 1965, (5NL) 
+0382 3-A-209 n/a BuNo 124559 8.1960 wfu on 27.11.1965, (5NL) 
+0383 3-A-210(1) n/a BuNo 122183 8.1960 crashed while operationg from ARA(V-1) "Independencia" on 22.9.1961, (5N) 
+0390 3-A-210(2) n/a BuNo 121927 4.1964 crashed near Cañadón Seco on 9.11.1965, (5) 
+0435 3-A-213 n/a BuNo 124707 8.1960 wfu on 27.11.1965, (5NL) 
+0432 3-A-214(2) n/a BuNo 124701 4.1964 crashed at BAN Com. Espora on 7.5.1964, (5N) 
+0432 3-A-215 n/a BuNo 124701 8..1960 became 3-A-214 in 4.1964, (5N) 
+

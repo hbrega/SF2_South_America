@@ -70,3 +70,6 @@ F-16C Block 50M Fach
 
 F-16D Block 50M Fach
 
+F4U-5 Corsair
+
+F4U-5NL Corsair 
