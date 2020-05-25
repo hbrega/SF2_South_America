@@ -1,0 +1,33 @@
+Saab JAS 39 Gripen Força Aérea Brasileira Package
+by The Scandinavian Front Team
+
+The Saab JAS 39 Gripen (griffin) is a lightweight single-engine multirole fighter manufactured by the Swedish aerospace 
+company Saab. It was designed to replace the Saab 35 Draken and 37 Viggen in the Swedish Air Force (Flygvapnet). 
+The Gripen has a delta wing and canard configuration with relaxed stability design and fly-by-wire technology. 
+It is powered by the Volvo-Flygmotor RM12 engine, a derivative of the General Electric F404, and has a top speed of
+Mach 2. Later aircraft are equipped for in-flight refuelling; most of the export aircraft have been designed 
+to be compatible with NATO interoperability standards. The Aircraft was most recently leased by Brazil awaiting delivery
+of their Gripen-NG; At least 6 Aircraft will be avalible for the 2016 Olympics - most probably many more. 
+
+This package contains two "Proable-in-near-future" Aircraft with correct serials, year-specific loadouts and correct weapons.
+
+JAS 39C-B(razil): The NATO-compatible version of Gripen with extended capabilities in terms of armament, electronics, etc. It uses large colour displays with English language, 
+feet and knots instead of meters and km/h. This variant can also be refuelled in flight. 
+
+JAS 39D-B(razil): The two-seat version of the C variant; otherwise similar to the B variant. Training variant. 
+ 
+
+Gripen 3D Model by Gux, updated by CadetteBra
+Adjustments by dtmdragon
+Flight Model by Column5
+Avionics by Jat & Moonjumper
+Skins by AGOSTINO, Decals by Paulopanz
+Weapons by Ravenclaw
+Serials by Team TSF
+Brazil Gripen Mods by Team TSF
+Fact Checking and application by Team TSF
+Loadouts and .ini editing by Team TSF
+
+
+
+

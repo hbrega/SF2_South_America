@@ -1,0 +1,18 @@
+	Cylinder01 (648 polys, 1944 verts) '01 - Default'
+		Object01 (234 polys, 702 verts) '02 - Default'
+
+
+Num Nodes: 2
+Total:    (882 polys, 2646 verts)
+Mesh Max: (648 polys, 1944 verts)
+
+2 Materials:
+ (  1) 01 - Default:
+       Rbs15.bmp
+ (  2) 02 - Default:
+       Specular=0.96, Glossiness=0.39, Color:<229,229,229>
+       Reflection=1.00
+       Rbs15.bmp
+
+1 Textures:
+Rbs15.bmp

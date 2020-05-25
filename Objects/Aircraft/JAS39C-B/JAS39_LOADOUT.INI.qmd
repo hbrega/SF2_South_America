@@ -1,0 +1,182 @@
+// Wingtip Stations
+// Station 1 = L Wingtip IRM
+// Station 2 = R Wingtip IRM
+
+// Left Outer Pylon
+// Station 3 = Bombs
+// Station 4 = A2G Missiles
+// Station 5 = Long Range AAM
+// Station 6 = IRM
+
+// Right Outer Pylon
+// Station 7 = Bombs
+// Station 8 = A2G Missiles
+// Station 9 = Long Range AAM
+// Station 10 = IRM
+
+// Left Inner Pylon
+// Station 11 = Bombs
+// Station 12 = A2G Missiles
+// Station 13 = Long Range AAM
+// Station 14 = IRM
+// Station 15 = Fuel Tank
+
+// Right Inner Pylon
+// Station 16 = Bombs
+// Station 17 = A2G Missiles
+// Station 18 = Long Range AAM
+// Station 19 = IRM
+// Station 20 = Fuel Tank
+
+// Chin Station
+// Station 21 = Pod
+
+// Centerline Station
+// Station 22 = Fuel Tank
+
+
+[AirToAir]
+Loadout[01].WeaponType=IRIS-T
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=IRIS-T
+Loadout[02].Quantity=1
+Loadout[06].WeaponType=Robot99
+Loadout[06].Quantity=1
+Loadout[10].WeaponType=Robot99
+Loadout[10].Quantity=1
+Loadout[13].WeaponType=Robot99
+Loadout[13].Quantity=1
+Loadout[18].WeaponType=Robot99
+Loadout[18].Quantity=1
+Loadout[21].WeaponType=
+Loadout[21].Quantity=0
+Loadout[22].WeaponType=Gripen_Tank
+Loadout[22].Quantity=1
+
+[AirToAirLongRange]
+Loadout[01].WeaponType=IRIS-T
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=IRIS-T
+Loadout[02].Quantity=1
+Loadout[06].WeaponType=Robot99
+Loadout[06].Quantity=1
+Loadout[10].WeaponType=Robot99
+Loadout[10].Quantity=1
+Loadout[13].WeaponType=Robot99
+Loadout[13].Quantity=1
+Loadout[18].WeaponType=Robot99
+Loadout[18].Quantity=1
+Loadout[21].WeaponType=
+Loadout[21].Quantity=0
+Loadout[22].WeaponType=Gripen_Tank
+Loadout[22].Quantity=1
+
+[Attack]
+Loadout[01].WeaponType=IRIS-T
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=IRIS-T
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=GBU-12B
+Loadout[03].Quantity=1
+Loadout[07].WeaponType=GBU-12B
+Loadout[07].Quantity=1
+Loadout[11].WeaponType=BK90
+Loadout[11].Quantity=1
+Loadout[16].WeaponType=BK90
+Loadout[16].Quantity=1
+Loadout[21].WeaponType=LiteningIII
+Loadout[21].Quantity=1
+Loadout[22].WeaponType=Gripen_Tank
+Loadout[22].Quantity=1
+
+[Strike]
+Loadout[01].WeaponType=IRIS-T
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=IRIS-T
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=GBU-12B
+Loadout[03].Quantity=1
+Loadout[07].WeaponType=GBU-12B
+Loadout[07].Quantity=1
+Loadout[11].WeaponType=RBS15
+Loadout[11].Quantity=1
+Loadout[16].WeaponType=RBS15
+Loadout[16].Quantity=1
+Loadout[21].WeaponType=LiteningIII
+Loadout[21].Quantity=1
+Loadout[22].WeaponType=Gripen_Tank
+Loadout[22].Quantity=1
+
+[CAS]
+Loadout[01].WeaponType=IRIS-T
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=IRIS-T
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=GBU-12B
+Loadout[03].Quantity=1
+Loadout[07].WeaponType=GBU-12B
+Loadout[07].Quantity=1
+Loadout[11].WeaponType=BK90
+Loadout[11].Quantity=1
+Loadout[16].WeaponType=BK90
+Loadout[16].Quantity=1
+Loadout[21].WeaponType=LiteningIII
+Loadout[21].Quantity=1
+Loadout[22].WeaponType=Gripen_Tank
+Loadout[22].Quantity=1
+
+[SEAD]
+Loadout[01].WeaponType=IRIS-T
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=IRIS-T
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=GBU-12B
+Loadout[03].Quantity=1
+Loadout[07].WeaponType=GBU-12B
+Loadout[07].Quantity=1
+Loadout[11].WeaponType=BK90
+Loadout[11].Quantity=1
+Loadout[16].WeaponType=BK90
+Loadout[16].Quantity=1
+Loadout[21].WeaponType=LiteningIII
+Loadout[21].Quantity=1
+Loadout[22].WeaponType=Gripen_Tank
+Loadout[22].Quantity=1
+
+[Anti-Ship]
+Loadout[01].WeaponType=IRIS-T
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=IRIS-T
+Loadout[02].Quantity=1
+Loadout[11].WeaponType=RBS15
+Loadout[11].Quantity=1
+Loadout[16].WeaponType=RBS15
+Loadout[16].Quantity=1
+Loadout[21].WeaponType=LiteningIII
+Loadout[21].Quantity=1
+Loadout[22].WeaponType=Gripen_Tank
+Loadout[22].Quantity=1
+
+[Incident]
+Loadout[01].WeaponType=IRIS-T
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=IRIS-T
+Loadout[02].Quantity=1
+Loadout[22].WeaponType=Gripen_Tank
+Loadout[22].Quantity=1
+
+[ASMTraining]
+Loadout[03].WeaponType=GBU-12B
+Loadout[03].Quantity=1
+Loadout[07].WeaponType=GBU-12B
+Loadout[07].Quantity=1
+Loadout[11].WeaponType=Gripen_Tank
+Loadout[11].Quantity=1
+Loadout[16].WeaponType=Gripen_Tank
+Loadout[16].Quantity=1
+Loadout[21].WeaponType=LiteningIII
+Loadout[21].Quantity=1
+Loadout[22].WeaponType=Gripen_Tank
+Loadout[22].Quantity=1
+
+

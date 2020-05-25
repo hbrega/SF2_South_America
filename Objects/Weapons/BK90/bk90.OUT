@@ -1,0 +1,15 @@
+	Box01 (394 polys, 1182 verts) '01 - Default'
+
+
+Num Nodes: 1
+Total:    (394 polys, 1182 verts)
+Mesh Max: (394 polys, 1182 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       Specular=0.65, Glossiness=0.74, Color:<229,229,229>
+       Reflection=0.30
+       bk90.bmp
+
+1 Textures:
+bk90.bmp

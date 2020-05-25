@@ -82,6 +82,10 @@ AF-1 Brazilian Navy
 
 F-86F Sabre
 
+JAS 39C-B Gripen
+
+JAS 39D-B Gripen
+
 
 #Objects
 
