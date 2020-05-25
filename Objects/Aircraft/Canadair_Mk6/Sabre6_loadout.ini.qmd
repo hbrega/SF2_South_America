@@ -1,0 +1,75 @@
+// Station 1 = Left Wing Station Outboard
+// Station 2 = Right Wing Station Outboard
+// Station 3 = Left Wing Station Inboard
+// Station 4 = Right Wing Station Inboard
+// Station 5 = Left Heater Rail
+// Station 6 = Right Heater Rail
+
+[AirToAir]
+DefaultFor=CAP,INTERCEPT,ESCORT,SWEEP
+Loadout[01].WeaponType=Tank_f86c
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_f86c
+Loadout[02].Quantity=1
+
+[Attack]
+Loadout[01].WeaponType=Tank_f86c
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_f86c
+Loadout[02].Quantity=1
+Loadout[15].WeaponType=60lb-rocket
+Loadout[15].Quantity=1
+Loadout[16].WeaponType=60lb-rocket
+Loadout[16].Quantity=1
+Loadout[17].WeaponType=60lb-rocket
+Loadout[17].Quantity=1
+Loadout[18].WeaponType=60lb-rocket
+Loadout[18].Quantity=1
+Loadout[19].WeaponType=60lb-rocket
+Loadout[19].Quantity=1
+Loadout[20].WeaponType=60lb-rocket
+Loadout[20].Quantity=1
+Loadout[21].WeaponType=60lb-rocket
+Loadout[21].Quantity=1
+Loadout[22].WeaponType=60lb-rocket
+Loadout[22].Quantity=1
+
+[Strike]
+Loadout[01].WeaponType=Tank_f86c
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_f86c
+Loadout[02].Quantity=1
+Loadout[03].WeaponType=M117
+Loadout[03].Quantity=1
+Loadout[04].WeaponType=M117
+Loadout[04].Quantity=1
+
+[SEAD]
+Loadout[01].WeaponType=Tank_f86c
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_f86c
+Loadout[02].Quantity=1
+Loadout[15].WeaponType=60lb-rocket
+Loadout[15].Quantity=1
+Loadout[16].WeaponType=60lb-rocket
+Loadout[16].Quantity=1
+Loadout[17].WeaponType=60lb-rocket
+Loadout[17].Quantity=1
+Loadout[18].WeaponType=60lb-rocket
+Loadout[18].Quantity=1
+Loadout[19].WeaponType=60lb-rocket
+Loadout[19].Quantity=1
+Loadout[20].WeaponType=60lb-rocket
+Loadout[20].Quantity=1
+Loadout[21].WeaponType=60lb-rocket
+Loadout[21].Quantity=1
+Loadout[22].WeaponType=60lb-rocket
+Loadout[22].Quantity=1
+
+[Recon]
+Loadout[01].WeaponType=Tank_f86c
+Loadout[01].Quantity=1
+Loadout[02].WeaponType=Tank_f86c
+Loadout[02].Quantity=1
+
+==============

@@ -78,8 +78,13 @@ F4U-5NL Corsair
 
 A4-Q
 
+AF-1 Brazilian Navy
+
+F-86F Sabre
 
 
 #Objects
 
 ARA 25 de Mayo
+
+Sao Paulo NAe Class

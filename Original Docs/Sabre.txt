@@ -1,0 +1,74 @@
+Canadair Sabre Mk.6, Fuerza Aérea Colombiana (Columbian Air Force) for SF/WoV/WoE/WoI and probably SF2
+
+3/11/09
+
+-Part of an on-going series of mod recreating Central American Airpower
+
+Modifications, and a complete reskin of the Canadair Sabre into those as used by the Columbian Air Force.
+This is a aircraft mod, with everything included to (well, pretty much) just unzip and fly away with!!
+
+The skins, from templates supplied by Zur about a milliion years ago, represent a "RAF Euro style" of coloring and pattern. The pattern itself might be considerd "interperative", but follows fairly closely to what few photos I was able to find in the research phase of this mod..New decals for the individual aircraft are from historical listings. The numbers.lst, while included, is NOT active, to prevent 'running out of numbers in game' (as they only had 12 aircraft, I made more decals than is actual historicaly accurate, but stil.....). It's just renamed, so it's easy to reactiveate it.
+
+You also get a new WoE style Hangar screen, all the weapons are included  (well, ok just the drop tanks in this case...) in the new "folder format" for use in post-patch installs, -and- in EACH weapons folder is a _data.ini as used by SF2. Unfortunately, as I don't have SF2, some experimentation on your part will be required to install and get them up and running. (meaning, I'm not sure how the numberation runs...)
+
+Cockpit mods are the inclusion of the "K-14" style air-to-air and air-to-ground sights, as seen on some other Sabre mods I've released.
+
+IMPORTANT: a NEW Nations.ini is included with the mod that superceeds the previously released version. Simply put, I'd totally forgotten to add Columbia to the listing; which would cause MAJOR issues!!! Sorry! So, just replace the pre-existing versions with this one.
+
+This mod is designed for use with, I'm hoping, ANY weapons pak. You may just need to add a few things. If you've already added the Sabre tanks from another mod or weapons pak, you need not add them again.
+
+= IMPORTANT: This aircraft has been tested in Post-Patch SF/WoV/WoE/WoI. Be advised of the existence of some handling issues prevelant in WW2 era and many Pre-Patch (ie: 06 level) aircraft. Fly accordingly!!! It should also work in SF2 and later iterations - this has NOT been tested, however.
+
+As always, unzip this to a temp folder somwhere, and you'll have access to the rest of the readme for it's instructions.
+
+------------------------------------------------------------------------------------------------------
+As I always reccomend, unzip the "fac_sabre_pak.zip" to a temp folder somewhere that easy to find.
+
+Then, simply copy/paste, move, teleport -however you want to do it- the entire "Sabre6 FAC" folder with all it's little bits and stuff, into the /Aircraft folder of whichever game you're installing it to.
+
+Take the "JetEngine2.wav" and drop it into your /Sounds folder. It's the same I used on some mod or another, so if you get the "OVERWRITE?" popup, don't worry. It's the same one!
+
+Included is a modified Nations.ini, that has the addition of some more Central American countries. This ini will also be included in every other aircraft mod I'll be releasing for Central America, so get used to seeing it.
+You simply copy/paste this new version INTO the /Flight folder of whichever game your using.
+
+BE ADVISED: if you've extracted the Nations ini before for some reason, you'll want to back it up , or simply add the 3 new nations, Panama, ElSalvador, Columbia to your modified version -DON'T FORGET TO RENUMBER THE NEWLY ADDED NATIONS!! :)
+NOTE: this versions REPLACES the one issued previously, as I just plane forgot that Columbia was on the map!!! Sorry!!
+
+That should just about do, execept for adding the weapons, so get your Weapons Editor warmed up and read on...
+
+--------------------------------------------------------------------------
+=ADDING THE WEAPONS: 
+Follow the usual instructions, and etc.
+
+----------------------------------------------------------------
+=Notes and Other Ramblings...
+ 
+Not really much to say; other than I've been so damn busy assembling the various Air Forces of the region, I've totally gotten off track on working on the targetization of the Central America map!!! Well, look at it this way...you'll have pretty much all the aircraft necessary by the time I finally get the map released <grin>
+
+
+-----------------------------------------------------------------------------------
+Credits:
+Zur and DanW for the Sabre, both aircraft AND templates -- you guys ROCK!!
+
+Sources:
+a little bit of this, and a little bit of that....
+
+-------------------------------------------------------------------------------------
+If you have any problems, questions, comments, I can be reached in the usual places; CombatAce, SimHQ, or via the email addy below.
+
+Happy Hunting!
+Wrench
+Kevin Stein
+
+kjstein@ca.rr.com
+
+--------------------------------------------
+Legal BS:
+This is freeware; it CAN be distrubuted if the original readmes and all other pieces of the package remain intact.
+The names of all contributors, modders, suppliers, etc =MUST= be listed in any new readmes.
+This package may NOT in any way, shape or form be used in any payware additions. 
+See the original readme documentation (if any) for further allowances and restrictions
+Any persons wishing to make further modfications, MUST remember to put everyone's name in it...otherwise I =WILL=  find you and you will discover what's at the Lowest Level of Hell ...
+Bribes are accepted; ask for the day's going rates
+The Canadair Sabre Mk.6 remains property of Canadair Avaition, ltd, North American Aviation, inc, their heirs/successors/stockholders and of course, The Great and Powerful Zur (and DanW)
+-------------------------------------------
