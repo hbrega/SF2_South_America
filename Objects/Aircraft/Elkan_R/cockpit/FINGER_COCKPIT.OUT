@@ -1,0 +1,324 @@
+	cowling [132 polys, 396 verts (decal)] 'Material_1'
+		cockpit_P [119 polys, 357 verts (decal)] 'Material_0'
+		Rectangle43 [40 polys, 120 verts (decal)] 'Material_1'
+		freins_secours [276 polys, 828 verts (decal)] 'Material_1'
+		side_panels [38 polys, 114 verts (decal)] 'Material_2'
+		throttle_base [20 polys, 60 verts (decal)] 'Material_2'
+		throttle [90 polys, 270 verts (decal)] 'Material_3'
+		pedal_L [20 polys, 60 verts (decal)] 'Material_3'
+		pedal_R [20 polys, 60 verts (decal)] 'Material_3'
+		frame_forward [212 polys, 636 verts (decal)] 'Material_4'
+		windshield_frame [44 polys, 132 verts (decal)] 'Material_4'
+		screws_windshield [360 polys, 1080 verts (decal)] 'Material_4'
+		frame_forward_details [244 polys, 732 verts (decal)] 'Material_1'
+		Cylinder01 [24 polys, 72 verts (decal)] 'Material_4'
+		lever_l [88 polys, 264 verts (decal)] 'Material_4'
+		lever_r [88 polys, 264 verts (decal)] 'Material_4'
+		frame_rear_L [15 polys, 45 verts (decal)] 'Material_4'
+		canopy_frame_rear_base [96 polys, 288 verts (decal)] 'Material_1'
+		frame_arc [388 polys, 1164 verts (decal)] 'Material_4'
+		clock_frame_brace [60 polys, 180 verts (decal)] 'Material_1'
+		clock_frame [22 polys, 66 verts (decal)] 'Material_5'
+		clock_frame_knob [72 polys, 216 verts (decal)] 'Material_6'
+		clock_hour [3 polys, 9 verts (decal)] 'Material_7'
+		clock_min [3 polys, 9 verts (decal)] 'Material_7'
+		clock_sec [2 polys, 6 verts (decal)] 'Material_7'
+		accel_frame [22 polys, 66 verts (decal)] 'Standard_8'
+		accel_needle [3 polys, 9 verts (decal)] 'Material_7'
+		mirror_frames [56 polys, 168 verts (decal)] 'Material_11'
+		mirror_R [28 polys, 84 verts (decal)] 'Material_12'
+		mirror_L [28 polys, 84 verts (decal)] 'Material_12'
+		compass_upper_brace [44 polys, 132 verts (decal)] 'Material_1'
+		compass_upper [36 polys, 108 verts (decal)] 'Material_4'
+		compass_upper_dial [60 polys, 180 verts (decal)] 'Material_13'
+		compass_upper_glass [36 polys, 108 verts (decal)] 'Material_14'
+		compass_upper_knob [44 polys, 132 verts (decal)] 'Material_6'
+		screws [870 polys, 2610 verts (decal)] 'Material_4'
+		frame_arc_rear [206 polys, 618 verts (decal)] 'Material_4'
+		frame_rear_R [15 polys, 45 verts (decal)] 'Material_4'
+		tub [92 polys, 276 verts (decal)] 'Material_15'
+		instrument_panel_base [2 polys, 6 verts (decal)] 'Material_15'
+		radar_control_panel [2 polys, 6 verts (decal)] 'Material_3'
+		stick_base [2 polys, 6 verts (decal)] 'Material_16'
+		control_stick [98 polys, 294 verts (decal)] 'Material_1'
+		control_stick_handle [269 polys, 807 verts (decal)] 'Material_16'
+		instrument_panel [261 polys, 783 verts (decal)] 'Material_3'
+			Gauge_HSI [50 polys, 150 verts (decal)] 'Material #0'
+				course_dig1 [20 polys, 60 verts (decal)] 'Material_14_001'
+				course_dig2 [20 polys, 60 verts (decal)] 'Material_14_001'
+				course_dig3 [20 polys, 60 verts (decal)] 'Material_14_001'
+				distance_dig1 [20 polys, 60 verts (decal)] 'Material_14_001'
+				distance_dig2 [20 polys, 60 verts (decal)] 'Material_14_001'
+				distance_dig3 [20 polys, 60 verts (decal)] 'Material_14_001'
+				HSI_wheel [13 polys, 39 verts (decal)] 'Material #1'
+					HSI_cover [13 polys, 39 verts (decal)] 'Material #0'
+						HSI_HeadingMarker [4 polys, 12 verts (decal)] 'Material_9_001'
+						HSI_CourseArrow [7 polys, 21 verts (decal)] 'Material_9_001'
+						HSI_CourseDeviation [2 polys, 6 verts (decal)] 'Material_9_001'
+						HSI_plane [15 polys, 45 verts (decal)] 'Material_9_001'
+					HSI_pointer [5 polys, 15 verts (decal)] 'Material_9_001'
+				knobs1_knobs1_Material_19 [56 polys, 168 verts (decal)] 'Material #2'
+			default [3152 polys, 9456 verts (decal)] 'Standard_9'
+				default01 [48 polys, 144 verts (decal)] 'Material_6_003'
+		screws_panel [168 polys, 504 verts (decal)] 'Material_17'
+		panel_small [113 polys, 339 verts (decal)] 'Material_3'
+		toggle_panel_small [22 polys, 66 verts (decal)] 'Material_6'
+		panel_small_details [48 polys, 144 verts (decal)] 'Material_6'
+		machmeter_case [80 polys, 240 verts (decal)] 'Material_18'
+		machmeter_dial [20 polys, 60 verts (decal)] 'Material_19'
+		needle_speed [7 polys, 21 verts (decal)] 'Material_7'
+		mach_wheel_cover [15 polys, 45 verts (decal)] 'Material_19'
+		machmeter_dial2 [16 polys, 48 verts (decal)] 'Material_20'
+		machmeter_knob [36 polys, 108 verts (decal)] 'Material_6'
+		ADI2_case [80 polys, 240 verts (decal)] 'Material_18'
+		ADI2_knob [46 polys, 138 verts (decal)] 'Material_6'
+		ADI2 [100 polys, 300 verts (decal)] 'Material_21'
+			ADI2_bank [20 polys, 60 verts (decal)] 'Material_22'
+				ADI2_pitch [2 polys, 6 verts (decal)] 'Material_23'
+			ADI2_bank2 [20 polys, 60 verts (decal)] 'Material_22'
+				ADI_sphere [1224 polys, 3672 verts (decal)] 'Material_46'
+		HUD_detail [52 polys, 156 verts (decal)] 'Material_6'
+		blue_light [2 polys, 6 verts (decal)] 'Material_25'
+		amber_light [2 polys, 6 verts (decal)] 'Material_25'
+		green_light [2 polys, 6 verts (decal)] 'Material_25'
+		red_light [2 polys, 6 verts (decal)] 'Material_25'
+		indexer_middle [2 polys, 6 verts (decal)] 'Material_25'
+		indexer_down [2 polys, 6 verts (decal)] 'Material_25'
+		indexer_up [2 polys, 6 verts (decal)] 'Material_25'
+		HUD_glass_braces [36 polys, 108 verts (decal)] 'Material_6'
+		HUD_glass_pins [100 polys, 300 verts (decal)] 'Material_4'
+		HUD_glass_top [36 polys, 108 verts (decal)] 'Material_27'
+		test_panel_R [30 polys, 90 verts (decal)] 'Material_31'
+		test_button_panel [60 polys, 180 verts (decal)] 'Material_6'
+		test_button_panel01 [60 polys, 180 verts (decal)] 'Material_6'
+		Cylinder02 [66 polys, 198 verts (decal)] 'Material_31'
+		Cylinder04 [66 polys, 198 verts (decal)] 'Material_31'
+		Cylinder03 [66 polys, 198 verts (decal)] 'Material_31'
+		radar_toggles01 [37 polys, 111 verts (decal)] 'Material_32'
+		radar_toggles [37 polys, 111 verts (decal)] 'Material_32'
+		fuel_transfer_lights [48 polys, 144 verts (decal)] 'Material_33'
+		fuel_light_R [36 polys, 108 verts (decal)] 'Material_6'
+		low_fuel_light1 [2 polys, 6 verts (decal)] 'Material_25'
+		fuel_light_L [36 polys, 108 verts (decal)] 'Material_6'
+		low_fuel_light2 [2 polys, 6 verts (decal)] 'Material_25'
+		light_center [10 polys, 30 verts (decal)] 'Material_6'
+		fire_light02 [2 polys, 6 verts (decal)] 'Material_25'
+		fire_light01 [2 polys, 6 verts (decal)] 'Material_25'
+		altimeter_case [80 polys, 240 verts (decal)] 'Material_18'
+		altimeter_dial [20 polys, 60 verts (decal)] 'Material_34'
+		alt_needle2 [4 polys, 12 verts (decal)] 'Material_7'
+		alt2_cover [15 polys, 45 verts (decal)] 'Material_18'
+		alt_needle1 [3 polys, 9 verts (decal)] 'Material_7'
+		alt_needle [3 polys, 9 verts (decal)] 'Material_7'
+		altimeter_2_knob [36 polys, 108 verts (decal)] 'Material_6'
+		lights_right [36 polys, 108 verts (decal)] 'Material_6'
+		ab_light [2 polys, 6 verts (decal)] 'Material_25'
+		larbages [4 polys, 12 verts (decal)] 'Material_3'
+		panel_small01 [100 polys, 300 verts (decal)] 'Material_3'
+		panel_small_details01 [24 polys, 72 verts (decal)] 'Material_6'
+		jageur [2 polys, 6 verts (decal)] 'Material_37'
+		fuel_needle [3 polys, 9 verts (decal)] 'Material_7'
+		rpm [2 polys, 6 verts (decal)] 'Material_38'
+		rpm_needle [3 polys, 9 verts (decal)] 'Material_7'
+		reglage [2 polys, 6 verts (decal)] 'Material_39'
+		temp_needle [3 polys, 9 verts (decal)] 'Material_7'
+		VSI [2 polys, 6 verts (decal)] 'Material_40'
+		vsi_needle [3 polys, 9 verts (decal)] 'Material_7'
+		souris [2 polys, 6 verts (decal)] 'Material_41'
+		souris_needle [3 polys, 9 verts (decal)] 'Material_7'
+		light_center01 [10 polys, 30 verts (decal)] 'Material_6'
+		Gauge_Attitude [170 polys, 510 verts (decal)] 'Material_42'
+		slipball [48 polys, 144 verts (decal)] 'Material_43'
+		ADI_watermark2 [18 polys, 54 verts (decal)] 'Material_44'
+		needle_bank [2 polys, 6 verts (decal)] 'Material_45'
+		knobs1 [66 polys, 198 verts (decal)] 'Material_6'
+		radar_alt [2 polys, 6 verts (decal)] 'Standard_1'
+		radaralt_needle [3 polys, 9 verts (decal)] 'Material_7'
+		panel_small_lower_light_R01 [36 polys, 108 verts (decal)] 'Material_6'
+		gear_transfer_lights [48 polys, 144 verts (decal)] 'Material_6'
+		servo [6 polys, 18 verts (decal)] 'Material_3'
+		servo_toggle [37 polys, 111 verts (decal)] 'Material_32'
+		test_button [48 polys, 144 verts (decal)] 'Material_6'
+		test_button01 [48 polys, 144 verts (decal)] 'Material_6'
+		light_center04 [10 polys, 30 verts (decal)] 'Material_6'
+		fail_light [2 polys, 6 verts (decal)] 'Material_25'
+		fuel_counter [2 polys, 6 verts (decal)] 'Material_51'
+		fuel_dig1 [20 polys, 60 verts (decal)] 'Material_13'
+		fuel_dig2 [20 polys, 60 verts (decal)] 'Material_13'
+		fuel_dig3 [20 polys, 60 verts (decal)] 'Material_13'
+		fuel_dig4 [20 polys, 60 verts (decal)] 'Material_13'
+		canopy_glass_rear [218 polys, 654 verts (decal)] 'Material_9'
+		canopy_glass_front [60 polys, 180 verts (decal)] 'Material_10'
+		HUD_glass [14 polys, 42 verts (decal)] 'Material_26'
+		lights_right01 [36 polys, 108 verts (decal)] 'Material_6'
+		larbages01 [4 polys, 12 verts (decal)] 'Material_3'
+		servo_toggle01 [37 polys, 111 verts (decal)] 'Material_32'
+		servo_toggle02 [37 polys, 111 verts (decal)] 'Material_32'
+
+
+Num Nodes: 156
+Total:    (12344 polys, 37032 verts)
+Mesh Max: (3152 polys, 9456 verts)
+
+50 Materials:
+ (  1) Material_1:
+       Nesher_CP_4.bmp
+ (  2) Material_0:
+       <No Texture>
+ (  3) Material_2:
+       Nesher_sides.bmp
+ (  4) Material_3:
+       nesher_cp_2.bmp
+ (  5) Material_4:
+       Nesher_CP_3.bmp
+ (  6) Material_5:
+       Nesher_clock_frame.bmp
+ (  7) Material_6:
+       Nesher_CP_1.bmp
+ (  8) Material_7:
+       <No Texture>
+ (  9) Standard_8:
+       Transparency enabled
+       NESHER_ACCEL.tga
+ ( 10) Material_11:
+       nesher_cp_2.bmp
+ ( 11) Material_12:
+       pit_mirror.bmp
+ ( 12) Material_13:
+       pit_digits.bmp
+ ( 13) Material_14:
+       Transparency enabled
+       ClrGlass.TGA
+ ( 14) Material_15:
+       Nesher_floor.bmp
+ ( 15) Material_16:
+       Nesher_stick.bmp
+ ( 16) Material #0:
+       Transparency enabled
+       F15A_HSI.TGA
+ ( 17) Material_14_001:
+       PIT_DIGITS.BMP
+ ( 18) Material #1:
+       PIT_COMPASS.BMP
+ ( 19) Material_9_001:
+       <No Texture>
+ ( 20) Material #2:
+       F15A_PIT3.BMP
+ ( 21) Standard_9:
+       SINT.bmp
+ ( 22) Material_6_003:
+       Nesher_CP_1.bmp
+ ( 23) Material_17:
+       nesher_cp_2.bmp
+ ( 24) Material_18:
+       Nesher_case1.bmp
+ ( 25) Material_19:
+       Nesher_machmeter.bmp
+ ( 26) Material_20:
+       Nesher_machwheel.bmp
+ ( 27) Material_21:
+       Nesher_standby.bmp
+ ( 28) Material_22:
+       Transparency enabled
+       Nesher_standby_bank.tga
+ ( 29) Material_23:
+       Nesher_ADI2.bmp
+ ( 30) Material_46:
+       Nesher_BezuBall.bmp
+ ( 31) Material_25:
+       Transparency enabled
+       Nesher_lights.tga
+ ( 32) Material_27:
+       pit_HUDGlassTop.tga
+ ( 33) Material_31:
+       nesher_extrapanels.bmp
+ ( 34) Material_32:
+       Nesher_CP_1.bmp
+ ( 35) Material_33:
+       Nesher_transfert.bmp
+ ( 36) Material_34:
+       Nesher_altimeter.bmp
+ ( 37) Material_37:
+       Transparency enabled
+       Nesher_jageur.tga
+ ( 38) Material_38:
+       Transparency enabled
+       Nesher_rpm.tga
+ ( 39) Material_39:
+       Transparency enabled
+       nesher_reglage.tga
+ ( 40) Material_40:
+       Transparency enabled
+       Nesher_vsi.tga
+ ( 41) Material_41:
+       Transparency enabled
+       Nesher_Souris.tga
+ ( 42) Material_42:
+       Transparency enabled
+       Nesher_attitude.tga
+ ( 43) Material_43:
+       <No Texture>
+ ( 44) Material_44:
+       <No Texture>
+ ( 45) Material_45:
+       <No Texture>
+ ( 46) Standard_1:
+       Transparency enabled
+       NESHER_RADARALT.TGA
+ ( 47) Material_51:
+       nesher_fuel_counter.tga
+ ( 48) Material_9:
+       Transparency enabled
+       Nesher_reflec2.tga
+ ( 49) Material_10:
+       Transparency enabled
+       Nesher_reflec1.tga
+ ( 50) Material_26:
+       Transparency enabled
+       Nesher_HUDReflection.tga
+
+40 Textures:
+Nesher_CP_4.bmp
+Nesher_sides.bmp
+nesher_cp_2.bmp
+Nesher_CP_3.bmp
+Nesher_clock_frame.bmp
+Nesher_CP_1.bmp
+NESHER_ACCEL.tga
+pit_mirror.bmp
+pit_digits.bmp
+ClrGlass.TGA
+Nesher_floor.bmp
+Nesher_stick.bmp
+F15A_HSI.TGA
+PIT_DIGITS.BMP
+PIT_COMPASS.BMP
+F15A_PIT3.BMP
+SINT.bmp
+Nesher_case1.bmp
+Nesher_machmeter.bmp
+Nesher_machwheel.bmp
+Nesher_standby.bmp
+Nesher_standby_bank.tga
+Nesher_ADI2.bmp
+Nesher_BezuBall.bmp
+Nesher_lights.tga
+pit_HUDGlassTop.tga
+nesher_extrapanels.bmp
+Nesher_transfert.bmp
+Nesher_altimeter.bmp
+Nesher_jageur.tga
+Nesher_rpm.tga
+nesher_reglage.tga
+Nesher_vsi.tga
+Nesher_Souris.tga
+Nesher_attitude.tga
+NESHER_RADARALT.TGA
+nesher_fuel_counter.tga
+Nesher_reflec2.tga
+Nesher_reflec1.tga
+Nesher_HUDReflection.tga
+
+Points
+
+Extents
