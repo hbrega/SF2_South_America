@@ -14,8 +14,6 @@ A-4AR Fightinghawk
 
 OA-4AR Fightinghawk
 
-MiG-25pa Foxbat-AR
-
 E-2C Hawkeye
 
 Puma SA-330
