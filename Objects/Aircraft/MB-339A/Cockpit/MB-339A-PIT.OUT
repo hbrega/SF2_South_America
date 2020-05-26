@@ -1,0 +1,278 @@
+	Nose (100 polys, 300 verts) 'MAT2'
+		WindScreenGlass (320 polys, 960 verts) 'vetro'
+		InstructorAntiGlare (23 polys, 69 verts) 'base nero'
+		PitFloor (8 polys, 24 verts) 'MAT2'
+			stick_base (68 polys, 204 verts) 'MAT1'
+				stick_colonna (76 polys, 228 verts) 'MAT1'
+					stick_perno (252 polys, 756 verts) 'MAT1'
+						stick_braccio (380 polys, 1140 verts) 'MAT1'
+							Handle (358 polys, 1074 verts) 'hotas'
+								Handle btn 2 (120 polys, 360 verts) 'Material #1415'
+								Handle btn3 (120 polys, 360 verts) 'Material #1415'
+								TrimTrigger (106 polys, 318 verts) 'hotas'
+								Handle btn1 (48 polys, 144 verts) 'Material #1415'
+								Handle btn sx (116 polys, 348 verts) 'hotas'
+				soffietto (76 polys, 228 verts) 'MAT1'
+			pedaleL (196 polys, 588 verts) 'pedale'
+				PedaleL1 (108 polys, 324 verts) 'pedale'
+			pedaleR (196 polys, 588 verts) 'pedale'
+				PedaleR1 (108 polys, 324 verts) 'pedale'
+		Seat Front (210 polys, 630 verts) 'MAT2'
+			Paratie sedile (80 polys, 240 verts) 'MAT2'
+			spuntoni sedile (48 polys, 144 verts) 'MAT2'
+			Maniglia Eject2 (144 polys, 432 verts) 'MAT2'
+		Consolle DX fr (4 polys, 12 verts) 'MAT1'
+		Consolle CX (8 polys, 24 verts) 'MAT1'
+			pomello pedaliera (116 polys, 348 verts) 'orig_base grigio'
+		Consolle SX fr (4 polys, 12 verts) 'MAT1'
+			Throttle_base (52 polys, 156 verts) 'MAT1'
+				Throttle (240 polys, 720 verts) 'hotas'
+					Throttle_rotary (144 polys, 432 verts) 'hotas'
+					Cylinder01 (56 polys, 168 verts) 'base nero'
+						Radio_btn (144 polys, 432 verts) 'hotas'
+					Aerofreno_lever (132 polys, 396 verts) 'hotas'
+					ThrottleGrip (12 polys, 36 verts) 'hotas'
+					ThrottleGrip01 (12 polys, 36 verts) 'hotas'
+					ThrottleGrip02 (12 polys, 36 verts) 'hotas'
+					ThrottleGrip03 (12 polys, 36 verts) 'hotas'
+					ThrottleGrip04 (12 polys, 36 verts) 'hotas'
+					ThrottleGrip05 (12 polys, 36 verts) 'hotas'
+					ThrottleGrip06 (12 polys, 36 verts) 'hotas'
+			Flaps_base (52 polys, 156 verts) 'MAT1'
+				Flap_lever (68 polys, 204 verts) 'orig_base grigio'
+		Glareshield (164 polys, 492 verts) 'MAT2'
+			hud_inside (28 polys, 84 verts) 'MAT3'
+			hud_fr (28 polys, 84 verts) 'hud1'
+			hud_main (28 polys, 84 verts) 'hud2'
+			hud_cine (36 polys, 108 verts) 'MAT1'
+			hud_box1 (12 polys, 36 verts) 'MAT1'
+			hud_cine2 (48 polys, 144 verts) 'MAT1'
+			HUD_lato (156 polys, 468 verts) 'MAT1'
+			hud_base2 (36 polys, 108 verts) 'MAT1'
+			hud_comandi (10 polys, 30 verts) 'MAT3'
+			hud_base1 (12 polys, 36 verts) 'MAT1'
+		lato dx01 (10 polys, 30 verts) 'MAT1'
+			Gear_lever (164 polys, 492 verts) 'hotas'
+			Box01 (12 polys, 36 verts) 'MAT1'
+			Light_Gear (2 polys, 6 verts) '22 - Default'
+			Light_NoGear (2 polys, 6 verts) '22 - Default'
+			Light_canopy (2 polys, 6 verts) '22 - Default'
+			Light_Master (2 polys, 6 verts) '22 - Default'
+			Light_Fire (2 polys, 6 verts) '22 - Default'
+			Light_Ovheat (2 polys, 6 verts) '22 - Default'
+		lato dx (10 polys, 30 verts) 'MAT1'
+		Dash (76 polys, 228 verts) 'MAT1'
+			accelerometro (28 polys, 84 verts) 'strum1'
+			Ossigeno (28 polys, 84 verts) 'MAT3'
+			ADI (28 polys, 84 verts) 'strum1'
+			ADI_ball (252 polys, 756 verts) 'ADI'
+			Machanemo (28 polys, 84 verts) 'strum1'
+			ADI-backup (28 polys, 84 verts) 'strum1'
+			Pulsante_sgancio (28 polys, 84 verts) 'MAT3'
+				Jettison (104 polys, 312 verts) 'MAT3'
+			Altimetro (40 polys, 120 verts) 'strum1'
+			Variometro (28 polys, 84 verts) 'strum1'
+			AoA (28 polys, 84 verts) 'strum1'
+			Orologio (28 polys, 84 verts) 'strum1'
+			Wing_loads (28 polys, 84 verts) 'MAT3'
+				spia carichi (252 polys, 756 verts) 'MAT3'
+				spia mrk (252 polys, 756 verts) 'MAT3'
+				spia carichi01 (252 polys, 756 verts) 'MAT3'
+				spia carichi02 (252 polys, 756 verts) 'MAT3'
+				spia carichi03 (252 polys, 756 verts) 'MAT3'
+				spia carichi04 (252 polys, 756 verts) 'MAT3'
+				spia carichi05 (252 polys, 756 verts) 'MAT3'
+				Tube01 (144 polys, 432 verts) 'Material #1415'
+				Cylinder02 (72 polys, 216 verts) 'Material #1415'
+				Wep_1-2 (212 polys, 636 verts) '24 - Default'
+				Wep_1-1 (212 polys, 636 verts) '24 - Default'
+				Wep_2-2 (212 polys, 636 verts) '24 - Default'
+				Wep_3-2 (212 polys, 636 verts) '24 - Default'
+				Wep_2-1 (212 polys, 636 verts) '24 - Default'
+				Wep_3-1 (212 polys, 636 verts) '24 - Default'
+			HSI (28 polys, 84 verts) 'strum1'
+			Flight_director (28 polys, 84 verts) 'MAT3'
+			Fuel (28 polys, 84 verts) 'strum1'
+				Cylinder03 (72 polys, 216 verts) 'orig_base grigio'
+				Cylinder04 (68 polys, 204 verts) 'orig_base grigio'
+				Cylinder05 (72 polys, 216 verts) 'strum1'
+			Altimetro_cabina (28 polys, 84 verts) 'MAT3'
+			HSI_quadro (28 polys, 84 verts) 'MAT3'
+			Marker_beacon (28 polys, 84 verts) 'MAT3'
+			UHF (28 polys, 84 verts) 'MAT3'
+			RNAV (28 polys, 84 verts) 'MAT3'
+			Anti-ice (28 polys, 84 verts) 'MAT3'
+			Fire_wrn (12 polys, 36 verts) 'MAT3'
+			Master_cau (12 polys, 36 verts) 'MAT3'
+			canopy-wrn (12 polys, 36 verts) 'MAT3'
+			Ovr_heat_wrn (12 polys, 36 verts) 'MAT3'
+			man_oss (68 polys, 204 verts) 'MAT3'
+			tachi (72 polys, 216 verts) 'strum1'
+			Jet_temp (72 polys, 216 verts) 'strum1'
+			flussometro (72 polys, 216 verts) 'strum1'
+			olio (72 polys, 216 verts) 'strum1'
+			trim_lon (72 polys, 216 verts) 'MAT3'
+			flap (72 polys, 216 verts) 'strum1'
+			aerofreno (72 polys, 216 verts) 'strum1'
+			assetto (2 polys, 6 verts) 'bianco indicatori'
+			assetto_bk (2 polys, 6 verts) 'bianco indicatori'
+			ADI_ball_bk (252 polys, 756 verts) 'ADI'
+			Needle_vario (3 polys, 9 verts) 'bianco indicatori'
+			Alti100_needle (3 polys, 9 verts) 'bianco indicatori'
+			Needle_RPM (3 polys, 9 verts) 'bianco indicatori'
+			Needle_Fuel (3 polys, 9 verts) 'bianco indicatori'
+			Needle_AoA (3 polys, 9 verts) 'bianco indicatori'
+			Needle_G (3 polys, 9 verts) 'bianco indicatori'
+			Needle_IAS (7 polys, 21 verts) 'bianco indicatori'
+				Mach01 (98 polys, 294 verts) 'base nero'
+				Mach (66 polys, 198 verts) 'strum1'
+			Needle_Airbrake (3 polys, 9 verts) 'bianco indicatori'
+			Needle_Flap (4 polys, 12 verts) 'bianco indicatori'
+			sideslip (68 polys, 204 verts) 'bianco indicatori'
+			Needle_Jettemp (3 polys, 9 verts) 'bianco indicatori'
+			Needle_flux (3 polys, 9 verts) 'bianco indicatori'
+			Needle_oilpress (3 polys, 9 verts) 'bianco indicatori'
+			Alti100_dig3 (36 polys, 108 verts) 'num neri'
+			Alti100_dig2 (36 polys, 108 verts) 'num neri'
+			Alti100_dig1 (36 polys, 108 verts) 'num bianco'
+			Alti_dig2 (36 polys, 108 verts) 'num neri'
+			Alti_dig1 (36 polys, 108 verts) 'num neri'
+			HSI_Compass (66 polys, 198 verts) 'strum1'
+				HSI_Bearing (2 polys, 6 verts) 'bianco indicatori'
+				HSI_Course (13 polys, 39 verts) 'bianco indicatori'
+					HSI_Deviation (2 polys, 6 verts) 'bianco indicatori'
+			HSI_Course_dig01 (36 polys, 108 verts) 'num neri'
+			HSI_Course_dig02 (36 polys, 108 verts) 'num neri'
+			HSI_Course_dig03 (36 polys, 108 verts) 'num neri'
+			HSI_Range_dig01 (36 polys, 108 verts) 'num neri'
+			HSI_Range_dig02 (36 polys, 108 verts) 'num neri'
+			HSI_Range_dig03 (36 polys, 108 verts) 'num neri'
+			HeadingKnob (128 polys, 384 verts) 'MAT3'
+			ADIKnob (116 polys, 348 verts) 'MAT3'
+			AltiKnob (64 polys, 192 verts) 'base nero'
+			ADIKnob01 (92 polys, 276 verts) 'base nero'
+			Clock_ore (3 polys, 9 verts) 'bianco indicatori'
+			Clock_sec (3 polys, 9 verts) 'bianco indicatori'
+			Clock_min (3 polys, 9 verts) 'bianco indicatori'
+			depr mils (36 polys, 108 verts) 'num neri'
+			CourseKnob (128 polys, 384 verts) 'MAT3'
+			DIST_dig01 (36 polys, 108 verts) 'num bianco'
+			DIST_dig02 (36 polys, 108 verts) 'num bianco'
+			DIST_dig03 (36 polys, 108 verts) 'num bianco'
+			WPT_dig01 (36 polys, 108 verts) 'num bianco'
+			WPT_dig02 (36 polys, 108 verts) 'num bianco'
+			depr mils01 (36 polys, 108 verts) 'num neri'
+			depr mils02 (36 polys, 108 verts) 'num neri'
+			MilsKnob (116 polys, 348 verts) 'base nero'
+			MilsKnob01 (116 polys, 348 verts) 'base nero'
+			MilsKnob02 (116 polys, 348 verts) 'base nero'
+			Needle_pressalti (3 polys, 9 verts) 'bianco indicatori'
+			AltiKnob01 (64 polys, 192 verts) 'orig_base grigio'
+			AltiKnob02 (60 polys, 180 verts) 'MAT3'
+			Switch L (120 polys, 360 verts) 'orig_base grigio'
+			Switch S01 (120 polys, 360 verts) 'orig_base grigio'
+			Switch S02 (120 polys, 360 verts) 'orig_base grigio'
+			Switch S03 (120 polys, 360 verts) 'orig_base grigio'
+			AltiKnob03 (64 polys, 192 verts) 'orig_base grigio'
+			Switch L02 (120 polys, 360 verts) 'orig_base grigio'
+			Switch L03 (120 polys, 360 verts) 'orig_base grigio'
+			Switch L04 (120 polys, 360 verts) 'orig_base grigio'
+			AltiKnob04 (60 polys, 180 verts) 'MAT3'
+			Switch XS01 (120 polys, 360 verts) 'orig_base grigio'
+			Switch XS02 (120 polys, 360 verts) 'orig_base grigio'
+			Switch S04 (120 polys, 360 verts) 'orig_base grigio'
+		frame_fisso_int (104 polys, 312 verts) 'frame'
+			compass_box (28 polys, 84 verts) 'MAT2'
+				compass (76 polys, 228 verts) 'num neri'
+		portacarte dx (56 polys, 168 verts) 'MAT1'
+		FrameFront (176 polys, 528 verts) 'frame'
+			BloccoTett (248 polys, 744 verts) 'hotas'
+		FrameMain (184 polys, 552 verts) 'frame'
+			FrameMain01 (124 polys, 372 verts) 'base nero'
+			Maniglia (200 polys, 600 verts) 'base nero'
+			mirrorframe_R (110 polys, 330 verts) 'base nero'
+				mirror_R (14 polys, 42 verts) 'mirror'
+			mirrorframe_top (110 polys, 330 verts) 'base nero'
+				mirror_top (14 polys, 42 verts) 'mirror'
+			mirrorframe_R01 (110 polys, 330 verts) 'base nero'
+				mirror_R01 (14 polys, 42 verts) 'mirror'
+			CanopyGlass (384 polys, 1152 verts) 'vetro'
+		Emergency_brake (112 polys, 336 verts) 'MAT1'
+		Emergency_Gear (112 polys, 336 verts) 'MAT1'
+		pic (2 polys, 6 verts) '18 - Default'
+		vent (104 polys, 312 verts) 'MAT1'
+
+
+Num Nodes: 203
+Total:    (16133 polys, 48399 verts)
+Mesh Max: (384 polys, 1152 verts)
+
+21 Materials:
+ (  1) MAT2:
+       339_2.bmp
+ (  2) vetro:
+       Transparency enabled
+       HUDGlass.tga
+ (  3) base nero:
+       <No Texture>
+ (  4) MAT1:
+       339_1.bmp
+ (  5) hotas:
+       hotas.bmp
+ (  6) Material #1415:
+       <No Texture>
+ (  7) pedale:
+       Transparency enabled
+       pedale.tga
+ (  8) orig_base grigio:
+       <No Texture>
+ (  9) MAT3:
+       339_3.bmp
+ ( 10) hud1:
+       Transparency enabled
+       HUDGlass.tga
+ ( 11) hud2:
+       Transparency enabled
+       HUDREFLECTION.TGA
+ ( 12) 22 - Default:
+       Transparency enabled
+       Self-illumination enabled
+       lights.tga
+ ( 13) strum1:
+       Transparency enabled
+       strum copy.tga
+ ( 14) ADI:
+       ADI.bmp
+ ( 15) 24 - Default:
+       Self-illumination enabled
+       light.tga
+ ( 16) bianco indicatori:
+       <No Texture>
+ ( 17) num neri:
+       num_k.bmp
+ ( 18) num bianco:
+       num_w.bmp
+ ( 19) frame:
+       frame.bmp
+ ( 20) mirror:
+       mirror.bmp
+ ( 21) 18 - Default:
+       pic.tga
+
+16 Textures:
+339_2.bmp
+HUDGlass.tga
+339_1.bmp
+hotas.bmp
+pedale.tga
+339_3.bmp
+HUDREFLECTION.TGA
+lights.tga
+strum copy.tga
+ADI.bmp
+light.tga
+num_k.bmp
+num_w.bmp
+frame.bmp
+mirror.bmp
+pic.tga

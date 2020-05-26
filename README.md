@@ -106,6 +106,10 @@ Super Etendard
 
 Super Étendard Modernisé
 
+Cessna 206H
+
+Aermacchi MB-339A
+
 
 #Objects
 

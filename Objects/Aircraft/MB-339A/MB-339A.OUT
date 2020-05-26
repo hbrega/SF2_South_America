@@ -1,0 +1,188 @@
+	Fuselage [452 polys, 1356 verts (decal)] 'Fuse'
+		TailBumper [28 polys, 84 verts (decal)] 'Fuse'
+		L_Stab [51 polys, 153 verts (decal)] 'Wings'
+			L_Elevator [28 polys, 84 verts (decal)] 'Wings'
+		R_Stab [51 polys, 153 verts (decal)] 'Wings'
+			R_Elevator [28 polys, 84 verts (decal)] 'Wings'
+		VTail [81 polys, 243 verts (decal)] 'Fuse'
+			Rudder [32 polys, 96 verts (decal)] 'Fuse'
+			VerTailAntenna [24 polys, 72 verts (decal)] 'Fuse'
+			VTailLight [120 polys, 360 verts (decal)] 'Fuse'
+		RightVentralFin [12 polys, 36 verts (decal)] 'Fuse'
+		LeftVentralFin [12 polys, 36 verts (decal)] 'Fuse'
+		UpperFuselageMaster04 [12 polys, 36 verts (decal)] 'Fuse'
+		UpperFuselageMaster03 [12 polys, 36 verts (decal)] 'Standard_1'
+		EngineBurner [118 polys, 354 verts (decal)] 'Fuse'
+		UpperFuselageMaster [12 polys, 36 verts (decal)] 'Fuse'
+		TopLight [120 polys, 360 verts (decal)] 'Fuse'
+		Exhaust [40 polys, 120 verts (decal)] 'Material #61'
+		Tube03 [192 polys, 576 verts (decal)] 'Fuse'
+		TailLIght [98 polys, 294 verts (decal)] 'Fuse'
+		R_Wing [102 polys, 306 verts (decal)] 'Wings'
+			R_OtrWing [112 polys, 336 verts (decal)] 'Wings'
+				R_Ail [22 polys, 66 verts (decal)] 'Wings'
+				R_WingFence02 [44 polys, 132 verts (decal)] 'Wings'
+				R_WingFence01 [44 polys, 132 verts (decal)] 'Wings'
+				R_Pylon03 [34 polys, 102 verts (decal)] 'Wings'
+				R_Pylon02 [34 polys, 102 verts (decal)] 'Wings'
+					R_Fuel_Tank [256 polys, 768 verts (decal)] 'Standard_9'
+						R_Fuel_Tank_RWing [12 polys, 36 verts (decal)] 'Standard_9'
+						R_Fuel_Tank_LWing [12 polys, 36 verts (decal)] 'Standard_9'
+				A-R_Raccordo [68 polys, 204 verts (decal)] 'Standard_9'
+				RightOldTipTank [542 polys, 1626 verts (decal)] 'Standard_9'
+					A-WingLightR [120 polys, 360 verts (decal)] 'Wings'
+			RightGearMain [320 polys, 960 verts (decal)] 'Wings', AnimationID: 2 
+				RightGearCylinder [104 polys, 312 verts (decal)] 'Wings'
+					RightGearArm [252 polys, 756 verts (decal)] 'Wings', AnimationID: 5 
+						RightGearPivot [48 polys, 144 verts (decal)] 'Wings'
+						RightGearWheel [216 polys, 648 verts (decal)] 'Wings'
+							RightGearTire [768 polys, 2304 verts (decal)] 'Wings'
+				RightGearOleo [72 polys, 216 verts (decal)] 'Wings', AnimationID: 4 5 
+			R_Flap [44 polys, 132 verts (decal)] 'Wings'
+			R_Pylon [34 polys, 102 verts (decal)] 'Wings'
+			R_MainGearCover01 [14 polys, 42 verts (decal)] 'Wings', AnimationID: 2 
+			R_MainGearCover02 [12 polys, 36 verts (decal)] 'Wings', AnimationID: 2 
+			R_Intake [250 polys, 750 verts (decal)] 'Wings'
+			R_WingFence [72 polys, 216 verts (decal)] 'Wings'
+			R_MainGearInterior [17 polys, 51 verts (decal)] 'Wings'
+			R_OtrWing01 [724 polys, 2172 verts (decal)] 'Standard_9'
+		L_Wing [104 polys, 312 verts (decal)] 'Wings'
+			L_MainGearCover02 [12 polys, 36 verts (decal)] 'Wings', AnimationID: 2 
+			L_MainGearCover01 [14 polys, 42 verts (decal)] 'Wings', AnimationID: 2 
+			L_Flap [44 polys, 132 verts (decal)] 'Wings'
+			L_MainGearInterior [17 polys, 51 verts (decal)] 'Wings'
+			L_Pylon [34 polys, 102 verts (decal)] 'Wings'
+			LeftGearMain [320 polys, 960 verts (decal)] 'Wings', AnimationID: 2 
+				LeftGearOleo [72 polys, 216 verts (decal)] 'Wings', AnimationID: 4 
+				LeftGearCylinder [104 polys, 312 verts (decal)] 'Wings'
+					LeftGearArm [252 polys, 756 verts (decal)] 'Wings', AnimationID: 4 
+						LeftCylinder [48 polys, 144 verts (decal)] 'Wings'
+						LeftGearWheel [216 polys, 648 verts (decal)] 'Wings'
+							LeftGearTire [768 polys, 2304 verts (decal)] 'Wings'
+			L_OtrWing [112 polys, 336 verts (decal)] 'Wings'
+				L_Ail [22 polys, 66 verts (decal)] 'Wings'
+				L_WingFence01 [44 polys, 132 verts (decal)] 'Wings'
+				L_WingFence02 [44 polys, 132 verts (decal)] 'Wings'
+				L_Pylon02 [34 polys, 102 verts (decal)] 'Wings'
+					L_Fuel_Tank [256 polys, 768 verts (decal)] 'Standard_9'
+						L_Fuel_Tank_RWing [12 polys, 36 verts (decal)] 'Standard_9'
+						L_Fuel_Tank_LWing [12 polys, 36 verts (decal)] 'Standard_9'
+				L_Pylon03 [34 polys, 102 verts (decal)] 'Wings'
+				LeftOldTipTank [542 polys, 1626 verts (decal)] 'Standard_9'
+					A-WingLightL [120 polys, 360 verts (decal)] 'Wings'
+				A-L_Raccordo [68 polys, 204 verts (decal)] 'Standard_9'
+			L_Intake [250 polys, 750 verts (decal)] 'Wings'
+			L_WingFence [72 polys, 216 verts (decal)] 'Wings'
+			L_OtrWing01 [724 polys, 2172 verts (decal)] 'Standard_9'
+		Nose [685 polys, 2055 verts (decal)] 'Fuse'
+			Canopy [452 polys, 1356 verts (decal)] 'Fuse', AnimationID: 9 
+				CanopyGlass [152 polys, 456 verts (decal)] 'Glass'
+				CanopyBar [12 polys, 36 verts (decal)] 'Fuse'
+				mirrorframe_R01 [110 polys, 330 verts (decal)] 'Fuse'
+				mirrorframe_top [110 polys, 330 verts (decal)] 'Fuse'
+				mirrorframe_R [110 polys, 330 verts (decal)] 'Fuse'
+				mirrorframe_top01 [110 polys, 330 verts (decal)] 'Fuse'
+				GlassInner [14 polys, 42 verts (decal)] 'Glass'
+			CanopyFront [66 polys, 198 verts (decal)] 'Glass'
+			Pitot01 [66 polys, 198 verts (decal)] 'Fuse'
+			UpperFuselageMaster01 [12 polys, 36 verts (decal)] 'Fuse'
+			BottomNoseMaster [12 polys, 36 verts (decal)] 'Fuse'
+			NoseInside [184 polys, 552 verts (decal)] 'Fuse'
+			FrontCockpitConsolles [8 polys, 24 verts (decal)] 'Fuse'
+			AntiglareRear [14 polys, 42 verts (decal)] 'Fuse'
+			PitFloor [4 polys, 12 verts (decal)] 'Fuse'
+			PitFloorRear [4 polys, 12 verts (decal)] 'Fuse'
+			RearCockpitConsolles [8 polys, 24 verts (decal)] 'Fuse'
+			MainInstructorPanel [4 polys, 12 verts (decal)] 'Fuse'
+			Pitot [66 polys, 198 verts (decal)] 'Fuse'
+			Firewall [25 polys, 75 verts (decal)] 'Fuse'
+			FrontDoor [72 polys, 216 verts (decal)] 'Fuse', AnimationID: 2 
+			FrontDoorL [12 polys, 36 verts (decal)] 'Fuse', AnimationID: 2 
+			FrontDoorR [12 polys, 36 verts (decal)] 'Fuse', AnimationID: 2 
+			AirbrakeOleo1 [48 polys, 144 verts (decal)] 'Fuse', AnimationID: 6 
+				AirbrakeOleo02 [48 polys, 144 verts (decal)] 'Fuse', AnimationID: 6 
+			Airbrake [284 polys, 852 verts (decal)] 'Airbrake', AnimationID: 6 
+			NoseIntake [69 polys, 207 verts (decal)] 'Fuse'
+			FrontGearMain [52 polys, 156 verts (decal)] 'Fuse', AnimationID: 2 
+				FrontGearOleo [72 polys, 216 verts (decal)] 'Fuse', AnimationID: 3 
+				FrontGearSteer [268 polys, 804 verts (decal)] 'Fuse'
+					FrontGearCylinder [104 polys, 312 verts (decal)] 'Fuse'
+						FrontGearArm [252 polys, 756 verts (decal)] 'Fuse', AnimationID: 3 
+							FrontTire [1104 polys, 3312 verts (decal)] 'Fuse'
+							FrontGearPivot [48 polys, 144 verts (decal)] 'Fuse'
+					FrontGearLight [192 polys, 576 verts (decal)] 'Fuse'
+			Aibrake_inside [64 polys, 192 verts (decal)] 'Fuse'
+			FrontGearBay [58 polys, 174 verts (decal)] 'Fuse'
+			Antennatop [12 polys, 36 verts (decal)] 'Fuse'
+			Box01 [12 polys, 36 verts (decal)] 'Fuse'
+			Box02 [12 polys, 36 verts (decal)] 'Fuse'
+			Box03 [12 polys, 36 verts (decal)] 'Fuse'
+			AirbrakeExhaustL [254 polys, 762 verts (decal)] 'Fuse'
+			AirbrakeExhaustR [254 polys, 762 verts (decal)] 'Fuse'
+			Antiglare [16 polys, 48 verts (decal)] 'Fuse'
+				Dash [18 polys, 54 verts (decal)] 'Fuse'
+				hud_inside [28 polys, 84 verts (decal)] 'Standard_16'
+				hud_fr01 [28 polys, 84 verts (decal)] 'Glass'
+				hud_main01 [28 polys, 84 verts (decal)] 'Glass'
+				hud_cine01 [36 polys, 108 verts (decal)] 'Standard_16'
+				hud_box02 [12 polys, 36 verts (decal)] 'Standard_16'
+				hud_cine2 [48 polys, 144 verts (decal)] 'Standard_16'
+				HUD_lato01 [156 polys, 468 verts (decal)] 'Standard_16'
+				hud_base01 [36 polys, 108 verts (decal)] 'Standard_16'
+				hud_comandi [10 polys, 30 verts (decal)] 'Standard_16'
+				hud_main [28 polys, 84 verts (decal)] 'Glass'
+		VentralLight [120 polys, 360 verts (decal)] 'Fuse'
+		BellyIntake [32 polys, 96 verts (decal)] 'Wings'
+		BellyIntake2 [36 polys, 108 verts (decal)] 'Wings'
+		BellyAntenna [12 polys, 36 verts (decal)] 'Fuse'
+		R_Stab01 [377 polys, 1131 verts (decal)] 'Standard_9'
+		V_Tail01 [263 polys, 789 verts (decal)] 'Standard_9'
+		L_Wing01 [1325 polys, 3975 verts (decal)] 'Standard_9'
+		R_Wing01 [1068 polys, 3204 verts (decal)] 'Standard_9'
+		L_Stab01 [622 polys, 1866 verts (decal)] 'Standard_9'
+
+
+Num Nodes: 142
+Total:    (20065 polys, 60195 verts)
+Mesh Max: (1325 polys, 3975 verts)
+
+8 Materials:
+ (  1) Fuse:
+       Fuse.bmp
+ (  2) Wings:
+       Wings.bmp
+ (  3) Standard_1:
+       <No Texture>
+ (  4) Material #61:
+       <No Texture>
+ (  5) Standard_9:
+       Tanks500.bmp
+ (  6) Glass:
+       Transparency enabled
+       Specular=1.60, Glossiness=0.15, Color:<229,229,229>
+       Reflection=1.00
+       Clr-GLASS.TGA
+ (  7) Airbrake:
+       airbrake.bmp
+ (  8) Standard_16:
+       <No Texture>
+
+5 Textures:
+Fuse.bmp
+Wings.bmp
+Tanks500.bmp
+Clr-GLASS.TGA
+airbrake.bmp
+
+Points
+Point01=-5.16,-0.99,-0.04
+Point02=0.00,4.60,-0.75
+Point03=-5.22,-0.21,-0.09
+Point04=-0.00,-1.11,0.70
+Point05=-0.00,-4.33,2.58
+Point06=-0.00,0.01,-0.66
+Point07=-0.00,-5.47,0.37
+Point08=-2.80,0.58,-0.41
+Point09=-1.67,-0.06,-0.40
+
+Extents

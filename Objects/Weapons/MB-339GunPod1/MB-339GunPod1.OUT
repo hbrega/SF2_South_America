@@ -1,0 +1,21 @@
+	GunPod [262 polys, 214 verts] 'Material #1413'
+	Cylinder01 [236 polys, 144 verts] 'Material #1413'
+
+
+Num Nodes: 2
+Total:    (498 polys, 358 verts)
+Mesh Max: (262 polys, 214 verts)
+
+1 Materials:
+ (  1) Material #1413:
+       defa pod.bmp
+
+1 Textures:
+defa pod.bmp
+
+Points
+Point01Muzzle=-0.00,1.78,-0.08
+Point02Centro di Massa=-0.00,-0.14,0.30
+Point01Muzzle01=-0.00,1.93,0.11
+
+Extents

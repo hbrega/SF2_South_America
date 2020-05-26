@@ -1,0 +1,75 @@
+Aermacchi MB-339A Reduxe 
+
+I always liked this little bird and so I updated it a bit.
+
+
+ 
+
+-------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Installation:
+
+1st you have to delete the MB-339A folders from your Aircraft & Decals mod folders (only if you have an earlier version installed). 
+
+Simply copy all the files in the respective directory of your game folder.
+
+"User"\Saved Games\ThirdWire\StrikeFighters2
+
+If asked, let overwrite
+
+-------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Credits:
+
+ID(io)T Team: Original MB-339A mod
+
+Soulfreak: All paintwork, most of the decals, Hangar & Loading screens & ini dance
+
+NGHENGO: Main 3D model
+
+Bobrock: 3D model and Cockpit
+
+Paulopanz: some Decals
+
+Spillone104: DEFA gunpods, INI work and sound
+
+Baffmeister: FM tuning
+
+Aleducat: Martin Baker MK10-1 seat
+
+Crusader: Cockpit ini update
+
+ 
+Special thanks to "yakarov79" for his support & help with panel lines.
+ 
+
+-------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Legal stuff:
+
+ 
+
+This mod is freeware. Commercial use is not allowed.
+
+ 
+
+------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+It was tested in a SF2 complete installation.
+
+
+ 
+
+Schapen, April 4th 2020
+
+Carlo "Soulfreak" Vecchi
