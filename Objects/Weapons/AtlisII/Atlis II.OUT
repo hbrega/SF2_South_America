@@ -1,0 +1,22 @@
+	Cylinder02 (216 polys, 648 verts) '01 - Default'
+	Cylinder03 (216 polys, 648 verts) '01 - Default'
+	Sphere01 (256 polys, 768 verts) '01 - Default'
+	Box03 (12 polys, 36 verts) '01 - Default'
+	Sphere02 (256 polys, 768 verts) '01 - Default'
+	Cylinder05 (216 polys, 648 verts) '01 - Default'
+	Box02 (12 polys, 36 verts) '01 - Default'
+	Sphere03 (960 polys, 2880 verts) '01 - Default'
+	Cylinder04 (216 polys, 648 verts) '01 - Default'
+	Cylinder01 (738 polys, 2214 verts) '01 - Default'
+
+
+Num Nodes: 10
+Total:    (3098 polys, 9294 verts)
+Mesh Max: (960 polys, 2880 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       ATLIS II.bmp
+
+1 Textures:
+ATLIS II.bmp

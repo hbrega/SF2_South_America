@@ -104,6 +104,9 @@ Mirage 50FC
 
 Mirage 50 Pantera
 
+Super Etendard
+
+Super Étendard Modernisé
 
 
 #Objects

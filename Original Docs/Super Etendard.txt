@@ -1,0 +1,97 @@
+Dassault Super Etendard & Super Etendard(M), SF2 Combo Pak (by FoxMonter)                   
+
+10/6/2011
+
+For SF2, Any & All (Full-4 Merged Prefered - At Minimum, =MUST= have SF2:I AND SF2:V) 
+
+*Note: the reason for these requirements are the cockpits used on =BOTH= versions of the aircraft. They reference 2 very different cockpits and avionics displays, only truely available in a Full-4 Merged installs.*
+
+*Note x2: There are 2 seperate readmes in this Combo Pak - one each for the Super Etendard and Super Etendard (Modernized). It's suggested that after downloading this pak, you unzip to a temp folder or your desktop, and =READ= both before installing, as well as this complete readme. Install instruction are, as usual, the same*
+
+This package contains 2 complete aircaft - the early version, Super Etendard as used by the French Navy and Argentinian Navy,  and the late 90s to-date version, the Super Etendard (Modernized) as used only by the French Navy. All skins, inis, decal, weapons, etc are included. Specific details for each are in their own readmes, inside this archive. You'd do well to read BOTH!!! (no kidding! really!!) All new SF2-style hangar & loading screens are included (exceptng the SuE loading, it's the orignal converted to jpg).
+
+As always, fairly easy to follow, detailed install instructions are included. So, please read them!! I'd reccomend that you unzip this archive FIRST (to a temp folder or your desktop), and READ through this readme document, and the other 2, before installing.
+The extensive "Notes" section in each readme also contains a Change List of modifications and other impertinant information. All original readmes are included, for historical reference.
+
+Happy Hunting!
+
+------------------------------------------------
+
+=TO INSTALL:
+
+As I always reccomend, unzip the "sf2_superetendard_combo_pak.zip" to a temp folder or your desktop or somewhere else that's easy to find
+
+Then, simply, copy/paste the Objects folder supplied directly =OVER= your existing folders. The things will find their way to where they're supposed to be....
+ 
+You'll WILL be asked "OVERWRITE?", just say YES 
+
+I've already seperated out the various folders , so they'll drop right where they're supposed to be. Cause it just SOOOOOOOOOOOOOOOO much fraking easier this way, ain't it?
+
+---------
+Adding Squadron Listings to the SquadronList.ini:
+
+Extract, if you haven't already, the SquadronList.ini from the MissionData001.cat. Place it in the /PilotData folder.
+
+Then, copy/paste the info below at the end, where *** is the next number in sequence:
+
+
+[Squadron***]
+Name=14Flot
+DisplayName=14 Flottille
+Nation=FRENCHNAVY
+
+[Squadron***]
+Name=11Flot
+DisplayName=11 Flottille
+Nation=FRENCHNAVY
+
+[Squadron***]
+Name=2ARA
+DisplayName=2da Escuadrilla Aeronaval de Caza y Ataque 
+Nation=ArgentineNavy
+
+
+I've used a small "decal cheat" to force the Game Engine (tm) to see a Level 1 decal, and turn on the Squadron name window in the Loadout Screen.
+
+----------------------------
+Notes:
+See each of the seperate readmes for specific notes.
+
+Any and all mistakes, as always, are mine.
+---------------------------------------------------------------------------------
+Credits:
+FoxMonter for the Original Release (with some help by capun)
+MigFly for the 11F found at the old C6 site
+Pappycksix (Pete Fredrico) for ARA & FN original skins
+??? -meaning I don't know who did the original decals .. but Thanks!
+Fubar512 and Baffmeister for FM assistance - couldn't have finished it without their insights and assistance!!
+Me for most of the other stuff (solid gray lo-viz skin from home-grown templates), all the ini work, modifiying decals, etc, assembling the package and so for
+TK, of course, for the whole series
+
+Some very good people at CombatAce;
+Gunrunner for 'local intell'
+Soulman Carlo for locating the 2 TMF skins
+Florian for pointing me to the fix for the 2 nukes
+
+Sources:
+yah,right....see above
+Osprey Combat Aircraft #28: Air War in the Falklands (good stuff here!!)
+Super Profile Series: Super Etendard -- a hard to find, but good book on the subject.
+
+---------------------------------------------------------------------------------
+If you have any problems, questions, comments, I can be reached in the usual places; CombatAce, SimHQ, or via the email addy below.
+
+Happy Hunting!
+Wrench
+Kevin Stein
+
+kjstein@ca.rr.com
+
+--------------------------------------------
+Legal BS:
+This is freeware; it CAN be distrubuted if the original readmes and all other pieces of the package remain intact.
+The names of all contributors, modders, suppliers, etc =MUST= be listed in any new readmes.
+This package may NOT in any way, shape or form be used in any payware additions. 
+Bribes are accepted; ask for the day's going rates
+
+-------------------------------------------

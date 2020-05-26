@@ -1,0 +1,78 @@
+SUPER ETENDARD 
+The Super Etendard is a carrier-based single-seat strike fighter first introduced into service in 1978. It is an updated version of the Etendard IVM. Based on experience gained during the Korean war (1950-53), French authorities drew up specifications for a light interceptor. This definition was rapidly assimilated into a program for a light tactical bomber that could also fulfil an air superiority mission. At the same time, NATO published its requirements for the LWTSF (Light Weight Tactical Strike Fighter). In response, the Dassault company presented its Mirage and Etendard aircraft.
+
+To meet the needs of both national and NATO programs, Dassault carried over the aerodynamic design of its Super-Mystère, applying it to smaller aircraft equipped with power plants that could reach transonic speeds without afterburners. This led to the design of the Mystère XXII (Etendard II), Mystère XXIV (Etendard IV) and Mystère XXVI (Etendard VI), developments which were remarkable for improving lift so that take-off and landing became possible at reduced speeds.
+
+The Etendard IV M was the first naval aircraft developed by Dassault. The Etendard IV M made its maiden flight 21st May 1958 at Melun-Villaroche (the Seine-et-Marne region of France). The wings of the aircraft are mid-mounted, swept-back, and tapered with blunt tips there are sawtooth in the leading edges. There is one turbojet engine inside the body. There are semicircular air intakes below the canopy and a single exhaust. The fuselage has a long, pointed nose. The body bulges at the air intakes and tapers to the rear. There is a bubble canopy well forward on the nose. The dorsal spine extends from the cockpit to midbody. The tail is large, swept-back, and tapered tail fin with curved tip. The flats are low- to mid-mounted on the tail fin, swept-back, and tapered with blunt tips.
+
+Between 1961 and 1965, the French Navy took delivery of 69 Etendard IV M's and 21 Etendard IV P's. The Etendard IV M continued in service in the French Navy until July 1991. These aircraft logged a total of 180,000 flying hours and made 25,300 carrier landings. Even today, there are still several Etendard IV P's and IV PM's in service.
+
+The naval single-seater combat aircraft, Dassault Super-Etendard, is a modernized version of the Etendard IV M. Main modifications include updating of the weapons system through the installation (a first for a French production aircraft) of a modern navigation and combat management system. The aircraft prototype made its maiden flight 28 October 1974 at Istres (the Bouches-du-Rhône region of France).
+
+The French Navy commissioned the plane for the first time in 1977 and 71 aircraft are now in service on the aircraft carriers Foch and Clemenceau. This plane, armed with Exocet missiles and flown by Argentinian pilots (14 aircraft), proved its combat effectiveness during the Malvinas [Falklands] war with Britain in 1982.
+
+The Super-Etendard will be replaced by the naval version of the multi-role combat aircraft Rafale at the beginning of the 21st century.
+
+
+
+Specifications 
+Country of Origin France  
+Builder DASSAULT-BREGUET  
+First flight May 1958 Etendard IV
+October 1990 (Upgraded Super Etendard)  
+In-service in the French Navy  1964 Etendard IV
+June 1993 (Upgraded Super Etendard)  
+Similar Aircraft  Fantan A 
+Mitsubishi F-1 
+Mirage F1 
+Yak-38 Forger
+ 
+Crew One  
+Role strike 
+fighter
+ 
+Span  31 ft, 6 in / 9.60 meters  
+Length  47 ft / 14.31 meters  
+Height 3.85 meters  
+Range 750-1080 nautical miles  
+Endurance  1h45 to 2h15 with réservoir supplémentaire  
+Speed  Mach 1,3 (@ 11 000 m) 
+Mach 0,97 (@ low altitude)
+ 
+Ceiling 45,000 feet / 13700 meters  
+Weight  11.90 tonnes (6.25 à vide).  
+In-Flight Refueling Yes  
+Internal Fuel  2612 kg  
+Payload  2100 kg w/full int fuel  
+Power plant / Thrust  SNECMA 8 K50 jet engine / 5 t  
+Armament two 30-mm guns 
+Air-to-ground middle range missile (ASMP) 
+Exocet air-to-surface Aerospatiale missile 
+Matra Magic 2 air-to-air missile 
+AS30 air-to-surface laser-guided missile 
+rockets 
+free fall and parachute drag bombs 
+laser-guided bombs 
+ 
+Systems radar Anémone 
+nacelle Atlis 
+détecteur Sherloc 
+brouilleur Barracuda 
+Drax radar detector 
+Barracuda and Phimat jamming pods 
+leurres Alkan 5081 
+rear flare dispenser 
+ 
+Special equipment  6 Oméra 31 cameras (100, 150, 200 and 600 mm)  
+Drop Tanks  600 L drop tank with 479kg of fuel for 99nm of range 
+625 L drop tank with 499kg of fuel for 103nm of range 
+1100 L drop tank with 879kg of fuel for 182nm of range 
+ 
+Engine 1 SNECMA 8K50 @ 5 tonnes thrust 
+Sensors Agave radar, RWR, ballistic bombsight  
+User Country Argentina 
+France
+ 
+Number of units produced  85 (all types of Super Etendard included)  
+French Navy inventory  52 Super Etendard in two squadrons
+5 Etendard IV P  
