@@ -1,0 +1,25 @@
+	Layer:0 [436 polys, 276 verts] '17 - Default'
+		Cylinder02 [156 polys, 150 verts] '17 - Default'
+			Box01 [28 polys, 40 verts] '17 - Default'
+			Box02 [28 polys, 40 verts] '17 - Default'
+		Layer:0 [196 polys, 222 verts] '17 - Default', AnimationID: 1 
+			Object01 [64 polys, 76 verts] '17 - Default'
+			Object02 [64 polys, 76 verts] '17 - Default'
+			Object03 [672 polys, 715 verts] '17 - Default'
+			Object04 [412 polys, 516 verts] '17 - Default'
+
+
+Num Nodes: 9
+Total:    (2056 polys, 2111 verts)
+Mesh Max: (672 polys, 715 verts)
+
+1 Materials:
+ (  1) 17 - Default:
+       Mk_82.bmp
+
+1 Textures:
+Mk_82.bmp
+
+Points
+
+Extents
