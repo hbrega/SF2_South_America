@@ -1,0 +1,23 @@
+	Body (416 polys, 1248 verts) '02 - Default'
+		Head (410 polys, 1230 verts) '02 - Default'
+			Visor1 (8 polys, 24 verts) '02 - Default'
+			Cylinder01 (92 polys, 276 verts) '02 - Default'
+			Cylinder02 (92 polys, 276 verts) '02 - Default'
+			3136 (2 polys, 6 verts) '03 - Default'
+		Fur (84 polys, 252 verts) '02 - Default'
+
+
+Num Nodes: 7
+Total:    (1104 polys, 3312 verts)
+Mesh Max: (416 polys, 1248 verts)
+
+2 Materials:
+ (  1) 02 - Default:
+       Pil_kawb.bmp
+ (  2) 03 - Default:
+       Transparency enabled
+       3136.tga
+
+2 Textures:
+Pil_kawb.bmp
+3136.tga
