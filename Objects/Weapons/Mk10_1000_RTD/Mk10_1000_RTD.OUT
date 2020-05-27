@@ -1,0 +1,38 @@
+	Body [428 polys, 273 verts] '01 - Default'
+		Box01 [12 polys, 24 verts] '01 - Default', AnimationID: 1 
+			Chute [1056 polys, 3168 verts (animated)] '02 - Default', AnimationID: 1 
+		Hook [128 polys, 232 verts] '01 - Default'
+		Attachmend_Rod [318 polys, 421 verts] '01 - Default'
+			Fuse [942 polys, 1003 verts] '01 - Default'
+			Fin01 [116 polys, 167 verts] '01 - Default'
+			Fin02 [116 polys, 169 verts] '01 - Default'
+			Fin03 [116 polys, 167 verts] '01 - Default'
+			Fin04 [116 polys, 167 verts] '01 - Default'
+			Cover01 [478 polys, 373 verts] '01 - Default', AnimationID: 1 
+			Cover02 [478 polys, 378 verts] '01 - Default', AnimationID: 1 
+			Cover03 [478 polys, 387 verts] '01 - Default', AnimationID: 1 
+			Cover04 [478 polys, 378 verts] '01 - Default', AnimationID: 1 
+		Box02 [12 polys, 24 verts] '01 - Default', AnimationID: 1 
+			Box05 [1824 polys, 5472 verts (animated)] '01 - Default', AnimationID: 1 
+		Penetrator [332 polys, 268 verts] '01 - Default'
+		Ring [406 polys, 408 verts] '01 - Default'
+
+
+Num Nodes: 18
+Total:    (7834 polys, 13479 verts)
+Mesh Max: (1824 polys, 5472 verts)
+
+2 Materials:
+ (  1) 01 - Default:
+       Mk10_1000_RTD.bmp
+ (  2) 02 - Default:
+       Transparency enabled
+       Chute.tga
+
+2 Textures:
+Mk10_1000_RTD.bmp
+Chute.tga
+
+Points
+
+Extents

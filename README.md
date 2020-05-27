@@ -122,6 +122,8 @@ Mirage IIIEBR (refuelling probe Test 90-93)
 
 Mirage IIIEBR (Early)
 
+Canberra B.68 (FAP)
+
 #Objects
 
 ARA 25 de Mayo
