@@ -1,0 +1,30 @@
+History
+The history of the Mirage III in Brazil goes back to the sixties, when the FAB elaborated a modernization program and the creation of an air space control system. In 1967 the implementation started of the SISDACTA- Sistema Integrado de Defesa Aérea e Controle de Tráfego Aéreo (Integrated Air Traffic Control and Air Defence System) and of the COMDA-Comando de Defesa Aérea (Air Defence Command).
+
+
+As part of the program, it was necessary to acquire a supersonic aircraft to execute the air defence and interception missions. The FAB's initial desire was to obtain the McDonnell Douglas F-4 Phantom II, however it could not be materialised because of American restrictions on the sale of advanced military equipment to South American countries.
+
+With the Phantom out of the game, the remaining option was to look for an European fighter. Among the contenders were the British English Electric Lightning, the Swedish Saab Draken and the French Dassault-Breguet Mirage IIIE. About the same time, the Mirage IIIC, in the hands of the Israeli pilots, inflicted heavy losses to its Arabic neighbours in the 'Six Day War'. There is no doubt that the Mirage III's excellent performance, achieved by the Israelis in that war, helped Dassault-Breguet secure many clients around the world, including Brazil.
+
+Operational Career
+On April 11, 1979, the 1º GDA ( Primeiro Grupo de Defesa Aérea – First Air Defence Group) was officially established. On April 19, 1979, the 1º ALADA was disbanded and the 1º GDA took over its functions and F-103 aircraft. The 1º GDA remained stationed at Anápolis AB.
+
+
+During its operational career in Brazil, the Mirage III fleet suffered some attrition and many additional airframes were bought to replace the lost ones and to keep up the 1º GDA's combat readiness. In total, Brazil acquired 16 additional aircraft from Armée de L’Air surplus. These consisted of four F-103E in 1980, two F-103D in 1984, two F-103E in 1988, two F-103D and two F-103E in 1989, two F-103E in 1998 and the last two F-103D in 1999.
+
+_______________________________________________
+
+História
+A história do Mirage III no Brasil remonta à década de sessenta, quando a FAB elaborou um programa de modernização e criação de um sistema de controle do espaço aéreo. Em 1967, a implementação começou da SISDACTA- Sistema Integrado de Defesa Aérea e Controle de Tráfego Aéreo (Air Traffic Control Integrado e Air Sistema de Defesa) e do COMDA-Comando de Defesa Aérea (Comando de Defesa Aérea).
+
+
+Como parte do programa, foi necessário adquirir um avião supersônico para executar as missões de defesa aérea e interceptação. Desejo inicial da FAB foi obter a McDonnell Douglas F-4 Phantom II, no entanto, ele não poderia ser materializado por causa das restrições americanas sobre a venda de equipamento militar avançado para os países da América do Sul.
+
+Com o Fantasma fora do jogo, a opção restante era procurar um lutador europeu. Entre os contendores foram o Inglês Britânico elétrico do relâmpago, a sueca Saab Draken e os franceses Dassault-Breguet Mirage IIIE. Quase ao mesmo tempo, o Mirage IIIC, nas mãos dos pilotos israelenses, infligiu pesadas perdas para os seus vizinhos árabes na 'Guerra dos Seis Dias ". Não há dúvida de que o excelente desempenho do Mirage III, alcançada pelos israelenses em que a guerra, ajudou a Dassault-Breguet garantir muitos clientes ao redor do mundo, incluindo o Brasil.
+
+Carreira Operacional
+Em 11 de abril de 1979, o 1º GDA (Primeiro Grupo de Defesa Aérea - First Air Grupo de Defesa) foi criada oficialmente. Em 19 de abril de 1979 a 1º ALADA foi dissolvida e o 1º GDA assumiu suas funções e aeronaves F-103. O 1º GDA permaneceu estacionada em Anápolis AB.
+
+
+Durante a sua carreira operacional no Brasil, a frota de Mirage III sofrido algum desgaste e muitas fuselagens adicionais foram comprados para substituir os perdidos e para manter a prontidão de combate do 1º GDA. No total, o Brasil adquiriu 16 aeronaves adicionais a partir do excedente Armée de L'Air. Estes consistiram de quatro F-103E, em 1980, dois F-103D em 1984, dois F-103E, em 1988, dois F-103D e dois F-103E, em 1989, dois F-103E em 1998 e os dois últimos F-103D em de 1999.
+

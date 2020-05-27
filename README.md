@@ -110,6 +110,17 @@ Cessna 206H
 
 Aermacchi MB-339A
 
+Twin Otter
+
+Mirage IIIDBR (1972)
+
+Mirage IIIDBR-2 (1992)
+
+Mirage IIIEBR
+
+Mirage IIIEBR (refuelling probe Test 90-93)
+
+Mirage IIIEBR (Early)
 
 #Objects
 
