@@ -1,0 +1,148 @@
+De Havilland Canada DHC-66-200 "Twin Otter", IX Brigáda Aérea, Fuerza Aérea Argentina
+
+
+ - CREDITS:
+
+3D Model, 3D cockpit, cockpit textures: Syd Adams (Flight Gear)
+
+Model textures, cockpit textures modification: Tracker
+
+Modified and adapted to Thirdwire Series: Tracker
+
+Loading/Hangar Screens: 
+
+ 		Captures and edition: Tracker
+ 		Based on works by Zonda (E.C.V. "Cruz del Sur")
+
+
+Special thanks to Mr. Syd Adams who kindly allow me to share this modified version of his work.
+
+
+ - FEATURES:
+
+Animation key 1 = Pilot Door open/closed (Internal and external animation)
+
+Animation key 2 = Copilot Door open/closed (Internal and external animation)
+
+Animation Key 3 = Cargo bay door open/close
+
+CTRL+O (weapon bay door) = Passengers stairs down/up
+
+Capability of loading 15 paratroopers, launched as a bomb (experimental)
+
+External and internal lights (passengers cabin)
+
+
+ - FLIGHT MODEL:
+
+Take Off = Flaps 1. Roll untill 75 knots. 15º nose up. Flaps up over 100 knots. Landing gear fixed.
+
+Landing = Flaps 2. 80-85 knots aproximation from 1000-1200 feet AGL, 3-5 miles ayway from runway.
+
+Maneuvering:
+
+		Max operative G = 1.5
+
+		Max structural G = 2.0 (DO NOT EXCEED!)
+
+		Vmax = 160 knots
+
+		Vcruise = 140 knots
+
+		Vstall = 70-75 knots
+
+Range ferry = 1750 km
+
+Operative range = 900 km
+
+Max cargo load = 1700 kg
+
+In service since - until = 1969 - 2020
+
+
+
+
+DISFRUTELO!!!
+
+
+
+// ESPAÑOL----------------------------------------------------------------------------------------------------------------------
+
+
+
+ - CREDITOS:
+
+Modelo 3D, Cabina 3D, texturas cabina: Syd Adams (Flight Gear)
+
+Textura FAA, modificación texturas y objetos de cabina: Tracker
+
+Adaptado y modificado para "Thirdwire Series": Tracker
+
+Pantallas de Loading/Hangar = 
+
+	Capturas y montaje, Tracker. 
+	
+	Diseño de texto basado en trabajos creados por "Zonda" (Luis Bianchi, E.C.V. "Cruz del Sur")
+
+Agradecimiento especial al señor Syd Adams, quien amablemente me permitió compartir esta versión modificada de su trabajo.
+
+
+ - FUNCIONES:
+
+Tecla animación 1 = Puerta Piloto (Animación interna y externa)
+
+Tecla Animación 2 = Puerta Copiloto (Animación interna y externa)
+
+Tecla Animación 3 = Puerta Bodega
+
+CTRL+O (bodega de armas) = Escalerilla para pasajeros
+
+Transporte de 15 "paratroopers" (paracaidistas) en bodega interna. Seleccionables y lanzables como una bomba común. Experimental.
+
+Luces externas e internas (cabina de pasajeros)
+
+
+
+ - MODELO DE VUELO:
+
+Despegue = Flaps en 1. Carreteo hasta 75 nudos. Ascenso a unos 15º. Flaps arriba (+100 nudos). Tren fijo, no rebatible.
+
+Aterrizaje = Flaps en 2. Aproximación a 80-85 nudos, desde 1000-1200 pies AGL a unas 3-5 millas de la activa.
+
+Maniobras = 
+
+	Máx G operativa= 1,5
+
+	Max G estructural = 2,0 (NO EXCEDER, DAÑOS A LA ESTRUCTURA - DESTRUCCIÓN)
+
+    	Vmax = 160 nudos
+
+    	Vcrucero = 140 nudos
+ 
+    	Vpérdida = 70-75 nudos
+
+
+Alcance en ferry = 1750 km
+
+Alcance operativo = 900 km
+
+Límite carga = 1700 kg
+
+En servicio desde - hasta = 1969 - 2020
+
+
+
+ - INSTRUMENTOS:
+
+Curso Actual = HSD (Avion naranja, Panel del piloto), Brújula (Base del parante del parabrisas)
+
+Rumbo al punto de navegación = (Brújula con flecha naranja, panel del piloto)
+
+Dsitanciómetro = Fuera de servicio.
+
+
+
+
+DISFRUTELO!!!
+
+

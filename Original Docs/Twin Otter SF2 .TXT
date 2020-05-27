@@ -1,0 +1,49 @@
+DHC-6 pack for SF2
+
+ ______________________________________________________________________________________________________________________
+Based on the Twin Otter plane made for SF1 that can be found here :
+
+https://combatace.com/files/file/10504-twin-otter/
+ ______________________________________________________________________________________________________________________
+
+ 
+
+This is the Twin Otter as used by the RCAF and Argentina for the SF2 series of games.
+
+ 
+The RCAF serial numbers in this skin pack are real one's (past or present)
+
+
+You will get the following skins in this package :
+
+- Original Argentina (2 of them) - Comes from the original pack
+- Transports Canada
+- Canadian Coast Guard
+- Royal Canadian Air Force (71-72, 75-80, 1999 and 2018 skins)
+ 
+
+* Note : I did not touched the model, all files comes from the original pack. All i did was to tweak some files to get them work properly in SF2 and change path in the ini's. So all credits goes to the persons above.
+
+ 
+COMPLETE AIRCRAFT :
+
+Copy the Twin Otter Objects/Aircraft folder content to your game Objects/Aircraft folder.
+Copy the Twin Otter Objects/Decals folder content to your game Objects/Decals folder.
+Copy the Twin Otter Objects/Weapons folder content to your game Objects/Weapons folder.
+Copy the Twin Otter Sounds folder content to your game Sounds folder.
+ 
+
+Credits (per original files):
+Syd Adams - 3D Model, 3D cockpit, cockpit textures.
+Tracker - Model textures, cockpit textures modification.
+Tracker - Modified and adapted to Thirdwire Series.
+Franchie1977 (me) - Re-worked panel lines and ''lift up'' general skin aperture along with skins for RCAF, Canadian Agencies and rework on Argentina one's.
+
+ 
+
+Happy flights!
+
+ 
+
+Mario C.
+Frenchie1977

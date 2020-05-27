@@ -1,0 +1,178 @@
+	Fuselaje (841 polys, 2523 verts) '01 - Fuselaje'
+		Ala_Der (150 polys, 450 verts) '02 - Alas'
+			Slat_Der (286 polys, 858 verts) '02 - Alas'
+			Flap_Der (40 polys, 120 verts) '02 - Alas'
+			Ala_Ext_Der (234 polys, 702 verts) '02 - Alas'
+				Aleron_Der (40 polys, 120 verts) '02 - Alas'
+				Luz_Nav_der (22 polys, 66 verts) '03 - Vidrio'
+			Carenado_Motor_Der (468 polys, 1404 verts) '01 - Fuselaje'
+				Escape_Der (384 polys, 1152 verts) 'Material #10'
+				Eje_Helice_Der (144 polys, 432 verts) '01 - Fuselaje'
+					Helice_Der_Rapido (32 polys, 96 verts) '05 - Helice_Rapido'
+					Helice_Der_Lento (32 polys, 96 verts) '04 - Helice_Lento'
+					Helice_Der (456 polys, 1368 verts) '01 - Fuselaje'
+					Helice_Der_D (456 polys, 1368 verts) '01 - Fuselaje'
+				Tapa_Toma_Der (36 polys, 108 verts) 'Material #6'
+			Ala_Ext_Der_D (162 polys, 486 verts) '02 - Alas'
+			Carenado_Motor_Der_D (468 polys, 1404 verts) '01 - Fuselaje'
+		Ala_Izq (152 polys, 456 verts) '02 - Alas'
+			Carenado_Motor_Izq (468 polys, 1404 verts) '01 - Fuselaje'
+				Escape_Izq (384 polys, 1152 verts) 'Material #10'
+				Eje_Helice_Izq (144 polys, 432 verts) '01 - Fuselaje'
+					Helice_Izq (456 polys, 1368 verts) '01 - Fuselaje'
+					Helice_Izq_Lento (32 polys, 96 verts) '04 - Helice_Lento'
+					Helice_Izq_Rapido (32 polys, 96 verts) '05 - Helice_Rapido'
+					Helice_Izq_D (456 polys, 1368 verts) '01 - Fuselaje'
+				Tapa_Toma_Izq (36 polys, 108 verts) 'Material #6'
+			Slat_Izq (286 polys, 858 verts) '02 - Alas'
+				Flap_Izq (40 polys, 120 verts) '02 - Alas'
+			Ala_Ext_Izq (236 polys, 708 verts) '02 - Alas'
+				Aleron_Izq (40 polys, 120 verts) '02 - Alas'
+				Luz_Nav_Izq (22 polys, 66 verts) '03 - Vidrio'
+			Ala_Ext_Izq_D (168 polys, 504 verts) '02 - Alas'
+			Carenado_Motor_Izq_D (468 polys, 1404 verts) '01 - Fuselaje'
+		Proa (497 polys, 1491 verts) '01 - Fuselaje'
+			Tren_Delantero (124 polys, 372 verts) 'Material #7'
+				Rueda_Delantera (352 polys, 1056 verts) 'Material #7'
+					Cubierta_Delantera (256 polys, 768 verts) 'Material #6'
+				Amortiguador_01 (12 polys, 36 verts) 'Material #7'
+				Amortiguador_02 (12 polys, 36 verts) 'Material #7'
+				Faro_Aterrizaje (94 polys, 282 verts) 'Material #7'
+			Limpia_Parabrisas_Der (124 polys, 372 verts) 'Material #8'
+			Limpia_parabrisas_Izq (124 polys, 372 verts) 'Material #8'
+		Deriva (117 polys, 351 verts) '01 - Fuselaje'
+			Timon (108 polys, 324 verts) '01 - Fuselaje'
+			Estab_Izq (58 polys, 174 verts) '02 - Alas'
+				Elev_Izq (34 polys, 102 verts) '02 - Alas'
+			Estab_Der (58 polys, 174 verts) '02 - Alas'
+				Elev_Der (34 polys, 102 verts) '02 - Alas'
+			Luz_Trasera (72 polys, 216 verts) '03 - Vidrio'
+			Estab_Izq_D (33 polys, 99 verts) '02 - Alas'
+			Estab_Der_D (33 polys, 99 verts) '02 - Alas'
+		Soporte_Ala_Der (16 polys, 48 verts) 'Material #7'
+		Soporte_Ala_Izq (16 polys, 48 verts) 'Material #7'
+		Cable (12 polys, 36 verts) 'Material #8'
+		Vidrio (96 polys, 288 verts) '03 - Vidrio'
+		Puerta_Carga_Tras (28 polys, 84 verts) '01 - Fuselaje'
+		Puerta_Der (208 polys, 624 verts) '01 - Fuselaje'
+			Vidrio_Puerta_Der (4 polys, 12 verts) 'glass'
+			Manija_Puerta_Der (40 polys, 120 verts) 'Material #7'
+		Puerta_Izq (208 polys, 624 verts) '01 - Fuselaje'
+			Vidrio_Puerta_Izq (4 polys, 12 verts) 'glass'
+			Manija_Puerta_Izq (40 polys, 120 verts) 'Material #7'
+		Puerta_Carga_Del_02 (80 polys, 240 verts) '01 - Fuselaje'
+			Vidrio_Puerta_carga_Tras (6 polys, 18 verts) '03 - Vidrio'
+		Puerta_Carga_Del_01 (44 polys, 132 verts) '01 - Fuselaje'
+			Escalerilla (108 polys, 324 verts) '01 - Fuselaje'
+			Box14 (12 polys, 36 verts) 'Material #11'
+			Box03 (12 polys, 36 verts) 'Material #11'
+			Box15 (12 polys, 36 verts) 'Material #11'
+			Box12 (12 polys, 36 verts) 'Material #11'
+		Bahía_Carga (28 polys, 84 verts) 'Material #7'
+		Ala_Izq_D (152 polys, 456 verts) '02 - Alas'
+		Ala_Der_D (150 polys, 450 verts) '02 - Alas'
+		Deriva_D (40 polys, 120 verts) '01 - Fuselaje'
+		Proa_D (457 polys, 1371 verts) '01 - Fuselaje'
+		Tensor_01 (40 polys, 120 verts) 'Material #7'
+			Cable_01 (12 polys, 36 verts) 'Material #6'
+		Tensor_02 (40 polys, 120 verts) 'Material #7'
+			Cable_02 (12 polys, 36 verts) 'Material #6'
+		Tensor_03 (40 polys, 120 verts) 'Material #7'
+		Tensor_04 (40 polys, 120 verts) 'Material #7'
+		Interior (774 polys, 2322 verts) 'Material #7'
+			Soporte_Trenes (144 polys, 432 verts) '01 - Fuselaje'
+				Tren_Izq (168 polys, 504 verts) '01 - Fuselaje'
+					Rueda_Izq (352 polys, 1056 verts) 'Material #7'
+						Cubierta_Izq (256 polys, 768 verts) 'Material #6'
+				Tren_Der (168 polys, 504 verts) '01 - Fuselaje'
+					Rueda_Der (352 polys, 1056 verts) 'Material #7'
+						Cubierta_Der (256 polys, 768 verts) 'Material #6'
+			Soporte_Asiento_Izq (632 polys, 1896 verts) 'Material #7'
+				Asiento_Izq (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Der (632 polys, 1896 verts) 'Material #7'
+				Asiento_Der (376 polys, 1128 verts) 'Material #8'
+			Tabiques (92 polys, 276 verts) 'Material #9'
+			Tabique_Central (8 polys, 24 verts) 'Material #9'
+			Mandos (446 polys, 1338 verts) 'Material #9'
+				Mando_Izq (1152 polys, 3456 verts) 'Material #8'
+				Mando_Der (1152 polys, 3456 verts) 'Material #8'
+			Panel (634 polys, 1902 verts) 'Material #9'
+			Antena_03 (48 polys, 144 verts) 'Material #8'
+			Soporte_Asiento_Der01 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Der01 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Izq01 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Izq01 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Der02 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Der02 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Izq02 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Izq02 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Der03 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Der04 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Der04 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Der03 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Izq03 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Izq03 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Der05 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Der06 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Der06 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Der05 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Izq04 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Izq04 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Der07 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Der08 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Der08 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Der07 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Izq05 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Izq05 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Der09 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Der10 (376 polys, 1128 verts) 'Material #8'
+			Soporte_Asiento_Der10 (632 polys, 1896 verts) 'Material #7'
+				Asiento_Der09 (376 polys, 1128 verts) 'Material #8'
+		Antena_01 (12 polys, 36 verts) 'Material #7'
+		Antena_04 (12 polys, 36 verts) 'Material #7'
+		Cylinder02 (48 polys, 144 verts) 'Material #6'
+
+
+Num Nodes: 133
+Total:    (34992 polys, 104976 verts)
+Mesh Max: (1152 polys, 3456 verts)
+
+12 Materials:
+ (  1) 01 - Fuselaje:
+       Fuselaje.bmp
+ (  2) 02 - Alas:
+       Alas.bmp
+ (  3) 03 - Vidrio:
+       Transparency enabled
+       Vidrio.tga
+ (  4) Material #10:
+       <No Texture>
+ (  5) 05 - Helice_Rapido:
+       Transparency enabled
+       Helice_Rapido.tga
+ (  6) 04 - Helice_Lento:
+       Transparency enabled
+       Helice_Lento.tga
+ (  7) Material #6:
+       Negro.bmp
+ (  8) Material #7:
+       Gris.bmp
+ (  9) Material #8:
+       Tapizado.bmp
+ ( 10) glass:
+       Transparency enabled
+       <No Texture>
+ ( 11) Material #11:
+       <No Texture>
+ ( 12) Material #9:
+       <No Texture>
+
+8 Textures:
+Fuselaje.bmp
+Alas.bmp
+Vidrio.tga
+Helice_Rapido.tga
+Helice_Lento.tga
+Negro.bmp
+Gris.bmp
+Tapizado.bmp
