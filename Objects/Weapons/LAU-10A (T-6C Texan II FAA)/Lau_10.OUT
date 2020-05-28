@@ -1,0 +1,23 @@
+	Cylinder01 [776 polys, 740 verts] '08 - Default'
+		Tube01 [432 polys, 304 verts] '06 - Default'
+		Tube02 [432 polys, 304 verts] '06 - Default'
+		Tube03 [432 polys, 304 verts] '06 - Default'
+		Tube04 [432 polys, 304 verts] '06 - Default'
+
+
+Num Nodes: 5
+Total:    (2504 polys, 1956 verts)
+Mesh Max: (776 polys, 740 verts)
+
+2 Materials:
+ (  1) 08 - Default:
+       Lau_10.bmp
+ (  2) 06 - Default:
+       <No Texture>
+
+1 Textures:
+Lau_10.bmp
+
+Points
+
+Extents

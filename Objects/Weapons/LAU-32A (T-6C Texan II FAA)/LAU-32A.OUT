@@ -1,0 +1,21 @@
+	Object01 (48 polys, 144 verts) '03 - Default'
+		Cylinder03 (264 polys, 792 verts) '03 - Default'
+		Box90 (36 polys, 108 verts) '02 - Default'
+		Box89 (36 polys, 108 verts) '02 - Default'
+		Box85 (36 polys, 108 verts) '02 - Default'
+		Box84 (36 polys, 108 verts) '02 - Default'
+		Box79 (36 polys, 108 verts) '02 - Default'
+		Box78 (36 polys, 108 verts) '02 - Default'
+		Box77 (36 polys, 108 verts) '02 - Default'
+		AftConnectorCover04 (192 polys, 576 verts) '04 - Default'
+		Lugs04 (168 polys, 504 verts) '02 - Default'
+		FwdConnectorCover04 (192 polys, 576 verts) '04 - Default'
+		Object02 (168 polys, 504 verts) '01 - Default'
+		Cylinder04 (264 polys, 792 verts) '03 - Default'
+		Front_Cover (336 polys, 1008 verts) '03 - Default'
+			Object03 (24 polys, 72 verts) '05 - Default'
+		Rear_Cover (216 polys, 648 verts) '03 - Default'
+
+
+Total:    (2124 polys, 6372 verts)
+Mesh Max: (336 polys, 1008 verts)

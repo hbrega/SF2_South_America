@@ -1,0 +1,239 @@
+	Cockpit (47 polys, 141 verts) '10 - Default'
+		Canopy_Frame_Inside (26 polys, 78 verts) '03 - Default'
+			Canopy_Glass_Front (36 polys, 108 verts) '07 - Default'
+			Canopy_Glass_Rear (38 polys, 114 verts) '07 - Default'
+			Canopy_Bow (16 polys, 48 verts) '03 - Default'
+				Canopy_Bow_Upper (16 polys, 48 verts) '03 - Default'
+			Canopy_Frame_Upper (20 polys, 60 verts) '23 - Default'
+			Canopy_Glass_Mid (38 polys, 114 verts) '07 - Default'
+			Canopy_Bow_Front (32 polys, 96 verts) '03 - Default'
+			Canopy_Bow_Front_Inside (32 polys, 96 verts) '23 - Default'
+		LG_Panel (10 polys, 30 verts) '18 - Default'
+			LG_Handle (118 polys, 354 verts) '10 - Default'
+			LG_lights (6 polys, 18 verts) '17 - Default'
+		Emer_LG (16 polys, 48 verts) '09 - Default'
+			Emer_LG_Handle (28 polys, 84 verts) '17 - Default'
+		Park_Brake (16 polys, 48 verts) '09 - Default'
+			Park_Brake_Handle (28 polys, 84 verts) '17 - Default'
+		Master_Caution (10 polys, 30 verts) '17 - Default'
+			Master_Caution_light (2 polys, 6 verts) '17 - Default'
+		Master_Warning (10 polys, 30 verts) '17 - Default'
+			Master_Warning_light (2 polys, 6 verts) '17 - Default'
+		Airbrake (2 polys, 6 verts) '17 - Default'
+			Airbrake_light (2 polys, 6 verts) '17 - Default'
+		Decal01 (2 polys, 6 verts) '17 - Default'
+		Decal02 (2 polys, 6 verts) '17 - Default'
+		Decal04 (2 polys, 6 verts) '17 - Default'
+		Decal06 (2 polys, 6 verts) '17 - Default'
+		1Rear_Dash (6 polys, 18 verts) '10 - Default'
+		1Combing (123 polys, 369 verts) '10 - Default'
+		1Floor (10 polys, 30 verts) '10 - Default'
+		1Front_Bulkhead (4 polys, 12 verts) '10 - Default'
+		1Rear_Bulkhead (8 polys, 24 verts) '10 - Default'
+		1Side_Panel_L (3 polys, 9 verts) '10 - Default'
+		1Side_Panel_R (3 polys, 9 verts) '10 - Default'
+		1Side_Walls (31 polys, 93 verts) '10 - Default'
+		Ext_Fuel_Panel (10 polys, 30 verts) '18 - Default'
+		Decal03 (2 polys, 6 verts) '17 - Default'
+		ELT_Panel (10 polys, 30 verts) '18 - Default'
+			Switch01 (30 polys, 90 verts) '18 - Default'
+		Decal05 (2 polys, 6 verts) '17 - Default'
+		Decal07 (2 polys, 6 verts) '17 - Default'
+		Decal08 (2 polys, 6 verts) '17 - Default'
+		MFD_C (54 polys, 162 verts) '04 - Default'
+			Compass_Rose (2 polys, 6 verts) '11 - Default'
+				Nav_Course (7 polys, 21 verts) '04 - Default'
+					CDI_bar (2 polys, 6 verts) '04 - Default'
+					CDI_scale (80 polys, 240 verts) '04 - Default'
+			Own_Ship (18 polys, 54 verts) '04 - Default'
+			AHRS_ADI (18 polys, 54 verts) '01 - Default'
+			AHRS_ADI_Front (2 polys, 6 verts) '01 - Default'
+			AHRS_AOB_scale (21 polys, 63 verts) '02 - Default'
+			AHRS_Bank (1 polys, 3 verts) '02 - Default'
+			AHRS_outline (71 polys, 213 verts) '02 - Default'
+				Turn_indicator (6 polys, 18 verts) '02 - Default'
+				Turn_ind_scale (24 polys, 72 verts) '02 - Default'
+				HDG_dig1 (40 polys, 120 verts) '15 - Default'
+				HDG_dig2 (40 polys, 120 verts) '15 - Default'
+				HDG_dig3 (40 polys, 120 verts) '15 - Default'
+				TRACK_dig1 (40 polys, 120 verts) '15 - Default'
+				TRACK_dig2 (40 polys, 120 verts) '15 - Default'
+				TRACK_dig3 (40 polys, 120 verts) '15 - Default'
+				DIST_dig1 (40 polys, 120 verts) '15 - Default'
+				DIST_dig2 (40 polys, 120 verts) '15 - Default'
+				DIST_dig3 (40 polys, 120 verts) '15 - Default'
+				IAS_dig1 (40 polys, 120 verts) '15 - Default'
+				IAS_dig2 (40 polys, 120 verts) '15 - Default'
+				IAS_dig3 (40 polys, 120 verts) '15 - Default'
+				ALT_dig1 (40 polys, 120 verts) '15 - Default'
+				ALT_dig2 (40 polys, 120 verts) '15 - Default'
+				ALT_dig3 (40 polys, 120 verts) '15 - Default'
+				ALT_dig4 (40 polys, 120 verts) '15 - Default'
+				ALT_dig5 (40 polys, 120 verts) '15 - Default'
+				ALT_IAS_Frame (16 polys, 48 verts) '02 - Default'
+				ALT_Tape (4 polys, 12 verts) '12 - Default'
+				IAS_Tape (4 polys, 12 verts) '12 - Default'
+				AOA_Indexer (2 polys, 6 verts) '02 - Default'
+				VSI_Needle (2 polys, 6 verts) '02 - Default'
+			RWR (2 polys, 6 verts) '08 - Default'
+		MFD_L (54 polys, 162 verts) '04 - Default'
+			Map_Screen (18 polys, 54 verts) '05 - Default'
+				Compass_Rose2 (2 polys, 6 verts) '11 - Default'
+			Own_Ship2 (18 polys, 54 verts) '04 - Default'
+			Map_Frame (2 polys, 6 verts) '21 - Default'
+			TV_Screen (2 polys, 6 verts) '22 - Default'
+		MFD_R (54 polys, 162 verts) '04 - Default'
+			ENG_Screen (53 polys, 159 verts) '02 - Default'
+				Needle_TQ (1 polys, 3 verts) '06 - Default'
+				Needle_Oil_P (1 polys, 3 verts) '06 - Default'
+				Needle_Oil_T (1 polys, 3 verts) '06 - Default'
+				Needle_ITT (1 polys, 3 verts) '06 - Default'
+				Needle_NG (1 polys, 3 verts) '06 - Default'
+				Needle_Hyd (1 polys, 3 verts) '06 - Default'
+				Fuel_Ind (2 polys, 6 verts) '02 - Default'
+				FF_dig1 (40 polys, 120 verts) '15 - Default'
+				FF_dig2 (40 polys, 120 verts) '15 - Default'
+				FF_dig3 (40 polys, 120 verts) '15 - Default'
+				Fuel_dig1 (40 polys, 120 verts) '15 - Default'
+				Fuel_dig2 (40 polys, 120 verts) '15 - Default'
+				Fuel_dig3 (40 polys, 120 verts) '15 - Default'
+				Fuel_dig4 (40 polys, 120 verts) '15 - Default'
+				ITT_dig1 (40 polys, 120 verts) '15 - Default'
+				ITT_dig2 (40 polys, 120 verts) '15 - Default'
+				ITT_dig3 (40 polys, 120 verts) '15 - Default'
+				NG_dig3 (40 polys, 120 verts) '15 - Default'
+				NG_dig2 (40 polys, 120 verts) '15 - Default'
+				NG_dig1 (40 polys, 120 verts) '15 - Default'
+				TQ_dig1 (40 polys, 120 verts) '15 - Default'
+				TQ_dig2 (40 polys, 120 verts) '15 - Default'
+				TQ_dig3 (40 polys, 120 verts) '15 - Default'
+		STBY_Frame (58 polys, 174 verts) '18 - Default'
+			Knob02 (30 polys, 90 verts) '18 - Default'
+			STBY_Scale (32 polys, 96 verts) '18 - Default'
+			STBY_ADI (18 polys, 54 verts) '01 - Default'
+			STBY_Bank (1 polys, 3 verts) '18 - Default'
+			STBY_HDG (2 polys, 6 verts) '14 - Default'
+			STBY_ALT_Tape (4 polys, 12 verts) '12 - Default'
+				STBY_ALT_dig1 (40 polys, 120 verts) '15 - Default'
+				STBY_ALT_dig2 (40 polys, 120 verts) '15 - Default'
+				STBY_ALT_dig3 (40 polys, 120 verts) '15 - Default'
+				STBY_ALT_dig4 (40 polys, 120 verts) '15 - Default'
+				STBY_ALT_dig5 (40 polys, 120 verts) '15 - Default'
+				STBY_ALT_IAS_Frame (16 polys, 48 verts) '02 - Default'
+			STBY_IAS_Tape (4 polys, 12 verts) '12 - Default'
+				STBY_IAS_dig1 (40 polys, 120 verts) '15 - Default'
+				STBY_IAS_dig2 (40 polys, 120 verts) '15 - Default'
+				STBY_IAS_dig3 (40 polys, 120 verts) '15 - Default'
+		Clock_Frame (50 polys, 150 verts) '18 - Default'
+			Clock_H_dig1 (40 polys, 120 verts) '15 - Default'
+			Clock_H_dig2 (40 polys, 120 verts) '15 - Default'
+			Clock_M_dig1 (40 polys, 120 verts) '15 - Default'
+			Clock_M_dig2 (40 polys, 120 verts) '15 - Default'
+		Flap_Ind (48 polys, 144 verts) '18 - Default'
+			Flap_Needle (9 polys, 27 verts) '09 - Default'
+		EMER_Jett_Base (2 polys, 6 verts) '18 - Default'
+			EMER_Jett_Button (48 polys, 144 verts) '18 - Default'
+		MasterArm_Button (48 polys, 144 verts) '18 - Default'
+			Decal09 (2 polys, 6 verts) '17 - Default'
+			Decal10 (2 polys, 6 verts) '17 - Default'
+			Decal11 (2 polys, 6 verts) '17 - Default'
+		EmerDepress_Button (48 polys, 144 verts) '18 - Default'
+			Decal13 (2 polys, 6 verts) '17 - Default'
+			Decal14 (2 polys, 6 verts) '17 - Default'
+			Decal12 (2 polys, 6 verts) '17 - Default'
+		Switch03 (30 polys, 90 verts) '18 - Default'
+		UFCP (14 polys, 42 verts) '16 - Default'
+			Knob01 (30 polys, 90 verts) '18 - Default'
+			Knob03 (30 polys, 90 verts) '18 - Default'
+			Knob04 (30 polys, 90 verts) '18 - Default'
+			Knob05 (30 polys, 90 verts) '18 - Default'
+			Switch02 (30 polys, 90 verts) '18 - Default'
+			Switch04 (30 polys, 90 verts) '18 - Default'
+			Switch05 (30 polys, 90 verts) '18 - Default'
+			Switch06 (30 polys, 90 verts) '18 - Default'
+			Switch07 (30 polys, 90 verts) '18 - Default'
+			Switch08 (30 polys, 90 verts) '18 - Default'
+			UFCP_Top (76 polys, 228 verts) '18 - Default'
+				HUD (12 polys, 36 verts) '16 - Default'
+					HUD_Frame (16 polys, 48 verts) '16 - Default'
+						HUD_Glass_F (4 polys, 12 verts) '19 - Default'
+							HUD_Glass_T (8 polys, 24 verts) '20 - Default'
+
+
+Num Nodes: 160
+Total:    (4042 polys, 12126 verts)
+Mesh Max: (123 polys, 369 verts)
+
+22 Materials:
+ (  1) 10 - Default:
+       Cockpit.bmp
+ (  2) 03 - Default:
+       Canopy_frame.bmp
+ (  3) 07 - Default:
+       Transparency enabled
+       F86_reflection1.tga
+ (  4) 23 - Default:
+       Canopy_frame2.bmp
+ (  5) 18 - Default:
+       NavCommLG.bmp
+ (  6) 17 - Default:
+       Lights.bmp
+ (  7) 09 - Default:
+       Misc.bmp
+ (  8) 04 - Default:
+       MFD.bmp
+ (  9) 11 - Default:
+       Transparency enabled
+       compass rose.tga
+ ( 10) 01 - Default:
+       ADI.bmp
+ ( 11) 02 - Default:
+       T-6B_Screens.bmp
+ ( 12) 15 - Default:
+       Number_Tape.bmp
+ ( 13) 12 - Default:
+       ALT_IAS_tape.bmp
+ ( 14) 08 - Default:
+       RWR.bmp
+ ( 15) 05 - Default:
+       map_screen.bmp
+ ( 16) 21 - Default:
+       Map_frame.bmp
+ ( 17) 22 - Default:
+       TV_screen.bmp
+ ( 18) 06 - Default:
+       white.bmp
+ ( 19) 14 - Default:
+       HDG_tape.bmp
+ ( 20) 16 - Default:
+       UFCP.bmp
+ ( 21) 19 - Default:
+       Transparency enabled
+       HUD_Glass.TGA
+ ( 22) 20 - Default:
+       Transparency enabled
+       HUD_Glass_Top.tga
+
+22 Textures:
+Cockpit.bmp
+Canopy_frame.bmp
+F86_reflection1.tga
+Canopy_frame2.bmp
+NavCommLG.bmp
+Lights.bmp
+Misc.bmp
+MFD.bmp
+compass rose.tga
+ADI.bmp
+T-6B_Screens.bmp
+Number_Tape.bmp
+ALT_IAS_tape.bmp
+RWR.bmp
+map_screen.bmp
+Map_frame.bmp
+TV_screen.bmp
+white.bmp
+HDG_tape.bmp
+UFCP.bmp
+HUD_Glass.TGA
+HUD_Glass_Top.tga

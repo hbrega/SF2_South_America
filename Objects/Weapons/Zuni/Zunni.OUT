@@ -1,0 +1,43 @@
+	Cylinder01 [248 polys, 176 verts] '08 - Default'
+		Cylinder03 [240 polys, 186 verts] '08 - Default'
+		Tube01 [216 polys, 234 verts] '08 - Default'
+			Box01 [28 polys, 40 verts] '08 - Default', AnimationID: 1 
+			Box08 [28 polys, 40 verts] '08 - Default', AnimationID: 1 
+			Box11 [28 polys, 40 verts] '08 - Default', AnimationID: 1 
+			Box15 [28 polys, 40 verts] '08 - Default', AnimationID: 1 
+		Box05 [12 polys, 24 verts] '05 - Default'
+		Box06 [12 polys, 24 verts] '05 - Default'
+		Box07 [12 polys, 24 verts] '05 - Default'
+		Box09 [12 polys, 24 verts] '05 - Default'
+		Box02 [12 polys, 24 verts] '05 - Default'
+		Box12 [12 polys, 24 verts] '05 - Default'
+		Box13 [12 polys, 24 verts] '05 - Default'
+		Box14 [12 polys, 24 verts] '05 - Default'
+		Tube02 [216 polys, 234 verts] '08 - Default'
+		Tube03 [216 polys, 234 verts] '08 - Default'
+		Tube04 [216 polys, 234 verts] '08 - Default'
+		Cylinder04 [72 polys, 78 verts] '06 - Default'
+		Cylinder05 [72 polys, 78 verts] '06 - Default'
+		Cylinder06 [72 polys, 78 verts] '06 - Default'
+		Cylinder07 [72 polys, 78 verts] '06 - Default'
+	Cylinder02 [80 polys, 90 verts] '08 - Default'
+
+
+Num Nodes: 23
+Total:    (1928 polys, 2052 verts)
+Mesh Max: (248 polys, 234 verts)
+
+3 Materials:
+ (  1) 08 - Default:
+       Zunni.bmp
+ (  2) 05 - Default:
+       <No Texture>
+ (  3) 06 - Default:
+       <No Texture>
+
+1 Textures:
+Zunni.bmp
+
+Points
+
+Extents

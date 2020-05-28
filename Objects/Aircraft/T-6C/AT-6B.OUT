@@ -1,0 +1,173 @@
+	Fuselage (769 polys, 2307 verts) '10 - Default'
+		Intake (34 polys, 102 verts) '10 - Default'
+		Canopy_Frame (88 polys, 264 verts) '10 - Default'
+			Canopy_Frame_Inside (256 polys, 768 verts) '09 - Default'
+			Canopy_Glass_Front (48 polys, 144 verts) '08 - Default'
+			Canopy_Glass_Mid (88 polys, 264 verts) '08 - Default'
+			Canopy_Glass_Rear (116 polys, 348 verts) '08 - Default'
+			Canopy_Handle (72 polys, 216 verts) '10 - Default'
+		Wing_L (144 polys, 432 verts) '10 - Default'
+			MLG_Door_Inner_L (60 polys, 180 verts) '10 - Default'
+			MLG_Door_L (48 polys, 144 verts) '10 - Default'
+			Flap_Outer_L (8 polys, 24 verts) '10 - Default'
+			Flap_Inner_L (26 polys, 78 verts) '10 - Default'
+			MLG_Well_L (52 polys, 156 verts) '10 - Default'
+			Pylon_LI (24 polys, 72 verts) '10 - Default'
+				Drop_Tank_LI (260 polys, 780 verts) '13 - Default'
+				Rack_Claws_LI (56 polys, 168 verts) '09 - Default'
+				M272_LI (316 polys, 948 verts) '14 - Default'
+			Pylon_LM (24 polys, 72 verts) '10 - Default'
+				Rack_Claws_LM (56 polys, 168 verts) '09 - Default'
+				Drop_Tank_LM (260 polys, 780 verts) '13 - Default'
+				M272_LM (316 polys, 948 verts) '14 - Default'
+			Maingear_L (86 polys, 258 verts) '10 - Default'
+				Leftgear_Piston (72 polys, 216 verts) '10 - Default'
+					Wheel_L (144 polys, 432 verts) '10 - Default'
+					Leftgear_Springarm (12 polys, 36 verts) '10 - Default'
+				LMLG_Arm_1 (12 polys, 36 verts) '10 - Default'
+					LMLG_Arm_2 (12 polys, 36 verts) '10 - Default'
+			Landing_Light_L (58 polys, 174 verts) '10 - Default'
+			Wing_Outer_L_Dam (10 polys, 30 verts) '12 - Default'
+				Spar_L (26 polys, 78 verts) '12 - Default'
+				Spar_L1 (26 polys, 78 verts) '12 - Default'
+				Wing_Outer_L_Dam_Skin (18 polys, 54 verts) '10 - Default'
+					L_Dam_Skin_Inside (18 polys, 54 verts) '12 - Default'
+			Wing_Outer_L (79 polys, 237 verts) '10 - Default'
+				Aileron_L (8 polys, 24 verts) '10 - Default'
+				AoA_Probe (24 polys, 72 verts) '09 - Default'
+					AoA_Vane (16 polys, 48 verts) '09 - Default'
+				Pitot_Probe (46 polys, 138 verts) '10 - Default'
+				Pylon_LO (24 polys, 72 verts) '10 - Default'
+					Rack_Claws_LO (56 polys, 168 verts) '09 - Default'
+					M272_LO (316 polys, 948 verts) '14 - Default'
+		Air_Brake (66 polys, 198 verts) '10 - Default'
+		NG_Well (32 polys, 96 verts) '10 - Default'
+		NG_Door_L (60 polys, 180 verts) '10 - Default'
+		NG_Door_R (60 polys, 180 verts) '10 - Default'
+		Exhaust_Stack_L (168 polys, 504 verts) '10 - Default'
+			Exhaust_Stack_L_Inside (34 polys, 102 verts) '10 - Default'
+		Exhaust_Stack_R (168 polys, 504 verts) '10 - Default'
+			Exhaust_Stack_R_Inside (34 polys, 102 verts) '10 - Default'
+		Nosegear_Shaft (40 polys, 120 verts) '10 - Default'
+			Nosegear_Castor (30 polys, 90 verts) '10 - Default'
+				Nosegear_Piston (140 polys, 420 verts) '10 - Default'
+					Nosegear_Springarm (12 polys, 36 verts) '10 - Default'
+					Nose_Wheel (144 polys, 432 verts) '10 - Default'
+			NLG_Arm_Joint (10 polys, 30 verts) '10 - Default'
+				NLG_Arm_1 (12 polys, 36 verts) '10 - Default'
+					NLG_Arm_2 (12 polys, 36 verts) '10 - Default'
+		Airbrake_well (50 polys, 150 verts) '10 - Default'
+		Wing_R (144 polys, 432 verts) '10 - Default'
+			Flap_Inner_R (26 polys, 78 verts) '10 - Default'
+			Flap_Outer_R (8 polys, 24 verts) '10 - Default'
+			Maingear_R (86 polys, 258 verts) '10 - Default'
+				Rightgear_Piston (72 polys, 216 verts) '10 - Default'
+					Rightgear_Springarm (12 polys, 36 verts) '10 - Default'
+					Wheel_R (144 polys, 432 verts) '10 - Default'
+				RMLG_Arm_1 (12 polys, 36 verts) '10 - Default'
+					RMLG_Arm_2 (12 polys, 36 verts) '10 - Default'
+			MLG_Door_Inner_R (60 polys, 180 verts) '10 - Default'
+			MLG_Door_R (48 polys, 144 verts) '10 - Default'
+			MLG_Well_R (52 polys, 156 verts) '10 - Default'
+			Pylon_RI (24 polys, 72 verts) '10 - Default'
+				Drop_Tank_RI (260 polys, 780 verts) '13 - Default'
+				Rack_Claws_RI (56 polys, 168 verts) '09 - Default'
+				M272_RI (316 polys, 948 verts) '14 - Default'
+			Wing_Outer_R (79 polys, 237 verts) '10 - Default'
+				Aileron_R (8 polys, 24 verts) '10 - Default'
+				Pylon_RO (24 polys, 72 verts) '10 - Default'
+					Rack_Claws_RO (56 polys, 168 verts) '09 - Default'
+					M272_RO (316 polys, 948 verts) '14 - Default'
+				Pitot_Probe_R (46 polys, 138 verts) '10 - Default'
+				TAT_Probe (20 polys, 60 verts) '10 - Default'
+			Wing_Outer_R_Dam (10 polys, 30 verts) '12 - Default'
+				Spar_R (26 polys, 78 verts) '12 - Default'
+				Spar_R1 (26 polys, 78 verts) '12 - Default'
+				Wing_Outer_R_Dam_Skin (18 polys, 54 verts) '10 - Default'
+					R_Dam_Skin_Inside (18 polys, 54 verts) '12 - Default'
+			Pylon_RM (24 polys, 72 verts) '10 - Default'
+				Rack_Claws_RM (56 polys, 168 verts) '09 - Default'
+				M272_RM (316 polys, 948 verts) '14 - Default'
+				Drop_Tank_RM (260 polys, 780 verts) '13 - Default'
+			Landing_Light_R (58 polys, 174 verts) '10 - Default'
+		Ejection_Seat_PLT (114 polys, 342 verts) '10 - Default'
+		VHF2 (10 polys, 30 verts) '09 - Default'
+		Cockpit (126 polys, 378 verts) '10 - Default'
+			Cockpit_Rail (32 polys, 96 verts) '09 - Default'
+			HUD (30 polys, 90 verts) '09 - Default'
+				HUD_Glass (8 polys, 24 verts) '11 - Default'
+		Ventral_Fin (8 polys, 24 verts) '10 - Default'
+		CM_L (108 polys, 324 verts) '10 - Default'
+		CM_R (108 polys, 324 verts) '10 - Default'
+		DS_FL (108 polys, 324 verts) '10 - Default'
+			MAWS_FL (18 polys, 54 verts) '10 - Default'
+			RWR_FL (10 polys, 30 verts) '10 - Default'
+		DS_RL (108 polys, 324 verts) '10 - Default'
+			MAWS_RL (18 polys, 54 verts) '10 - Default'
+			RWR_RL (10 polys, 30 verts) '10 - Default'
+		DS_RR (108 polys, 324 verts) '10 - Default'
+			MAWS_RR (18 polys, 54 verts) '10 - Default'
+			RWR_RR (10 polys, 30 verts) '10 - Default'
+		DS_FR (108 polys, 324 verts) '10 - Default'
+			MAWS_FR (18 polys, 54 verts) '10 - Default'
+			RWR_FR (10 polys, 30 verts) '10 - Default'
+		Prop_Spinner (308 polys, 924 verts) '10 - Default'
+			Static_Prop (792 polys, 2376 verts) '10 - Default'
+			Prop_Fast (4 polys, 12 verts) '07 - Default'
+		Vert_Tail (129 polys, 387 verts) '10 - Default'
+			ILS_L (10 polys, 30 verts) '09 - Default'
+			ILS_R (10 polys, 30 verts) '09 - Default'
+			Rudder (62 polys, 186 verts) '10 - Default'
+		TACAN2 (10 polys, 30 verts) '09 - Default'
+		TACAN1 (10 polys, 30 verts) '09 - Default'
+		VHF3 (10 polys, 30 verts) '09 - Default'
+		MKR (18 polys, 54 verts) '09 - Default'
+		SSR (10 polys, 30 verts) '09 - Default'
+		VHF1b (10 polys, 30 verts) '09 - Default'
+		Nose_Bump (67 polys, 201 verts) '10 - Default'
+		OilCoolerAT6 (156 polys, 468 verts) '10 - Default'
+		Ejection_Seat_INST (114 polys, 342 verts) '10 - Default'
+		Stab_L (91 polys, 273 verts) '10 - Default'
+			Elevator_L (94 polys, 282 verts) '10 - Default'
+		Stab_R (91 polys, 273 verts) '10 - Default'
+			Elevator_R (94 polys, 282 verts) '10 - Default'
+
+
+Num Nodes: 133
+Total:    (11127 polys, 33381 verts)
+Mesh Max: (792 polys, 2376 verts)
+
+8 Materials:
+ (  1) 10 - Default:
+       AT-6B Map.jpg
+ (  2) 09 - Default:
+       Misc.jpg
+ (  3) 08 - Default:
+       Transparency enabled
+       Specular=1.00, Glossiness=0.70, Color:<229,229,229>
+       Reflection=1.00
+       CanopyGlass.TGA
+ (  4) 13 - Default:
+       Tank_PC-9.jpg
+ (  5) 14 - Default:
+       HFRail.jpg
+ (  6) 12 - Default:
+       PC-9A Dam.jpg
+ (  7) 11 - Default:
+       Transparency enabled
+       Specular=1.00, Glossiness=0.70, Color:<229,229,229>
+       Reflection=1.00
+       HUDGlass.tga
+ (  8) 07 - Default:
+       Transparency enabled
+       PropDisc.tga
+
+8 Textures:
+AT-6B Map.jpg
+Misc.jpg
+CanopyGlass.TGA
+Tank_PC-9.jpg
+HFRail.jpg
+PC-9A Dam.jpg
+HUDGlass.tga
+PropDisc.tga
