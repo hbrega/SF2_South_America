@@ -1,0 +1,32 @@
+	Cylinder02 [704 polys, 480 verts] '01 - Default'
+	Box02 [96 polys, 102 verts] '01 - Default'
+	Box05 [44 polys, 58 verts] '01 - Default'
+	Box06 [44 polys, 58 verts] '01 - Default'
+	Box07 [44 polys, 58 verts] '01 - Default'
+	Box08 [44 polys, 58 verts] '01 - Default'
+	Box09 [12 polys, 24 verts] '07 - Default'
+	Box15 [24 polys, 52 verts] '01 - Default'
+	Box10 [12 polys, 24 verts] '07 - Default'
+	Box11 [12 polys, 24 verts] '07 - Default'
+	Box17 [12 polys, 24 verts] '07 - Default'
+	Box01 [96 polys, 102 verts] '01 - Default'
+	Box03 [96 polys, 102 verts] '01 - Default'
+	Box19 [96 polys, 102 verts] '01 - Default'
+
+
+Num Nodes: 14
+Total:    (1336 polys, 1268 verts)
+Mesh Max: (704 polys, 480 verts)
+
+2 Materials:
+ (  1) 01 - Default:
+       matra_r530.bmp
+ (  2) 07 - Default:
+       <No Texture>
+
+1 Textures:
+matra_r530.bmp
+
+Points
+
+Extents
