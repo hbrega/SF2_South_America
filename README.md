@@ -124,6 +124,22 @@ Mirage IIIEBR (Early)
 
 Canberra B.68 (FAP)
 
+IAI Dagger
+
+IAI Dagger B
+
+IAI Dagger B (90)
+
+IAI Finger
+
+Mirage V Mara
+
+Mirage III BJ
+
+Mirage III EA
+
+Mirage III EA Late
+
 #Objects
 
 ARA 25 de Mayo

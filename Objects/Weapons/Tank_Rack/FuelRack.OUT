@@ -1,0 +1,29 @@
+	LeftSuperFuelTank [476 polys, 1428 verts (decal)] '22 - Default'
+		inner_pylon_L [820 polys, 2460 verts (decal)] '20 - Default'
+		Object01 [396 polys, 1188 verts (decal)] '20 - Default'
+		Object02 [396 polys, 1188 verts (decal)] '20 - Default'
+		Object03 [396 polys, 1188 verts (decal)] '20 - Default'
+		Object04 [396 polys, 1188 verts (decal)] '20 - Default'
+		Object05 [396 polys, 1188 verts (decal)] '20 - Default'
+		Object06 [396 polys, 1188 verts (decal)] '20 - Default'
+		Object07 [396 polys, 1188 verts (decal)] '20 - Default'
+		Object08 [396 polys, 1188 verts (decal)] '20 - Default'
+
+
+Num Nodes: 10
+Total:    (4464 polys, 13392 verts)
+Mesh Max: (820 polys, 2460 verts)
+
+2 Materials:
+ (  1) 22 - Default:
+       fuel_tanks.bmp
+ (  2) 20 - Default:
+       TREN_pilones.bmp
+
+2 Textures:
+fuel_tanks.bmp
+TREN_pilones.bmp
+
+Points
+
+Extents
