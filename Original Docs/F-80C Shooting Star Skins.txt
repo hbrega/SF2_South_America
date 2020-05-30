@@ -1,0 +1,39 @@
+Lockheed F-80C Shooting Star Export Workshop
+
+In the '50 several south american countries entered in jet age with the Shooting Star
+This huge skinpack portaits these airforces:
+
+- Brazil 	(33 delivered starting in 1958, withdrawn from service in 1973)
+- Chile 	(30 delivered from 1958 on, last ones retired from service in 1974)
+- Colombia 	(16 delivered starting in 1958, retired by 1966)
+- Ecuador 	(16 delivered between 1957 and 1960, six returned to the United States in 1965)
+- Peru 		(16 delivered starting in 1958, the type was phased out in 1973)
+- Uruguay 	(17 delivered, withdrawn from use in 1971)
+
+Why this little, quite heavy (see the FACh camo skin ...) effort?
+Because this is a fantastic, maybe underated, model made by great 3D master Erikgen and these exotic skins are pretty. Aren't they?
+
+<ENRICO CI MANCHI!>
+
+WHAT'S IN:
+
+- 13 new skins
+- Historical Serial numbers 
+- Brazilian Playcards ...
+
+CREDITS:
+
+- Enrico Gennari aka "EriKgen" plane model
+- Kenin Stein aka "Wrench" original FAC skin used as a base from my own house templates
+- Geary aka "Geary" for some layers I was able to extract from his temps I couldn't use due my old PS suite
+
+INSTALL:
+
+- You must have Erikgen F-80C installed
+- deliver all files inside "to mod folder" folder to your own mod folder (isn't it easy?)
+
+Carpe diem .... and fly higher and higher, please.
+
+@paulopanz
+
+

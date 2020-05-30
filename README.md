@@ -148,6 +148,13 @@ F-5E Tiger II (72)
 
 F-5E Tiger II (74L)
 
+Meteor F.4
+
+RF-80C Shooting Star
+
+T-33A Shooting Star
+
+F-80C Shooting Star
 
 #Objects
 

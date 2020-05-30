@@ -1,0 +1,85 @@
+SF2 Lockheed F-80C/RF-80C/T-33A Shooting Stars Pak by ErikGen			10/3/2012
+
+= For SF2, Full-5 Merged (Reccomended/Preferred) =
+
+This package contains 3 completly new aircraft for SF2. As there are some 1stGen versions available, you'll most likely want to rename or delete the old Pasko versions from your SF2 installs.
+*Note: as these aircraft were built with the latest 3W exporter, they will =NOT= work in SF/Wo* 1stGen Installs*
+
+Aircraft included, and skins are:
+
+F-80C:
+35th FBS, 8th FBG
+36th FBS, 8th FBG
+80th FBS, 8th FBG - Korea, 1950/51ish
+'Generic' USAF (represents 416th FG circa 1948*)
+
+RF-80C:
+45th TRS, Korea
+
+T-33A:
+'Generic' USAF
+Football City AF (a 'What If' skin for fans of "The Wingman" series*)
+
+While designed with the Korean War in mind, they are easily used in any 'early jet' scenario.
+All skins are in DDS format. Decal randomization is set to TRUE for all skins. The 8th FBGs 3 squadrons have 95% historicaly accurate serial numbers. The 416th skin has 'semi-hisorical' serials (meaning they ARE for F-80Cs), and all the nose arts from the original release for Pasko's F-80C. The RF-80 and T-33 have 'generic' serials, but reflect actual aircraft, though no squadron affiliation was discoverable.
+
+Drop tanks for all are 'built in' to the aircraft lod; weapons data inis included, as are the pilot figures and seat. Bombs and rockets are NOT included; they're in the GunnyPak, and the soon-to-be-released KAW Weapons pak.
+The canopy for all is controlled via the standard Animations Keystroke (tm), Shift/0
+
+Happy Hunting!
+
+
+
+*you all KNOW how much I hate wasting good decals!!! <grin>
+
+------------------------------------------------
+
+=TO INSTALL:
+
+As I always reccomend, unzip the "sf2_kaw_shooting-stars_pak.zip" to a temp folder or your desktop or somewhere else that's easy to find
+
+Then, simply, copy/paste the Objects folder supplied directly =OVER= your existing /Objects folder. The included Objects folder contains the Aircraft, Decals, Weapons and PIlots sub-folders.
+
+Copy/Paste the /Sounds folder directly -OVER- your existing /Sounds folder. 
+ 
+You'll probably be asked "OVERWRITE?", just say Yes for all. 
+
+I've already seperated out the various folders (Aircraft, Decals, etc), so they'll drop right where they're supposed to be.
+
+----------------------------
+Notes:
+The FM may need futher refinements; remember -- this aircraft IS not a dogfighter when compared to the MiG-15s (both the Fagot-A and most definatley the Fagot-B)
+
+---------------------------------------------------------------------------------
+Credits:
+ErikGen for the aircraft
+Kesselbrut for the cockpit
+??? for the F80 engine should (ErikGen? Spillone??? !! I disremember!!!)
+hgbn for the skin template
+Old Diego for the KUSAF pilot figures
+Me, for several of the skins, ALL the decals (and associated research), and various and sundry ini work.
+Anyone I forgot, I apologize, and let me know so I can remedy the situation
+
+Sources:
+there's such a thing? Who'da frakking thought!!!
+
+---------------------------------------------------------------------------------
+If you have any problems, questions, comments, I can be reached in the usual places; CombatAce, SimHQ, or via the email addy below.
+
+Happy Hunting!
+Wrench
+Kevin Stein
+
+kjstein@ca.rr.com
+
+--------------------------------------------
+Legal BS:
+This is freeware; it CAN be distrubuted if the original readmes and all other pieces of the package remain intact.
+The names of all contributors, modders, suppliers, etc =MUST= be listed in any new readmes.
+This package may NOT in any way, shape or form be used in any payware additions. 
+Bribes are accepted; ask for the day's going rates
+
+-------------------------------------------
+
+
+
