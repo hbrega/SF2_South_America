@@ -1,0 +1,67 @@
+F-5E For Strike Fighters 2
+
+Version History:
+
+v.1.0: First public release. Early versions without later refinements like RWR.
+
+DESCRIPTION:
+
+This addon can thank its release to the work of two talented individuals, FastCargo and BPao. FastCargo created the F-5F two seaters and BPao was the man behind the original Mirage Factory F-5E model. I was fortunate enough to get permission to work on these source models, with the goals of marrying the F-5E front section to the F-5F engine and wings which were quite a lot more detailed. It was supposed to be a quick project.
+
+One year later:
+I have completely reworked the F-5E nose, added a lot of stuff on the original fuselage and detailed both original templates to have higher detail textures. Meanwhile Sophocles graciously allowed me to use his superb F-5A cockpit as a basis to build my F-5E cockpit, in which I have also used parts based on FastCargos unfinished T-38 cockpit.
+
+Included is two versions of the earlier production F-5E: a basic version dubbed '72 and an export specific version with a larger vertical stabilizator and spine antenna. This version is dubbed '74L (L for large vertical stablizator).
+
+Happy flying!
+
+Mats "Centurion" Liljeroos
+
+FEATURES:
+SF2 standard external model
+2048^2 textures with normal maps
+Realistic cockpit with avionics courtesy of Crusader
+FM from original MirageFactory F-5E which flies really good.
+
+
+OPERATORS COVERED IN THIS PACK:
+USAF Agressor
+USN Agressor
+Brazil
+Honduras
+Chile
+Marocco
+IRIAF
+Jordania
+South Korea
+Saudi Arabia
+Thailand
+South Vietnam
+North Vietnam (captured from VNAF)
+Ethiopia
+Kenya
+Indonesia
+Tunisia
+
+CREDITS:
+Bpao and Mirage Factory crew: Orginal F-5E model and templates
+FastCargo for original F-5F model
+EricJ and pappychecksix for original F-5F templates and textures
+Sophocles for his superb cockpit work. Every switch is a work of art.
+Crusader for his ini file magic, really makes the cockpit and plane come alive.
+Paulo for his mammoth decaling work which he allowed me to use. and even helped me by reworking some of it.
+Me for cobbling all this together (=texturing and modeling work)
+The rest of the Combat Ace community. Without you guys I would never have bothered to make it this far.
+
+INSTALATTION:
+Extract into mod folder of choice.
+
+This by and large replaces the old F-5E by TMF, so you can go ahead and delete the F-5E aircraft folder if you have it installed.
+
+NOTE:
+The _74L version references the _72 versions cockpit folder, so if you aim to use the 74L standalone in some installation, copy the cockpit folder and F-5E_72_cockpit.ini file from the _72 folder to the _74L folder. Overwrite.
+
+
+Stay tuned for more Tigers!
+
+This falls under the Combatace Freeware License Agreement.

@@ -144,6 +144,11 @@ Mirage 2000C FAB
 
 Mirage 2000C FAP
 
+F-5E Tiger II (72)
+
+F-5E Tiger II (74L)
+
+
 #Objects
 
 ARA 25 de Mayo
