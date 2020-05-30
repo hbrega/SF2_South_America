@@ -140,6 +140,10 @@ Mirage III EA Late
 
 Bell 212 Huey
 
+Mirage 2000C FAB
+
+Mirage 2000C FAP
+
 #Objects
 
 ARA 25 de Mayo

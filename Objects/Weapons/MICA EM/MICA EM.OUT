@@ -1,0 +1,18 @@
+	MICA (192 polys, 576 verts) '1 - Default'
+	tuyere (216 polys, 648 verts) '1 - Default'
+	Cylinder01 (342 polys, 1026 verts) '1 - Default'
+	Box01 (12 polys, 36 verts) '1 - Default'
+	Box02 (12 polys, 36 verts) '1 - Default'
+	Cylinder02 (360 polys, 1080 verts) '1 - Default'
+
+
+Num Nodes: 6
+Total:    (1134 polys, 3402 verts)
+Mesh Max: (360 polys, 1080 verts)
+
+1 Materials:
+ (  1) 1 - Default:
+       Mica EM.bmp
+
+1 Textures:
+Mica EM.bmp

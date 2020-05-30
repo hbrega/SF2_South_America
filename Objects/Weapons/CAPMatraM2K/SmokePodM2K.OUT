@@ -1,0 +1,24 @@
+	SmokePod (216 polys, 648 verts) '01 - Default'
+		Cylinder04 (64 polys, 192 verts) '01 - Default'
+		Line03 (12 polys, 36 verts) '01 - Default'
+		Line02 (12 polys, 36 verts) '01 - Default'
+		Cylinder01 (64 polys, 192 verts) '01 - Default'
+		Line04 (12 polys, 36 verts) '01 - Default'
+		Cylinder03 (108 polys, 324 verts) '01 - Default'
+		Line01 (12 polys, 36 verts) '01 - Default'
+		Box04 (12 polys, 36 verts) '01 - Default'
+		Box01 (12 polys, 36 verts) '01 - Default'
+		Box02 (12 polys, 36 verts) '01 - Default'
+		Box03 (12 polys, 36 verts) '01 - Default'
+
+
+Num Nodes: 12
+Total:    (548 polys, 1644 verts)
+Mesh Max: (216 polys, 648 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       SmokePodM2K.bmp
+
+1 Textures:
+SmokePodM2K.bmp
