@@ -18,8 +18,6 @@ E-2C Hawkeye
 
 Puma SA-330
 
-UH-1H Huey
-
 IA-58h Pucara Fenix
 
 IA-63 Pampa II
@@ -139,6 +137,8 @@ Mirage III BJ
 Mirage III EA
 
 Mirage III EA Late
+
+Bell 212 Huey
 
 #Objects
 

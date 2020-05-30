@@ -1,0 +1,56 @@
+	Fuselage (2678 polys, 8034 verts) '01 - Default'
+		Cola (174 polys, 522 verts) '07 - Default'
+			TailRotor (12 polys, 36 verts) 'ERROR: No material is assigned!'
+				TailRotor02 (90 polys, 270 verts) '03 - Default'
+		objdefault (58 polys, 174 verts) '08 - Default'
+		gear01 (216 polys, 648 verts) 'ERROR: No material is assigned!'
+		gear04 (216 polys, 648 verts) 'ERROR: No material is assigned!'
+		gear02 (216 polys, 648 verts) 'ERROR: No material is assigned!'
+		gear03 (216 polys, 648 verts) 'ERROR: No material is assigned!'
+		LeftPod (402 polys, 1206 verts) '03 - Default'
+		RightPod (402 polys, 1206 verts) '03 - Default'
+		objdefault01 (220 polys, 660 verts) '02 - Default'
+		objdefault02 (220 polys, 660 verts) '02 - Default'
+		objdefault03 (549 polys, 1647 verts) '01 - Default'
+		objdefault04 (878 polys, 2634 verts) '07 - Default'
+			RotorSpinner (12 polys, 36 verts) 'ERROR: No material is assigned!'
+				Rotor (96 polys, 288 verts) '03 - Default'
+					Collective (52 polys, 156 verts) '03 - Default'
+						Lever02 (16 polys, 48 verts) '03 - Default'
+						Lever01 (16 polys, 48 verts) '03 - Default'
+					Blade02 (132 polys, 396 verts) '03 - Default'
+					Blade01 (108 polys, 324 verts) '03 - Default'
+						Cylinder01 (16 polys, 48 verts) '09 - Default'
+			Object02 (64 polys, 192 verts) 'ERROR: No material is assigned!'
+				Object01 (110 polys, 330 verts) 'ERROR: No material is assigned!'
+		Inside (94 polys, 282 verts) '02 - Default'
+		objdefault05 (10 polys, 30 verts) '08 - Default'
+
+
+Num Nodes: 27
+Total:    (7273 polys, 21819 verts)
+Mesh Max: (2678 polys, 8034 verts)
+
+6 Materials:
+ (  1) 01 - Default:
+       Fus212.bmp
+ (  2) 07 - Default:
+       cola212.bmp
+ (  3) 03 - Default:
+       Palas.bmp
+ (  4) 08 - Default:
+       Transparency enabled
+       GLASS.TGA
+ (  5) 02 - Default:
+       Inside.bmp
+ (  6) 09 - Default:
+       Transparency enabled
+       FastRotor.tga
+
+6 Textures:
+Fus212.bmp
+cola212.bmp
+Palas.bmp
+GLASS.TGA
+Inside.bmp
+FastRotor.tga
