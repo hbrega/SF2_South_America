@@ -1,0 +1,17 @@
+	objdefault (614 polys, 1842 verts) '01 - Default'
+	Object01 (12 polys, 36 verts) '01 - Default'
+	Object02 (12 polys, 36 verts) '01 - Default'
+	Object03 (12 polys, 36 verts) '01 - Default'
+	Object04 (12 polys, 36 verts) '01 - Default'
+
+
+Num Nodes: 5
+Total:    (662 polys, 1986 verts)
+Mesh Max: (614 polys, 1842 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       pampero.bmp
+
+1 Textures:
+pampero.bmp
