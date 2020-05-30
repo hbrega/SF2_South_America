@@ -1,0 +1,16 @@
+	_Body_MSH_ (1 polys, 3 verts) 'Material'
+		Body_MSH (1264 polys, 3792 verts) '02 - Default'
+
+
+Num Nodes: 2
+Total:    (1265 polys, 3795 verts)
+Mesh Max: (1264 polys, 3792 verts)
+
+2 Materials:
+ (  1) Material:
+       <No Texture>
+ (  2) 02 - Default:
+       AN-M57.jpg
+
+1 Textures:
+AN-M57.jpg

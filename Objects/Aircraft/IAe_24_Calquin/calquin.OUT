@@ -1,0 +1,159 @@
+	Fuselage [742 polys, 540 verts] '01 - Default'
+		LeftElevator [26 polys, 38 verts] '02 - Default'
+		Rudder [274 polys, 242 verts] '02 - Default'
+		TailGear [376 polys, 402 verts] 'mat14'
+			RuedaT [248 polys, 162 verts] '08 - Default'
+		BE_LOD_100 [88 polys, 106 verts] 'mat14'
+		BD_LOD_100 [24 polys, 48 verts] 'mat03'
+		RightInnerFlap [16 polys, 20 verts] '02 - Default'
+		BB_LOD_100 [10 polys, 16 verts] 'mat09'
+		BA_LOD_100 [1 polys, 3 verts] 'mat12'
+		RightAileron [4 polys, 8 verts] '02 - Default'
+		AY_LOD_100 [4 polys, 7 verts] 'mat08'
+		LeftInnerFlap [16 polys, 20 verts] '02 - Default'
+		AW_LOD_100 [10 polys, 16 verts] 'mat09'
+		AV_LOD_100 [1 polys, 3 verts] 'mat12'
+		LeftAileron [4 polys, 8 verts] '02 - Default'
+		AT_LOD_100 [4 polys, 7 verts] 'mat08'
+		AS_LOD_100 [2 polys, 4 verts] 'mat00'
+		AR_LOD_100 [12 polys, 16 verts] 'mat11'
+		AQ_LOD_100 [88 polys, 160 verts] '08 - Default'
+		AP_LOD_100 [16 polys, 20 verts] 'mat06'
+		AO_LOD_100 [6 polys, 12 verts] 'mat13'
+		AL_LOD_100 [34 polys, 56 verts] 'mat08'
+		AK_LOD_100 [299 polys, 301 verts] '08 - Default'
+		AI_LOD_100 [272 polys, 228 verts] '07 - Default'
+		AH_LOD_100 [809 polys, 1046 verts] '08 - Default'
+		AG_LOD_100 [7 polys, 9 verts] 'mat15'
+		AD_LOD_100 [1451 polys, 1119 verts] '08 - Default'
+		RightWing [270 polys, 241 verts] '02 - Default'
+			RightGearLeg [28 polys, 60 verts] 'mat07', AnimationID: 1 
+				AmoD1 [128 polys, 192 verts] '03 - Default'
+					AMOD2 [112 polys, 192 verts] '03 - Default'
+						Ruedad [412 polys, 336 verts] '01 - Default'
+			RightEngineNacelle [760 polys, 541 verts] '01 - Default'
+				PTD2 [48 polys, 42 verts] '01 - Default', AnimationID: 1 
+				PTD1 [48 polys, 42 verts] '01 - Default', AnimationID: 1 
+				ejed [88 polys, 138 verts] '08 - Default'
+					Palasd [156 polys, 102 verts] '08 - Default'
+					Plane02 [32 polys, 25 verts] '09 - Default'
+					Plane02a [32 polys, 25 verts] '09 - Default'
+		AB_LOD_100 [20 polys, 24 verts] '13 - Default'
+		AA_LOD_100 [24 polys, 36 verts] 'mat12'
+		LeftWing [100 polys, 80 verts] '02 - Default'
+			LeftGearLeg [28 polys, 60 verts] 'mat07', AnimationID: 1 
+				AMI1 [128 polys, 192 verts] 'mat10'
+					AMI2 [112 polys, 192 verts] 'mat16'
+						RuedaI [412 polys, 336 verts] '01 - Default'
+			LeftEngineNacelle [760 polys, 541 verts] '01 - Default'
+				PTI1 [48 polys, 42 verts] '01 - Default', AnimationID: 1 
+				PTI2 [48 polys, 42 verts] '01 - Default', AnimationID: 1 
+				ejei [88 polys, 136 verts] '08 - Default'
+					PalasI [156 polys, 102 verts] '08 - Default'
+					Plane01 [32 polys, 25 verts] '09 - Default'
+					Plane01a [32 polys, 25 verts] '09 - Default'
+		RightOuterWing [44 polys, 40 verts] '02 - Default'
+			R8 [165 polys, 297 verts] '13 - Default'
+			R9 [165 polys, 297 verts] '13 - Default'
+			R7 [165 polys, 297 verts] '13 - Default'
+			R6 [165 polys, 297 verts] '13 - Default'
+			B2 [222 polys, 559 verts] '13 - Default'
+			R10 [164 polys, 286 verts] '13 - Default'
+		RightStabilizar [40 polys, 44 verts] '02 - Default'
+		LeftStabilizer [40 polys, 44 verts] '02 - Default'
+		Tail [224 polys, 180 verts] '02 - Default'
+		LeftOuterWing [44 polys, 40 verts] '02 - Default'
+			R3 [165 polys, 287 verts] '13 - Default'
+			B1 [222 polys, 556 verts] '13 - Default'
+			R5 [165 polys, 287 verts] '13 - Default'
+			R4 [165 polys, 287 verts] '13 - Default'
+			R2 [165 polys, 287 verts] '13 - Default'
+			R1 [164 polys, 286 verts] '13 - Default'
+		RightElevator [26 polys, 38 verts] '02 - Default'
+		otanks [320 polys, 218 verts] 'mat19'
+		BBPI [56 polys, 40 verts] '01 - Default', AnimationID: 7 
+			TII [56 polys, 40 verts] '01 - Default'
+		INT [113 polys, 120 verts] '01 - Default'
+		BBPD [56 polys, 40 verts] '01 - Default', AnimationID: 7 
+			tid [56 polys, 40 verts] '01 - Default'
+		Marco [528 polys, 530 verts] '08 - Default'
+
+
+Num Nodes: 79
+Total:    (12641 polys, 13823 verts)
+Mesh Max: (1451 polys, 1119 verts)
+
+21 Materials:
+ (  1) 01 - Default:
+       fuselage_ext.jpg
+ (  2) 02 - Default:
+       Ala.jpg
+ (  3) mat14:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ (  4) 08 - Default:
+       k-8tube - copia.jpg
+ (  5) mat03:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ (  6) mat09:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ (  7) mat12:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ (  8) mat08:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ (  9) mat00:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       $i.TGA
+ ( 10) mat11:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 11) mat06:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 12) mat13:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 13) 07 - Default:
+       Transparency enabled
+       ClearCANOPYGLASS.TGA
+ ( 14) mat15:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 15) mat07:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 16) 03 - Default:
+       K-8TUBE.JPG
+ ( 17) 09 - Default:
+       Transparency enabled
+       propdisc.tga
+ ( 18) 13 - Default:
+       k-8tube.jpg
+ ( 19) mat10:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 20) mat16:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       <No Texture>
+ ( 21) mat19:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       PILOTO~2.BMP
+
+9 Textures:
+fuselage_ext.jpg
+Ala.jpg
+k-8tube - copia.jpg
+$i.TGA
+ClearCANOPYGLASS.TGA
+K-8TUBE.JPG
+propdisc.tga
+k-8tube.jpg
+PILOTO~2.BMP
+
+Points
+
+Extents
