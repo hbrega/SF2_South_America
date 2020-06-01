@@ -156,6 +156,8 @@ T-33A Shooting Star
 
 F-80C Shooting Star
 
+IA-58a Pucara
+
 #Objects
 
 ARA 25 de Mayo
