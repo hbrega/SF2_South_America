@@ -1,0 +1,364 @@
+	Hull (320 polys, 960 verts) '06 - Default'
+		Canopyframe (298 polys, 894 verts) '06 - Default'
+			MirrorholdC (96 polys, 288 verts) '06 - Default'
+				Centermirror (24 polys, 72 verts) '19 - Default'
+			FirellightBox (20 polys, 60 verts) '06 - Default'
+				InRangeLight (2 polys, 6 verts) 'Alarrme'
+			MirrorholdR (96 polys, 288 verts) '06 - Default'
+				Rightmirror (24 polys, 72 verts) '19 - Default'
+			MirrorholdL (96 polys, 288 verts) '06 - Default'
+				Leftmirror (24 polys, 72 verts) '19 - Default'
+			Compassbox (20 polys, 60 verts) '04 - Default'
+				Box02 (12 polys, 36 verts) '07 - Default'
+				Compass (36 polys, 108 verts) '07 - Default'
+			Cable (280 polys, 840 verts) '06 - Default'
+				CableHold (12 polys, 36 verts) '24 - Default'
+				CableHold01 (10 polys, 30 verts) '06 - Default'
+				CableHold02 (10 polys, 30 verts) '06 - Default'
+			CanopyGrip02 (92 polys, 276 verts) 'Material #9'
+			Canopygrip01 (92 polys, 276 verts) 'Material #9'
+			CanopyGlass (288 polys, 864 verts) '23 - Default'
+				Tube01 (288 polys, 864 verts) 'Negro'
+			FirellightBox01 (20 polys, 60 verts) '06 - Default'
+				Lock_ONLight (2 polys, 6 verts) 'Material #27'
+			Cable01 (644 polys, 1932 verts) 'Material #9'
+			Panel (5557 polys, 16671 verts) 'Main Panel'
+				Cover (191 polys, 573 verts) 'Material #12'
+				Cover01 (191 polys, 573 verts) 'Material #12'
+				Rectangle01 (2 polys, 6 verts) 'Material #10'
+				HSD (2 polys, 6 verts) 'Negro'
+					HSD_Fixed (10 polys, 30 verts) 'ColorDigital'
+						HSD_Hd3 (2 polys, 6 verts) 'Material #18'
+						HSD_Wheel (6 polys, 18 verts) 'HSD'
+							HSD_Course (8 polys, 24 verts) 'ColorDigital'
+							HSD_Bearing (47 polys, 141 verts) 'ColorDigital'
+								HSD_Deviation (5 polys, 15 verts) 'ColorDigital'
+						HSD_Hd2 (2 polys, 6 verts) 'Material #18'
+						HSD_Hd1 (2 polys, 6 verts) 'Material #18'
+						HSD_Rng4 (2 polys, 6 verts) 'Material #18'
+						HSD_Rng3 (2 polys, 6 verts) 'Material #18'
+						HSD_Rng2 (2 polys, 6 verts) 'Material #18'
+						HSD_Rng1 (2 polys, 6 verts) 'Material #18'
+						HSD_Time6 (2 polys, 6 verts) 'Material #18'
+						HSD_Time07 (2 polys, 6 verts) 'Material #18'
+						HSD_Time08 (2 polys, 6 verts) 'Material #18'
+						HSD_Time09 (2 polys, 6 verts) 'Material #18'
+						HSD_Time10 (2 polys, 6 verts) 'Material #18'
+						HSD_Time11 (2 polys, 6 verts) 'Material #18'
+					HSD_Text (16 polys, 48 verts) 'Material #26'
+					HSD_HT (2 polys, 6 verts) 'ERROR: No material is assigned!'
+			FirellightBox02 (20 polys, 60 verts) '06 - Default'
+				Lock_ONLight01 (2 polys, 6 verts) 'Material #27'
+		FrontFrame (134 polys, 402 verts) '06 - Default'
+			Objet01 (84 polys, 252 verts) '06 - Default'
+				FrontGlass (40 polys, 120 verts) '24 - Default'
+		leg (176 polys, 528 verts) '22 - Default'
+		leg01 (176 polys, 528 verts) '22 - Default'
+		Rückwand (28 polys, 84 verts) '06 - Default'
+		Seat (28 polys, 84 verts) '06 - Default'
+		Druckknopf01 (24 polys, 72 verts) '10 - Default'
+			Druckknopf2 (22 polys, 66 verts) '10 - Default'
+		Druckknopf03 (24 polys, 72 verts) '10 - Default'
+			Druckknopf04 (28 polys, 84 verts) 'Material #9'
+		SidepanelL (12 polys, 36 verts) '11 - Default'
+			Throttle (96 polys, 288 verts) 'Material #9'
+				Cone01 (34 polys, 102 verts) '10 - Default'
+				Cone02 (34 polys, 102 verts) '10 - Default'
+				Cone03 (34 polys, 102 verts) '10 - Default'
+			Throtbase (16 polys, 48 verts) '11 - Default'
+			ConsoleL (18 polys, 54 verts) '11 - Default'
+				Typ1Kippschalter27 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter28 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter29 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter30 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter31 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter32 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter33 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter34 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter35 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter36 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter37 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter38 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter39 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter40 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter41 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter42 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter43 (68 polys, 204 verts) '10 - Default'
+				Typ2Drehknopf11 (27 polys, 81 verts) '10 - Default'
+				Typ2Drehknopf12 (27 polys, 81 verts) '10 - Default'
+				Typ2Drehknopf13 (27 polys, 81 verts) '10 - Default'
+				Typ2Drehknopf14 (27 polys, 81 verts) '10 - Default'
+				Typ4Drehknopf05 (52 polys, 156 verts) '10 - Default'
+				Typ4Drehknopf06 (52 polys, 156 verts) '10 - Default'
+				Typ4Drehknopf07 (52 polys, 156 verts) '10 - Default'
+				Typ4Drehknopf08 (52 polys, 156 verts) '10 - Default'
+				Typ5Drehknopf13 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf14 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf15 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf16 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf17 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf18 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf19 (56 polys, 168 verts) '10 - Default'
+		SidepanelR (12 polys, 36 verts) '11 - Default'
+			ConsoleR (18 polys, 54 verts) '11 - Default'
+				Typ1Kippschalter14 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter15 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter16 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter17 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter18 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter19 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter20 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter21 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter22 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter23 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter24 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter25 (68 polys, 204 verts) '10 - Default'
+				Typ1Kippschalter26 (68 polys, 204 verts) '10 - Default'
+				Typ2Drehknopf09 (27 polys, 81 verts) '10 - Default'
+				Typ2Drehknopf10 (27 polys, 81 verts) '10 - Default'
+				Typ5Drehknopf03 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf04 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf05 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf06 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf07 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf08 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf09 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf10 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf11 (56 polys, 168 verts) '10 - Default'
+				Typ5Drehknopf12 (56 polys, 168 verts) '10 - Default'
+		SmallPanelL (16 polys, 48 verts) '02 - Default'
+			FlapsIndicator (34 polys, 102 verts) '04 - Default'
+			GearSwitch (42 polys, 126 verts) '06 - Default'
+			Typ1Kippschalter06 (68 polys, 204 verts) '10 - Default'
+			GearWarningLight (6 polys, 18 verts) 'Alarrme'
+			GearDownLight (6 polys, 18 verts) 'Alarrme'
+			needle_Flaps (10 polys, 30 verts) '20 - Default'
+			Typ1Kippschalter13 (68 polys, 204 verts) '10 - Default'
+		SmallPanelR (16 polys, 48 verts) '02 - Default'
+			Druckknopf (24 polys, 72 verts) '10 - Default'
+				Box03 (22 polys, 66 verts) '10 - Default'
+		HUD_Base (294 polys, 882 verts) 'Material #3'
+			HUD (192 polys, 576 verts) 'HUD'
+			Camera (44 polys, 132 verts) 'Material #3'
+			Camera1 (12 polys, 36 verts) 'Material #3'
+			ADI2 (22 polys, 66 verts) '12 - Default'
+			Engines (16 polys, 48 verts) 'EnginesDigitalScreen'
+				needle_rpml (2 polys, 6 verts) 'EnginesDigitalScreen'
+				needle_rpmr (2 polys, 6 verts) 'EnginesDigitalScreen'
+				RPM100L_Dig1 (2 polys, 6 verts) 'BlueDigits'
+				RPM100L_Dig2 (2 polys, 6 verts) 'BlueDigits'
+				RPM100L_Dig3 (2 polys, 6 verts) 'BlueDigits'
+				RPM100R_Dig2 (2 polys, 6 verts) 'BlueDigits'
+				RPM100R_Dig3 (2 polys, 6 verts) 'BlueDigits'
+				RPM100R_Dig1 (2 polys, 6 verts) 'BlueDigits'
+				TempL_Dig2 (2 polys, 6 verts) 'BlueDigits'
+				TempL_Dig3 (2 polys, 6 verts) 'BlueDigits'
+				TempR_Dig2 (2 polys, 6 verts) 'BlueDigits'
+				TempR_Dig3 (2 polys, 6 verts) 'BlueDigits'
+				TempR_Dig1 (2 polys, 6 verts) 'BlueDigits'
+				TempL_Dig1 (2 polys, 6 verts) 'BlueDigits'
+				RPML_Dig2 (2 polys, 6 verts) 'BlueDigits'
+				RPML_Dig3 (2 polys, 6 verts) 'BlueDigits'
+				RPMR_Dig2 (2 polys, 6 verts) 'BlueDigits'
+				RPMR_Dig3 (2 polys, 6 verts) 'BlueDigits'
+				RPMR_Dig1 (2 polys, 6 verts) 'BlueDigits'
+				RPML_Dig1 (2 polys, 6 verts) 'BlueDigits'
+				RPMR_Dig4 (2 polys, 6 verts) 'BlueDigits'
+				RPMR_Dig5 (2 polys, 6 verts) 'BlueDigits'
+				RPML_Dig4 (2 polys, 6 verts) 'BlueDigits'
+				RPML_Dig5 (2 polys, 6 verts) 'BlueDigits'
+				TempR_Dig4 (2 polys, 6 verts) 'BlueDigits'
+				TempL_Dig4 (2 polys, 6 verts) 'BlueDigits'
+			TSD (8 polys, 24 verts) 'Negro'
+				TSDMovMapB (1 polys, 3 verts) 'Negro'
+					TSDMovMapA (22 polys, 66 verts) 'Map'
+				Map_Text (23 polys, 69 verts) 'Material #26'
+			Main (2 polys, 6 verts) 'Negro'
+				Main_Text (24 polys, 72 verts) 'Material #26'
+			alt_1 (20 polys, 60 verts) '07 - Default'
+			alt_10 (20 polys, 60 verts) '07 - Default'
+			alt_dig1 (20 polys, 60 verts) '07 - Default'
+			alt_dig2 (20 polys, 60 verts) '07 - Default'
+			alt_dig3 (20 polys, 60 verts) '07 - Default'
+			Fuel_1 (20 polys, 60 verts) '07 - Default'
+			Fuel_dig1 (20 polys, 60 verts) '07 - Default'
+			Fuel_dig2 (20 polys, 60 verts) '07 - Default'
+			Fuel_dig3 (20 polys, 60 verts) '07 - Default'
+			Fuel_dig4 (20 polys, 60 verts) '07 - Default'
+			needle_alt (10 polys, 30 verts) '20 - Default'
+			needle_Fuel (10 polys, 30 verts) '20 - Default'
+			needle_Hour (10 polys, 30 verts) '20 - Default'
+			needle_Minute (9 polys, 27 verts) '20 - Default'
+			needle_PressAltimeter (10 polys, 30 verts) '20 - Default'
+			needle_Second (10 polys, 30 verts) '20 - Default'
+			needle_VASI (10 polys, 30 verts) '20 - Default'
+			Typ5Drehknopf02 (56 polys, 168 verts) '10 - Default'
+			needle_HydC (10 polys, 30 verts) '20 - Default'
+			needle_HydL (10 polys, 30 verts) '20 - Default'
+			needle_HydR (10 polys, 30 verts) '20 - Default'
+			needle_speed (10 polys, 30 verts) '20 - Default'
+			needle_angle_of_attack (10 polys, 30 verts) '20 - Default'
+			needle_CabPress (10 polys, 30 verts) '20 - Default'
+			InstrumentBase03 (78 polys, 234 verts) 'Material #3'
+			Radar_AG (1 polys, 3 verts) 'Negro'
+				Radar01 (2 polys, 6 verts) 'Radar'
+			HUD_NoNav (1 polys, 3 verts) 'Negro'
+				RWR (2 polys, 6 verts) 'RWR'
+			Radar_AA (1 polys, 3 verts) 'Negro'
+				Radar (2 polys, 6 verts) 'Radar'
+			HUD_AA (1 polys, 3 verts) 'Negro'
+				AA_Arm (2 polys, 6 verts) 'Negro'
+					GunCount3 (2 polys, 6 verts) 'Material #18'
+					GunCount2 (2 polys, 6 verts) 'Material #18'
+					GunCount1 (2 polys, 6 verts) 'Material #18'
+					AAArm_Text (42 polys, 126 verts) 'Material #26'
+		ControlStickPitch (1 polys, 3 verts) 'Negro'
+			ControlStickRoll (1 polys, 3 verts) 'Negro'
+				ControlBase (24 polys, 72 verts) 'Material #16'
+					ControlBaseSubA (22 polys, 66 verts) 'Material #16'
+						ControlBaseSubB (36 polys, 108 verts) 'Material #16'
+							ControlCilindro (28 polys, 84 verts) 'Material #16'
+								ControlStick (180 polys, 540 verts) 'Material #9'
+									ControlStick01 (100 polys, 300 verts) 'Material #9'
+									Cylinder04 (24 polys, 72 verts) 'Material #17'
+									Cylinder02 (56 polys, 168 verts) 'Material #9'
+									Cone04 (36 polys, 108 verts) 'Material #9'
+									Cylinder01 (30 polys, 90 verts) 'Material #9'
+										Cylinder06 (48 polys, 144 verts) 'Material #9'
+									Cylinder03 (24 polys, 72 verts) 'Material #9'
+									Cylinder05 (24 polys, 72 verts) 'Material #17'
+									Cylinder07 (30 polys, 90 verts) 'Material #9'
+						ControlBaseSubC (22 polys, 66 verts) 'Material #16'
+							Box01 (48 polys, 144 verts) 'Material #16'
+					ControlCable (28 polys, 84 verts) 'Material #9'
+					ControlTubo (28 polys, 84 verts) 'Material #16'
+	Rectangle02 (2 polys, 6 verts) 'Material #13'
+
+
+Num Nodes: 235
+Total:    (15630 polys, 46890 verts)
+Mesh Max: (5557 polys, 16671 verts)
+
+33 Materials:
+ (  1) 06 - Default:
+       F-15misc1.bmp
+ (  2) 19 - Default:
+       Mirror.bmp
+ (  3) Alarrme:
+       Transparency enabled
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       Reflection=0.00
+       F-15_alarme.tga
+ (  4) 04 - Default:
+       F-15Gauges2.bmp
+ (  5) 07 - Default:
+       F-105_ATTITUDE.BMP
+ (  6) 24 - Default:
+       Transparency enabled
+       F86_reflection2.tga
+ (  7) Material #9:
+       <No Texture>
+ (  8) 23 - Default:
+       Transparency enabled
+       F86_reflection1.tga
+ (  9) Negro:
+       Self-illumination enabled
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       Bit.bmp
+ ( 10) Material #27:
+       Transparency enabled
+       Self-illumination enabled
+       F-15_alarme.tga
+ ( 11) Main Panel:
+       F15-Mainpanel.bmp
+ ( 12) Material #12:
+       F15-Mainpanel.bmp
+ ( 13) Material #10:
+       Transparency enabled
+       Self-illumination enabled
+       UFC01.tga
+ ( 14) ColorDigital:
+       Self-illumination enabled
+       ColorDigital.tga
+ ( 15) Material #18:
+       Transparency enabled
+       Self-illumination enabled
+       ContadorDigital.tga
+ ( 16) HSD:
+       Self-illumination enabled
+       HSD_Base.bmp
+ ( 17) Material #26:
+       Transparency enabled
+       Self-illumination enabled
+       MFD_Text.tga
+ ( 18) 22 - Default:
+       legs.bmp
+ ( 19) 10 - Default:
+       F-15Misc2.bmp
+ ( 20) 11 - Default:
+       F15-Sidepanels.bmp
+ ( 21) 02 - Default:
+       F15-Smallpanels.bmp
+ ( 22) 20 - Default:
+       Needles.bmp
+ ( 23) Material #3:
+       <No Texture>
+ ( 24) HUD:
+       Transparency enabled
+       Self-illumination enabled
+       HUD.tga
+ ( 25) 12 - Default:
+       F-105_ATTITUDE2.BMP
+ ( 26) EnginesDigitalScreen:
+       Transparency enabled
+       Self-illumination enabled
+       EngScreen.tga
+ ( 27) BlueDigits:
+       Transparency enabled
+       Self-illumination enabled
+       DigitalCounterBlue.tga
+ ( 28) Map:
+       Map_Screen.bmp
+ ( 29) Radar:
+       Self-illumination enabled
+       F-15_radar.bmp
+ ( 30) RWR:
+       Self-illumination enabled
+       F-15_RWR.bmp
+ ( 31) Material #16:
+       <No Texture>
+ ( 32) Material #17:
+       <No Texture>
+ ( 33) Material #13:
+       Transparency enabled
+       ControlF.bmp
+
+27 Textures:
+F-15misc1.bmp
+Mirror.bmp
+F-15_alarme.tga
+F-15Gauges2.bmp
+F-105_ATTITUDE.BMP
+F86_reflection2.tga
+F86_reflection1.tga
+Bit.bmp
+F15-Mainpanel.bmp
+UFC01.tga
+ColorDigital.tga
+ContadorDigital.tga
+HSD_Base.bmp
+MFD_Text.tga
+legs.bmp
+F-15Misc2.bmp
+F15-Sidepanels.bmp
+F15-Smallpanels.bmp
+Needles.bmp
+HUD.tga
+F-105_ATTITUDE2.BMP
+EngScreen.tga
+DigitalCounterBlue.tga
+Map_Screen.bmp
+F-15_radar.bmp
+F-15_RWR.bmp
+ControlF.bmp

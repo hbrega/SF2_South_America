@@ -1,0 +1,24 @@
+************ Martin-Baker Mk.10L ************
+                     by AleDucat
+
+
+
+
+1. Contenido
+Éste paquete contiene:
+
+	Mk10L.lod
+	Mk10L.bmp
+	Mk10L Léame.txt
+	
+	
+	
+2. Instalación 
+Descomprimir todos los archivos dentro de la carpeta Objects/Aircraft. Luego, editá el _DATA.ini de tu avión para agregar o reemplazar el asiento existente por éste.
+
+
+SeatModelName=Mk10L
+SeatPosition=*
+
+
+* El SeatPosition es el mismo que para el piloto, así que solo hay copiar los números del mismo.

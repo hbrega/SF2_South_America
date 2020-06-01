@@ -158,6 +158,18 @@ F-80C Shooting Star
 
 IA-58a Pucara
 
+AMX A-1A 
+
+AMX A-1A (2003)
+
+AMX-T A-1B 
+
+AMX-T A-1B (2003) 
+
+AMX A-1M 
+
+
+
 #Objects
 
 ARA 25 de Mayo
