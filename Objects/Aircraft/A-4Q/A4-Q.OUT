@@ -1,0 +1,279 @@
+	Fuselage [520 polys, 1560 verts (decal)] 'Material_0'
+		Airbrake_Well_Left [40 polys, 120 verts (decal)] 'Material_1'
+		Airbrake_Left [12 polys, 36 verts (decal)] 'Material_0', AnimationID: 3 
+			Airbrake_Left_Inside [32 polys, 96 verts (decal)] 'Material_1'
+		Airbrake_Piston_Left [24 polys, 72 verts (decal)] 'Material_1', AnimationID: 3 
+			Airbrake_Piston_Shaft_Left [16 polys, 48 verts (decal)] 'Material_2'
+		Airbrake_Right [12 polys, 36 verts (decal)] 'Material_0', AnimationID: 3 
+			Airbrake_Right_Inside [32 polys, 96 verts (decal)] 'Material_1'
+		Airbrake_Well_Right [40 polys, 120 verts (decal)] 'Material_1'
+		Airbrake_Piston_Right [24 polys, 72 verts (decal)] 'Material_1', AnimationID: 3 
+			Airbrake_Piston_Shaft_Right [16 polys, 48 verts (decal)] 'Material_2'
+		tailhook [84 polys, 252 verts (decal)] 'Material_3', AnimationID: 6 
+		Left_Wing_Damaged [40 polys, 120 verts (decal)] 'Material_5'
+		Left_Wing_Inside [61 polys, 183 verts (decal)] 'Material_6'
+		wingroot_inside_L [13 polys, 39 verts (decal)] 'Material_1'
+		Right_Wing_Damaged [37 polys, 111 verts (decal)] 'Material_7'
+		Right_Wing_Inside [58 polys, 174 verts (decal)] 'Material_6'
+		wingroot_inside_R [13 polys, 39 verts (decal)] 'Material_1'
+		vent_front_R [4 polys, 12 verts (decal)] 'Material_1'
+		vent_front_L [4 polys, 12 verts (decal)] 'Material_1'
+		Wingroots [20 polys, 60 verts (decal)] 'Material_0'
+		Centre_pylon [16 polys, 48 verts (decal)] 'Material_7'
+			droptank_C [528 polys, 1584 verts (decal)] 'Material_9'
+			sway_brace_center [104 polys, 312 verts (decal)] 'Material_8'
+		VertTail_Damaged [46 polys, 138 verts (decal)] 'Material_3'
+		VertTail_Inside [57 polys, 171 verts (decal)] 'Material_6'
+		Engine_Inside [70 polys, 210 verts (decal)] 'Material_10'
+		Engine_Rim_Inside [42 polys, 126 verts (decal)] 'Material_1'
+		exhaust [28 polys, 84 verts (decal)] 'Material_11'
+		VertTail [124 polys, 372 verts (decal)] 'Material_3'
+			default02 [1216 polys, 3648 verts (decal)] 'Standard_30'
+		rudder [238 polys, 714 verts (decal)] 'Material_3'
+		rudder_edges [30 polys, 90 verts (decal)] 'Material_10'
+		rudder_support [28 polys, 84 verts (decal)] 'Material_3'
+		Right_Stab [12 polys, 36 verts (decal)] 'Material_3'
+		elevator_support_R [58 polys, 174 verts (decal)] 'Material_10'
+		Right_Elevator [84 polys, 252 verts (decal)] 'Material_3'
+		elevator_edges_R [42 polys, 126 verts (decal)] 'Material_10'
+		stab_edges_R [12 polys, 36 verts (decal)] 'Material_10'
+		Left_Stab [12 polys, 36 verts (decal)] 'Material_3'
+		elevator_support_L [58 polys, 174 verts (decal)] 'Material_10'
+		Left_Elevator [84 polys, 252 verts (decal)] 'Material_3'
+		elevator_edges_L [42 polys, 126 verts (decal)] 'Material_10'
+		stab_edges_L [12 polys, 36 verts (decal)] 'Material_10'
+		Left_Stab_Damaged [25 polys, 75 verts (decal)] 'Material_3'
+		Left_Stab_Inside [27 polys, 81 verts (decal)] 'Material_6'
+		Right_Stab_Damaged [29 polys, 87 verts (decal)] 'Material_3'
+		Right_Stab_Inside [33 polys, 99 verts (decal)] 'Material_6'
+		stab_trim_plates [226 polys, 678 verts (decal)] 'Material_3'
+		rudder_inside [47 polys, 141 verts (decal)] 'Material_10'
+		hook_actuator [12 polys, 36 verts (decal)] 'Material_0'
+		top_vents_inside [40 polys, 120 verts (decal)] 'Material_1'
+		eject_ports [32 polys, 96 verts (decal)] 'Material_1'
+		Intake_Insides [92 polys, 276 verts (decal)] 'Material_10'
+		Nose [479 polys, 1437 verts (decal)] 'Material_12'
+			default04 [32 polys, 96 verts (decal)] 'Material_12'
+			default03 [26 polys, 78 verts (decal)] 'Material_12'
+		nose_antenna [10 polys, 30 verts (decal)] 'Material_12'
+		sensors_02 [38 polys, 114 verts (decal)] 'Material_13'
+		aoa_sensor_base [24 polys, 72 verts (decal)] 'Material_12'
+		aoa_sensor [14 polys, 42 verts (decal)] 'Material_12'
+		nose_details [16 polys, 48 verts (decal)] 'Material_12'
+		nose_detail_inside [4 polys, 12 verts (decal)] 'Material_13'
+		scoops_inside [24 polys, 72 verts (decal)] 'Material_13'
+		frame_inside [127 polys, 381 verts (decal)] 'Material_13'
+		Gun_Left [18 polys, 54 verts (decal)] 'Material_12'
+			GunBarrel_Left [60 polys, 180 verts (decal)] 'Material_14'
+				GunBarrel_Right [60 polys, 180 verts (decal)] 'Material_14'
+			Gun_Right [18 polys, 54 verts (decal)] 'Material_12'
+		Windscreen_Glass [30 polys, 90 verts (decal)] 'Material_15'
+		Canopy [64 polys, 192 verts (decal)] 'Material_12'
+		Canopy_Glass [62 polys, 186 verts (decal)] 'Material_15'
+		canopy_inside [192 polys, 576 verts (decal)] 'Material_13'
+		Cockpit [98 polys, 294 verts (decal)] 'Material_13'
+		nose_gear_details [10 polys, 30 verts (decal)] 'Material_13'
+		Nose_Gear_Door_1 [14 polys, 42 verts (decal)] 'Material_12', AnimationID: 1 
+			Nose_Gear_Door_1_Interior [38 polys, 114 verts (decal)] 'Material_13'
+		Nose_Gear_Inside [50 polys, 150 verts (decal)] 'Material_13'
+		Gear_Piston_02_base [1 polys, 3 verts (decal)] 'Material__1'
+		Probe_Ridge [33 polys, 99 verts (decal)] 'Material_12'
+		Refuel_Probe [134 polys, 402 verts (decal)] 'Material_12'
+		Right_Wing [56 polys, 168 verts (decal)] 'Material_7'
+			RightWing_InnerPylon [16 polys, 48 verts (decal)] 'Material_5'
+				sway_brace_inner_R [104 polys, 312 verts (decal)] 'Material_8'
+				missile_rail_R [92 polys, 276 verts (decal)] 'Material_21'
+				droptank_R [620 polys, 1860 verts (decal)] 'Standard_7'
+		Right_Gear_Well [17 polys, 51 verts (decal)] 'Material_17'
+		Gear_Piston_Well_Right [12 polys, 36 verts (decal)] 'Material_17'
+		Main_Gear_Ridge_Right [22 polys, 66 verts (decal)] 'Material_7'
+		Main_Gear_Door_Right [44 polys, 132 verts (decal)] 'Material_7', AnimationID: 1 
+			Gear_Door_01_Right_Inside [61 polys, 183 verts (decal)] 'Material_17'
+		landing_light_L [80 polys, 240 verts (decal)] 'Material_17'
+		landing_light_cover_L [80 polys, 240 verts (decal)] 'Material_18'
+		landing_light_support [10 polys, 30 verts (decal)] 'Material_17'
+		Gear_Door_02_Right [10 polys, 30 verts (decal)] 'Material_7', AnimationID: 1 
+			Gear_Door_02_Right_Inside [34 polys, 102 verts (decal)] 'Material_17'
+		Gear_Strut_Right_01 [44 polys, 132 verts (decal)] 'Material_17'
+		Gear_Strut_Right_02 [20 polys, 60 verts (decal)] 'Material_17'
+		Bottom_Thing [52 polys, 156 verts (decal)] 'Material_7'
+		Flap_Right [22 polys, 66 verts (decal)] 'Material_7', AnimationID: 2 
+			flap_edges_R [6 polys, 18 verts (decal)] 'Material_8'
+		Right_Outer_Wing [66 polys, 198 verts (decal)] 'Material_7'
+		Right_Aileron [76 polys, 228 verts (decal)] 'Material_7'
+		aileron_edges_R [44 polys, 132 verts (decal)] 'Material_8'
+		aileron_actuator_R [18 polys, 54 verts (decal)] 'Material_7'
+		vortex_generator_wing_R [100 polys, 300 verts (decal)] 'Material_7'
+		aileron_actuator_rod_R [16 polys, 48 verts (decal)] 'Material_7'
+		light_inside_R [8 polys, 24 verts (decal)] 'Material_17'
+		light_R [8 polys, 24 verts (decal)] 'Material_19'
+		Leading_Edge_Flap_Right [16 polys, 48 verts (decal)] 'Material_7', AnimationID: 4 
+			slat_inner_inside_R [5 polys, 15 verts (decal)] 'Material_8'
+			fence_slat_R [52 polys, 156 verts (decal)] 'Material_7'
+			slat_inside_R [5 polys, 15 verts (decal)] 'Material_8'
+			vortex_generator_slat_R [48 polys, 144 verts (decal)] 'Material_7'
+		slat_edges_R [70 polys, 210 verts (decal)] 'Material_8'
+		aileron_inside_R [55 polys, 165 verts (decal)] 'Material_8'
+		Right_Outer_Wing_Damaged [20 polys, 60 verts (decal)] 'Material_7'
+		Right_Outer_Wing_Inside [41 polys, 123 verts (decal)] 'Material_6'
+		Right_Wing_End [13 polys, 39 verts (decal)] 'Material_17'
+		fence_wing_R [26 polys, 78 verts (decal)] 'Material_7'
+		flap_inside_R [9 polys, 27 verts (decal)] 'Material_8'
+		Left_Wing [68 polys, 204 verts (decal)] 'Material_5'
+			LeftWing_InnerPylon [16 polys, 48 verts (decal)] 'Material_5'
+				sway_brace_inner_L [104 polys, 312 verts (decal)] 'Material_8'
+				missile_rail_L [92 polys, 276 verts (decal)] 'Material_21'
+				droptank_L [620 polys, 1860 verts (decal)] 'Standard_7'
+		Flap_Left [22 polys, 66 verts (decal)] 'Material_5', AnimationID: 2 
+			flap_edges_L [6 polys, 18 verts (decal)] 'Material_17'
+		Left_Gear_Well [17 polys, 51 verts (decal)] 'Material_17'
+		Main_Gear_Door_Left [44 polys, 132 verts (decal)] 'Material_5', AnimationID: 1 
+			Gear_Door_01_Left_Inside [61 polys, 183 verts (decal)] 'Material_17'
+		Gear_Door_02_Left [10 polys, 30 verts (decal)] 'Material_5', AnimationID: 1 
+			Gear_Door_02_Left_Inside [34 polys, 102 verts (decal)] 'Material_17'
+		Gear_Strut_Left_01 [44 polys, 132 verts (decal)] 'Material_17'
+		Gear_Strut_Left_02 [20 polys, 60 verts (decal)] 'Material_17'
+		Main_Gear_Ridge_Left [22 polys, 66 verts (decal)] 'Material_5'
+		Gear_Piston_Well_Left [12 polys, 36 verts (decal)] 'Material_17'
+		Bottom_Light [20 polys, 60 verts (decal)] 'Material_5'
+		light_bottom [8 polys, 24 verts (decal)] 'Material_4'
+		Left_Outer_Wing [66 polys, 198 verts (decal)] 'Material_5'
+		Rightwing_skid [32 polys, 96 verts (decal)] 'Material_5'
+		vortex_generator_wing_L [100 polys, 300 verts (decal)] 'Material_5'
+		Left_Aileron [76 polys, 228 verts (decal)] 'Material_5'
+		aileron_actuator_L [18 polys, 54 verts (decal)] 'Material_5'
+		aileron_edges_L [44 polys, 132 verts (decal)] 'Material_17'
+		light_inside_L [8 polys, 24 verts (decal)] 'Material_17'
+		aileron_actuator_rod_L [16 polys, 48 verts (decal)] 'Material_17'
+		light_L [8 polys, 24 verts (decal)] 'Material_4'
+		Leading_Edge_Flap_Left [16 polys, 48 verts (decal)] 'Material_5', AnimationID: 4 
+			slat_inner_inside_L [5 polys, 15 verts (decal)] 'Material_17'
+			slat_inside_L [5 polys, 15 verts (decal)] 'Material_17'
+			fence_slat_L [52 polys, 156 verts (decal)] 'Material_5'
+			vortex_generator_slat_L [48 polys, 144 verts (decal)] 'Material_5'
+		slat_edges_L [70 polys, 210 verts (decal)] 'Material_17'
+		aileron_inside_L [55 polys, 165 verts (decal)] 'Material_17'
+		Left_Outer_Wing_Damaged [20 polys, 60 verts (decal)] 'Material_5'
+		Left_Outer_Wing_Inside [27 polys, 81 verts (decal)] 'Material_6'
+		Left_Wing_End [13 polys, 39 verts (decal)] 'Material_17'
+		fence_wing_L [26 polys, 78 verts (decal)] 'Material_5'
+		light_wing_inside [4 polys, 12 verts (decal)] 'Material_17'
+		wing_light [4 polys, 12 verts (decal)] 'Material_22'
+		flap_inside_L [9 polys, 27 verts (decal)] 'Material_17'
+		A_4F_015_A_4F_005 [21 polys, 63 verts (decal)] 'A_4F_015_A_4F_005_mso', AnimationID: 1 
+		Main_Gear_Shaft [86 polys, 258 verts (decal)] 'Material_100', AnimationID: 1 
+			Main_Gear_Piston [40 polys, 120 verts (decal)] 'A_4F_051_A_4F_174_mso', AnimationID: 7 8 
+				Gear_Swivel [32 polys, 96 verts (decal)] 'Material_100'
+					Gear_Axle [44 polys, 132 verts (decal)] 'Material_100'
+						Nose_Tire [128 polys, 384 verts (decal)] 'Material_110'
+			Gear_Piston_Shaft_01 [8 polys, 24 verts (decal)] 'Material_16', AnimationID: 1 
+		A_4F_066_A_4F_193 [20 polys, 60 verts (decal)] 'Standard_31', AnimationID: 1 
+		A_4F_066_A_4F_192 [20 polys, 60 verts (decal)] 'Standard_31', AnimationID: 1 
+		Gear_Shaft_Left [32 polys, 96 verts (decal)] 'Standard_31', AnimationID: 1 
+			A_4F_053_A_4F_178 [44 polys, 132 verts (decal)] 'Standard_31', AnimationID: 1 
+			Shaft_Left_Piston [16 polys, 48 verts (decal)] 'Standard_31', AnimationID: 1 
+				A_4F_060_A_4F_185 [56 polys, 168 verts (decal)] 'Standard_31', AnimationID: 1 
+					Tire_Left [128 polys, 384 verts (decal)] 'Material_60'
+			Gear_Shaft_Left_Piston01 [16 polys, 48 verts (decal)] 'Standard_31', AnimationID: 1 
+		Gear_Shaft_Right [32 polys, 96 verts (decal)] 'Standard_31', AnimationID: 1 
+			A_4F_053_A_4F_179 [44 polys, 132 verts (decal)] 'Standard_31', AnimationID: 1 
+			Shaft_Right_Piston [16 polys, 48 verts (decal)] 'Standard_31', AnimationID: 1 
+				A_4F_056_A_4F_180 [56 polys, 168 verts (decal)] 'Standard_31', AnimationID: 1 
+					Tire_Right [128 polys, 384 verts (decal)] 'Material_60'
+			Gear_Shaft_Right_Piston01 [16 polys, 48 verts (decal)] 'Standard_31', AnimationID: 1 
+		Nose_Gear_Door_2 [4 polys, 12 verts (decal)] 'Material_12', AnimationID: 1 
+			Nose_Gear_Door_02_Interior [16 polys, 48 verts (decal)] 'Material_13'
+			Gear_Piston_01 [24 polys, 72 verts (decal)] 'Material_13', AnimationID: 1 
+		default [160 polys, 480 verts (decal)] 'Material_0'
+			default01 [68 polys, 204 verts (decal)] 'Material_4'
+
+
+Num Nodes: 188
+Total:    (11579 polys, 34737 verts)
+Mesh Max: (1216 polys, 3648 verts)
+
+31 Materials:
+ (  1) Material_0:
+       A-4B_BODY.BMP
+ (  2) Material_1:
+       A-4B_Body.bmp
+ (  3) Material_2:
+       A-4B_Body.bmp
+ (  4) Material_3:
+       A-4B_Tail.bmp
+ (  5) Material_5:
+       A-4B_LeftWing.bmp
+ (  6) Material_6:
+       A-4B_damage.bmp
+ (  7) Material_7:
+       A-4B_RIGHTWING.BMP
+ (  8) Material_9:
+       A-4_fueltank.bmp
+ (  9) Material_8:
+       A-4B_RIGHTWING.BMP
+ ( 10) Material_10:
+       A-4B_Tail.bmp
+ ( 11) Material_11:
+       A-4B_Body.bmp
+ ( 12) Standard_30:
+       <No Texture>
+ ( 13) Material_12:
+       A-4B_Nose.bmp
+ ( 14) Material_13:
+       A-4B_Nose.bmp
+ ( 15) Material_14:
+       A-4B_Nose.bmp
+ ( 16) Material_15:
+       Transparency enabled
+       CANOPYGLASS.TGA
+ ( 17) Material__1:
+       <No Texture>
+ ( 18) Material_21:
+       missile_rail.bmp
+ ( 19) Standard_7:
+       A-4_FUELTANK_WINGS.BMP
+ ( 20) Material_17:
+       A-4B_LeftWing.bmp
+ ( 21) Material_18:
+       A-4B_LeftWing.bmp
+ ( 22) Material_19:
+       green_light.tga
+ ( 23) Material_4:
+       red_light.tga
+ ( 24) Material_22:
+       white_light.tga
+ ( 25) A_4F_015_A_4F_005_mso:
+       <No Texture>
+ ( 26) Material_100:
+       A-4B_NOSE.BMP
+ ( 27) A_4F_051_A_4F_174_mso:
+       <No Texture>
+ ( 28) Material_110:
+       A-4B_NOSE.BMP
+ ( 29) Material_16:
+       A-4B_Nose.bmp
+ ( 30) Standard_31:
+       A-4B_RIGHTWING.BMP
+ ( 31) Material_60:
+       A-4B_RIGHTWING.BMP
+
+15 Textures:
+A-4B_BODY.BMP
+A-4B_Body.bmp
+A-4B_Tail.bmp
+A-4B_LeftWing.bmp
+A-4B_damage.bmp
+A-4B_RIGHTWING.BMP
+A-4_fueltank.bmp
+A-4B_Nose.bmp
+CANOPYGLASS.TGA
+missile_rail.bmp
+A-4_FUELTANK_WINGS.BMP
+green_light.tga
+red_light.tga
+white_light.tga
+A-4B_NOSE.BMP
+
+Points
+
+Extents
