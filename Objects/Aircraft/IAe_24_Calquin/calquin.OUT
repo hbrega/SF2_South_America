@@ -73,14 +73,15 @@
 		otanks [320 polys, 218 verts] 'mat19'
 		BBPI [56 polys, 40 verts] '01 - Default', AnimationID: 7 
 			TII [56 polys, 40 verts] '01 - Default'
+				TAB [222 polys, 556 verts] '13 - Default'
 		INT [113 polys, 120 verts] '01 - Default'
 		BBPD [56 polys, 40 verts] '01 - Default', AnimationID: 7 
 			tid [56 polys, 40 verts] '01 - Default'
 		Marco [528 polys, 530 verts] '08 - Default'
 
 
-Num Nodes: 79
-Total:    (12641 polys, 13823 verts)
+Num Nodes: 80
+Total:    (12863 polys, 14379 verts)
 Mesh Max: (1451 polys, 1119 verts)
 
 21 Materials:

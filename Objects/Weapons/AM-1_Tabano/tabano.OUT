@@ -1,0 +1,29 @@
+	ChamferCyl01 [1776 polys, 746 verts] '07 - Default'
+	Cylinder01 [216 polys, 164 verts] '07 - Default'
+	Line01 [145 polys, 127 verts] '07 - Default'
+	Line02 [145 polys, 123 verts] '07 - Default'
+	Line03 [164 polys, 138 verts] '07 - Default'
+	Line04 [164 polys, 134 verts] '07 - Default'
+	Line05 [164 polys, 134 verts] '07 - Default'
+	Line06 [164 polys, 134 verts] '07 - Default'
+	Cylinder02 [216 polys, 154 verts] '07 - Default'
+	Ganchos [64 polys, 80 verts] '08 - Default'
+
+
+Num Nodes: 10
+Total:    (3218 polys, 1934 verts)
+Mesh Max: (1776 polys, 746 verts)
+
+2 Materials:
+ (  1) 07 - Default:
+       taban.bmp
+ (  2) 08 - Default:
+       k-8tube.jpg
+
+2 Textures:
+taban.bmp
+k-8tube.jpg
+
+Points
+
+Extents

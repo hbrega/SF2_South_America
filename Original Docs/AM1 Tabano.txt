@@ -1,0 +1,25 @@
+AM-1 TABANO SF2
+
+
+
+Para instalar la bomba (misil) Tabano:
+
+a) Copie la carpeta AM-1_Tabano en su carpeta Weapons.
+
+b) Copie el contenido de la carpeta IAe-24_Calquin en su carpeta Aircrafts/IAe_24_Calquin, aceptando la combinacion de carpetas y sobreescritura si asi lo solicita. Esto agrega un pilon central para la tabano en el modelo del avion, y mejora el posicionamiento de todas las armas en el mismo. (estaban muy "arriba", pegadas a los pilones).
+
+
+Listo, ya esta, a volarlo y derribar bombarderos:
+
+Modelo y Skin AM-1 Tabano: Walter Omar Platini
+Data.ini AM-1 Tabano: Marcos Gallo Beinat
+
+Este modelo puede usarse para lo que quieran, compartirlo, publicarlo y cualquier otra cosa que se les ocurra, incluyendo siempre el archivo Noleer.txt.
+
+Si lo venden, pasen un porcentaje, no sean chantas!!!
+
+
+Walter Platini
+
+
+
