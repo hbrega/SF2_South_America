@@ -1,0 +1,462 @@
+	Box01 [12 polys, 36 verts (decal)] 'ERROR: No material is assigned!'
+		Mesh01 [2 polys, 6 verts (decal)] '04 - Default'
+		Mesh02 [3 polys, 9 verts (decal)] '04 - Default'
+		Mesh03 [3 polys, 9 verts (decal)] '04 - Default'
+		Mesh04 [3 polys, 9 verts (decal)] '04 - Default'
+		Mesh05 [4 polys, 12 verts (decal)] '04 - Default'
+		Mesh06 [4 polys, 12 verts (decal)] '04 - Default'
+		Mesh07 [6 polys, 18 verts (decal)] '04 - Default'
+		Mesh08 [6 polys, 18 verts (decal)] '04 - Default'
+		Mesh09 [6 polys, 18 verts (decal)] 'Foregrou'
+		Mesh10 [6 polys, 18 verts (decal)] 'Foregrou'
+		Mesh11 [4 polys, 12 verts (decal)] 'Foregrou'
+		Mesh12 [30 polys, 90 verts (decal)] '02 - Default'
+		Mesh13 [6 polys, 18 verts (decal)] '03 - Default'
+		Mesh257 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh15 [13 polys, 39 verts (decal)] '07 - Default'
+		Mesh16 [10 polys, 30 verts (decal)] '07 - Default'
+		Mesh17 [3 polys, 9 verts (decal)] '05 - Default'
+		Mesh18 [1215 polys, 3645 verts (decal)] '08 - Default'
+		Mesh19 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh20 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh21 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh22 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh23 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh24 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh25 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh26 [8 polys, 24 verts (decal)] 'Foregrou'
+		Mesh27 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh28 [8 polys, 24 verts (decal)] 'Foregrou'
+		Mesh29 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh30 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh31 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh32 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh33 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh34 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh35 [4 polys, 12 verts (decal)] 'Foregrou'
+		Mesh36 [8 polys, 24 verts (decal)] 'Foregrou'
+		Mesh37 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh38 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh39 [8 polys, 24 verts (decal)] 'Foregrou'
+		Mesh40 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh41 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh42 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh43 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh44 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh45 [4 polys, 12 verts (decal)] 'Foregrou'
+		Mesh46 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh47 [434 polys, 1302 verts (decal)] '09 - Default'
+		Mesh48 [6 polys, 18 verts (decal)] 'Foregrou'
+		Mesh49 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh50 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh256 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh52 [1 polys, 3 verts (decal)] '07 - Default'
+		Mesh53 [2 polys, 6 verts (decal)] 'Layer0'
+		Mesh54 [4 polys, 12 verts (decal)] 'Foregrou'
+		Mesh55 [4 polys, 12 verts (decal)] 'Foregrou'
+		Mesh56 [6 polys, 18 verts (decal)] 'Foregrou'
+		Mesh57 [6 polys, 18 verts (decal)] 'Foregrou'
+		Mesh58 [4 polys, 12 verts (decal)] 'Foregrou'
+		Mesh59 [10 polys, 30 verts (decal)] '05 - Default'
+			Mesh14 [19 polys, 57 verts (decal)] '07 - Default'
+		Mesh60 [7 polys, 21 verts (decal)] '05 - Default'
+		Mesh61 [14 polys, 42 verts (decal)] '05 - Default'
+		Mesh62 [5 polys, 15 verts (decal)] '05 - Default'
+		Mesh63 [3 polys, 9 verts (decal)] '05 - Default'
+		Mesh64 [4 polys, 12 verts (decal)] '05 - Default'
+		Mesh65 [4 polys, 12 verts (decal)] '05 - Default'
+		Group11 [46 polys, 138 verts (decal)] '16 - Default'
+		Group13 [40 polys, 120 verts (decal)] '16 - Default'
+		Group15 [70 polys, 210 verts (decal)] '16 - Default'
+		Group16 [46 polys, 138 verts (decal)] '16 - Default'
+		Group17 [46 polys, 138 verts (decal)] '16 - Default'
+		Group18 [46 polys, 138 verts (decal)] '16 - Default'
+		Group19 [46 polys, 138 verts (decal)] '16 - Default'
+		Group20 [46 polys, 138 verts (decal)] '16 - Default'
+		Group21 [46 polys, 138 verts (decal)] '16 - Default'
+		Group22 [46 polys, 138 verts (decal)] '16 - Default'
+		Group23 [46 polys, 138 verts (decal)] '16 - Default'
+		Group24 [46 polys, 138 verts (decal)] '16 - Default'
+		Group25 [46 polys, 138 verts (decal)] '16 - Default'
+		Group26 [46 polys, 138 verts (decal)] '16 - Default'
+		Group27 [46 polys, 138 verts (decal)] '16 - Default'
+		Group28 [46 polys, 138 verts (decal)] '16 - Default'
+		Group29 [46 polys, 138 verts (decal)] '16 - Default'
+		Group30 [46 polys, 138 verts (decal)] '16 - Default'
+		Group31 [46 polys, 138 verts (decal)] '16 - Default'
+		Group32 [46 polys, 138 verts (decal)] '16 - Default'
+		Group33 [46 polys, 138 verts (decal)] '16 - Default'
+		Group34 [46 polys, 138 verts (decal)] '16 - Default'
+		Group35 [46 polys, 138 verts (decal)] '16 - Default'
+		Group36 [46 polys, 138 verts (decal)] '16 - Default'
+		Group37 [46 polys, 138 verts (decal)] '16 - Default'
+		Group38 [46 polys, 138 verts (decal)] '16 - Default'
+		Group39 [46 polys, 138 verts (decal)] '16 - Default'
+		Group40 [46 polys, 138 verts (decal)] '16 - Default'
+		Group41 [46 polys, 138 verts (decal)] '16 - Default'
+		Group42 [46 polys, 138 verts (decal)] '16 - Default'
+		Group43 [46 polys, 138 verts (decal)] '16 - Default'
+		Group44 [46 polys, 138 verts (decal)] '16 - Default'
+		Group45 [46 polys, 138 verts (decal)] '16 - Default'
+		Group46 [46 polys, 138 verts (decal)] '16 - Default'
+		Group47 [46 polys, 138 verts (decal)] '16 - Default'
+		Group48 [46 polys, 138 verts (decal)] '16 - Default'
+		Group49 [70 polys, 210 verts (decal)] '16 - Default'
+		Mesh66 [52 polys, 156 verts (decal)] '16 - Default'
+		Mesh67 [54 polys, 162 verts (decal)] '16 - Default'
+		Mesh68 [54 polys, 162 verts (decal)] '16 - Default'
+		Group51 [142 polys, 426 verts (decal)] '16 - Default'
+		Group52 [142 polys, 426 verts (decal)] '16 - Default'
+		Group53 [262 polys, 786 verts (decal)] '16 - Default'
+		Group54 [262 polys, 786 verts (decal)] '16 - Default'
+		Group55 [262 polys, 786 verts (decal)] '16 - Default'
+		Group56 [46 polys, 138 verts (decal)] '16 - Default'
+		Group57 [46 polys, 138 verts (decal)] '16 - Default'
+		Group58 [46 polys, 138 verts (decal)] 'Layer0'
+		Group59 [46 polys, 138 verts (decal)] '16 - Default'
+		Group60 [46 polys, 138 verts (decal)] '16 - Default'
+		Group61 [46 polys, 138 verts (decal)] '16 - Default'
+		Group62 [46 polys, 138 verts (decal)] '16 - Default'
+		Group63 [46 polys, 138 verts (decal)] '16 - Default'
+		Group64 [46 polys, 138 verts (decal)] '16 - Default'
+		Group65 [46 polys, 138 verts (decal)] 'Layer0'
+		Group66 [46 polys, 138 verts (decal)] 'Layer0'
+		Group67 [46 polys, 138 verts (decal)] 'Layer0'
+		Group68 [46 polys, 138 verts (decal)] 'Layer0'
+		Group69 [46 polys, 138 verts (decal)] 'Layer0'
+		Group70 [46 polys, 138 verts (decal)] 'Layer0'
+		Group71 [262 polys, 786 verts (decal)] '16 - Default'
+		Mesh69 [70 polys, 210 verts (decal)] 'Layer0'
+		Mesh70 [24 polys, 72 verts (decal)] 'Layer0'
+		Mesh71 [70 polys, 210 verts (decal)] '16 - Default'
+		Mesh72 [24 polys, 72 verts (decal)] '16 - Default'
+		Group74 [40 polys, 120 verts (decal)] '16 - Default'
+		Group75 [70 polys, 210 verts (decal)] '16 - Default'
+		Group76 [70 polys, 210 verts (decal)] '16 - Default'
+		Group77 [70 polys, 210 verts (decal)] '16 - Default'
+		Group78 [70 polys, 210 verts (decal)] '16 - Default'
+		Group79 [70 polys, 210 verts (decal)] '16 - Default'
+		Group80 [70 polys, 210 verts (decal)] '16 - Default'
+		Group81 [70 polys, 210 verts (decal)] '16 - Default'
+		Group82 [70 polys, 210 verts (decal)] '16 - Default'
+		Group83 [70 polys, 210 verts (decal)] '16 - Default'
+		Group84 [70 polys, 210 verts (decal)] '16 - Default'
+		Group85 [70 polys, 210 verts (decal)] '16 - Default'
+		Group86 [70 polys, 210 verts (decal)] '16 - Default'
+		Group87 [70 polys, 210 verts (decal)] '16 - Default'
+		Group88 [70 polys, 210 verts (decal)] '16 - Default'
+		Group89 [70 polys, 210 verts (decal)] '16 - Default'
+		Group90 [70 polys, 210 verts (decal)] '16 - Default'
+		Group91 [70 polys, 210 verts (decal)] '16 - Default'
+		Group92 [40 polys, 120 verts (decal)] '16 - Default'
+		Group93 [40 polys, 120 verts (decal)] '16 - Default'
+		Group94 [40 polys, 120 verts (decal)] '16 - Default'
+		Group95 [40 polys, 120 verts (decal)] '16 - Default'
+		Mesh73 [70 polys, 210 verts (decal)] '16 - Default'
+		Mesh74 [24 polys, 72 verts (decal)] '16 - Default'
+		Mesh75 [70 polys, 210 verts (decal)] '16 - Default'
+		Mesh76 [24 polys, 72 verts (decal)] '16 - Default'
+		Mesh77 [70 polys, 210 verts (decal)] 'Layer0'
+		Mesh78 [24 polys, 72 verts (decal)] 'Layer0'
+		Mesh79 [70 polys, 210 verts (decal)] 'Layer0'
+		Mesh80 [24 polys, 72 verts (decal)] 'Layer0'
+		Mesh81 [70 polys, 210 verts (decal)] '16 - Default'
+		Mesh82 [24 polys, 72 verts (decal)] '16 - Default'
+		Mesh83 [70 polys, 210 verts (decal)] '16 - Default'
+		Mesh84 [24 polys, 72 verts (decal)] '16 - Default'
+		Mesh85 [70 polys, 210 verts (decal)] '16 - Default'
+		Mesh86 [24 polys, 72 verts (decal)] '16 - Default'
+		Mesh87 [70 polys, 210 verts (decal)] '16 - Default'
+		Mesh88 [24 polys, 72 verts (decal)] '16 - Default'
+		Mesh89 [70 polys, 210 verts (decal)] '16 - Default'
+		Mesh90 [24 polys, 72 verts (decal)] '16 - Default'
+		Mesh91 [70 polys, 210 verts (decal)] '16 - Default'
+		Mesh92 [24 polys, 72 verts (decal)] '16 - Default'
+		Group106 [106 polys, 318 verts (decal)] '20 - Default'
+		Group107 [166 polys, 498 verts (decal)] '20 - Default'
+		Group108 [440 polys, 1320 verts (decal)] '20 - Default'
+		GasLever [104 polys, 312 verts (decal)] '20 - Default'
+			Mesh94 [106 polys, 318 verts (decal)] '20 - Default'
+		Mesh95 [2 polys, 6 verts (decal)] '20 - Default'
+		AgarraPalanca [10 polys, 30 verts (decal)] '20 - Default'
+			Mesh96 [26 polys, 78 verts (decal)] '20 - Default'
+		Mesh98 [26 polys, 78 verts (decal)] '20 - Default'
+		Mesh99 [10 polys, 30 verts (decal)] '20 - Default'
+		Group112 [82 polys, 246 verts (decal)] '24 - Default'
+		Group113 [166 polys, 498 verts (decal)] '11 - Default'
+		Group114 [118 polys, 354 verts (decal)] '19 - Default'
+		Group116 [166 polys, 498 verts (decal)] '11 - Default'
+		Group117 [166 polys, 498 verts (decal)] '11 - Default'
+		Group118 [166 polys, 498 verts (decal)] '11 - Default'
+		Group119 [166 polys, 498 verts (decal)] '11 - Default'
+		Group120 [166 polys, 498 verts (decal)] '11 - Default'
+		Group121 [166 polys, 498 verts (decal)] '11 - Default'
+		Group122 [166 polys, 498 verts (decal)] '11 - Default'
+		Group123 [166 polys, 498 verts (decal)] '11 - Default'
+		Group124 [166 polys, 498 verts (decal)] '13 - Default'
+		Group125 [166 polys, 498 verts (decal)] '11 - Default'
+		Group126 [166 polys, 498 verts (decal)] '11 - Default'
+		Group127 [166 polys, 498 verts (decal)] '11 - Default'
+		Mesh100 [222 polys, 666 verts (decal)] '22 - Default'
+		Mesh101 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh103 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh104 [770 polys, 2310 verts (decal)] '17 - Default'
+		Mesh105 [237 polys, 711 verts (decal)] '17 - Default'
+		Mesh106 [85 polys, 255 verts (decal)] '17 - Default'
+		Mesh107 [16 polys, 48 verts (decal)] 'Foregrou'
+		Mesh108 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh109 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh110 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh111 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh112 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh113 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh114 [2 polys, 6 verts (decal)] 'Foregrou'
+		Group131 [5 polys, 15 verts (decal)] '10 - Default'
+		Mesh115 [2 polys, 6 verts (decal)] '10 - Default'
+		Mesh116 [8 polys, 24 verts (decal)] '10 - Default'
+		Group133 [14 polys, 42 verts (decal)] '10 - Default'
+		Pedal_Piloto_Izq [46 polys, 138 verts (decal)] '15 - Default'
+		Pedal_Piloto_Der [46 polys, 138 verts (decal)] '15 - Default'
+		Group137 [40 polys, 120 verts (decal)] '16 - Default'
+		Mesh117 [2 polys, 6 verts (decal)] '24 - Default'
+		LuzTren [23 polys, 69 verts (decal)] 'Standard_24'
+		LuzTren1 [22 polys, 66 verts (decal)] 'Standard_24'
+		LuzTren2 [22 polys, 66 verts (decal)] 'Standard_24'
+		Mesh131 [160 polys, 480 verts (decal)] '01 - Default'
+		Mesh132 [32 polys, 96 verts (decal)] 'Foregrou'
+		Mesh133 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh138 [629 polys, 1887 verts (decal)] '11 - Default'
+		Mesh139 [70 polys, 210 verts (decal)] '11 - Default'
+		Mesh140 [76 polys, 228 verts (decal)] '11 - Default'
+		Mesh141 [166 polys, 498 verts (decal)] '11 - Default'
+		Mesh142 [84 polys, 252 verts (decal)] '11 - Default'
+		Mesh143 [19 polys, 57 verts (decal)] '11 - Default'
+		Mesh164 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh165 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh166 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh167 [4 polys, 12 verts (decal)] 'Foregrou'
+		Mesh168 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh169 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh170 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh171 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh172 [4 polys, 12 verts (decal)] 'Foregrou'
+		Mesh173 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh174 [4 polys, 12 verts (decal)] 'Foregrou'
+		Mesh175 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh176 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh177 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh178 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh179 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh180 [456 polys, 1368 verts (decal)] '19 - Default'
+		Mesh181 [173 polys, 519 verts (decal)] '19 - Default'
+		Mesh182 [13 polys, 39 verts (decal)] '08 - Default'
+		Mesh183 [10 polys, 30 verts (decal)] '19 - Default'
+		Mesh184 [210 polys, 630 verts (decal)] '19 - Default'
+		Mesh185 [4 polys, 12 verts (decal)] 'Foregrou'
+		Mesh186 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh187 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh188 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh189 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh190 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh191 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh192 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh193 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh194 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh195 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh196 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh197 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh198 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh199 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh200 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh201 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh202 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh203 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh204 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh205 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh206 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh207 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh208 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh209 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh210 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh211 [40 polys, 120 verts (decal)] 'Layer0'
+		Mesh212 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh213 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh214 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh215 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh216 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh217 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh218 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh219 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh220 [40 polys, 120 verts (decal)] 'Layer0'
+		Mesh221 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh222 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh223 [40 polys, 120 verts (decal)] '21 - Default'
+		Mesh224 [5 polys, 15 verts (decal)] 'Layer0'
+		Mesh225 [5 polys, 15 verts (decal)] 'Layer0'
+		Mesh226 [2 polys, 6 verts (decal)] 'Layer0'
+		Mesh227 [2 polys, 6 verts (decal)] 'Layer0'
+		Mesh228 [2 polys, 6 verts (decal)] 'Layer0'
+		Mesh229 [1 polys, 3 verts (decal)] 'Layer0'
+		Mesh230 [2 polys, 6 verts (decal)] 'Layer0'
+		Mesh231 [2 polys, 6 verts (decal)] 'Layer0'
+		Mesh232 [2 polys, 6 verts (decal)] 'Layer0'
+		Mesh233 [11 polys, 33 verts (decal)] '05 - Default'
+		Heading [48 polys, 144 verts (decal)] '06 - Default'
+		Mesh235 [16 polys, 48 verts (decal)] 'Foregrou'
+		Mesh236 [16 polys, 48 verts (decal)] 'Foregrou'
+		Mesh237 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh238 [12 polys, 36 verts (decal)] 'Foregrou'
+		Mesh239 [6 polys, 18 verts (decal)] 'Foregrou'
+		Mesh240 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh241 [8 polys, 24 verts (decal)] 'Foregrou'
+		Mesh242 [6 polys, 18 verts (decal)] 'Foregrou'
+		Mesh243 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh244 [6 polys, 18 verts (decal)] 'Foregrou'
+		Mesh245 [6 polys, 18 verts (decal)] 'Foregrou'
+		Mesh246 [8 polys, 24 verts (decal)] 'Foregrou'
+		Mesh247 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh248 [10 polys, 30 verts (decal)] 'Foregrou'
+		Mesh249 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh250 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh251 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh252 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh253 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh254 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh255 [2 polys, 6 verts (decal)] 'Foregrou'
+		Mesh258 [4 polys, 12 verts (decal)] 'Foregrou'
+		Mesh51 [95 polys, 285 verts (decal)] '07 - Default'
+		Plane02 [14 polys, 42 verts (decal)] '18 - Default'
+		Plane01 [14 polys, 42 verts (decal)] '18 - Default'
+		Plane04 [12 polys, 36 verts (decal)] '24 - Default'
+		Plane03 [12 polys, 36 verts (decal)] '24 - Default'
+		Plane06 [2 polys, 6 verts (decal)] '24 - Default'
+		Base_Palanca_Piloto [12 polys, 36 verts (decal)] 'ERROR: No material is assigned!'
+			Palanca_Piloto [2859 polys, 8577 verts (decal)] '11 - Default'
+				Mesh135 [1039 polys, 3117 verts (decal)] '23 - Default'
+		Mesh130 [3316 polys, 9948 verts (decal)] '01 - Default'
+		TrenLever [26 polys, 78 verts (decal)] '20 - Default'
+			Group138 [78 polys, 234 verts (decal)] '20 - Default'
+		Aguja_Speed [2 polys, 6 verts (decal)] '06 - Default'
+		Aguja_Climb [2 polys, 6 verts (decal)] '06 - Default'
+		Aguja_Alt_100 [2 polys, 6 verts (decal)] '06 - Default'
+		Needle_Torql [2 polys, 6 verts (decal)] '06 - Default'
+		Needle_Torqr [2 polys, 6 verts (decal)] '06 - Default'
+		needle_temp1 [2 polys, 6 verts (decal)] '06 - Default'
+		needle_temp2 [2 polys, 6 verts (decal)] '06 - Default'
+		Aguja_LAT [2 polys, 6 verts (decal)] '06 - Default'
+		Aguja_RAT [2 polys, 6 verts (decal)] '06 - Default'
+		Aguja_LPresA [2 polys, 6 verts (decal)] '06 - Default'
+		Aguja_RPresA [2 polys, 6 verts (decal)] '06 - Default'
+		Aguja_RRPM_Big [2 polys, 6 verts (decal)] '06 - Default'
+		Aguja_LRPM_Big [2 polys, 6 verts (decal)] '06 - Default'
+		fdfg [2 polys, 6 verts (decal)] '06 - Default'
+		hh [2 polys, 6 verts (decal)] '06 - Default'
+		hh01 [2 polys, 6 verts (decal)] '06 - Default'
+		fdfg01 [2 polys, 6 verts (decal)] '06 - Default'
+		fdfg02 [2 polys, 6 verts (decal)] '06 - Default'
+		fdfg03 [2 polys, 6 verts (decal)] '06 - Default'
+		Ball [960 polys, 2880 verts (decal)] 'Standard_23'
+		Ball01 [960 polys, 2880 verts (decal)] 'Standard_23'
+		Luz04 [2 polys, 6 verts (decal)] 'Standard_24'
+		Luz01 [2 polys, 6 verts (decal)] 'Standard_24'
+		Luz02 [2 polys, 6 verts (decal)] 'Standard_24'
+		Luz03 [2 polys, 6 verts (decal)] 'Standard_24'
+		Luz06 [2 polys, 6 verts (decal)] 'Standard_24'
+		Luz09 [2 polys, 6 verts (decal)] 'Standard_24'
+		Luz10 [2 polys, 6 verts (decal)] 'Standard_24'
+		Plane07 [2 polys, 6 verts (decal)] '07 - Default'
+
+
+Num Nodes: 367
+Total:    (26616 polys, 79848 verts)
+Mesh Max: (3316 polys, 9948 verts)
+
+26 Materials:
+ (  1) 04 - Default:
+       texture0.bmp
+ (  2) Foregrou:
+       <No Texture>
+ (  3) 02 - Default:
+       texture2.bmp
+ (  4) 03 - Default:
+       texture3.bmp
+ (  5) 07 - Default:
+       texture4.bmp
+ (  6) 05 - Default:
+       texture1.bmp
+ (  7) 08 - Default:
+       texture6.bmp
+ (  8) 09 - Default:
+       texture7.bmp
+ (  9) Layer0:
+       <No Texture>
+ ( 10) 16 - Default:
+       texture10.bmp
+ ( 11) 20 - Default:
+       texture11.bmp
+ ( 12) 24 - Default:
+       Transparency enabled
+       Canopy_reflection.tga
+ ( 13) 11 - Default:
+       texture29.bmp
+ ( 14) 19 - Default:
+       texture15.bmp
+ ( 15) 13 - Default:
+       texture30.BMP
+ ( 16) 22 - Default:
+       texture16.bmp
+ ( 17) 17 - Default:
+       texture21.bmp
+ ( 18) 10 - Default:
+       texture26.bmp
+ ( 19) 15 - Default:
+       texture27.bmp
+ ( 20) Standard_24:
+       texture28.bmp
+ ( 21) 01 - Default:
+       texture9.bmp
+ ( 22) 21 - Default:
+       texture31.bmp
+ ( 23) 06 - Default:
+       Transparency enabled
+       agujas.tga
+ ( 24) 18 - Default:
+       Transparency enabled
+       reflex.tga
+ ( 25) 23 - Default:
+       001.BMP
+ ( 26) Standard_23:
+       ACTITUD.BMP
+
+24 Textures:
+texture0.bmp
+texture2.bmp
+texture3.bmp
+texture4.bmp
+texture1.bmp
+texture6.bmp
+texture7.bmp
+texture10.bmp
+texture11.bmp
+Canopy_reflection.tga
+texture29.bmp
+texture15.bmp
+texture30.BMP
+texture16.bmp
+texture21.bmp
+texture26.bmp
+texture27.bmp
+texture28.bmp
+texture9.bmp
+texture31.bmp
+agujas.tga
+reflex.tga
+001.BMP
+ACTITUD.BMP
+
+Points
+
+Extents
+Box01
+MinExtentPosition=-0.10,-2.61,-0.47
+MaxExtentPosition=0.05,-2.46,-0.41

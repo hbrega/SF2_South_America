@@ -1,0 +1,124 @@
+	Fuselage_P [434 polys, 1302 verts (decal)] '01 - Default'
+		LeftWing [239 polys, 717 verts (decal)] '03 - Default'
+			Object01 [456 polys, 1368 verts (decal)] '02 - Default'
+				Object04 [116 polys, 348 verts (decal)] '09 - Default'
+				Object03 [116 polys, 348 verts (decal)] '09 - Default'
+				Center_Tank [886 polys, 2658 verts (decal)] '21 - Default'
+			Object14 [534 polys, 1602 verts (decal)] '02 - Default'
+				objdefault08 [10 polys, 30 verts (decal)] '08 - Default'
+				Right_Tank [886 polys, 2658 verts (decal)] '21 - Default'
+			Object13 [534 polys, 1602 verts (decal)] '02 - Default'
+				objdefault07 [10 polys, 30 verts (decal)] '08 - Default'
+				Left_Tank [886 polys, 2658 verts (decal)] '21 - Default'
+			Aileron_R [8 polys, 24 verts (decal)] '03 - Default'
+			Aileron_L [8 polys, 24 verts (decal)] '03 - Default'
+			Flap_Inner_R [8 polys, 24 verts (decal)] '03 - Default', AnimationID: 6 
+			Flap_Inner_L [8 polys, 24 verts (decal)] '03 - Default', AnimationID: 6 
+			Object16 [6 polys, 18 verts (decal)] '15 - Default'
+			Object15 [6 polys, 18 verts (decal)] '15 - Default'
+			Engine_L [989 polys, 2967 verts (decal)] '02 - Default'
+				Gear_Strut_Left [178 polys, 534 verts (decal)] '09 - Default', AnimationID: 1 
+					Object11 [12 polys, 36 verts (decal)] '09 - Default', AnimationID: 1 
+					Gear_Axle_Left [34 polys, 102 verts (decal)] '09 - Default', AnimationID: 3 
+						Wheel_L [280 polys, 840 verts (decal)] '09 - Default'
+				Object07 [32 polys, 96 verts (decal)] '02 - Default', AnimationID: 1 
+				Object08 [32 polys, 96 verts (decal)] '02 - Default', AnimationID: 1 
+				LeftSpinner [448 polys, 1344 verts (decal)] '02 - Default'
+					LeftSlowProp [660 polys, 1980 verts (decal)] '01 - Default'
+					LeftFastProp [16 polys, 48 verts (decal)] '13 - Default'
+					LeftStaticProp [660 polys, 1980 verts (decal)] '01 - Default'
+				objdefault14 [12 polys, 36 verts (decal)] '19 - Default'
+				Object02 [96 polys, 288 verts (decal)] '02 - Default'
+			Flap_Middle_L [8 polys, 24 verts (decal)] '03 - Default', AnimationID: 6 
+		Tail [470 polys, 1410 verts (decal)] '07 - Default'
+			Rudder_L [76 polys, 228 verts (decal)] '07 - Default'
+			Elevator_L [64 polys, 192 verts (decal)] '07 - Default'
+			Elevator_R [66 polys, 198 verts (decal)] '07 - Default'
+			Object18 [82 polys, 246 verts (decal)] '07 - Default'
+		objdefault [26 polys, 78 verts (decal)] '08 - Default'
+		RightFrontDoor [16 polys, 48 verts (decal)] '01 - Default', AnimationID: 1 
+		LeftFrontDoor [16 polys, 48 verts (decal)] '01 - Default', AnimationID: 1 
+		Tube01 [144 polys, 432 verts (decal)] '14 - Default'
+		Tube02 [144 polys, 432 verts (decal)] '14 - Default'
+		Tube06 [144 polys, 432 verts (decal)] '14 - Default'
+		Tube05 [144 polys, 432 verts (decal)] '14 - Default'
+		Tube07 [144 polys, 432 verts (decal)] '14 - Default'
+		Tube08 [144 polys, 432 verts (decal)] '14 - Default'
+		cockpit [502 polys, 1506 verts (decal)] '14 - Default'
+		Box01 [28 polys, 84 verts (decal)] '19 - Default'
+		objdefault10 [240 polys, 720 verts (decal)] '20 - Default'
+		objdefault11 [36 polys, 108 verts (decal)] '01 - Default'
+			Object17 [58 polys, 174 verts (decal)] '15 - Default'
+		objdefault12 [142 polys, 426 verts (decal)] '01 - Default', AnimationID: 9 
+			GlassCanopy [82 polys, 246 verts (decal)] '08 - Default'
+		MG_Holes [943 polys, 2829 verts (decal)] '01 - Default'
+		Object21 [92 polys, 276 verts (decal)] '01 - Default'
+		RightWing [239 polys, 717 verts (decal)] '03 - Default'
+			Engine_R [989 polys, 2967 verts (decal)] '02 - Default'
+				Object10 [32 polys, 96 verts (decal)] '02 - Default', AnimationID: 1 
+				Gear_Strut_Rright [178 polys, 534 verts (decal)] '09 - Default', AnimationID: 1 
+					Object12 [12 polys, 36 verts (decal)] '09 - Default', AnimationID: 1 
+					Gear_Axle_Right [34 polys, 102 verts (decal)] '09 - Default', AnimationID: 4 
+						Wheel_R [280 polys, 840 verts (decal)] '09 - Default'
+				Object09 [32 polys, 96 verts (decal)] '02 - Default', AnimationID: 1 
+				RightSpinner [448 polys, 1344 verts (decal)] '02 - Default'
+					RightSlowProp [660 polys, 1980 verts (decal)] '01 - Default'
+					RightFastProp [16 polys, 48 verts (decal)] '13 - Default'
+					RightStaticProp [660 polys, 1980 verts (decal)] '01 - Default'
+				objdefault02 [12 polys, 36 verts (decal)] '19 - Default'
+				default [96 polys, 288 verts (decal)] '02 - Default'
+			Flap_Middle_R [8 polys, 24 verts (decal)] '03 - Default', AnimationID: 6 
+		Fuselage_Front [2233 polys, 6699 verts (decal)] '01 - Default'
+			Gear_F_Strut [282 polys, 846 verts (decal)] '09 - Default', AnimationID: 1 
+				Gear_F_Link [122 polys, 366 verts (decal)] '09 - Default', AnimationID: 2 
+					Gear_F_Axle [96 polys, 288 verts (decal)] '09 - Default'
+						Wheel_Front [140 polys, 420 verts (decal)] '09 - Default'
+
+
+Num Nodes: 75
+Total:    (18980 polys, 56940 verts)
+Mesh Max: (2233 polys, 6699 verts)
+
+12 Materials:
+ (  1) 01 - Default:
+       Fuselage.bmp
+ (  2) 03 - Default:
+       Wings.bmp
+ (  3) 02 - Default:
+       Engine_Pylons.bmp
+ (  4) 09 - Default:
+       Tren.bmp
+ (  5) 21 - Default:
+       PucaTank.bmp
+ (  6) 08 - Default:
+       Transparency enabled
+       CanopyGlass.TGA
+ (  7) 15 - Default:
+       LIGHTS.tga
+ (  8) 13 - Default:
+       Transparency enabled
+       Prop.tga
+ (  9) 19 - Default:
+       <No Texture>
+ ( 10) 07 - Default:
+       Tail.bmp
+ ( 11) 14 - Default:
+       Cokcpit.bmp
+ ( 12) 20 - Default:
+       <No Texture>
+
+10 Textures:
+Fuselage.bmp
+Wings.bmp
+Engine_Pylons.bmp
+Tren.bmp
+PucaTank.bmp
+CanopyGlass.TGA
+LIGHTS.tga
+Prop.tga
+Tail.bmp
+Cokcpit.bmp
+
+Points
+
+Extents

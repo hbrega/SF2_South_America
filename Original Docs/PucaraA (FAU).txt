@@ -1,0 +1,4 @@
+Avion: OsoJuancho
+Cabina: Claudio Tripe
+Texturas de cabina editadas por Franco Sansberro
+Skin: Claudio Wilches
