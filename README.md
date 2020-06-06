@@ -172,6 +172,14 @@ Mirage 5DP-4
 
 Mirage 5P-4
 
+P-40E Warhawk
+
+P-40K WarHawk
+
+P-40N Warhawk
+
+
+
 
 
 #Objects

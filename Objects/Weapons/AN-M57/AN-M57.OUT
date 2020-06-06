@@ -1,0 +1,12 @@
+	Cylinder01 (744 polys, 2232 verts) '01 - Default'
+		Object01 (252 polys, 756 verts) '02 - Default'
+		b (560 polys, 1680 verts) '01 - Default'
+		Fuse (168 polys, 504 verts) '02 - Default'
+		Box01 (44 polys, 132 verts) '02 - Default'
+		Fuse01 (360 polys, 1080 verts) '02 - Default'
+		Box02 (132 polys, 396 verts) '01 - Default'
+		a (192 polys, 576 verts) '01 - Default'
+
+
+Total:    (2452 polys, 7356 verts)
+Mesh Max: (744 polys, 2232 verts)

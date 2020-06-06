@@ -1,0 +1,16 @@
+	Tank_US (544 polys, 1632 verts) 'CU'
+		Lug_R (40 polys, 120 verts) 'CU'
+		Cap_Tnk (82 polys, 246 verts) 'CU'
+		Lug_F (40 polys, 120 verts) 'CU'
+
+
+Num Nodes: 4
+Total:    (706 polys, 2118 verts)
+Mesh Max: (544 polys, 1632 verts)
+
+1 Materials:
+ (  1) CU:
+       Tank_P40CU.bmp
+
+1 Textures:
+Tank_P40CU.bmp
