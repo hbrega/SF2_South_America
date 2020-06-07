@@ -1,0 +1,12 @@
+
+
+    -------------------- FIAT G.55A CENTAURO ---------------------
+
+- 3D Model - Veltro2K
+- 3D Cockpit - Stary with heavy cosmetics modifications by me with repositioning instruments, colors, sight and POV. The gunsight is slightly offset
+as the real plane.
+- Skins and decals by me.
+- Bombs - Ital_24/50/100/250/500 by Geezer.
+- I did some changes on DATA to reflect the Argentine version and some improvements on weapons load and some minors details.
+
+ 

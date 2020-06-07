@@ -180,6 +180,8 @@ P-40N Warhawk
 
 P-47D-27 Thunderbolt
 
+Fiat G-55 Centauro
+
 
 
 #Objects
