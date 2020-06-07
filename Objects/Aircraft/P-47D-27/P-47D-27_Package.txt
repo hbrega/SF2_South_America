@@ -1,0 +1,178 @@
+**************************************************************************
+* Republic P-47D-27 Thunderbolt Set-up Instructions
+* A Strike Fighters 2 Project
+* Contact Information: Cesar Pun. E-mail: capun1950@yahoo.com
+* Brought to you by the SFP1 Dev A-Team of Capun, CB Productions, Charles, Kesselbrut, Edward, Starfighter2 & Pappychksix
+* Airplane Model by capun, based on the Source file by Wolf257
+* Release 1 08/09/14
+* Model P-47D-27-R1
+* Do not distribute, repackage or post without previous consent.
+* All Copyrights Reserved CPL Engineering, LLC (c) 2003-2014
+* No Modifications without previous consent is allowed
+* Models are done solely for the purpose of enjoyment by the SFP1 Dev A-Team. A-Team reserves the right
+* to use poetic license in the design. Model released to the SFP1/WoV/WoE/FE community for their enjoyment with
+* no implicit warranties, Caveat Emptor. 
+* By downloading this file you acknowledge that is provided on an "as is" basis, constructive feedback can be sent 
+* to the contact information. Custom work for this model can be done for a fee based on US$ 65 an hour
+* Contributors list
+* Original Design by Wolf257
+* FM and testing by Charles
+* Texture skins by Charles
+* Virtual Cockpit by Stary
+* US pilot by 
+* Slow/Fast Prop textures by Russo
+* Requires weapons pack up to date
+*************************************************************************
+1- Airplane Contents
+
+ - P-47D-27				- Airplane folder under Objects\Aircraft
+  - P-47D-27-R1.LOD			- Model LOD File
+  - P-47D-27-R1.OUT			- Model OUT File
+  - P-47D-27.ini			- Airplane ini file
+  - P-47D-27_Data.ini			- Airplane data ini file
+  - P-47D-27_Loadout.ini		- Airplane Loadout ini file
+  - P-47D-27_Userlist.ini		- Airplane Userlist
+  - P-47D-27_Cockpit.ini		- Cockpit ini
+  - P-47D-27_Loadout.bmp		- Loadout picture
+  - P47D27-s-BM.bmp			- Bump Map
+  - P47D27-t-BM.bmp			- Bump Map
+  - P47D27-s_Holes.tga			- Damage Texture
+  - P47D27-t_Holes.tga			- Damage Texture
+  - Copyright.txt			- AFP1 Dev A-Team Copyright notice
+  - P-47D-27_Installation_Instructions.txt	- This document
+
+  - P-47D-27\DDay			- Texture folder under Objects\Aircraft\P-47D-27
+   - P47D27-s.jpg			- Main Texture
+   - P47D27-t.jpg			- Main Texture
+   - CPL Copyright 2014.jpg		- Copyright Texture
+   - TextureSet.ini			- Texture declaration
+   - Decals.ini				- Decal declaration
+   - Numbers.lst			- Plane Numbers/Letters
+   - patch.bmp				- paint swatche
+   - ClrGlass.tga			- Cockpit texture
+   - S4Prop.tga				- Slow Prop textures
+   - F4Prop.tga				- Fast Prop Textures
+
+  - P-47D-27\DDay2			- Texture folder under Objects\Aircraft\P-47D-27
+   - P47D27-s.jpg			- Main Texture
+   - P47D27-t.jpg			- Main Texture
+   - CPL Copyright 2014.jpg		- Copyright Texture
+   - TextureSet.ini			- Texture declaration
+   - Decals.ini				- Decal declaration
+   - Numbers.lst			- Plane Numbers/Letters
+   - patch.bmp				- paint swatche
+   - ClrGlass.tga			- Cockpit texture
+   - S4Prop.tga				- Slow Prop textures
+   - F4Prop.tga				- Fast Prop Textures
+
+  - P-47D-27\Metal			- Texture folder under Objects\Aircraft\P-47D-27
+   - P47D27-s.jpg			- Main Texture
+   - P47D27-t.jpg			- Main Texture
+   - CPL Copyright 2014.jpg		- Copyright Texture
+   - TextureSet.ini			- Texture declaration
+   - Decals.ini				- Decal declaration
+   - Numbers.lst			- Plane Numbers/Letters
+   - patch.bmp				- paint swatche
+   - ClrGlass.tga			- Cockpit texture
+   - S4Prop.tga				- Slow Prop textures
+   - F4Prop.tga				- Fast Prop Textures
+
+  - P-47D-27\OD				- Texture folder under Objects\Aircraft\P-47D-27
+   - P47D27-s.jpg			- Main Texture
+   - P47D27-t.jpg			- Main Texture
+   - CPL Copyright 2014.jpg		- Copyright Texture
+   - TextureSet.ini			- Texture declaration
+   - Decals.ini				- Decal declaration
+   - Numbers.lst			- Plane Numbers/Letters
+   - patch.bmp				- paint swatche
+   - ClrGlass.tga			- Cockpit texture
+   - S4Prop.tga				- Slow Prop textures
+   - F4Prop.tga				- Fast Prop Textures
+
+  - P-47D-27\Cockpit			- Cockpit folder under Objects\Aircraft\P-47D-27
+ 
+
+  - Decals				- Decal folder under Objects\Aircraft\P-47D-27\Camo41
+
+   - P-47D-27\Kills
+    - Kills.tga
+    - Kills000.tga to Kils100.tga
+
+   - P-47D-27\Metal
+    - FLet000.tga to FLet025.tga
+    - SNum.tga
+    - SNum000.tga to SNum015.tga
+    - SqCode_61, SqCode_62, SqCode_63, SqCode_82, SqCode_350.tga
+
+   - P-47D-27\Names	
+    - Name000.tga to Name025.tga
+
+   - P-47D-27\NArt	
+    - Name000.tga to Name025.tga
+    - NArt000.tga to NArt025.tga
+
+   - P-47D-27\OD
+    - FLet000.tga to FLet025.tga
+    - SNum.tga
+    - SNum000.tga to SNum015.tga
+    - SqCode_61, SqCode_62, SqCode_63, SqCode_82, SqCode_350.tga
+
+  - Pilots\PilotWW2USAAF		- Pilot figure
+   - PilotWW2USAAF.INI
+   - PilotWW2USAAF.LOD
+   - PilotWW2USAAF.bmp
+
+  - Sounds				- Engine Sounds
+   - RadialEngine.wav
+
+  - Weapons				- Weapons 
+
+   - 500lb_bomb
+    - 500lb_bomb.INI
+    - 500lb_bomb.bmp
+    - 500lb_bomb.LOD
+    - 500lb_bomb_data.INI
+
+   - 1000lb_bomb
+    - 1000lb_bomb.INI
+    - 1000lb_bomb.bmp
+    - 1000lb_bomb.LOD
+    - 1000lb_bomb_data.INI
+
+   - HVAR
+    - HVAR.INI
+    - HVAR.bmp
+    - HVAR.LOD
+    - HVAR_data.INI
+
+   - Tank108_P47			- External Drop Tank
+    - Tank108_P47.INI
+    - Tank108_P47_DATA.Ini
+
+   - Tank165_P47			- External Drop Tank
+    - Tank165_P47.INI
+    - Tank165_P47_DATA.Ini
+
+
+2- Copy all files under the P-47D-27 folder to the Strike Fighters 2\Objects\Aircraft\P-47D-27 folder
+
+  - Preserve the folder tree structure. It is easier just to drag and drop the P-47D-27 folder into your Objects\Aircraft folder
+
+3- Copy all folders under the Decals folder to the Strike Fighters 2\Objects\Decals folder
+
+4- Copy all folders under the Pilots folder to the Strike Fighters 2\Objects\Pilots folder
+
+5- Copy all folders under the Sounds folder to the Strike Fighters 2\Objects\Sounds folder
+
+6- Copy all folders under the Weapons folder to the Strike Fighters 2\Objects\Weapons folder
+
+7-Happy Hunting.
+
+Designer notes:
+- Tested with Strike Fighters 2
+
+Known Issues:
+
+Release Notes:
+08/09/14: Gen 2 Release Model
+
