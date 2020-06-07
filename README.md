@@ -178,7 +178,7 @@ P-40K WarHawk
 
 P-40N Warhawk
 
-
+P-47D-27 Thunderbolt
 
 
 
