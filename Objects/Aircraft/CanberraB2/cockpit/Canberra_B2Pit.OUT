@@ -1,0 +1,289 @@
+	Canopy [608 polys, 420 verts] 'Material_2', AnimationID: 1 
+		default [2232 polys, 2449 verts] 'Material_1'
+		Base [12 polys, 24 verts] 'Material_0'
+		Kabel06 [108 polys, 79 verts] 'Material_2'
+		Mira [851 polys, 1090 verts] '03 - Default'
+		HUD [82 polys, 140 verts] 'Material_18'
+		Torus01 [6912 polys, 3561 verts] 'Material_2'
+		Cylinder01 [87 polys, 164 verts] 'Material_3'
+		Frontpanel [132 polys, 140 verts] 'Material_3'
+			ADI_sphere [528 polys, 346 verts] 'Material #0'
+		Altitude [58 polys, 60 verts] 'Material_4'
+		Cylinder23 [44 polys, 52 verts] 'Material_5'
+		needle_ALT1000 [12 polys, 24 verts] 'Material_6'
+		needle_ALT100 [12 polys, 24 verts] 'Material_6'
+		needle_ALT10000 [12 polys, 24 verts] 'Material_6'
+		Gearbox [58 polys, 60 verts] 'Material_5'
+		GearUpLights [54 polys, 66 verts] 'Material_2'
+		GearDownLights [72 polys, 84 verts] 'Material_2'
+		Speedometer [58 polys, 60 verts] 'Material_4'
+		Cylinder50 [44 polys, 52 verts] 'Material_5'
+		Cylinder51 [44 polys, 52 verts] 'Material_5'
+		Cylinder22 [44 polys, 52 verts] 'Material_5'
+		needle_Speed100 [12 polys, 24 verts] 'Material_6'
+		needle_Speed10 [12 polys, 24 verts] 'Material_6'
+		Accel [58 polys, 60 verts] 'Material_4'
+		Cylinder17 [44 polys, 52 verts] 'Material_5'
+		needle_VSI [12 polys, 24 verts] 'Material_6'
+		RadioCompass [58 polys, 60 verts] 'Material_4'
+		needle_Compass [12 polys, 24 verts] 'Material_6'
+		Cylinder15 [44 polys, 52 verts] 'Material_5'
+		STBY_ADI [160 polys, 160 verts] 'Material_7'
+		PitchRollBar [24 polys, 35 verts] 'Material_8'
+		Mach [58 polys, 60 verts] 'Material_4'
+		needle_Mach [12 polys, 24 verts] 'Material_6'
+		Cylinder48 [44 polys, 52 verts] 'Material_5'
+		Flaps [58 polys, 60 verts] 'Material_4'
+		needle_Flaps [12 polys, 24 verts] 'Material_6'
+		Trim [58 polys, 60 verts] 'Material_5'
+		needle_Trim [12 polys, 24 verts] 'Material_6'
+		clock [58 polys, 60 verts] 'Material_5'
+		needle_Sideslip2 [12 polys, 24 verts] 'Material_6'
+		Cylinder14 [58 polys, 60 verts] 'Material_4'
+		needle_hour [12 polys, 24 verts] 'Material_6'
+		needle_minute [12 polys, 24 verts] 'Material_6'
+		needle_second [12 polys, 24 verts] 'Material_6'
+		Tube01 [160 polys, 160 verts] 'Material_3'
+		Tube02 [160 polys, 180 verts] 'Material_7'
+		Pitch_Roll [58 polys, 60 verts] 'Material_4'
+		needle_turn [12 polys, 24 verts] 'Material_6'
+		slipball [44 polys, 52 verts] 'Material_5'
+		GyroBox [88 polys, 72 verts] 'Material_4'
+		GyroCompass [144 polys, 144 verts] 'Material_4'
+		CourseVSI [2 polys, 4 verts] 'Material_6'
+		CourseSideSlip [2 polys, 4 verts] 'Material_6'
+		HSIBox [10 polys, 20 verts] 'Material_7'
+		HSIWheel [52 polys, 56 verts] 'Material_7'
+		HSI_Pointer [2 polys, 4 verts] 'Material_9'
+		HSICenter [58 polys, 68 verts] 'Material_7'
+		CourseDeviation [2 polys, 4 verts] 'Material_7'
+		Flightpath [6 polys, 12 verts] 'Material_9'
+		Cylinder20 [52 polys, 54 verts] 'Material_3'
+		Cylinder21 [52 polys, 54 verts] 'Material_3'
+		Schraube [10 polys, 20 verts] 'Material_10'
+		Schraube01 [10 polys, 20 verts] 'Material_10'
+		Schraube02 [10 polys, 20 verts] 'Material_10'
+		Schraube03 [10 polys, 20 verts] 'Material_10'
+		Schraube04 [10 polys, 20 verts] 'Material_10'
+		Schraube05 [10 polys, 20 verts] 'Material_10'
+		Schraube06 [10 polys, 20 verts] 'Material_10'
+		Schraube07 [10 polys, 20 verts] 'Material_10'
+		Schraube08 [10 polys, 20 verts] 'Material_10'
+		Schraube10 [10 polys, 20 verts] 'Material_10'
+		Schraube11 [10 polys, 20 verts] 'Material_10'
+		Schraube12 [10 polys, 20 verts] 'Material_10'
+		Schraube17 [10 polys, 20 verts] 'Material_10'
+		Schraube18 [10 polys, 20 verts] 'Material_10'
+		Schraube19 [10 polys, 20 verts] 'Material_10'
+		Schraube16 [10 polys, 20 verts] 'Material_10'
+		Schraube21 [10 polys, 20 verts] 'Material_10'
+		Schraube22 [10 polys, 20 verts] 'Material_10'
+		Schraube23 [10 polys, 20 verts] 'Material_10'
+		Schraube20 [10 polys, 20 verts] 'Material_10'
+		Schraube25 [10 polys, 20 verts] 'Material_10'
+		Schraube26 [10 polys, 20 verts] 'Material_10'
+		Schraube27 [10 polys, 20 verts] 'Material_10'
+		Schraube24 [10 polys, 20 verts] 'Material_10'
+		Schraube29 [10 polys, 20 verts] 'Material_10'
+		Schraube30 [10 polys, 20 verts] 'Material_10'
+		Schraube31 [10 polys, 20 verts] 'Material_10'
+		Schraube28 [10 polys, 20 verts] 'Material_10'
+		Schraube32 [10 polys, 20 verts] 'Material_10'
+		Schraube33 [10 polys, 20 verts] 'Material_10'
+		Schraube34 [10 polys, 20 verts] 'Material_10'
+		Schraube35 [10 polys, 20 verts] 'Material_10'
+		Schraube36 [10 polys, 20 verts] 'Material_10'
+		Schraube37 [10 polys, 20 verts] 'Material_10'
+		Schraube38 [10 polys, 20 verts] 'Material_10'
+		Schraube39 [10 polys, 20 verts] 'Material_10'
+		Schraube40 [10 polys, 20 verts] 'Material_10'
+		Schraube09 [40 polys, 80 verts] 'Material_10'
+		Schraube13 [40 polys, 80 verts] 'Material_10'
+		Schraube14 [30 polys, 60 verts] 'Material_10'
+		Schraube15 [30 polys, 60 verts] 'Material_10'
+		Schraube41 [20 polys, 40 verts] 'Material_10'
+		Schraube42 [20 polys, 40 verts] 'Material_10'
+		Enginepanel [58 polys, 76 verts] 'Material_3'
+		OIL_L [76 polys, 80 verts] 'Material_4'
+		Cylinder30 [44 polys, 52 verts] 'Material_5'
+		needle_oiltemp_L [12 polys, 24 verts] 'Material_6'
+		OIL_R [76 polys, 80 verts] 'Material_4'
+		Cylinder28 [44 polys, 52 verts] 'Material_5'
+		needle_oiltemp_R [12 polys, 24 verts] 'Material_6'
+		RPM_R [76 polys, 80 verts] 'Material_4'
+		Cylinder19 [44 polys, 52 verts] 'Material_5'
+		needle_RPM1000_R [12 polys, 24 verts] 'Material_6'
+		needle_RPM100_R [12 polys, 24 verts] 'Material_6'
+		RPM_L [76 polys, 80 verts] 'Material_4'
+		Cylinder25 [44 polys, 52 verts] 'Material_5'
+		needle_RPM1000_L [12 polys, 24 verts] 'Material_6'
+		needle_RPM100_L [12 polys, 24 verts] 'Material_6'
+		Exhaust [76 polys, 82 verts] 'Material_4'
+		needle_exh_L [12 polys, 24 verts] 'Material_6'
+		needle_exh_R [12 polys, 24 verts] 'Material_6'
+		switch04 [25 polys, 20 verts] 'Material_2'
+		switch05 [25 polys, 20 verts] 'Material_2'
+		switch06 [25 polys, 20 verts] 'Material_2'
+		switch07 [25 polys, 20 verts] 'Material_2'
+		switch08 [25 polys, 20 verts] 'Material_2'
+		switch42 [25 polys, 20 verts] 'Material_2'
+		switch44 [25 polys, 20 verts] 'Material_2'
+		switch45 [25 polys, 20 verts] 'Material_2'
+		switch46 [25 polys, 20 verts] 'Material_2'
+		switch48 [25 polys, 20 verts] 'Material_2'
+		switch49 [25 polys, 20 verts] 'Material_2'
+		switch50 [25 polys, 20 verts] 'Material_2'
+		Box02 [10 polys, 20 verts] 'Material_5'
+		Cylinder24 [44 polys, 52 verts] 'Material_5'
+		Fuel01 [76 polys, 82 verts] 'Material_5'
+		needle_Fuel01 [12 polys, 24 verts] 'Material_6'
+		Box03 [10 polys, 20 verts] 'Material_5'
+		Cylinder26 [44 polys, 52 verts] 'Material_5'
+		Fuel02 [76 polys, 82 verts] 'Material_5'
+		needle_Fuel02 [12 polys, 24 verts] 'Material_6'
+		Box04 [10 polys, 20 verts] 'Material_5'
+		Cylinder32 [44 polys, 52 verts] 'Material_5'
+		Fuel03 [76 polys, 82 verts] 'Material_5'
+		needle_Fuel03 [12 polys, 24 verts] 'Material_6'
+		Radiopanel [88 polys, 134 verts] 'Material_3'
+		Cylinder39 [76 polys, 80 verts] 'Material_4'
+		Cylinder34 [44 polys, 52 verts] 'Material_5'
+		needle_oxy1 [12 polys, 24 verts] 'Material_6'
+		CabinAir [76 polys, 80 verts] 'Material_3'
+		needle_Cabinair [12 polys, 24 verts] 'Material_6'
+		OxyPressP [76 polys, 80 verts] 'Material_3'
+		needle_oxypress1 [12 polys, 24 verts] 'Material_6'
+		OxyPressN [76 polys, 80 verts] 'Material_3'
+		needle_oxypress2 [12 polys, 24 verts] 'Material_6'
+		OxyQuantP [76 polys, 80 verts] 'Material_3'
+		Cylinder40 [44 polys, 52 verts] 'Material_5'
+		needle_oxyquant1 [12 polys, 24 verts] 'Material_6'
+		OxyQuantN [76 polys, 80 verts] 'Material_3'
+		Cylinder44 [44 polys, 52 verts] 'Material_5'
+		needle_oxyquant2 [12 polys, 24 verts] 'Material_6'
+		Cylinder05 [44 polys, 52 verts] 'Material_5'
+		Cylinder06 [44 polys, 52 verts] 'Material_5'
+		Cylinder07 [44 polys, 52 verts] 'Material_5'
+		Cylinder08 [44 polys, 52 verts] 'Material_5'
+		Cylinder09 [44 polys, 52 verts] 'Material_5'
+		Cylinder10 [44 polys, 52 verts] 'Material_5'
+		Cylinder11 [44 polys, 52 verts] 'Material_5'
+		Cylinder12 [44 polys, 52 verts] 'Material_5'
+		switch11 [75 polys, 88 verts] 'Material_2'
+		switch52 [75 polys, 88 verts] 'Material_2'
+		switch53 [75 polys, 88 verts] 'Material_2'
+		switch10 [75 polys, 88 verts] 'Material_2'
+		switch09 [75 polys, 88 verts] 'Material_2'
+		switch38 [75 polys, 88 verts] 'Material_2'
+		switch12 [75 polys, 88 verts] 'Material_2'
+		switch13 [75 polys, 88 verts] 'Material_2'
+		Cylinder18 [44 polys, 52 verts] 'Material_5'
+		Cylinder27 [44 polys, 52 verts] 'Material_5'
+		Cylinder29 [44 polys, 52 verts] 'Material_5'
+		Cylinder31 [44 polys, 52 verts] 'Material_5'
+		Cylinder33 [44 polys, 52 verts] 'Material_5'
+		Cylinder35 [44 polys, 52 verts] 'Material_5'
+		Cylinder36 [44 polys, 52 verts] 'Material_5'
+		Cylinder37 [44 polys, 52 verts] 'Material_5'
+		Cylinder38 [44 polys, 52 verts] 'Material_5'
+		Cylinder41 [44 polys, 52 verts] 'Material_5'
+		Cylinder42 [44 polys, 52 verts] 'Material_5'
+		Cylinder43 [44 polys, 52 verts] 'Material_5'
+		Cylinder45 [44 polys, 52 verts] 'Material_5'
+		Cylinder47 [44 polys, 52 verts] 'Material_5'
+		switch14 [75 polys, 88 verts] 'Material_2'
+		Box01 [12 polys, 34 verts] 'Material_2'
+		EngineWarningSocket [24 polys, 48 verts] 'Material_2'
+		REngineFireLight [12 polys, 24 verts] 'Material_2'
+		LEngineFireLight [12 polys, 24 verts] 'Material_2'
+		OilPSI [58 polys, 60 verts] 'Material_4'
+		needle_oil1 [12 polys, 24 verts] 'Material_6'
+		Cylinder16 [64 polys, 76 verts] 'Material_11'
+		switch40 [75 polys, 88 verts] 'Material_2'
+		switch01 [75 polys, 88 verts] 'Material_2'
+		switch03 [75 polys, 88 verts] 'Material_2'
+		switch02 [75 polys, 88 verts] 'Material_2'
+		Cylinder03 [20 polys, 28 verts] 'Material_12'
+		Throttle_L [200 polys, 248 verts] 'Material_12'
+		Throttle_R [200 polys, 248 verts] 'Material_12'
+		Tube04 [384 polys, 480 verts] 'Material_3'
+		Cylinder02 [32 polys, 36 verts] 'Material_18'
+		Course_dig1 [36 polys, 42 verts] 'Material_13'
+		Course_dig2 [36 polys, 42 verts] 'Material_13'
+		Course_dig3 [36 polys, 42 verts] 'Material_13'
+		Range_dig1 [36 polys, 42 verts] 'Material_13'
+		Range_dig2 [36 polys, 42 verts] 'Material_13'
+		Range_dig3 [36 polys, 42 verts] 'Material_13'
+		Switch43 [70 polys, 72 verts] 'Material_1'
+		Kabel [108 polys, 79 verts] 'Material_2'
+		Kabel01 [172 polys, 115 verts] 'Material_2'
+		Kabel02 [108 polys, 79 verts] 'Material_2'
+		Kabel03 [108 polys, 79 verts] 'Material_2'
+		Kabel04 [188 polys, 124 verts] 'Material_2'
+		Kabel05 [108 polys, 79 verts] 'Material_2'
+		Hull [455 polys, 570 verts] 'Material_1'
+
+
+Num Nodes: 224
+Total:    (21062 polys, 19763 verts)
+Mesh Max: (6912 polys, 3561 verts)
+
+17 Materials:
+ (  1) Material_2:
+       CanberraMisc1.bmp
+ (  2) Material_1:
+       CanberraWalls.bmp
+ (  3) Material_0:
+       Cockpitglass.tga
+ (  4) 03 - Default:
+       texture15.bmp
+ (  5) Material_18:
+       Transparency enabled
+       F86_reflection1.tga
+ (  6) Material_3:
+       CanberraPanels1.bmp
+ (  7) Material #0:
+       A10A_ADI.BMP
+ (  8) Material_4:
+       CanberraGauges1.bmp
+ (  9) Material_5:
+       CanberraGauges2.bmp
+ ( 10) Material_6:
+       Transparency enabled
+       NEEDLES.tga
+ ( 11) Material_7:
+       CanberraGaugeBoxes.bmp
+ ( 12) Material_8:
+       ATT2.BMP
+ ( 13) Material_9:
+       <No Texture>
+ ( 14) Material_10:
+       schraube.TGA
+ ( 15) Material_11:
+       Seat.bmp
+ ( 16) Material_12:
+       CanberraThrot.bmp
+ ( 17) Material_13:
+       F-105_ATTITUDE.BMP
+
+16 Textures:
+CanberraMisc1.bmp
+CanberraWalls.bmp
+Cockpitglass.tga
+texture15.bmp
+F86_reflection1.tga
+CanberraPanels1.bmp
+A10A_ADI.BMP
+CanberraGauges1.bmp
+CanberraGauges2.bmp
+NEEDLES.tga
+CanberraGaugeBoxes.bmp
+ATT2.BMP
+schraube.TGA
+Seat.bmp
+CanberraThrot.bmp
+F-105_ATTITUDE.BMP
+
+Points
+
+Extents
