@@ -1,0 +1,131 @@
+	Fuselage [352 polys, 1056 verts (decal)] 'text_1'
+		RightFlapOutboard01 [7 polys, 21 verts (decal)] 'Material_3'
+		RightFlapInboard01 [12 polys, 36 verts (decal)] 'Material_3'
+		LeftFlapOutboard01 [7 polys, 21 verts (decal)] 'Material_3'
+		LeftFlapInboard01 [12 polys, 36 verts (decal)] 'Material_3'
+		Nose [616 polys, 1848 verts (decal)] 'ModB2'
+			Glass [676 polys, 2028 verts (decal)] '03 - Default'
+			default02 [676 polys, 2028 verts (decal)] '03 - Default'
+			default01 [46 polys, 138 verts (decal)] 'ModB2'
+			default03 [56 polys, 168 verts (decal)] 'ModB2', AnimationID: 1 
+			default04 [56 polys, 168 verts (decal)] 'ModB2', AnimationID: 1 
+			InsideBombSite [176 polys, 528 verts (decal)] 'ModB2'
+			InsidePit [1136 polys, 3408 verts (decal)] '13 - Default'
+			default06 [448 polys, 1344 verts (decal)] 'ModB2'
+		VertTail [146 polys, 438 verts (decal)] 'Material_1'
+			Rudder [34 polys, 102 verts (decal)] 'Material_1'
+		LeftStab [16 polys, 48 verts (decal)] 'text_5'
+			LeftElevator [26 polys, 78 verts (decal)] 'Material_1'
+		RightStab [16 polys, 48 verts (decal)] 'text_5'
+			RightElevator [26 polys, 78 verts (decal)] 'Material_1'
+		RightWing [56 polys, 168 verts (decal)] 'text_4'
+			RightWingOuter [62 polys, 186 verts (decal)] 'text_4'
+				RightAileron [8 polys, 24 verts (decal)] 'Material_2'
+				RightFlapOutboard [6 polys, 18 verts (decal)] 'Material_2'
+					RightFlapOutboard02 [2 polys, 6 verts (decal)] 'Material_3'
+				R_Fuel [240 polys, 720 verts (decal)] 'fuel'
+				R_Pylon [50 polys, 150 verts (decal)] '19 - Default'
+			RightFlapInboard [6 polys, 18 verts (decal)] 'Material_2'
+				RightFlapInboard02 [2 polys, 6 verts (decal)] 'Material_3'
+			R_engine [216 polys, 648 verts (decal)] 'text_5'
+				RightGearStrut [12 polys, 36 verts (decal)] 'Material_3', AnimationID: 1 
+					RightGearPiston [10 polys, 30 verts (decal)] 'Material_2'
+						rightWheel [508 polys, 1524 verts (decal)] 'Material_8'
+				BombBayDoor_R [52 polys, 156 verts (decal)] 'Material_0_002', AnimationID: 6 
+				RightGearCover2 [12 polys, 36 verts (decal)] 'Material_2', AnimationID: 1 
+				RightGearCover1 [28 polys, 84 verts (decal)] 'Material_2', AnimationID: 1 
+		LeftWing [56 polys, 168 verts (decal)] 'text_3'
+			LeftWingOuter [62 polys, 186 verts (decal)] 'text_3'
+				LeftFlapOutboard [6 polys, 18 verts (decal)] 'Material_5'
+					LeftFlapOutboard02 [2 polys, 6 verts (decal)] 'Material_3'
+				LeftAileron [8 polys, 24 verts (decal)] 'Material_5'
+				default [108 polys, 324 verts (decal)] 'ModB2', AnimationID: 3 
+				default05 [108 polys, 324 verts (decal)] 'ModB2', AnimationID: 3 
+				L_Fuel [240 polys, 720 verts (decal)] 'fuel'
+				L_Pylon [50 polys, 150 verts (decal)] '19 - Default'
+			LeftFlapInboard [6 polys, 18 verts (decal)] 'Material_5'
+				LeftFlapInboard02 [2 polys, 6 verts (decal)] 'Material_3'
+			L_engine [216 polys, 648 verts (decal)] 'text_2'
+				LeftGearStrut [12 polys, 36 verts (decal)] 'Material_3', AnimationID: 1 
+					LeftGearPiston [10 polys, 30 verts (decal)] 'Material_2'
+						LeftWheel [508 polys, 1524 verts (decal)] 'text_3'
+				BombBayDoor_R [52 polys, 156 verts (decal)] 'Material_0_002', AnimationID: 6 
+				LeftGearCover1 [28 polys, 84 verts (decal)] 'Material_5', AnimationID: 1 
+				LeftGearCover2 [12 polys, 36 verts (decal)] 'Material_5', AnimationID: 1 
+		RightEngineInside [36 polys, 108 verts (decal)] 'Material_4'
+		RightEngineIntake [36 polys, 108 verts (decal)] 'Material_4'
+		Exhaust_R [24 polys, 72 verts (decal)] 'Material_7'
+		RightGearBayInside [34 polys, 102 verts (decal)] 'text_4'
+		NoseGearStrut [26 polys, 78 verts (decal)] 'Material_10', AnimationID: 1 
+			Nose-Wheels-01 [1016 polys, 3048 verts (decal)] 'text_2'
+		LeftEngineIntake [36 polys, 108 verts (decal)] 'Material_4'
+		LeftEngineInside [36 polys, 108 verts (decal)] 'Material_4'
+		Exhaust_L [24 polys, 72 verts (decal)] 'text_2'
+		LeftGearBayInside [34 polys, 102 verts (decal)] 'text_4'
+		ChaffDispenser [4334 polys, 13002 verts (decal)] 'ModB2'
+		BayBomb [444 polys, 1332 verts (decal)] 'text_2'
+		TailLight [110 polys, 330 verts (decal)] '03 - Default'
+		antenas [1338 polys, 4014 verts (decal)] 'text_1'
+
+
+Num Nodes: 68
+Total:    (14824 polys, 44472 verts)
+Mesh Max: (4334 polys, 13002 verts)
+
+19 Materials:
+ (  1) text_1:
+       b-57b-1.bmp
+ (  2) Material_3:
+       b-57b-4.bmp
+ (  3) ModB2:
+       B2 mod.bmp
+ (  4) 03 - Default:
+       Transparency enabled
+       Glass.tga
+ (  5) 13 - Default:
+       B2 mod.bmp
+ (  6) Material_1:
+       b-57b-5.bmp
+ (  7) text_5:
+       b-57b-5.bmp
+ (  8) text_4:
+       B-57B-4.bmp
+ (  9) Material_2:
+       b-57b-4.bmp
+ ( 10) fuel:
+       B-57B-TIP_TANK.BMP
+ ( 11) 19 - Default:
+       B2 pylons.bmp
+ ( 12) Material_8:
+       b-57b-3.bmp
+ ( 13) Material_0_002:
+       b-57b-1.bmp
+ ( 14) text_3:
+       b-57b-3.bmp
+ ( 15) Material_5:
+       b-57b-3.bmp
+ ( 16) text_2:
+       B-57B-2.bmp
+ ( 17) Material_4:
+       b-57b-5.bmp
+ ( 18) Material_7:
+       b-57b-5.bmp
+ ( 19) Material_10:
+       b-57b-2.bmp
+
+11 Textures:
+b-57b-1.bmp
+b-57b-4.bmp
+B2 mod.bmp
+Glass.tga
+b-57b-5.bmp
+B-57B-4.bmp
+B-57B-TIP_TANK.BMP
+B2 pylons.bmp
+b-57b-3.bmp
+B-57B-2.bmp
+b-57b-2.bmp
+
+Points
+
+Extents
