@@ -1,0 +1,97 @@
+	Fuselage (972 polys, 2916 verts) '03 - Default'
+		Glass (246 polys, 738 verts) '01 - Default'
+		Tail (309 polys, 927 verts) '03 - Default'
+			Elev_L (160 polys, 480 verts) '03 - Default'
+			Rudder (86 polys, 258 verts) '03 - Default'
+		LeftWing (654 polys, 1962 verts) '07 - Default'
+			Flap_L (18 polys, 54 verts) '07 - Default'
+			Aileron_L (50 polys, 150 verts) '07 - Default'
+			Object09 (22 polys, 66 verts) '13 - Default'
+			objdefault05 (22 polys, 66 verts) '08 - Default'
+			objdefault08 (300 polys, 900 verts) '08 - Default'
+				Tire_L (212 polys, 636 verts) '04 - Default'
+			LeftInPylon (20 polys, 60 verts) '07 - Default'
+			LeftOutPylon (20 polys, 60 verts) '07 - Default'
+		Nose (742 polys, 2226 verts) '03 - Default'
+			Object01 (80 polys, 240 verts) '08 - Default'
+			Object02 (6 polys, 18 verts) '08 - Default'
+			objdefault06 (176 polys, 528 verts) '08 - Default'
+				Tire_F (212 polys, 636 verts) '04 - Default'
+			Object04 (32 polys, 96 verts) '09 - Default'
+			Object03 (8 polys, 24 verts) '09 - Default'
+			Object06 (8 polys, 24 verts) '09 - Default'
+			objdefault09 (536 polys, 1608 verts) '13 - Default'
+		Fondo (188 polys, 564 verts) '08 - Default'
+		CockInside (202 polys, 606 verts) '13 - Default'
+		RightWing (592 polys, 1776 verts) '07 - Default'
+			Flap_R (18 polys, 54 verts) '07 - Default'
+			Aileron_R (50 polys, 150 verts) '07 - Default'
+			Object05 (22 polys, 66 verts) 'Material #11'
+			objdefault04 (22 polys, 66 verts) '08 - Default'
+			objdefault07 (300 polys, 900 verts) '08 - Default'
+				Tire_R (212 polys, 636 verts) '04 - Default'
+			RightOutPylon (20 polys, 60 verts) '07 - Default'
+			RightInPylon (20 polys, 60 verts) '07 - Default'
+		Canopy (1925 polys, 5775 verts) '08 - Default'
+			Object08 (4 polys, 12 verts) 'Material #23'
+		objdefault (2162 polys, 6486 verts) '14 - Default'
+		objdefault01 (1092 polys, 3276 verts) '15 - Default'
+			objdefault02 (44 polys, 132 verts) '19 - Default'
+		objdefault03 (12 polys, 36 verts) '20 - Default'
+		Canopy1 (988 polys, 2964 verts) 'Material #23'
+			Object07 (96 polys, 288 verts) '01 - Default'
+		Box01 (12 polys, 36 verts) '10 - Default'
+		Spinner (76 polys, 228 verts) '08 - Default'
+			Prop (488 polys, 1464 verts) '08 - Default'
+			FastProp (2 polys, 6 verts) '21 - Default'
+
+
+Num Nodes: 46
+Total:    (13438 polys, 40314 verts)
+Mesh Max: (2162 polys, 6486 verts)
+
+15 Materials:
+ (  1) 03 - Default:
+       jcfuselage.bmp
+ (  2) 01 - Default:
+       Transparency enabled
+       ClearCANOPYGLASS.TGA
+ (  3) 07 - Default:
+       jcwings.bmp
+ (  4) 13 - Default:
+       jccockpit.bmp
+ (  5) 08 - Default:
+       jcmisc.bmp
+ (  6) 04 - Default:
+       jcwheels.bmp
+ (  7) 09 - Default:
+       jccockpit.bmp
+ (  8) Material #11:
+       <No Texture>
+ (  9) Material #23:
+       <No Texture>
+ ( 10) 14 - Default:
+       jccockpit2.bmp
+ ( 11) 15 - Default:
+       jccockpit.bmp
+ ( 12) 19 - Default:
+       jcpanel.bmp
+ ( 13) 20 - Default:
+       jcpanel2.bmp
+ ( 14) 10 - Default:
+       <No Texture>
+ ( 15) 21 - Default:
+       Transparency enabled
+       rotor02.tga
+
+10 Textures:
+jcfuselage.bmp
+ClearCANOPYGLASS.TGA
+jcwings.bmp
+jccockpit.bmp
+jcmisc.bmp
+jcwheels.bmp
+jccockpit2.bmp
+jcpanel.bmp
+jcpanel2.bmp
+rotor02.tga

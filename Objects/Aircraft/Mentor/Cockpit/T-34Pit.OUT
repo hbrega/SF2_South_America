@@ -1,0 +1,164 @@
+	Fus (1542 polys, 4626 verts) '07 - Default'
+		objdefault06 (400 polys, 1200 verts) '07 - Default'
+		Rudder_Pedal_Right (170 polys, 510 verts) '07 - Default'
+		Rudder_Pedal_Left (170 polys, 510 verts) '07 - Default'
+		Object01 (16 polys, 48 verts) '01 - Default'
+		Glass (126 polys, 378 verts) 'Material #31'
+			objdefault (16 polys, 48 verts) '01 - Default'
+			objdefault01 (840 polys, 2520 verts) '02 - Default'
+				objdefault09 (152 polys, 456 verts) '07 - Default'
+					Left_Mirror (20 polys, 60 verts) '14 - Default'
+				objdefault08 (152 polys, 456 verts) '07 - Default'
+					Right_Mirror (20 polys, 60 verts) '14 - Default'
+			objdefault03 (2032 polys, 6096 verts) '08 - Default'
+			objdefault04 (3032 polys, 9096 verts) '02 - Default'
+			objdefault07 (44 polys, 132 verts) '09 - Default'
+			SideStickBase (224 polys, 672 verts) '03 - Default'
+				SideStick (470 polys, 1410 verts) '13 - Default'
+			GasLever (402 polys, 1206 verts) '13 - Default'
+			Object02 (12 polys, 36 verts) '04 - Default'
+				Volt (258 polys, 774 verts) '19 - Default'
+				perilla01 (238 polys, 714 verts) '19 - Default'
+				perilla (238 polys, 714 verts) '19 - Default'
+				Caja (186 polys, 558 verts) '19 - Default'
+					Cylinder01 (16 polys, 48 verts) '19 - Default'
+				circulo01 (1952 polys, 5856 verts) '19 - Default'
+					Cylinder02 (16 polys, 48 verts) '19 - Default'
+					Cylinder03 (16 polys, 48 verts) '19 - Default'
+					Cylinder04 (16 polys, 48 verts) '19 - Default'
+					Cylinder05 (16 polys, 48 verts) '19 - Default'
+					Cylinder06 (16 polys, 48 verts) '19 - Default'
+					Cylinder07 (16 polys, 48 verts) '19 - Default'
+					Cylinder09 (16 polys, 48 verts) '19 - Default'
+					Cylinder10 (16 polys, 48 verts) '19 - Default'
+					Cylinder11 (16 polys, 48 verts) '19 - Default'
+					Cylinder12 (16 polys, 48 verts) '19 - Default'
+					Cylinder13 (16 polys, 48 verts) '19 - Default'
+					Cylinder14 (16 polys, 48 verts) '19 - Default'
+					Cylinder15 (16 polys, 48 verts) '19 - Default'
+					Cylinder16 (16 polys, 48 verts) '21 - Default'
+					Cylinder17 (16 polys, 48 verts) '21 - Default'
+					COMPASSWHEEL (16 polys, 48 verts) '21 - Default'
+					Cylinder19 (16 polys, 48 verts) '21 - Default'
+					Cylinder20 (16 polys, 48 verts) '21 - Default'
+				perilla02 (238 polys, 714 verts) '19 - Default'
+				Sphere02 (112 polys, 336 verts) '20 - Default'
+				Sphere01 (112 polys, 336 verts) '20 - Default'
+				perilla03 (238 polys, 714 verts) '19 - Default'
+				perilla04 (238 polys, 714 verts) '19 - Default'
+				objdefault20 (390 polys, 1170 verts) '19 - Default'
+				Volt01 (244 polys, 732 verts) '19 - Default'
+				Caja01 (186 polys, 558 verts) '19 - Default'
+				Caja02 (186 polys, 558 verts) '19 - Default'
+				Caja03 (186 polys, 558 verts) '19 - Default'
+				Caja04 (186 polys, 558 verts) '19 - Default'
+				Caja05 (186 polys, 558 verts) '19 - Default'
+				Caja06 (186 polys, 558 verts) '19 - Default'
+					RMIWheel (16 polys, 48 verts) '21 - Default'
+						CourseArrow (2 polys, 6 verts) '10 - Default'
+						BearingMarker (2 polys, 6 verts) '10 - Default'
+				Caja07 (186 polys, 558 verts) '19 - Default'
+					HSIWheel (2 polys, 6 verts) '10 - Default'
+				Caja09 (186 polys, 558 verts) '19 - Default'
+					Ball (224 polys, 672 verts) '03 - Default'
+				Caja10 (186 polys, 558 verts) '19 - Default'
+					Needle_Speed (72 polys, 216 verts) '16 - Default'
+					needle_alt100 (72 polys, 216 verts) '16 - Default'
+					needle_alt1000 (72 polys, 216 verts) '16 - Default'
+					Needle_Flaps (72 polys, 216 verts) '16 - Default'
+					needle_AoA (72 polys, 216 verts) '16 - Default'
+					Needle_VSI (72 polys, 216 verts) '16 - Default'
+					Slipball (52 polys, 156 verts) '16 - Default'
+					needle_turn (20 polys, 60 verts) '16 - Default'
+					Needle_GMeter (72 polys, 216 verts) '16 - Default'
+					Needle_ITT (72 polys, 216 verts) '16 - Default'
+					needle_Torq (72 polys, 216 verts) '16 - Default'
+					Needle_FuelFlow (72 polys, 216 verts) '16 - Default'
+					Needle_PropRPM (72 polys, 216 verts) '16 - Default'
+					Needle_FuelL (72 polys, 216 verts) '16 - Default'
+					Needle_FuelR (72 polys, 216 verts) '16 - Default'
+					needle_RPM (72 polys, 216 verts) '16 - Default'
+					Needle_OIL (72 polys, 216 verts) '16 - Default'
+					Needle_FuelR02 (72 polys, 216 verts) '16 - Default'
+				perilla05 (238 polys, 714 verts) '19 - Default'
+				Caja11 (186 polys, 558 verts) '19 - Default'
+				Caja12 (186 polys, 558 verts) '19 - Default'
+				Box01 (12 polys, 36 verts) '21 - Default'
+				GearLights (360 polys, 1080 verts) 'ERROR: No material is assigned!'
+		Plane01 (2 polys, 6 verts) '19 - Default'
+		Plane02 (2 polys, 6 verts) '19 - Default'
+		Plane03 (2 polys, 6 verts) '19 - Default'
+		Plane04 (2 polys, 6 verts) '19 - Default'
+		Plane05 (2 polys, 6 verts) '19 - Default'
+		Plane06 (2 polys, 6 verts) '19 - Default'
+		Plane07 (2 polys, 6 verts) '19 - Default'
+		Plane08 (2 polys, 6 verts) '19 - Default'
+		Plane09 (2 polys, 6 verts) '19 - Default'
+		Plane10 (2 polys, 6 verts) '19 - Default'
+		Plane11 (2 polys, 6 verts) '19 - Default'
+		Plane12 (2 polys, 6 verts) '19 - Default'
+		Plane14 (2 polys, 6 verts) '21 - Default'
+		Plane15 (2 polys, 6 verts) '21 - Default'
+		objdefault02 (108 polys, 324 verts) '11 - Default'
+			Compass2 (72 polys, 216 verts) '03 - Default'
+		01 (2 polys, 6 verts) '21 - Default'
+		GearWarningLight (2 polys, 6 verts) '21 - Default'
+		FireWarningLight (2 polys, 6 verts) '21 - Default'
+		MasterCautionLight (2 polys, 6 verts) '21 - Default'
+
+
+Num Nodes: 107
+Total:    (18930 polys, 56790 verts)
+Mesh Max: (3032 polys, 9096 verts)
+
+16 Materials:
+ (  1) 07 - Default:
+       jccockpit.bmp
+ (  2) 01 - Default:
+       jcpanel.bmp
+ (  3) Material #31:
+       Transparency enabled
+       <No Texture>
+ (  4) 02 - Default:
+       <No Texture>
+ (  5) 14 - Default:
+       mirror.bmp
+ (  6) 08 - Default:
+       jccockpit2.bmp
+ (  7) 09 - Default:
+       Transparency enabled
+       ClearCANOPYGLASS.TGA
+ (  8) 03 - Default:
+       A-4B_ATTITUDE.BMP
+ (  9) 13 - Default:
+       stick.bmp
+ ( 10) 04 - Default:
+       Transparency enabled
+       Panel.tga
+ ( 11) 19 - Default:
+       Gauge1.bmp
+ ( 12) 21 - Default:
+       Gauge2.bmp
+ ( 13) 20 - Default:
+       <No Texture>
+ ( 14) 10 - Default:
+       Transparency enabled
+       Agujas.tga
+ ( 15) 16 - Default:
+       <No Texture>
+ ( 16) 11 - Default:
+       A10A_COMPASS.BMP
+
+12 Textures:
+jccockpit.bmp
+jcpanel.bmp
+mirror.bmp
+jccockpit2.bmp
+ClearCANOPYGLASS.TGA
+A-4B_ATTITUDE.BMP
+stick.bmp
+Panel.tga
+Gauge1.bmp
+Gauge2.bmp
+Agujas.tga
+A10A_COMPASS.BMP
