@@ -1,0 +1,17 @@
+	Pod (288 polys, 864 verts) '07 - Negro'
+		Cannon_Izq (192 polys, 576 verts) '04 - Default'
+
+
+Num Nodes: 2
+Total:    (480 polys, 1440 verts)
+Mesh Max: (288 polys, 864 verts)
+
+2 Materials:
+ (  1) 07 - Negro:
+       NEGRO.BMP
+ (  2) 04 - Default:
+       GRIS.BMP
+
+2 Textures:
+NEGRO.BMP
+GRIS.BMP

@@ -1,0 +1,22 @@
+	Cilindro (96 polys, 288 verts) '01 - Default'
+		Tapa_Delantera (574 polys, 1722 verts) '01 - Default'
+		Anclaje_01 (184 polys, 552 verts) '01 - Default'
+		Anclaje_02 (184 polys, 552 verts) '01 - Default'
+		Cilindro_01 (52 polys, 156 verts) '01 - Default'
+		Tapa_Trasera (236 polys, 708 verts) '01 - Default'
+		Frente_Tubos (956 polys, 2868 verts) '01 - Default'
+		Tapa_Trasera_Tubos (486 polys, 1458 verts) '01 - Default'
+		Tubos (416 polys, 1248 verts) '01 - Default'
+		Cilindro_02 (52 polys, 156 verts) '01 - Default'
+
+
+Num Nodes: 10
+Total:    (3236 polys, 9708 verts)
+Mesh Max: (956 polys, 2868 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       ALBATROS.BMP
+
+1 Textures:
+ALBATROS.BMP
