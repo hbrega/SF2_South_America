@@ -1,0 +1,18 @@
+	Body (416 polys, 1248 verts) '08 - Default'
+		Head (410 polys, 1230 verts) '08 - Default'
+			Visor02 (16 polys, 48 verts) '08 - Default'
+			Cylinder01 (92 polys, 276 verts) '08 - Default'
+			Cylinder02 (92 polys, 276 verts) '08 - Default'
+		Fur (84 polys, 252 verts) '08 - Default'
+
+
+Num Nodes: 6
+Total:    (1110 polys, 3330 verts)
+Mesh Max: (416 polys, 1248 verts)
+
+1 Materials:
+ (  1) 08 - Default:
+       Pil_kawn.bmp
+
+1 Textures:
+Pil_kawn.bmp

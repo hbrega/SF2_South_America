@@ -1,0 +1,30 @@
+	Body (416 polys, 1248 verts) '08 - Default'
+		Tab (28 polys, 84 verts) '07 - Default'
+		Head (410 polys, 1230 verts) '08 - Default'
+			Visor1 (8 polys, 24 verts) '02 - Default'
+			Cylinder01 (92 polys, 276 verts) '08 - Default'
+			Cylinder02 (92 polys, 276 verts) '08 - Default'
+			aviator (2 polys, 6 verts) '04 - Default'
+		Fur (84 polys, 252 verts) '08 - Default'
+
+
+Num Nodes: 8
+Total:    (1132 polys, 3396 verts)
+Mesh Max: (416 polys, 1248 verts)
+
+4 Materials:
+ (  1) 08 - Default:
+       Pil_kawn.bmp
+ (  2) 07 - Default:
+       tab.tga
+ (  3) 02 - Default:
+       Pil_kawb.bmp
+ (  4) 04 - Default:
+       Transparency enabled
+       aviator.tga
+
+4 Textures:
+Pil_kawn.bmp
+tab.tga
+Pil_kawb.bmp
+aviator.tga

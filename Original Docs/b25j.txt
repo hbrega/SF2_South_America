@@ -1,0 +1,91 @@
+SF2 WW2 PTO B-25J Mitchell Bomber Pak by Veltro2K		7/20/2014
+
+ -- Something for the WW2 PTO players --
+
+= For SF2 ONLY, Full-5 Merged (Reccomended/Preferred) =
+
+**Note: This mod references the stock destroyed Il-28. Also, due to modifications to various inis, this mod will probably -NOT- work in 1stGen game installs at any patch level. This has not/cannot be tested by me.**
+
+This is a "Theatre Specific" release of Veltro2K's =NEW= B-25J Mitchell Medium Bomber. This represents the "glass nosed" bomber version as used in the PTO.  
+
+There are 2 skin/decals set(s) in the package:
+
+501st BS "Black Panthers", 345th BG (Air Apaches), 5th AF
+as used in the SoWesPac, Phillipines, Formosa, East China Coast, and points North from early 1944 through the Wars's End.
+
+and
+
+75th BS, 42nd BG (Crusaders), 13th AF
+as used in the SoWesPac, Borneo, Indochina, Formosa, East China Coast, and points North from early 1944 through the Wars's End.
+
+The skins are in jpg format, and both skins are in standard OD/Grey.
+All markings are decals, and Decal Randomization is TRUE. There is one nose art, on the 75th BS skin. If others find more and better references, for either squadron, please pass them on to me so those can be represented as well
+
+Engine sounds, pilot figures, and skin-specific Hangar Screens are included. Weapons, guns, bombs, etc, are NOT; you should have them already.  Operational service dates are rounded to 'whole months', and ARE relatively correct for ALL in-theatre usages.
+
+When in game, you'll see
+
+B-25J Mitchell (Bomber) (v2k)
+
+on the Aircraft Selection Drop down menu. This will differentiate it from any other B-25s you may (or may not) have. As this aircraft makes use of the Invader cockpit, it has an operational bombadier station. Included in the PDF giving instructions on "how to use the bombsight". I'd reccomend not only reading it, but practicing it's use on The Range terrain.
+
+As always, fairly easy to follow, yet detailed install instructions are included. PLEASE read them!!!  
+
+Happy Landings!! 
+Wrench
+Kevin Stein
+
+------------------------------------------------
+
+=TO INSTALL:
+
+As I always reccomend, unzip the "sf2_ww2_pto_b25j-bomber_pak.zip" to a temp folder or your desktop or somewhere else that's easy to find
+
+Then, simply, copy/paste the Objects folder supplied directly =OVER= your existing /Objects folder in your WW2 PTO-centric Mods Folder.
+
+Copy/Paste the supplied Sounds folder directly OVER your existing /Sounds folder
+ 
+You'll probably be asked "OVERWRITE?", just say Yes. 
+
+I've already seperated out the various folders (Aircraft, Decals, etc), so they'll drop right where they're supposed to be.
+
+----------------------------
+Notes:
+
+other skins, for use in MTO and CBI are currently under construction
+
+---------------------------
+
+Credits:
+
+Veltro2K for the aircraft
+gregoryp for the AvHistory engine sound
+Kesselbrut for the cockpit (liberated from the A-26B)
+Bobrock from the tail gunner figure (also liberated from the Invader)
+Me, ini working, and skins, decals and screens and whatnots; including many hours of research
+Others I may be forgetting....
+
+Sources:
+
+a whole fuckload of books, web sites, and buttloads of hours sitting staring cross-eyed at the screen, when my right eye was working. Yes, even after the lasic procedure, I'm still having MAJOR issues with it.
+
+I just wish there was an Osprey "Combat Units" book for PTO/CBI B-25s. Would've made my life ssoooooo MUCH easier!!
+
+---------------------------------------------------------------------------------
+If you have any problems, questions, comments, I can be reached in the usual places; CombatAce, SimHQ, the usual p0rn site...etc
+
+Happy Hunting!
+Wrench
+Kevin Stein
+
+--------------------------------------------
+Legal BS:
+This is freeware.... 
+The names of all contributors, modders, suppliers, etc =MUST= be listed in any new readmes.
+This package may NOT in any way, shape or form be used in any payware additions. 
+Bribes are accepted; ask for the day's going rates...
+
+-------------------------------------------
+
+
+
