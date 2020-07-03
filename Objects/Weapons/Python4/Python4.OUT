@@ -1,0 +1,132 @@
+	Python-4_Body [336 polys, 225 verts] 'Python-3 Paint'
+		Guide_Bracket01 [1424 polys, 1596 verts] 'Python-3 Metal'
+			Braket_Bolt [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Guide_Block02 [96 polys, 116 verts] 'Python-3 Paint'
+			Braket_Bolt01 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt02 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt03 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt04 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt05 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt06 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt07 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt08 [250 polys, 222 verts] 'Python-3 Semi-Close'
+			Braket_Bolt09 [250 polys, 222 verts] 'Python-3 Semi-Close'
+		Body_Ring1 [288 polys, 200 verts] 'Python-3 Paint'
+		Body_Ring02 [288 polys, 200 verts] 'Python-3 Paint'
+		Fin_01 [163 polys, 150 verts] 'Python-3_1 Paint'
+		Python-3_Nose [144 polys, 125 verts] 'Material #11'
+			Conector [76 polys, 86 verts] 'Python-3 Paint'
+			Glass [360 polys, 193 verts] '24 - Default'
+			Seeker_Bay [70 polys, 72 verts] 'Python-3 Paint'
+				Seeker_Assembly [46 polys, 48 verts] 'Python-3 Paint'
+					Seeker_Head [148 polys, 150 verts] 'Python-3 Paint'
+						Seeker [268 polys, 180 verts] 'Python-3 Metal'
+						Seeker_Head01 [180 polys, 120 verts] 'Python-3 Paint'
+					Seeker_Rubber [402 polys, 426 verts] 'Python-3 Matt'
+					Seeker_Hinge [260 polys, 284 verts] 'Python-3 Paint'
+						Seeker_Assembly01 [46 polys, 48 verts] 'Python-3 Paint'
+						Seeker_Hinge01 [304 polys, 312 verts] 'Python-3 Paint'
+					Dose [638 polys, 476 verts] 'Python-3 Paint'
+					Seeker_Head02 [664 polys, 666 verts] 'Python-3 Paint'
+					Seeker_Head03 [26 polys, 30 verts] 'Python-3 Paint'
+		Fin_05 [162 polys, 124 verts] 'Python-3_1 Paint'
+		Fin_02 [163 polys, 150 verts] 'Python-3_1 Paint'
+		Fin_03 [163 polys, 150 verts] 'Python-3_1 Paint'
+		Fin_04 [163 polys, 150 verts] 'Python-3_1 Paint'
+		Fin_06 [162 polys, 124 verts] 'Python-3_1 Paint'
+		Fin_07 [162 polys, 124 verts] 'Python-3_1 Paint'
+		Fin_08 [162 polys, 124 verts] 'Python-3_1 Paint'
+		Body_Ring03 [288 polys, 200 verts] 'Python-3 Paint'
+		Body_Ring04 [288 polys, 200 verts] 'Python-3 Paint'
+		Body_Ring05 [288 polys, 200 verts] 'Python-3 Paint'
+		Body_Ring06 [288 polys, 200 verts] 'Python-3 Paint'
+		Guide_Block03 [98 polys, 178 verts] 'Python-3 Paint'
+		Braket10 [158 polys, 195 verts] 'Python-3 Paint'
+			Screw10 [268 polys, 309 verts] 'Python-3 Semi-Close'
+		Braket09 [158 polys, 195 verts] 'Python-3 Paint'
+			Screw09 [268 polys, 309 verts] 'Python-3 Semi-Close'
+		Braket03 [158 polys, 195 verts] 'Python-3 Paint'
+			Screw03 [268 polys, 309 verts] 'Python-3 Semi-Close'
+		Braket02 [158 polys, 195 verts] 'Python-3 Paint'
+			Screw02 [268 polys, 309 verts] 'Python-3 Semi-Close'
+		Braket04 [158 polys, 195 verts] 'Python-3 Paint'
+			Screw04 [268 polys, 309 verts] 'Python-3 Semi-Close'
+		Braket08 [158 polys, 195 verts] 'Python-3 Paint'
+			Screw08 [268 polys, 309 verts] 'Python-3 Semi-Close'
+		Braket06 [158 polys, 195 verts] 'Python-3 Paint'
+			Screw06 [268 polys, 309 verts] 'Python-3 Semi-Close'
+		Braket01 [158 polys, 195 verts] 'Python-3 Paint'
+			Screw01 [268 polys, 309 verts] 'Python-3 Semi-Close'
+		Braket05 [158 polys, 195 verts] 'Python-3 Paint'
+			Screw05 [268 polys, 309 verts] 'Python-3 Semi-Close'
+		Braket07 [158 polys, 195 verts] 'Python-3 Paint'
+			Screw07 [268 polys, 309 verts] 'Python-3 Semi-Close'
+		Winglet01 [78 polys, 107 verts] 'Python-3_1 Paint'
+		TailWing01 [152 polys, 146 verts] 'Python-3_1 Paint'
+			TailWing01_Ext [98 polys, 101 verts] 'Python-3_1 Paint'
+		Body_Ring07 [288 polys, 200 verts] 'Python-3 Paint'
+		Tail_Assemnly [96 polys, 75 verts] 'Python-3 Paint'
+			Rocket_Bay [144 polys, 123 verts] 'Python-3 Paint'
+				Nozzle_Outer [96 polys, 96 verts] 'Python-3 Semi-Close'
+					Nozzle_Inner [262 polys, 168 verts] 'Python-3 Matt'
+		Spoiler_Right [91 polys, 96 verts] 'Python-3_1 Paint'
+			Spoiler_Bolt01 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Spoiler_Bolt02 [82 polys, 72 verts] 'Python-3 Semi-Close'
+		Spoiler_Right01 [91 polys, 96 verts] 'Python-3_1 Paint'
+			Spoiler_Bolt03 [82 polys, 72 verts] 'Python-3 Semi-Close'
+			Spoiler_Bolt04 [82 polys, 72 verts] 'Python-3 Semi-Close'
+		Cover [428 polys, 288 verts] 'Python-3_1 Paint', AnimationID: 1 
+			Cover_Clamp [212 polys, 232 verts] 'Python-3_1 Metal'
+		Arming_Pin [52 polys, 54 verts] 'Python-3 Semi-Close'
+		Winglet02 [78 polys, 107 verts] 'Python-3_1 Paint'
+		Winglet03 [78 polys, 107 verts] 'Python-3_1 Paint'
+		Winglet04 [78 polys, 107 verts] 'Python-3_1 Paint'
+		TailWing02 [152 polys, 146 verts] 'Python-3_1 Paint'
+			TailWing02_Ext [98 polys, 101 verts] 'Python-3_1 Paint'
+		TailWing03 [152 polys, 146 verts] 'Python-3_1 Paint'
+			TailWing03_Ext [98 polys, 101 verts] 'Python-3_1 Paint'
+		TailWing04 [152 polys, 146 verts] 'Python-3_1 Paint'
+			TailWing04_Ext [98 polys, 101 verts] 'Python-3_1 Paint'
+
+
+Num Nodes: 89
+Total:    (18774 polys, 18019 verts)
+Mesh Max: (1424 polys, 1596 verts)
+
+8 Materials:
+ (  1) Python-3 Paint:
+       Specular=0.25, Glossiness=0.10, Color:<229,229,229>
+       Python-4.jpg
+ (  2) Python-3 Metal:
+       Specular=0.60, Glossiness=0.40, Color:<229,229,229>
+       Reflection=0.10
+       Python-4.jpg
+ (  3) Python-3 Semi-Close:
+       Specular=0.40, Glossiness=0.30, Color:<229,229,229>
+       Python-4.jpg
+ (  4) Python-3_1 Paint:
+       Specular=0.25, Glossiness=0.10, Color:<229,229,229>
+       Python-4_1.jpg
+ (  5) Material #11:
+       <No Texture>
+ (  6) 24 - Default:
+       Transparency enabled
+       Specular=1.50, Glossiness=0.70, Color:<229,229,229>
+       Reflection=0.30
+       SensorGlas.TGA
+ (  7) Python-3 Matt:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       Python-4.jpg
+ (  8) Python-3_1 Metal:
+       Specular=0.60, Glossiness=0.40, Color:<229,229,229>
+       Reflection=0.10
+       Python-4_1.jpg
+
+3 Textures:
+Python-4.jpg
+Python-4_1.jpg
+SensorGlas.TGA
+
+Points
+
+Extents

@@ -1,0 +1,126 @@
+	Python-3_Body [336 polys, 350 verts] 'Python-3 Paint'
+		Ring1 [684 polys, 763 verts] 'Python-3 Paint'
+			Screw [226 polys, 207 verts] 'Python-3 Semi-Close'
+			Screw01 [226 polys, 207 verts] 'Python-3 Semi-Close'
+			Screw02 [226 polys, 207 verts] 'Python-3 Semi-Close'
+			Screw03 [226 polys, 207 verts] 'Python-3 Semi-Close'
+		Ring02 [684 polys, 763 verts] 'Python-3 Paint'
+			Screw04 [226 polys, 207 verts] 'Python-3 Semi-Close'
+			Screw05 [226 polys, 207 verts] 'Python-3 Semi-Close'
+			Screw07 [226 polys, 207 verts] 'Python-3 Semi-Close'
+			Screw06 [226 polys, 207 verts] 'Python-3 Semi-Close'
+		Guide_Bracket02 [876 polys, 942 verts] 'Python-3 Paint'
+			Braket_Bolt06 [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt07 [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt08 [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt09 [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt10 [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt11 [250 polys, 222 verts] 'Python-3 Paint'
+			Guide_Block01 [36 polys, 64 verts] 'Python-3 Paint'
+		Guide_Bracket01 [900 polys, 962 verts] 'Python-3 Paint'
+			Braket_Bolt [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt01 [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt02 [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt03 [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt04 [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt05 [250 polys, 222 verts] 'Python-3 Paint'
+			Guide_Block02 [96 polys, 114 verts] 'Python-3 Paint'
+		Guide_Bracket03 [752 polys, 758 verts] 'Python-3 Paint'
+			Braket_Bolt12 [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt14 [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt15 [250 polys, 222 verts] 'Python-3 Paint'
+			Braket_Bolt16 [250 polys, 222 verts] 'Python-3 Paint'
+			Guide_Block03 [36 polys, 64 verts] 'Python-3 Paint'
+		Body_Ring1 [288 polys, 200 verts] 'Python-3 Paint'
+		Body_Ring02 [288 polys, 200 verts] 'Python-3 Paint'
+		Wing_01 [100 polys, 146 verts] 'Python-3_1 Paint'
+			Rolleron_Assembly [124 polys, 159 verts] 'Python-3_1 Paint'
+				Rolleron_Assembly_Bolt01 [70 polys, 72 verts] 'Python-3_1 Paint'
+				Rolleron_Cover01 [904 polys, 623 verts] 'Python-3_1 Metal'
+				Rolleron01 [168 polys, 239 verts] 'Python-3_1 Semi-Close'
+				Rolleron_Assembly_Hinge01 [68 polys, 81 verts] 'Python-3_1 Paint'
+			Wing_Base01 [10 polys, 20 verts] 'Python-3_1 Paint'
+		Fin_02 [58 polys, 72 verts] 'Python-3_1 Paint'
+			Fin_Mount02 [284 polys, 192 verts] 'Python-3_1 Metal'
+		Fin_01 [58 polys, 70 verts] 'Python-3_1 Paint'
+			Fin_Mount01 [284 polys, 192 verts] 'Python-3_1 Metal'
+		Fin_04 [58 polys, 78 verts] 'Python-3_1 Paint'
+			Fin_Mount04 [284 polys, 192 verts] 'Python-3_1 Metal'
+		Fin_03 [58 polys, 72 verts] 'Python-3_1 Paint'
+			Fin_Mount03 [284 polys, 192 verts] 'Python-3_1 Metal'
+		Python-3_Nose [192 polys, 150 verts] 'Python-3 Paint'
+			Conector [76 polys, 86 verts] 'Python-3 Paint'
+			Nozzle_Outer [96 polys, 96 verts] 'Python-3 Semi-Close'
+				Nozzle_Inner [262 polys, 168 verts] 'Python-3 Matt'
+			IR-Sensor_Bay [96 polys, 96 verts] 'Python-3 Matt'
+				Sensor [642 polys, 480 verts] 'Python-3 Matt'
+				Reflector [240 polys, 144 verts] 'Python-3 Metal'
+			Glass [264 polys, 145 verts] '24 - Default'
+		Rocket_Bay [144 polys, 211 verts] 'Python-3 Paint'
+		Wing_02 [100 polys, 146 verts] 'Python-3_1 Paint'
+			Rolleron_Assembly01 [124 polys, 159 verts] 'Python-3_1 Paint'
+				Rolleron_Assembly_Bolt02 [70 polys, 72 verts] 'Python-3_1 Paint'
+				Rolleron_Cover02 [904 polys, 623 verts] 'Python-3_1 Metal'
+				Rolleron02 [168 polys, 239 verts] 'Python-3_1 Semi-Close'
+				Rolleron_Assembly_Hinge02 [68 polys, 81 verts] 'Python-3_1 Paint'
+			Wing_Base02 [10 polys, 20 verts] 'Python-3_1 Paint'
+		Wing_03 [100 polys, 146 verts] 'Python-3_1 Paint'
+			Wing_Base03 [10 polys, 20 verts] 'Python-3_1 Paint'
+			Rolleron_Assembly02 [124 polys, 159 verts] 'Python-3_1 Paint'
+				Rolleron_Cover03 [904 polys, 624 verts] 'Python-3_1 Metal'
+				Rolleron_Assembly_Hinge03 [68 polys, 81 verts] 'Python-3_1 Paint'
+				Rolleron03 [168 polys, 239 verts] 'Python-3_1 Semi-Close'
+				Rolleron_Assembly_Bolt03 [70 polys, 72 verts] 'Python-3_1 Paint'
+		Wing_04 [100 polys, 146 verts] 'Python-3_1 Paint'
+			Wing_Base04 [10 polys, 20 verts] 'Python-3_1 Paint'
+			Rolleron_Assembly03 [124 polys, 159 verts] 'Python-3_1 Paint'
+				Rolleron_Assembly_Hinge04 [68 polys, 81 verts] 'Python-3_1 Paint'
+				Rolleron_Cover04 [904 polys, 624 verts] 'Python-3_1 Metal'
+				Rolleron04 [168 polys, 239 verts] 'Python-3_1 Semi-Close'
+				Rolleron_Assembly_Bolt04 [70 polys, 72 verts] 'Python-3_1 Paint'
+		Body_Ring03 [288 polys, 200 verts] 'Python-3 Paint'
+		Body_Ring04 [192 polys, 150 verts] 'Python-3 Paint'
+
+
+Num Nodes: 82
+Total:    (20420 polys, 18736 verts)
+Mesh Max: (904 polys, 962 verts)
+
+8 Materials:
+ (  1) Python-3 Paint:
+       Specular=0.25, Glossiness=0.10, Color:<229,229,229>
+       Python-3.jpg
+ (  2) Python-3 Semi-Close:
+       Specular=0.40, Glossiness=0.30, Color:<229,229,229>
+       Python-3.jpg
+ (  3) Python-3_1 Paint:
+       Specular=0.25, Glossiness=0.10, Color:<229,229,229>
+       Python-3_1.jpg
+ (  4) Python-3_1 Metal:
+       Specular=0.60, Glossiness=0.40, Color:<229,229,229>
+       Reflection=0.10
+       Python-3_1.jpg
+ (  5) Python-3_1 Semi-Close:
+       Specular=0.40, Glossiness=0.30, Color:<229,229,229>
+       Python-3_1.jpg
+ (  6) Python-3 Matt:
+       Specular=0.00, Glossiness=0.00, Color:<0,0,0>
+       Python-3.jpg
+ (  7) Python-3 Metal:
+       Specular=0.60, Glossiness=0.40, Color:<229,229,229>
+       Reflection=0.10
+       Python-3.jpg
+ (  8) 24 - Default:
+       Transparency enabled
+       Specular=1.50, Glossiness=0.70, Color:<229,229,229>
+       Reflection=0.30
+       SensorGlas.TGA
+
+3 Textures:
+Python-3.jpg
+Python-3_1.jpg
+SensorGlas.TGA
+
+Points
+
+Extents
