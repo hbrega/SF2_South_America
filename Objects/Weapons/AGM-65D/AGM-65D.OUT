@@ -1,0 +1,60 @@
+	Body [638 polys, 540 verts] '01 - Default'
+		Rudder01 [424 polys, 454 verts] '01 - Default'
+		Rudder02 [424 polys, 454 verts] '01 - Default'
+		Rudder03 [424 polys, 454 verts] '01 - Default'
+		Rudder04 [424 polys, 454 verts] '01 - Default'
+		Wing01 [108 polys, 106 verts] '01 - Default'
+		Launch_Rail [370 polys, 404 verts] '01 - Default'
+		Nose_inner [358 polys, 216 verts] '07 - Default'
+		Cover [248 polys, 193 verts] '01 - Default'
+		Nose_Seal [576 polys, 352 verts] '01 - Default'
+		Connector [204 polys, 256 verts] '01 - Default'
+			Connector01 [140 polys, 152 verts] '01 - Default'
+		Tail_Ring [208 polys, 216 verts] '01 - Default'
+		Exhaust [306 polys, 312 verts] '01 - Default'
+		Bracket [28 polys, 48 verts] '01 - Default'
+		Actuator [1744 polys, 1540 verts] '01 - Default'
+		Bolt [720 polys, 786 verts] '01 - Default'
+		Relaise [116 polys, 120 verts] '02 - Default'
+		Actuator_02 [116 polys, 166 verts] '01 - Default'
+		Cover [68 polys, 72 verts] '01 - Default', AnimationID: 1 
+		Stecker [272 polys, 304 verts] '02 - Default'
+			Bracket01 [112 polys, 156 verts] '01 - Default'
+			Kabel_W [336 polys, 212 verts] '01 - Default'
+			Kabel_S [264 polys, 164 verts] '01 - Default'
+		Wing02 [108 polys, 106 verts] '01 - Default'
+		Wing03 [108 polys, 106 verts] '01 - Default'
+		Wing04 [108 polys, 106 verts] '01 - Default'
+		Launch_Rail_Front [276 polys, 330 verts] '01 - Default'
+		Seeker_Housing [284 polys, 264 verts] '01 - Default'
+		Nose [358 polys, 255 verts] '08 - Default'
+
+
+Num Nodes: 30
+Total:    (9870 polys, 9298 verts)
+Mesh Max: (1744 polys, 1540 verts)
+
+4 Materials:
+ (  1) 01 - Default:
+       Specular=0.35, Glossiness=0.20, Color:<229,229,229>
+       AGM-65D.bmp
+ (  2) 07 - Default:
+       Specular=0.80, Glossiness=0.65, Color:<229,229,229>
+       IR_Seeker.bmp
+ (  3) 02 - Default:
+       Specular=0.60, Glossiness=0.45, Color:<229,229,229>
+       AGM-65D.bmp
+ (  4) 08 - Default:
+       Transparency enabled
+       Specular=1.00, Glossiness=0.70, Color:<229,229,229>
+       Reflection=0.50
+       CANOPYGLASS_BEIGE.tga
+
+3 Textures:
+AGM-65D.bmp
+IR_Seeker.bmp
+CANOPYGLASS_BEIGE.tga
+
+Points
+
+Extents
