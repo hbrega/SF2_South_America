@@ -1,0 +1,29 @@
+	Body (1764 polys, 5292 verts) '01 - Default'
+	Fwd_Fin (12 polys, 36 verts) '01 - Default'
+	Main_Fin (12 polys, 36 verts) '01 - Default'
+	Seeker_Fin (12 polys, 36 verts) '01 - Default'
+	Fwd_Fin01 (12 polys, 36 verts) '01 - Default'
+	Fwd_Fin02 (12 polys, 36 verts) '01 - Default'
+	Fwd_Fin03 (12 polys, 36 verts) '01 - Default'
+	Main_Fin01 (12 polys, 36 verts) '01 - Default'
+	Main_Fin02 (12 polys, 36 verts) '01 - Default'
+	Main_Fin03 (12 polys, 36 verts) '01 - Default'
+	Seeker_Fin01 (12 polys, 36 verts) '01 - Default'
+	Seeker_Fin02 (12 polys, 36 verts) '01 - Default'
+	Seeker_Fin03 (12 polys, 36 verts) '01 - Default'
+	Seeker_Fin04 (12 polys, 36 verts) '01 - Default'
+	Seeker_Fin05 (12 polys, 36 verts) '01 - Default'
+	Seeker_Fin06 (12 polys, 36 verts) '01 - Default'
+	Seeker_Fin07 (12 polys, 36 verts) '01 - Default'
+
+
+Num Nodes: 17
+Total:    (1956 polys, 5868 verts)
+Mesh Max: (1764 polys, 5292 verts)
+
+1 Materials:
+ (  1) 01 - Default:
+       745_LGB.bmp
+
+1 Textures:
+745_LGB.bmp

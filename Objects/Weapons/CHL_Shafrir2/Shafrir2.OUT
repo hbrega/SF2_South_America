@@ -1,0 +1,29 @@
+	Cylinder01 [260 polys, 180 verts] '02 - Default'
+		Cylinder02 [84 polys, 90 verts] '05 - Default'
+		Box02 [132 polys, 142 verts] '02 - Default'
+		Box04 [132 polys, 142 verts] '02 - Default'
+		Cylinder03 [84 polys, 90 verts] '05 - Default'
+		Box03 [80 polys, 100 verts] '02 - Default'
+		Cylinder04 [84 polys, 90 verts] '05 - Default'
+		Box05 [80 polys, 100 verts] '02 - Default'
+		Box06 [132 polys, 142 verts] '02 - Default'
+		Cylinder05 [84 polys, 90 verts] '05 - Default'
+		Box07 [132 polys, 142 verts] '02 - Default'
+
+
+Num Nodes: 11
+Total:    (1284 polys, 1308 verts)
+Mesh Max: (260 polys, 180 verts)
+
+2 Materials:
+ (  1) 02 - Default:
+       AR_Shafrir_II.bmp
+ (  2) 05 - Default:
+       <No Texture>
+
+1 Textures:
+AR_Shafrir_II.bmp
+
+Points
+
+Extents
