@@ -82,23 +82,11 @@ JAS 39C-B Gripen
 
 JAS 39D-B Gripen
 
-Mirage M5M Elkan
-
-Mirage M5MD Elkan
-
-Mirage 5R Elkan
-
 Mirage 50C
-
-Mirage 50CN
 
 Mirage 50DC
 
-Mirage 50 DCM
-
 Mirage 50FC
-
-Mirage 50 Pantera
 
 Super Etendard
 
@@ -189,6 +177,16 @@ Turbo Mentor
 Canberra Pelicano
 
 B-25j Fuerza Aerea Uruguaya
+
+AMD Mirage V BR Elkan
+
+AMD Mirage V MA Elkan
+
+AMD Mirage V MD Elkan 
+
+ENAER Mirage 50CN Pantera
+
+ENAER Mirage 50DCM Pantera
 
 
 #Objects
